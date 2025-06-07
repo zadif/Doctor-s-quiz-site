@@ -191,6 +191,11 @@ app.get("/additional-quizzes", async (req, res) => {
   });
 });
 
+
+app.get("/health", (req, res) => {
+  res.status(200).send("OK");
+});
+
 app.listen(port, () => {
   console.log(`Quiz app listening at http://localhost:${port}`);
 });
