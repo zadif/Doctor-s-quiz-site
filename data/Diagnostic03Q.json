@@ -1,0 +1,577 @@
+[
+  {
+    "question": "A 75-year-old man who is a retired auto mechanic undergoes a partial colectomy for the removal of a cancerous polyp in his colon. The patient dies shortly after admission because of complications from the surgery. At autopsy, numerous black linear streaks in the lungs and black discoloration of mediastinal lymph nodes are found. Which of the following is the most likely cause of this discoloration?",
+    "options": [
+      "A. Calcium",
+      "B. Carbon",
+      "C. Iron",
+      "D. Lipofuscin",
+      "E. Melanin"
+    ],
+    "answer": "B",
+    "explanation": "The black pigment is carbon, which is commonly inhaled in polluted cities and can spread from the lungs to the mediastinal nodes. The pigment appears black on both gross and microscopic examination. The same findings can be seen among individuals who smoked during their lives. Calcium (choice A) deposits are typically white on gross examination and dark purple in hematoxylin and eosin stained slides. Calcium can sometimes be seen in areas of necrosis or in arteries with atherosclerosis. Iron (choice C) deposits cause brownish discoloration on gross examination and form golden-brown pigment on microscopic examination. They can be found in areas of old hemorrhage and in many tissues in patients who have hemochromatosis. Lipofuscin (choice D) is the 'pigment of aging' that causes yellow-brown granular deposits in organs such as liver and heart. Melanin (choice E) is a pigment that appears brown to black on gross examination and causes dark granular pigmentation microscopically. It is found in skin, nevi, melanomas, and a few scattered sites in the body."
+  },
+  {
+    "question": "A 66-year-old man comes to the physician for a routine examination. Laboratory studies show a blood cholesterol level of 295 mg/dL. Treatment with simvastatin is begun. Which of the following labeled lines on the Lineweaver-Burke plot best represents the effects of this drug on its target enzyme? [Image shows Lineweaver-Burke plot with Control line and lines A, B, C, D]",
+    "options": ["A. A", "B. B", "C. C", "D. D"],
+    "answer": "A",
+    "explanation": "Simvastatin is a competitive inhibitor of HMG-CoA reductase. A competitive inhibitor competes directly with the normal substrate for an enzyme's substrate-binding site. Increasing the concentration of substrate can eventually overcome the inhibition, at which point Vmax can be reached. On a Lineweaver-Burke plot (1/V vs 1/[S]), a competitive inhibitor increases the apparent Km but does not change Vmax. This means the x-intercept (-1/Km) moves closer to zero (Km increases), and the y-intercept (1/Vmax) remains the same. Line A shows the same y-intercept as the control but a less negative x-intercept, consistent with competitive inhibition. Line B shows the same x-intercept but a higher y-intercept (decreased Vmax), characteristic of noncompetitive inhibition. Line C shows decreased Km and increased Vmax (activator or different kinetics). Line D shows increased Vmax with the same Km (more enzyme or certain activators)."
+  },
+  {
+    "question": "A 30-year-old primigravid woman delivers a healthy male newborn at term. Several minutes later she delivers the placenta. As part of a research study, placental tissue is harvested and genetic rearrangements in the fetal portion of the placenta are studied. Which of the following is most likely derived from fetal tissue and could therefore be used in the study?",
+    "options": [
+      "A. Blood cells in the intervillous spaces",
+      "B. Chorionic plate",
+      "C. Decidua basalis",
+      "D. Myometrium",
+      "E. Placental septae"
+    ],
+    "answer": "B",
+    "explanation": "The placenta contains a mix of tissues derived from maternal and fetal sources. Components of the placenta and fetal sac that are made by the fetus include the amnion, the chorion, the chorionic plate, the chorionic villi, and the blood cells in the chorionic villi vessels. Parts of the placenta that are made by the mother include the blood cells in the intervillous spaces (choice A), the decidua basalis (choice C), where the placenta adheres to the uterus, and the placental septae (choice E), which project upward from the decidua basalis into the disc and help to support it. The uterine myometrium (choice D) is not technically part of the placenta, but it is also made by the mother."
+  },
+  {
+    "question": "A 26-year-old woman comes to the physician because of headaches and dizziness. An MRI scan of the head shows an anterior pituitary tumor. The patient undergoes surgical resection of the tumor. If hormone replacement is not instituted after surgery, which of the following is most likely to occur?",
+    "options": [
+      "A. Inability to breastfeed",
+      "B. Inability to increase sodium reabsorption in the kidney",
+      "C. Inability to secrete catecholamines in response to stress",
+      "D. Inability to secrete insulin in response to a meal",
+      "E. Increase in body temperature"
+    ],
+    "answer": "A",
+    "explanation": "Surgical ablation of the anterior pituitary (hypophysectomy) results in the loss of all anterior pituitary hormones: GH, TSH, ACTH, FSH, LH, and prolactin (panhypopituitarism). Prolactin is essential for milk production (lactation). Therefore, loss of prolactin secretion due to anterior pituitary removal would result in the inability to breastfeed. Aldosterone, which increases sodium reabsorption (choice B), is primarily regulated by the renin-angiotensin system and potassium levels, not ACTH (though ACTH has a minor permissive effect). Catecholamine secretion (choice C) from the adrenal medulla is controlled by the sympathetic nervous system, not the pituitary. Insulin secretion (choice D) is primarily regulated by blood glucose levels. Loss of TSH leads to secondary hypothyroidism, which typically causes decreased body temperature (hypothermia), not an increase (choice E)."
+  },
+  {
+    "question": "A 17-year-old girl is brought to the emergency department after falling out of her chair and losing consciousness. Once on the floor, her muscles stiffened and she began shaking violently for 2 minutes. When she regained consciousness, she was confused and she did not remember the event. Electroencephalography shows low-voltage, fast (10 Hz) neuronal activity, which gradually converts to slower, larger, sharper waves throughout both hemispheres. Which of the following is the most appropriate initial pharmacotherapy?",
+    "options": [
+      "A. Clonazepam",
+      "B. Diazepam",
+      "C. Ethosuximide",
+      "D. Gabapentin",
+      "E. Phenytoin"
+    ],
+    "answer": "E",
+    "explanation": "The patient experienced a generalized tonic-clonic (grand mal) seizure, characterized by loss of consciousness, tonic stiffening, clonic shaking, and post-ictal confusion. The EEG findings are also consistent with this seizure type. First-line drugs for the long-term management (prevention) of generalized tonic-clonic seizures include phenytoin, valproic acid, and carbamazepine. Phenytoin is specifically indicated for the control of generalized tonic-clonic seizures. Clonazepam (choice A) is used for absence, myoclonic, and akinetic seizures. Diazepam (choice B) is primarily used for acute termination of seizures (status epilepticus), not long-term prevention. Ethosuximide (choice C) is the drug of choice for absence seizures only. Gabapentin (choice D) is used as adjunct therapy for partial seizures and for neuropathic pain."
+  },
+  {
+    "question": "A 35-year-old man comes to the physician because of pain and swelling in his right calf. The patient's mother had a pulmonary embolus and his father had a deep vein thrombosis. Ultrasonography shows deep vein thrombosis. Which of the following findings is most likely in this patient?",
+    "options": [
+      "A. Defect that reduces the activity of factor VIIIa",
+      "B. Factor IIa resistance to plasmin",
+      "C. Factor Va resistance to activated protein C complex",
+      "D. Glycoprotein Ib defect that prevents binding to von Willebrand factor",
+      "E. von Willebrand factor defect that prevents binding to platelet glycoproteins"
+    ],
+    "answer": "C",
+    "explanation": "The patient has a deep vein thrombosis (DVT) and a strong family history of venous thromboembolism (VTE). The most common inherited risk factor for VTE is Factor V Leiden, which is a mutation in the Factor V gene that makes Factor Va resistant to inactivation by activated protein C (APC). Normally, APC cleaves and inactivates Factor Va, thus downregulating coagulation. Resistance to this inactivation leads to a hypercoagulable state. Reduced factor VIIIa activity (choice A) causes Hemophilia A, a bleeding disorder. Factor IIa (thrombin) resistance to plasmin (choice B) is not a recognized common thrombophilia. Defects in platelet adhesion involving GPIb or vWF (choices D, E) cause bleeding disorders (Bernard-Soulier syndrome or von Willebrand disease)."
+  },
+  {
+    "question": "A 35-year-old man comes to the physician because of a 3-day history of fever, headache, weight loss, and abdominal pain. Physical examination shows lymphadenopathy in the cervical, axillary, and inguinal nodes. The man says that he had intercourse with two male partners within the past few weeks. Which of the following immunologic parameters is most likely to decline over the next 5 to 10 years in this patient?",
+    "options": [
+      "A. Abscess formation",
+      "B. Atopic allergy",
+      "C. Granuloma formation",
+      "D. Nitroblue tetrazolium dye reduction",
+      "E. Serum macroglobulin concentration"
+    ],
+    "answer": "C",
+    "explanation": "The patient's symptoms (fever, headache, lymphadenopathy) and risk factors (men who have sex with men) are suggestive of acute HIV infection. HIV primarily infects and destroys CD4+ T lymphocytes. Over the subsequent years (chronic phase leading to AIDS), the CD4+ T cell count progressively declines. CD4+ T cells, particularly Th1 cells, are crucial for cell-mediated immunity, including the activation of macrophages required for granuloma formation (e.g., in response to infections like tuberculosis). Therefore, as CD4+ cells decline, the ability to form granulomas is significantly impaired. Abscess formation (choice A) depends mainly on neutrophils. Atopic allergy (choice B) involves Th2 cells and IgE, which may decline but granuloma formation is more directly dependent on the depleting CD4+ Th1 cells. Nitroblue tetrazolium test (choice D) assesses neutrophil oxidative burst, which is not directly affected by CD4 count. Serum macroglobulin (IgM) concentration (choice E) may paradoxically increase in late-stage AIDS due to failed isotype switching, but the decline in CD4-dependent functions like granuloma formation is more characteristic."
+  },
+  {
+    "question": "A 16-year-old girl is brought to the physician because she has not yet started to menstruate. She is 147 cm (4 ft 10 in) tall. Physical examination shows Tanner V pubic hair and Tanner I breasts. She also has a broad skin fold along the sides of the neck. Which of the following is most likely to be seen on histologic examination of this patient's ovaries?",
+    "options": [
+      "A. Dermoid cyst",
+      "B. Mucinous cystadenoma",
+      "C. Polycystic ovaries",
+      "D. Streak ovaries",
+      "E. Stromal hyperthecosis"
+    ],
+    "answer": "D",
+    "explanation": "The clinical presentation of short stature, primary amenorrhea (no menstruation by age 16), normal pubic hair development (Tanner V, indicating adrenal androgen function) but absent breast development (Tanner I, indicating lack of estrogen), and a webbed neck (pterygium colli) is classic for Turner syndrome (45,X karyotype). In Turner syndrome, gonadal dysgenesis occurs, meaning the ovaries fail to develop properly. Instead of normal ovarian tissue, fibrous streaks containing minimal or no follicles are found. These are referred to as 'streak ovaries' on gross and histologic examination. Dermoid cysts (choice A) and mucinous cystadenomas (choice B) are ovarian tumors. Polycystic ovaries (choice C) are seen in PCOS, associated with oligomenorrhea or amenorrhea but typically normal or tall stature and signs of hyperandrogenism. Stromal hyperthecosis (choice E) causes virilization, usually in postmenopausal women."
+  },
+  {
+    "question": "A 45-year-old man comes to the physician because of frequent headaches and jaw pain. He says that he hears a 'clicking' in his jaw when he chews. Physical examination shows tenderness in the masseter muscles. Which of the following embryonic structures most likely contributes to the formation of these muscles?",
+    "options": [
+      "A. First pharyngeal arch",
+      "B. Second pharyngeal arch",
+      "C. Third pharyngeal arch",
+      "D. Fourth pharyngeal arch",
+      "E. Fifth pharyngeal arch"
+    ],
+    "answer": "A",
+    "explanation": "The patient's symptoms are suggestive of temporomandibular joint (TMJ) disorder, often associated with dysfunction of the muscles of mastication. The muscles of mastication (masseter, temporalis, medial pterygoid, lateral pterygoid) are derived from the mesoderm of the first pharyngeal (branchial) arch. These muscles are innervated by the mandibular division of the trigeminal nerve (CN V3), which is the nerve of the first arch. The second pharyngeal arch (choice B) gives rise to the muscles of facial expression (innervated by CN VII). The third pharyngeal arch (choice C) gives rise to the stylopharyngeus muscle (innervated by CN IX). The fourth and sixth pharyngeal arches (choice D) give rise to muscles of the pharynx and larynx (innervated by CN X). The fifth pharyngeal arch (choice E) is rudimentary in humans."
+  },
+  {
+    "question": "A 55-year-old woman with amyotrophic lateral sclerosis is admitted to the hospital for treatment of aspiration pneumonia. She is administered clindamycin. After a week of therapy, the pneumonia has responded to therapy, but the patient develops severe diarrhea. Which of the following attributes of the causal agent of the diarrhea is most important in its resistance to clindamycin?",
+    "options": [
+      "A. Absence of cell wall",
+      "B. Acetyltransferase production",
+      "C. Drug export pump",
+      "D. Gram-negative envelope",
+      "E. Spore formation"
+    ],
+    "answer": "E",
+    "explanation": "The patient has developed clindamycin-associated diarrhea, which is most commonly caused by the overgrowth of Clostridium difficile (now Clostridioides difficile). Clindamycin suppresses susceptible bowel flora, allowing C. difficile to proliferate and produce toxins. C. difficile is an anaerobic, gram-positive bacillus that is notable for its ability to form endospores. These spores are highly resistant to heat, chemicals, and antibiotics like clindamycin. While the vegetative cells may be susceptible, the spores can survive antibiotic therapy and germinate when conditions become favorable, leading to infection or relapse. Therefore, spore formation is a key factor in its persistence and resistance in the context of antibiotic treatment. Absence of a cell wall (choice A) applies to Mycoplasma. Acetyltransferases (choice B) can inactivate aminoglycosides or chloramphenicol. Drug export pumps (choice C) contribute to resistance in various bacteria but spore formation is paramount for C. difficile survival. C. difficile is gram-positive, not gram-negative (choice D)."
+  },
+  {
+    "question": "A 41-year-old woman comes to the physician because of a 2-month history of fever, poor appetite, cough, and shortness of breath. Physical examination shows axillary and cervical lymphadenopathy and tender, red nodules on the anterior surface of her legs. Rales are heard on auscultation of the chest. Erythrocyte sedimentation rate is 40 mm/h. A chest x-ray shows bilateral hilar masses. Which of the following is most likely to be found on microscopic examination of a biopsy specimen of one of the masses?",
+    "options": [
+      "A. Atypical nests of squamous cells",
+      "B. Caseating granulomas",
+      "C. Follicular small cleaved cells",
+      "D. Noncaseating granulomas",
+      "E. Reed-Sternberg cells"
+    ],
+    "answer": "D",
+    "explanation": "The combination of constitutional symptoms (fever, malaise), respiratory symptoms (cough, shortness of breath), bilateral hilar lymphadenopathy on chest X-ray, and erythema nodosum (tender red nodules on legs) is highly suggestive of sarcoidosis. Sarcoidosis is a systemic inflammatory disease of unknown etiology characterized by the formation of noncaseating granulomas in affected tissues, most commonly the lungs and lymph nodes. Biopsy of involved tissue (e.g., hilar lymph node) typically reveals these well-formed noncaseating granulomas containing epithelioid macrophages, giant cells, and lymphocytes. Atypical squamous cells (choice A) suggest carcinoma. Caseating granulomas (choice B) are characteristic of tuberculosis or fungal infections. Follicular small cleaved cells (choice C) suggest follicular lymphoma. Reed-Sternberg cells (choice E) are pathognomonic for Hodgkin lymphoma."
+  },
+  {
+    "question": "A 75-year-old woman is brought to the emergency department because of a fractured arm. She says that her gums have been swollen and painful for the past several months. Physical examination shows multiple bruises and perifollicular hemorrhages. Her diet consists predominantly of tea with milk, beef bouillon, rolls, and plain pasta with cheddar cheese. Laboratory studies show a normal prothrombin time The activity of which of the following enzymes is most likely decreased in this patient?",
+    "options": [
+      "A. Methylmalonyl-CoA mutase",
+      "B. Prolyl hydroxylase",
+      "C. Pyruvate dehydrogenase",
+      "D. Thymidylate synthase",
+      "E. Transketolase"
+    ],
+    "answer": "B",
+    "explanation": "The patient's symptoms (swollen/painful gums, bruising, perifollicular hemorrhages) and poor diet lacking fruits and vegetables are strongly suggestive of scurvy, which is caused by severe vitamin C (ascorbic acid) deficiency. Vitamin C is an essential cofactor for prolyl hydroxylase and lysyl hydroxylase, enzymes required for the hydroxylation of proline and lysine residues during collagen synthesis. This hydroxylation is critical for the formation of stable collagen triple helices and cross-linking. Impaired collagen synthesis leads to fragile blood vessels (causing bruising and hemorrhages), poor wound healing, and gum disease. Methylmalonyl-CoA mutase (choice A) requires vitamin B12. Pyruvate dehydrogenase (choice C) and transketolase (choice E) require thiamine (vitamin B1). Thymidylate synthase (choice D) requires folate derivatives."
+  },
+  {
+    "question": "A 72-year-old woman with a history of renal failure is brought to the hospital because of muscle spasms and numbness and tingling around her mouth. Physical examination shows unilateral spasm of the orbicularis oculi triggered by a slight tap over the facial nerve. Which of the following additional findings is most likely in this patient?",
+    "options": [
+      "A. Hypercalcemia",
+      "B. Hypermagnesemia",
+      "C. Hypocalcemia",
+      "D. Hypomagnesemia",
+      "E. Hypophosphatemia"
+    ],
+    "answer": "C",
+    "explanation": "The patient exhibits classic signs of neuromuscular irritability: perioral paresthesias (numbness/tingling) and a positive Chvostek sign (facial muscle spasm elicited by tapping the facial nerve). These are hallmark signs of hypocalcemia. Hypocalcemia increases neuronal membrane excitability by lowering the threshold for depolarization. Renal failure is a common cause of hypocalcemia due to decreased production of active vitamin D (1,25-dihydroxyvitamin D) by the kidneys and phosphate retention (hyperphosphatemia), both of which lower serum calcium. Hypercalcemia (choice A) causes decreased neuromuscular excitability (constipation, weakness). Hypermagnesemia (choice B) can cause hyporeflexia and respiratory depression. Hypomagnesemia (choice D) can cause symptoms similar to hypocalcemia (and can also impair PTH secretion, worsening hypocalcemia). Hypophosphatemia (choice E) is less likely in renal failure; hyperphosphatemia is typical."
+  },
+  {
+    "question": "A 60-year-old man comes to the physician because of a 3-week history of increasing malaise, fatigue, and low-grade fever. Physical examination shows small punctate hemorrhages under his fingernails. Blood culture on agar grows gram-negative bacilli that produce pitted colonies with a bleach-like odor. Which of the following is the most likely source of this infection?",
+    "options": [
+      "A. Intravenous drug abuse",
+      "B. Normal oral flora",
+      "C. Normal skin flora",
+      "D. Prostate surgery",
+      "E. Sexual transmission"
+    ],
+    "answer": "B",
+    "explanation": "The patient presents with symptoms suggestive of subacute bacterial endocarditis (malaise, fatigue, low-grade fever, splinter hemorrhages). The blood culture description (gram-negative bacilli, pitting colonies, bleach-like odor) is characteristic of Eikenella corrodens. Eikenella corrodens is part of the normal flora of the human oral cavity and upper respiratory tract. It is often associated with infections following human bites or clenched-fist injuries, or in individuals with poor dental hygiene or recent dental procedures, from where it can seed the bloodstream and cause endocarditis, especially on previously damaged heart valves. IV drug abuse (choice A) is associated with S. aureus, Pseudomonas, Candida. Normal skin flora (choice C) includes S. epidermidis and S. aureus. Prostate surgery (choice D) can lead to enterococcal endocarditis. Sexual transmission (choice E) is not typical for endocarditis pathogens."
+  },
+  {
+    "question": "A 41-year-old multigravid woman at 20 weeks' gestation comes to the physician for routine prenatal care. Ultrasound shows nuchal translucency. Down syndrome is suspected. She asks for a definitive diagnosis. Which of the following laboratory tests is the most appropriate for assessing Down syndrome in the fetus?",
+    "options": [
+      "A. Acetylcholinesterase (AChE) assay",
+      "B. Alpha-fetoprotein (AFP), estriol, human chorionic gonadotropin (hCG), and inhibin A",
+      "C. CGG mutation analysis",
+      "D. Chromosome analysis (or karyotype analysis)",
+      "E. Fluorescence in situ hybridization (FISH)"
+    ],
+    "answer": "E",
+    "explanation": "Increased nuchal translucency on ultrasound is a screening marker suggesting an increased risk for aneuploidies like Down syndrome (Trisomy 21). For a definitive diagnosis, fetal cells must be obtained (via amniocentesis or chorionic villus sampling) and analyzed for chromosomal abnormalities. Both karyotyping (choice D) and FISH (choice E) can definitively diagnose Trisomy 21. However, FISH provides results much more rapidly (often within 24-48 hours) because it can be performed on interphase cells without requiring cell culture, unlike traditional karyotyping which takes 1-2 weeks. Given the patient is at 20 weeks and seeking a definitive diagnosis promptly, FISH is often preferred for rapid results. AChE assay (choice A) on amniotic fluid is used to detect open neural tube defects. The quad screen (choice B) is a maternal serum screening test, not diagnostic. CGG analysis (choice C) diagnoses Fragile X syndrome."
+  },
+  {
+    "question": "A 53-year-old man comes to the physician for a routine examination. He undergoes a series of tests to assess his cardiac function. Results are shown:\nArterial O2 content: 20 mL/100 mL\nMixed venous arterial O2 content: 15 mL/100 mL\nCardiac output: 5,000 mL/min\nStroke volume: 100 mL\nWhich of the following best approximates the patient's O2 consumption?",
+    "options": [
+      "A. 150 mL/min",
+      "B. 200 mL/min",
+      "C. 250 mL/min",
+      "D. 300 mL/min",
+      "E. 350 mL/min",
+      "F. 400 mL/min"
+    ],
+    "answer": "C",
+    "explanation": "Oxygen consumption (VO2) can be calculated using the Fick principle: VO2 = Cardiac Output (CO) * (Arterial O2 content - Mixed Venous O2 content). First, ensure units are consistent. Arterial O2 content = 20 mL O2/100 mL blood = 0.20 mL O2/mL blood. Mixed Venous O2 content = 15 mL O2/100 mL blood = 0.15 mL O2/mL blood. Cardiac Output (CO) = 5,000 mL/min. VO2 = 5000 mL/min * (0.20 mL O2/mL blood - 0.15 mL O2/mL blood) = 5000 mL/min * (0.05 mL O2/mL blood) = 250 mL O2/min."
+  },
+  {
+    "question": "Two strains of bacteria are grown together in culture. One strain is resistant to ampicillin and the other to gentamicin; after coculture, however, colonies are produced that are resistant to both antibiotics. In a parallel experiment, the cell-free supernatant liquid of the cocultured bacteria is added to cultures, and the colonies grow on medium containing both antibiotics. If the supernatant is treated with DNAse, then no colonies grow on medium containing both antibiotics. Which of the following processes best explains these observations?",
+    "options": [
+      "A. Conjugation",
+      "B. Mutation",
+      "C. Transduction",
+      "D. Transformation",
+      "E. Transposition"
+    ],
+    "answer": "D",
+    "explanation": "The experiment shows that genetic material conferring resistance can be transferred via the cell-free supernatant. This rules out conjugation (choice A), which requires direct cell-to-cell contact. The fact that treatment of the supernatant with DNAse prevents the transfer indicates that the genetic material being transferred is naked DNA present in the supernatant (likely released from lysed cells). The uptake of naked DNA from the environment by competent bacterial cells is the definition of transformation. Mutation (choice B) doesn't explain the transfer between strains. Transduction (choice C) involves DNA transfer via bacteriophages, which are not mentioned and would likely be resistant to DNAse treatment of the supernatant. Transposition (choice E) is the movement of DNA segments within a genome, not transfer between cells via supernatant."
+  },
+  {
+    "question": "A 62-year-old man with a history of Hodgkin lymphoma begins his first round of chemotherapy. To alleviate side effects, his physician prescribes granisetron. This agent most likely binds to which of the following structures?",
+    "options": [
+      "A. Gi-coupled receptor",
+      "B. Gq-coupled receptor",
+      "C. Gs-coupled receptor",
+      "D. Intracellular receptor",
+      "E. Ligand-gated ion channel receptor",
+      "F. Receptor tyrosine kinase"
+    ],
+    "answer": "E",
+    "explanation": "Granisetron is a selective 5-HT3 receptor antagonist used as an antiemetic, particularly for chemotherapy-induced nausea and vomiting. The 5-HT3 receptor is unique among serotonin receptors because it is a ligand-gated ion channel (specifically a non-selective cation channel). Binding of serotonin (5-HT) opens the channel, leading to depolarization. Antagonists like granisetron block this channel activation. Most other serotonin receptor subtypes (5-HT1, 5-HT2, 5-HT4-7) are G protein-coupled receptors (choices A, B, C). Intracellular receptors (choice D) bind steroid hormones. Receptor tyrosine kinases (choice F) bind insulin and growth factors."
+  },
+  {
+    "question": "A 15-year-old boy develops an itching rash between his toes. Microscopic examination of a skin scraping treated with potassium hydroxide shows hyphae with arthroconidia. Which of the following is the most likely mechanism of action of the drug of choice?",
+    "options": [
+      "A. Formation of membrane pores that causes leakage of electrolytes",
+      "B. Inhibition of action of DNA-dependent RNA polymerase",
+      "C. Inhibition of ergosterol synthesis",
+      "D. Inhibition of mycolic acid synthesis",
+      "E. Inhibition of ribosomal function"
+    ],
+    "answer": "C",
+    "explanation": "The patient has tinea pedis ('athlete's foot'), a superficial fungal infection caused by dermatophytes. Microscopic examination showing hyphae confirms a fungal infection. Topical azole antifungal agents (e.g., clotrimazole, miconazole) or terbinafine are common first-line treatments. Azoles inhibit the fungal cytochrome P450 enzyme 14-alpha-demethylase, which is necessary for converting lanosterol to ergosterol, a key component of the fungal cell membrane. Terbinafine inhibits squalene epoxidase, another enzyme in the ergosterol synthesis pathway. Therefore, inhibition of ergosterol synthesis is the mechanism of action for major drugs used to treat this condition. Amphotericin B and nystatin form membrane pores (choice A). Rifampin inhibits bacterial RNA polymerase (choice B). Mycolic acid synthesis inhibition (choice D) is the mechanism of isoniazid (anti-TB drug). Inhibition of ribosomal function (choice E) is a mechanism for antibacterial (e.g., tetracyclines, macrolides) and some antifungal (flucytosine) drugs, but not the primary choice for topical tinea pedis."
+  },
+  {
+    "question": "A study is conducted to compare the efficacy of a new antidepressant medication (Drug X) with selective serotonin reuptake inhibitors (SSRIs). Patients at three psychiatric hospitals who meet the requirements for the specified level of depression are enrolled in the study. The study compares patients receiving SSRIs to those receiving Drug X. All patients receive their medication over a 6-month period and are assessed for any change in depressive symptoms at the end of the study. Which of the following steps is most likely to improve the validity of this study?",
+    "options": [
+      "A. Assessing the effect of both medications versus a placebo",
+      "B. Assigning subjects to treatment condition based on random criteria",
+      "C. Enrolling patients who are not hospitalized",
+      "D. Enrolling patients with the same level of depression at the start of the study",
+      "E. Evaluating outcome using absolute depression scores"
+    ],
+    "answer": "B",
+    "explanation": "The study described appears to be an observational or non-randomized trial, where patients are perhaps assigned medication based on physician preference or existing treatment. This introduces significant potential for selection bias and confounding variables (e.g., patients receiving Drug X might differ systematically from those receiving SSRIs in ways that affect outcome). The single best way to improve the internal validity and minimize bias in comparing two treatments is randomization. Assigning subjects randomly to receive either Drug X or an SSRI ensures that known and unknown confounding factors are likely to be distributed evenly between the groups, making a comparison of the drug effects more valid. Adding a placebo arm (choice A) would assess absolute efficacy but isn't essential for comparing Drug X to SSRIs. Changing the population (choice C) affects generalizability, not necessarily internal validity. Stratifying or matching by baseline depression (choice D) can help, but randomization is more robust. How outcomes are measured (choice E) is important, but randomization addresses the core issue of group comparability."
+  },
+  {
+    "question": "A 37-year-old woman comes to the physician because of dysuria and urinary frequency. Current medications include daily antacids. Microscopic examination of the urine shows white blood cells and bacteria. Which of the following is the most appropriate pharmacotherapy for this patient?",
+    "options": [
+      "A. Ciprofloxacin",
+      "B. Clindamycin",
+      "C. Gentamicin",
+      "D. Nitrofurantoin",
+      "E. Phenazopyridine"
+    ],
+    "answer": "D",
+    "explanation": "The patient has symptoms and urinalysis findings consistent with an uncomplicated urinary tract infection (UTI) or cystitis. Common first-line agents include trimethoprim-sulfamethoxazole (TMP-SMX), nitrofurantoin, and fosfomycin. Fluoroquinolones like ciprofloxacin (choice A) are also effective but often reserved for more complicated cases or when other agents cannot be used, partly due to resistance concerns and side effects. Importantly, the absorption of fluoroquinolones is significantly reduced by concomitant use of polyvalent cations, such as those found in antacids (calcium, magnesium, aluminum). Therefore, ciprofloxacin would be a poor choice for this patient taking daily antacids. Nitrofurantoin's absorption is not significantly affected by antacids, making it a suitable and effective first-line option for uncomplicated cystitis in this patient. Clindamycin (choice B) has poor coverage against common UTI pathogens (mostly gram-negatives). Gentamicin (choice C) is a parenteral aminoglycoside used for serious infections. Phenazopyridine (choice E) is a urinary analgesic providing symptomatic relief but has no antibacterial activity."
+  },
+  {
+    "question": "A 31-year-old primigravid woman at 20 weeks' gestation comes to the physician for a routine prenatal examination. Ultrasound shows a male fetus. Her husband has hemophilia. She has no history of any major medical illnesses and her family history is unremarkable. There is no consanguinity. Which of the following best estimates the risk that the unborn child will also have hemophilia?",
+    "options": ["A. Less than 1%", "B. 2 to 5%", "C. 25%", "D. 50%", "E. 100%"],
+    "answer": "A",
+    "explanation": "Hemophilia A and B are X-linked recessive disorders. The fetus is male (XY). Males inherit their Y chromosome from their father and their X chromosome from their mother. The father has hemophilia, meaning his genotype is XhY (where Xh carries the hemophilia allele). He will pass his Y chromosome to his son. The mother has no family history of hemophilia, so it is extremely likely she is homozygous normal (XX). She will pass one of her normal X chromosomes to her son. Therefore, the son's genotype will be XY, and he will not inherit the hemophilia allele from either parent. His risk of having hemophilia is essentially negligible (less than 1%, accounting only for the extremely small possibility of a spontaneous mutation or unreported carrier status in the mother's family)."
+  },
+  {
+    "question": "A 35-year-old man comes to the hospital because of a 4-day history of headaches, nausea, abdominal pain, and diarrhea. His sister says that he developed memory loss 2 days ago. Laboratory studies show increased blood levels of protoporphyrin. Which of the following additional findings is most likely in this patient?",
+    "options": [
+      "A. Basophilic stippling of erythrocytes",
+      "B. Bronze-colored skin",
+      "C. Dark-colored urine",
+      "D. Increased iron-binding capacity",
+      "E. Kayser-Fleischer rings"
+    ],
+    "answer": "A",
+    "explanation": "The constellation of abdominal pain, neuropsychiatric symptoms (headache, memory loss), and elevated protoporphyrin levels suggests lead poisoning. Lead inhibits several enzymes in the heme synthesis pathway, including ferrochelatase (which incorporates iron into protoporphyrin IX) and ALA dehydratase. Inhibition of ferrochelatase leads to accumulation of protoporphyrin. Lead poisoning also interferes with ribosomal RNA degradation in red blood cells, causing ribosomes to aggregate, which appear as coarse blue dots (basophilic stippling) within erythrocytes on a peripheral blood smear. Bronze skin (choice B) suggests hemochromatosis. Dark urine (choice C) can occur in porphyrias where porphyrin precursors are excreted, but elevated protoporphyrin itself doesn't typically darken urine; lead poisoning can also cause anemia which might affect urine color indirectly. Increased TIBC (choice D) suggests iron deficiency. Kayser-Fleischer rings (choice E) indicate Wilson disease (copper overload)."
+  },
+  {
+    "question": "DNA from Escherichia coli and Pseudomonas aeruginosa is digested with the restriction endonuclease EcoR1 and the fragments are separated by agarose gel electrophoresis. The gel shows 10 small fragments of Pseudomonas DNA, but only one large band for Escherichia DNA. Which of the following best explains this finding?",
+    "options": [
+      "A. Methylation pattern of Escherichia coli DNA",
+      "B. Methylation pattern of Pseudomonas DNA",
+      "C. Presence of introns in Escherichia coli DNA",
+      "D. Presence of introns in Pseudomonas DNA",
+      "E. Presence of transposons in Escherichia coli DNA",
+      "F. Presence of transposons in Pseudomonas DNA"
+    ],
+    "answer": "A",
+    "explanation": "EcoR1 is a restriction enzyme originally isolated from Escherichia coli. Bacteria protect their own DNA from digestion by their restriction enzymes using a corresponding methylase enzyme, which modifies the specific recognition sequence (GAATTC for EcoR1) by adding methyl groups. This methylation prevents the restriction enzyme from binding and cutting the DNA. Therefore, E. coli's own DNA is protected from EcoR1 digestion due to methylation, resulting in it remaining largely uncut (one large band representing the intact or minimally cut chromosome/plasmids). Pseudomonas aeruginosa does not have the specific EcoR1 methylase system, so its DNA lacks the protective methylation at EcoR1 sites. Consequently, EcoR1 readily cuts the Pseudomonas DNA at multiple recognition sites, producing numerous smaller fragments. Introns (choices C, D) are generally absent in bacteria. Transposons (choices E, F) do not explain the differential digestion pattern."
+  },
+  {
+    "question": "A healthy 64-year-old man receives his annual influenza vaccine. After a week, a sample of blood is drawn and his peripheral blood leukocytes are treated with fluorescein-conjugated antibodies directed against CD4 and CD8 antigens. Which of the following labeled quadrants in the flow cytometry plot most likely contains the cells that respond most strongly to this vaccination? [Image shows flow cytometry plot with CD8 on y-axis and CD4 on x-axis, quadrants A (CD4-CD8+), B (CD4+CD8+), C (CD4-CD8-), D (CD4+CD8-)]",
+    "options": ["A. A", "B. B", "C. C", "D. D"],
+    "answer": "D",
+    "explanation": "The annual influenza vaccine is typically an inactivated (killed) vaccine. Killed vaccines primarily stimulate a humoral immune response, which involves B cells producing antibodies. This process requires help from CD4+ T helper cells. The vaccine antigens are processed by antigen-presenting cells (like B cells, macrophages, dendritic cells) and presented on MHC class II molecules to CD4+ T helper cells. These activated T helper cells then provide signals (like cytokines and CD40L interaction) to B cells, stimulating them to proliferate, differentiate into plasma cells, and produce antibodies (including isotype switching). Therefore, the CD4+ T cell population (helper T cells) is crucial for the response to this type of vaccine. On the flow cytometry plot, CD4+ T cells are found in quadrant D (CD4 positive, CD8 negative). Quadrant A contains CD8+ cytotoxic T cells (important for live vaccines/viral infections). Quadrant B contains double-positive cells (found in thymus). Quadrant C contains double-negative cells (various types, including B cells, NK cells, etc.)."
+  },
+  {
+    "question": "A study is conducted to assess the effect of cell phone use on traffic accidents. Four hundred people who use their cell phones regularly and 400 people who do not own cell phones are studied. People in each of the two groups are, on average, of similar age, gender, educational background, and ethnic background; all own cars and drive to work on a daily basis. Both groups are tracked over a 2-year period and the number of traffic accidents in each group is assessed. The resulting data show: Cell phone users: 36 accidents, 364 no accident. Non-users: 19 accidents, 381 no accident. Which of the following calculations best estimates the relative risk of cell phone use for motor vehicle collisions?",
+    "options": [
+      "A. (36/364) / (19/381)",
+      "B. (36/400) / (19/400)",
+      "C. (19 x 364) / (36 x 381)",
+      "D. (36 x 364) / (19 x 381)",
+      "E. (36 x 381) / (19 x 364)"
+    ],
+    "answer": "B",
+    "explanation": "This is a cohort study because two groups (exposed = cell phone users, unexposed = non-users) are identified based on exposure status and followed over time to determine the incidence of the outcome (traffic accidents). Relative Risk (RR) is the appropriate measure of association for a cohort study. RR is calculated as the incidence of the outcome in the exposed group divided by the incidence of the outcome in the unexposed group. Incidence in exposed = (Number of accidents in exposed) / (Total number exposed) = 36 / 400. Incidence in unexposed = (Number of accidents in unexposed) / (Total number unexposed) = 19 / 400. Therefore, RR = (36/400) / (19/400)."
+  },
+  {
+    "question": "A 56-year-old hospitalized patient is diagnosed with Pseudomonas pneumonia 8 days after being placed on a ventilator. In addition to cefepime, she receives 250 mg of gentamicin through an intravenous infusion. The half-life of gentamicin is 3 hours. How much of the initial dose of gentamicin remains in the body after 6 hours?",
+    "options": [
+      "A. 31.25 mg",
+      "B. 62.5 mg",
+      "C. 125 mg",
+      "D. 150 mg",
+      "E. 200 mg"
+    ],
+    "answer": "B",
+    "explanation": "The half-life (t1/2) is the time it takes for the amount of drug in the body (or its plasma concentration) to decrease by 50%. The half-life of gentamicin is given as 3 hours. The time elapsed is 6 hours. Number of half-lives elapsed = Total time / Half-life = 6 hours / 3 hours = 2 half-lives. After 1 half-life (3 hours), the amount remaining is 50% of the initial dose: 250 mg * 0.5 = 125 mg. After 2 half-lives (6 hours), the amount remaining is 50% of the amount present after the first half-life: 125 mg * 0.5 = 62.5 mg. Alternatively, Amount remaining = Initial dose * (0.5)^(number of half-lives) = 250 mg * (0.5)^2 = 250 mg * 0.25 = 62.5 mg."
+  },
+  {
+    "question": "A 25-year-old man is brought to the hospital after a motor vehicle accident. He has two broken ribs, a broken fibula, and a deep laceration to the volar surface of his wrist just proximal to the right hand. Physical examination shows inability to flex or abduct his right thumb or flex his second or third digits, and significant loss of sensation to the palmar aspect of the second, third, and half of the fourth digits. Which of the following structures is most likely injured in this patient?",
+    "options": [
+      "A. Flexor carpi radialis tendon",
+      "B. Median nerve",
+      "C. Palmaris longus tendon",
+      "D. Radial nerve",
+      "E. Ulnar nerve"
+    ],
+    "answer": "B",
+    "explanation": "The patient has sustained a deep laceration to the volar (palmar) aspect of the wrist. The observed deficits include motor loss affecting thumb flexion/abduction (thenar muscles) and flexion of the index (second) and middle (third) fingers, along with sensory loss to the palmar aspect of the lateral three and a half digits (thumb, index, middle, lateral half of ring finger). This combination of motor and sensory deficits corresponds precisely to the distribution of the median nerve in the hand and wrist. The median nerve runs superficially in the wrist and is vulnerable to lacerations in this area. Damage to tendons alone (choices A, C) would not cause sensory loss. The radial nerve (choice D) primarily controls wrist/finger extension and sensation on the dorsal hand. The ulnar nerve (choice E) controls intrinsic hand muscles (interossei, hypothenar), flexion of the 4th/5th digits, and sensation to the medial one and a half digits."
+  },
+  {
+    "question": "A young boy speaks in single words and two-word sentences and is able to correctly use pronouns such as 'I' and 'she.' Although his mother seems to understand what he is saying, people outside the family have a hard time doing so. The mother reports that the boy has recently learned the parts of the body, and leads him through a game in which she points to a body part and the boy identifies it with the correct word. His playtime is characterized by a high energy level and a great deal of exploration. When given a crayon and a piece of paper, he scribbles enthusiastically, without producing a clear para. Which of the following has this boy most likely learned to do in the past few months?",
+    "options": [
+      "A. Arrange three small cubes in a vertical stack",
+      "B. Climb stairs by himself",
+      "C. Cut paper with scissors",
+      "D. Ride a tricycle",
+      "E. Turn a doorknob"
+    ],
+    "answer": "E",
+    "explanation": "The description of the boy's language (two-word sentences, uses pronouns, knows body parts, speech partially intelligible), motor skills (scribbling, high energy), and cognitive abilities fits well with developmental milestones typically achieved around 24 months (2 years) of age. At 2 years old, children can typically turn doorknobs, unscrew lids, build a tower of 6 cubes, kick a ball, and walk up and down stairs holding on. Arranging three cubes (choice A) and climbing stairs alone (sometimes holding on) (choice B) are typically achieved earlier, around 15-18 months. Cutting paper with scissors (choice C) and riding a tricycle (choice D) are milestones typically achieved around 3 years old."
+  },
+  {
+    "question": "After being told over the phone that he had been turned down for a job he really wanted, a 23-year-old man expresses his disappointment quietly and then hangs up the phone. Later that day, the man yells at his wife for preparing a meal that he does not like. This man's behavior is best described by which of the following defense mechanisms?",
+    "options": [
+      "A. Acting out",
+      "B. Displacement",
+      "C. Passive-aggression",
+      "D. Projection",
+      "E. Reaction formation",
+      "F. Undoing"
+    ],
+    "answer": "B",
+    "explanation": "Displacement is an unconscious defense mechanism where emotions, ideas, or wishes are transferred from their original object to a more acceptable or less threatening substitute. The man is angry and disappointed about the job rejection but expresses these feelings towards his wife (a safer target) over a minor issue (the meal), rather than towards the source of his frustration (the potential employer). Acting out (choice A) involves expressing an unconscious wish or conflict through action, often impulsively, rather than dealing with the feeling. Passive-aggression (choice C) is indirect expression of hostility. Projection (choice D) is attributing one's own unacceptable feelings to others. Reaction formation (choice E) is behaving in a way opposite to one's true feelings. Undoing (choice F) is attempting to symbolically negate an unacceptable thought or action."
+  },
+  {
+    "question": "A researcher is attempting to develop rapid identification techniques for common microbial pathogens. With the use of latex beads coated with indicator molecules, clumping should be observed if particular microbes are present in a sample. Which of the following organisms is most likely to cause clumping of latex beads coated with IgG and fibrinogen?",
+    "options": [
+      "A. Candida albicans",
+      "B. Epstein-Barr virus",
+      "C. Salmonella enterica subsp. typhi",
+      "D. Staphylococcus aureus",
+      "E. Streptococcus pyogenes"
+    ],
+    "answer": "D",
+    "explanation": "This describes a latex agglutination test. Staphylococcus aureus possesses two key surface components that would react with the coated beads: Protein A and Clumping factor (bound coagulase). Protein A binds nonspecifically to the Fc region of IgG. Clumping factor binds to fibrinogen. Therefore, latex beads coated with either IgG or fibrinogen would be agglutinated (clumped) in the presence of S. aureus. Candida (choice A) is a yeast. EBV (choice B) is a virus. Salmonella (choice C) is a gram-negative bacterium. Streptococcus pyogenes (choice E) is a gram-positive coccus but typically does not bind IgG (except some strains have Fc receptors) or fibrinogen in this manner for diagnostic agglutination tests (though it has fibrinogen binding proteins involved in pathogenesis)."
+  },
+  {
+    "question": "A biotechnology company is developing a vaccine against an emerging pathogen. Which of the following pathogens is most likely to require a live attenuated vaccine?",
+    "options": [
+      "A. DNA virus",
+      "B. Enveloped virus",
+      "C. Helical virus",
+      "D. Icosahedral virus",
+      "E. Naked virus",
+      "F. RNA virus",
+      "G. Syncytial virus"
+    ],
+    "answer": "G",
+    "explanation": "Live attenuated vaccines are generally required when a strong cell-mediated immune response (involving cytotoxic T lymphocytes, CTLs) is crucial for protection. This is particularly important for pathogens that spread cell-to-cell without significant extracellular phases, making them less accessible to antibodies. Syncytium-forming viruses (like Respiratory Syncytial Virus, Measles) spread efficiently by fusing infected cells with neighboring uninfected cells. This mode of spread limits exposure to neutralizing antibodies. Therefore, a robust CTL response, induced effectively by live attenuated vaccines that mimic natural infection, is often necessary to clear infected cells and provide effective immunity. While other categories (choices A-F) contain viruses for which live vaccines are used (e.g., MMR is live, against enveloped RNA viruses), the *syncytial* mode of spread specifically makes cell-mediated immunity paramount, thus favoring a live vaccine approach."
+  },
+  {
+    "question": "A 54-year-old woman comes to the physician for a routine examination. Laboratory studies show a hematocrit of 59%, platelet count of 525,000/mm^3, and leukocyte count of 11,000/mm^3. Peripheral blood smear shows normochromic and normocytic erythrocytes, leukocytes, and platelets. She does not drink alcohol or smoke cigarettes and does not live at high altitude. A CT scan of the abdomen is unremarkable. This patient is most likely at increased risk for which of the following complications?",
+    "options": [
+      "A. Budd-Chiari syndrome",
+      "B. Cholangiocarcinoma",
+      "C. Cirrhosis",
+      "D. Hepatocellular carcinoma",
+      "E. Peliosis hepatitis"
+    ],
+    "answer": "A",
+    "explanation": "The patient's laboratory findings (elevated hematocrit, platelets, and possibly leukocytes, though WBC is borderline) suggest a myeloproliferative neoplasm, most likely polycythemia vera (PV). PV is characterized by clonal proliferation of hematopoietic stem cells, leading primarily to erythrocytosis, but often also thrombocytosis and leukocytosis. A hallmark complication of PV is thrombosis, due to increased blood viscosity from high red cell mass and platelet abnormalities. Both arterial and venous thromboses occur. A specific and characteristic venous thrombotic complication associated with PV and other myeloproliferative neoplasms is thrombosis of the hepatic veins, leading to Budd-Chiari syndrome. Cholangiocarcinoma (B), Cirrhosis (C), Hepatocellular carcinoma (D), and Peliosis hepatis (E) are not direct or common complications of PV itself, although portal vein thrombosis (another risk in PV) could potentially lead to liver damage over time."
+  },
+  {
+    "question": "A 72-year-old man comes to the emergency department because of a 2-week history of joint pain, fatigue, malaise, loss of appetite, and a facial rash. His temperature is 39.2°C (102.5°F) and his blood pressure is 101/62 mm Hg. He has a history of hypertension, heart failure, and, most recently, acute bronchitis. Which of the following medications is the most likely cause of his current condition?",
+    "options": [
+      "A. Digitalis glycoside",
+      "B. Loop diuretic",
+      "C. Opioid analgesic",
+      "D. Peripheral vasodilator",
+      "E. Second-generation cephalosporin"
+    ],
+    "answer": "D",
+    "explanation": "The patient presents with symptoms highly suggestive of drug-induced lupus erythematosus (DILE): systemic symptoms (fever, fatigue, malaise, anorexia), arthralgias, and a facial rash. Several drugs are known to cause DILE. Among the choices, peripheral vasodilators, specifically hydralazine, are strongly associated with DILE. Procainamide is another classic cause but less commonly used now. Given the patient's history of hypertension and heart failure, hydralazine might have been prescribed. Digitalis glycosides (choice A) cause cardiac and GI side effects. Loop diuretics (choice B) cause electrolyte disturbances. Opioids (choice C) cause sedation, constipation, respiratory depression. Cephalosporins (choice E) can cause allergic reactions but are not typical causes of DILE."
+  },
+  {
+    "question": "A 37-year-old man is brought into the emergency department by his friend after he began to look very ill. Current medications include alprazolam, digoxin, fluphenazine, torsemide, and warfarin. His temperature is 39.5°C (103.1°F). Physical examination shows diaphoresis, muscle rigidity, and altered mental status. Which of the following medications is the most likely cause of his current condition?",
+    "options": [
+      "A. Alprazolam",
+      "B. Digoxin",
+      "C. Fluphenazine",
+      "D. Torsemide",
+      "E. Warfarin"
+    ],
+    "answer": "C",
+    "explanation": "The patient's presentation with hyperthermia (high fever), muscle rigidity ('lead pipe' rigidity), altered mental status, and autonomic instability (diaphoresis) is classic for Neuroleptic Malignant Syndrome (NMS). NMS is a life-threatening idiosyncratic reaction to antipsychotic medications (neuroleptics), particularly high-potency typical antipsychotics. Fluphenazine is a high-potency typical antipsychotic and is the most likely culprit among the patient's medications. Alprazolam (choice A) is a benzodiazepine. Digoxin (choice B) is a cardiac glycoside. Torsemide (choice D) is a loop diuretic. Warfarin (choice E) is an anticoagulant. None of these other medications are typically associated with NMS."
+  },
+  {
+    "question": "The American Diabetes Association decides that the diabetes screening criterion blood glucose level of 100 mg/dL is too high and recommends that the criterion level be decreased fo 90 mg/dL. Which of the following best illustrates the effects of this change on subsequent screening test results?\nColumns: True Positives, False Positives, True Negatives, False Negatives",
+    "options": [
+      "A. Decrease, Decrease, Increase, Increase",
+      "B. Decrease, Increase, Increase, Decrease",
+      "C. Increase, Decrease, Decrease, Increase",
+      "D. Increase, Decrease, Increase, Decrease",
+      "E. Increase, Increase, Decrease, Decrease"
+    ],
+    "answer": "E",
+    "explanation": "Lowering the cutoff value for a screening test (from 100 mg/dL to 90 mg/dL) means that more individuals will test positive. This will capture more people who truly have the disease (increasing True Positives, which increases sensitivity). However, it will also incorrectly classify more people who do not have the disease as positive (increasing False Positives, which decreases specificity). Conversely, fewer people will test negative. This means fewer people without the disease will be correctly identified as negative (decreasing True Negatives). It also means fewer people who actually have the disease will be missed by the test (decreasing False Negatives). Therefore, lowering the cutoff increases True Positives and False Positives, and decreases True Negatives and False Negatives."
+  },
+  {
+    "question": "An 86-year-old woman comes to the physician because of vague general discomfort. She asks the physician to prescribe a new medication that she has recently seen advertised on television that is used to relieve stomach distress. Physical examination shows no abnormalities. When she is told that the medication she requests is not indicated by her condition, the patient becomes visibly upset and demands that the prescription be written. Which of the following is the most appropriate next step by the physician?",
+    "options": [
+      "A. Ask the patient about any recent changes in her relationships",
+      "B. Ask the patient what she has been doing with her time lately",
+      "C. Explain the side effects and give the patient the prescription",
+      "D. Refuse to give the patient the prescription",
+      "E. Schedule diagnostic tests to determine whether or not to give her the prescription",
+      "F. Talk with the patient about why she wants this medication"
+    ],
+    "answer": "F",
+    "explanation": "The patient is demanding a specific medication that is not medically indicated for her vague symptoms. Her strong emotional reaction suggests there may be underlying reasons for her request beyond simple stomach distress (e.g., anxiety, loneliness, belief fostered by advertising). Simply refusing (choice D) or giving in (choice C) is inappropriate and doesn't address potential underlying issues. Ordering tests without indication (choice E) is also inappropriate. Asking broad, unrelated questions (choices A, B) may seem dismissive. The best approach is to explore the patient's request further in a non-judgmental way. Asking her *why* she wants this specific medication allows the physician to understand her concerns, beliefs, and expectations, and potentially uncover the real reason for her visit or distress. This builds rapport and allows for patient education and negotiation of an appropriate management plan."
+  },
+  {
+    "question": "A 23-year-old primigravid woman at 28 weeks' gestation comes to the emergency department because of a 5-hour history of severe headache, blurry vision, and epigastric pain. Her blood pressure is 170/112 mm Hg. Urinalysis shows the presence of 4+ protein. Which of the following drugs is most appropriate for this patient?",
+    "options": [
+      "A. Candesartan",
+      "B. Dexamethasone",
+      "C. Diazepam",
+      "D. Hydralazine",
+      "E. Ramipril"
+    ],
+    "answer": "D",
+    "explanation": "The patient presents with symptoms (headache, visual disturbance, epigastric pain), severe hypertension (≥160/110 mmHg), and significant proteinuria (4+), consistent with severe preeclampsia. Management involves seizure prophylaxis (typically magnesium sulfate, though not listed as an option for the hypertension itself) and control of severe hypertension to prevent maternal stroke. First-line antihypertensive agents safe and effective in pregnancy for acute severe hypertension include intravenous labetalol, intravenous hydralazine, and oral nifedipine. Hydralazine is a direct peripheral vasodilator suitable for this situation. ACE inhibitors (Ramipril, choice E) and ARBs (Candesartan, choice A) are contraindicated in pregnancy (Category D). Dexamethasone (choice B) is a corticosteroid used to promote fetal lung maturity if delivery is anticipated but doesn't treat hypertension. Diazepam (choice C) is a benzodiazepine and not appropriate for managing preeclampsia or its associated hypertension."
+  },
+  {
+    "question": "A 54-year-old woman comes to the physician because of a swollen right ankle. Physical examination shows nonpitting edema of the right ankle and foot. Cardiac examination shows a normal S1 and S2 without murmurs, rubs, or gallops. Which of the following is the most likely underlying mechanism of the increased capillary filtration in this patient?",
+    "options": [
+      "A. Arteriolar constriction",
+      "B. Decreased velocity of flow",
+      "C. Dilation of veins",
+      "D. Increased interstitial protein concentration",
+      "E. Increased plasma protein concentration"
+    ],
+    "answer": "D",
+    "explanation": "The patient has unilateral, nonpitting edema. Nonpitting edema typically results from lymphatic obstruction (lymphedema) rather than increased capillary hydrostatic pressure or decreased plasma oncotic pressure (which usually cause pitting edema). Lymphatic obstruction prevents the normal return of interstitial fluid and proteins to the circulation. This leads to an accumulation of protein-rich fluid in the interstitium. The increased concentration of protein in the interstitial fluid raises the interstitial oncotic pressure, which draws more fluid out of the capillaries (increases filtration) and further contributes to the edema. Arteriolar constriction (choice A) would decrease capillary hydrostatic pressure and reduce filtration. Decreased flow velocity (choice B) itself doesn't directly cause edema. Venous dilation (choice C) would decrease capillary hydrostatic pressure. Increased plasma protein concentration (choice E) would increase plasma oncotic pressure and decrease filtration."
+  },
+  {
+    "question": "A mother is shopping with her 3-year-old daughter. The daughter sees a toy that she wants on one of the store shelves. She asks her mother to buy the toy and the mother says, 'No.' The girl begins to scream and cry. She asks for the toy over and over again, becoming increasingly louder with each repetition. After a minute of listening to her daughter cry, the mother agrees to buy the toy. When told that she will receive the toy, the girl stops crying and is quiet. Which of the following best describes the effects of this new behavior on the mother?",
+    "options": [
+      "A. Extinction",
+      "B. Habituation",
+      "C. Negative reinforcement",
+      "D. Positive reinforcement",
+      "E. Punishment",
+      "F. Secondary reinforcement"
+    ],
+    "answer": "C",
+    "explanation": "Reinforcement increases the likelihood of a behavior. Negative reinforcement specifically involves increasing a behavior by *removing* an aversive or unpleasant stimulus when the behavior occurs. In this scenario, the mother's behavior is giving in and buying the toy. The aversive stimulus is the daughter's screaming and crying. By buying the toy, the mother successfully removes (stops) the unpleasant stimulus (the crying). This removal reinforces the mother's behavior of giving in to her daughter's demands when she throws a tantrum, making the mother more likely to give in again in the future to stop the crying. Extinction (A) is decreased behavior due to removal of reinforcement. Habituation (B) is decreased response to repeated stimulus. Positive reinforcement (D) is increasing behavior by adding a pleasant stimulus. Punishment (E) decreases behavior. Secondary reinforcement (F) involves learned reinforcers."
+  },
+  {
+    "question": "A 9-year-old child is brought to the physician because of recurrent necrotic lesions on his legs and arms. He has a history of protracted wound healing and scarring. Flow cytometric analysis of this child's peripheral blood leukocytes is most likely to show an absence of which of the following?",
+    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD18"],
+    "answer": "E",
+    "explanation": "The history of recurrent skin infections (often necrotic), poor wound healing, and often delayed separation of the umbilical cord (though not mentioned here) is characteristic of Leukocyte Adhesion Deficiency type 1 (LAD-1). LAD-1 is an autosomal recessive disorder caused by mutations in the ITGB2 gene, which encodes the CD18 protein. CD18 is the common beta-2 subunit shared by several leukocyte integrins (LFA-1, Mac-1/CR3, p150,95/CR4). These integrins are crucial for leukocyte adhesion to endothelial cells and subsequent extravasation to sites of infection, as well as for phagocytosis and T-cell interactions. Absence or deficiency of CD18 leads to impaired leukocyte trafficking and function, resulting in recurrent bacterial infections without pus formation and impaired wound healing. CD3 (A), CD4 (B), and CD8 (C) are T-cell markers. CD14 (D) is a marker primarily for monocytes/macrophages."
+  },
+  {
+    "question": "A 3-year-old boy is brought to the physician for treatment of an abscess on his knee. He has a history of numerous cutaneous lesions caused by Staphylococcus aureus and Candida albicans. A neutrophil oxidative index determination is negative. Which of the following treatments is most likely to prevent future infections in this child?",
+    "options": [
+      "A. Interferon alfacon-1",
+      "B. Interferon-gamma",
+      "C. Intravenous IgG",
+      "D. Splenectomy",
+      "E. Thymectomy"
+    ],
+    "answer": "B",
+    "explanation": "The history of recurrent infections with specific catalase-positive bacteria (S. aureus) and fungi (Candida), along with a negative neutrophil oxidative burst test (e.g., Nitroblue Tetrazolium test or dihydrorhodamine [DHR] test measuring the 'oxidative index'), is diagnostic of Chronic Granulomatous Disease (CGD). CGD is caused by defects in the NADPH oxidase enzyme complex, preventing phagocytes from generating reactive oxygen species needed to kill certain pathogens. Interferon-gamma (IFN-γ) therapy has been shown to partially restore phagocyte oxidative metabolism and significantly reduce the frequency and severity of serious infections in patients with CGD. It is a standard prophylactic treatment. Interferon alfacon-1 (A) is for hepatitis C. IVIG (C) is used for antibody deficiencies. Splenectomy (D) and Thymectomy (E) are not treatments for CGD."
+  },
+  {
+    "question": "A 43-year-old man comes to the physician because of shortness of breath. He has a 3-year history of nasal obstruction with serosanguineous discharge and deep central facial pain. Physical examination shows a saddle deformity of the nose. Focally decreased breath sounds and scattered crackles are heard on auscultation of the chest. Urinalysis shows hematuria. A chest X-ray shows multiple nodules in the lungs. A biopsy specimen of one of the nodules shows granulomatous inflammation adjacent to a small artery that shows vasculitis. Which of the following serum antibodies is most likely to be positive in this patient?",
+    "options": [
+      "A. Anticentromere",
+      "B. Anticytoplasmic-staining antineutrophil cytoplasmic (c-ANCA)",
+      "C. Anti-double-stranded DNA",
+      "D. Anti-Ro (SSA)",
+      "E. Anti-topoisomerase (Scl-70)"
+    ],
+    "answer": "B",
+    "explanation": "This patient presents with the classic triad of upper respiratory tract involvement (nasal obstruction, discharge, pain, saddle nose deformity), lower respiratory tract involvement (nodules, crackles, SOB), and renal involvement (hematuria indicating glomerulonephritis), along with biopsy evidence of necrotizing granulomatous vasculitis. This clinical picture is pathognomonic for Granulomatosis with Polyangiitis (GPA), formerly known as Wegener granulomatosis. GPA is strongly associated with anti-neutrophil cytoplasmic antibodies (ANCA), specifically the cytoplasmic staining pattern (c-ANCA) which typically targets proteinase 3 (PR3). Therefore, a positive c-ANCA test is highly likely. Anticentromere antibodies (A) are associated with limited scleroderma (CREST). Anti-dsDNA (C) and Anti-Ro (D) are associated with SLE and Sjogren syndrome. Anti-Scl-70 (E) is associated with diffuse scleroderma."
+  },
+  {
+    "question": "A 48-year-old man comes to the emergency department because of a 36-hour history of severe pain in his right thigh, lower back, and buttocks, and the recent appearance of tea-colored urine. He says that he fell down some stairs 5 days ago and felt sore for one day. Laboratory studies show:\nSerum\nSodium 144 mEq/L\nPotassium 6.1 mEq/L\nCalcium 7.9 mEq/L\nPhosphate 7.4 mEq/L\nCreatinine 3.8 mg/dL\nUrine\nBlood 3+\nProtein 2+\nSediment granular casts\nWhich of the following drugs is the most likely cause of the patient's present condition?",
+    "options": [
+      "A. Atorvastatin",
+      "B. Captopril",
+      "C. Digoxin",
+      "D. Procainamide",
+      "E. Spironolactone"
+    ],
+    "answer": "A",
+    "explanation": "The patient presents with severe muscle pain, tea-colored urine (myoglobinuria), and acute kidney injury (elevated creatinine, hyperkalemia, hyperphosphatemia, hypocalcemia - due to phosphate binding and decreased vitamin D activation, granular casts). This constellation is indicative of rhabdomyolysis leading to acute tubular necrosis (ATN). While trauma (the fall) could potentially cause rhabdomyolysis, the delayed onset and severity suggest another factor might be involved. Statins, such as atorvastatin, are well-known potential causes of myopathy and, rarely, severe rhabdomyolysis, especially when interacting with other drugs, in susceptible individuals, or sometimes triggered by exertion or trauma. None of the other listed drugs are common causes of rhabdomyolysis. Captopril (B) can cause cough/angioedema/hyperkalemia. Digoxin (C) toxicity involves cardiac/GI symptoms. Procainamide (D) can cause lupus-like syndrome/agranulocytosis. Spironolactone (E) causes hyperkalemia/gynecomastia."
+  },
+  {
+    "question": "A 43-year-old woman comes to the physician because of abdominal discomfort and weight loss. A CT scan of the abdomen shows multiple large masses in the serosa and muscular layer of her small intestine. A biopsy specimen of one of the masses shows a malignant tumor composed of cells with large nuclei and a small amount of brown pigment. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Carcinoid",
+      "B. Malignant islet cell tumor",
+      "C. Melanoma",
+      "D. Neuroblastoma",
+      "E. Pheochromocytoma"
+    ],
+    "answer": "C",
+    "explanation": "The presence of multiple metastatic masses involving the serosa and muscularis of the small intestine, combined with the histological finding of malignant cells containing brown pigment, strongly suggests metastatic melanoma. Melanin is the brown pigment characteristically produced by melanocytes and melanoma cells. Melanoma has a known propensity to metastasize widely, including to the gastrointestinal tract, often presenting as multiple serosal or submucosal nodules. Carcinoid tumors (A) arise from neuroendocrine cells, typically in the submucosa, and do not produce melanin. Malignant islet cell tumors (B) are pancreatic neuroendocrine tumors. Neuroblastoma (D) is a childhood tumor of neural crest origin, usually in the adrenal medulla or sympathetic ganglia. Pheochromocytoma (E) is a tumor of the adrenal medulla producing catecholamines; metastases are rare and do not contain melanin."
+  },
+  {
+    "question": "A 72-year-old man comes to the physician for a routine examination. Physical examination shows that touching either the left or right eye with a wisp of cotton produces blinking responses only in the right eye. Which of the following additional findings is most likely in this patient?",
+    "options": [
+      "A. Absence of pupillary light reflex of the left eye",
+      "B. Hyperacusis of the left ear",
+      "C. Inability to abduct the left eye",
+      "D. Loss of gag reflex on the left side",
+      "E. Loss of pain and temperature sensation from the left face",
+      "F. Loss of taste sensation from the posterior one-third of the left tongue",
+      "G. Mydriasis of the right eye",
+      "H. Nystagmus of the left eye"
+    ],
+    "answer": "B",
+    "explanation": "The corneal reflex involves sensory input via the trigeminal nerve (CN V, specifically V1) and motor output via the facial nerve (CN VII) causing bilateral eye blinking (orbicularis oculi muscle). Since touching either eye elicits a response in the right eye, the sensory pathways (both left and right CN V1) and the motor pathway to the right eye (right CN VII) must be intact. The failure of the left eye to blink, regardless of which cornea is stimulated, indicates a lesion of the efferent pathway to the left eye, specifically the left facial nerve (CN VII). The facial nerve also innervates the stapedius muscle in the middle ear, which dampens loud sounds. Paralysis of the stapedius muscle due to a CN VII lesion results in hyperacusis (increased sensitivity to sounds) in the ipsilateral ear. Other functions of CN VII include muscles of facial expression and taste from the anterior two-thirds of the tongue. A lesion affecting pupillary reflex (A, G) involves CN II/III. Abduction (C) involves CN VI. Gag reflex (D) involves CN IX/X. Facial sensation (E) involves CN V. Posterior taste (F) involves CN IX. Nystagmus (H) involves CN VIII/vestibular system."
+  },
+  {
+    "question": "A 35-year-old man is brought to the emergency department after being found unconscious in his overheated apartment in January. Pulse is 120/min and thready, respirations are 20/min, and blood pressure is 85/45 mm Hg. Laboratory studies show a hemoglobin of 15.1 mg/dL. Arterial blood gas analysis on room air shows:\nPO2 105 mm Hg\nPCO2 38 mm Hg\nHbSat 99%\nOxygen content 15 mL/dL\nWhich of the following is most likely responsible for the arterial blood gases observed in this patient?",
+    "options": [
+      "A. Abnormally low diffusion capacity of the lungs",
+      "B. Carbon monoxide poisoning",
+      "C. Hypoventilation caused by respiratory depression",
+      "D. Increased ventilation/perfusion imbalance",
+      "E. Right-to-left intrapulmonary shunt"
+    ],
+    "answer": "B",
+    "explanation": "The patient presents in shock, found in an overheated apartment (suggesting faulty heating, possible CO source). The key finding is the discrepancy between a normal PaO2 (105 mmHg) and a high measured Hb saturation (99% via pulse oximetry or co-oximetry depending on method, but interpreted as high by machine), yet a significantly low calculated/measured arterial oxygen content (15 mL/dL; normal is ~20 mL/dL with Hb of 15). Carbon monoxide (CO) binds to hemoglobin with much higher affinity than oxygen, forming carboxyhemoglobin (COHb). COHb does not carry oxygen, thus reducing the oxygen-carrying capacity and oxygen content of the blood. Crucially, CO binding does not significantly lower the PaO2 (dissolved oxygen). Standard pulse oximeters often inaccurately read COHb as oxyhemoglobin, reporting a falsely high saturation. A co-oximeter is needed to measure COHb directly. The combination of normal PaO2, falsely high/normal saturation reading, and low O2 content is characteristic of CO poisoning. Low diffusion capacity (A), V/Q mismatch (D), and shunt (E) would typically cause hypoxemia (low PaO2). Hypoventilation (C) would cause hypercapnia and likely hypoxemia."
+  },
+  {
+    "question": "A 42-year-old man comes to the physician because of cramping in his calves during exercise. His brother has high cholesterol levels, and his father had a myocardial infarction at age 45 years. Physical examination shows bilateral tendon xanthomas. Laboratory studies show a serum cholesterol level of 440 mg/dL and a high LDL/HDL ratio. Which of the following is the most likely underlying mechanism of this patient's disease?",
+    "options": [
+      "A. Dominant negative mutation",
+      "B. Ectopic expression",
+      "C. Gain of function mutation",
+      "D. Loss of function mutation",
+      "E. Novel property mutation"
+    ],
+    "answer": "D",
+    "explanation": "The clinical presentation (premature cardiovascular disease symptoms - claudication, strong family history of high cholesterol and early MI, presence of tendon xanthomas) and laboratory findings (markedly elevated total and LDL cholesterol) are classic for heterozygous Familial Hypercholesterolemia (FH). FH is an autosomal dominant disorder most commonly caused by mutations in the LDL receptor (LDLR) gene. These mutations impair the receptor's ability to bind and internalize LDL particles from the circulation, leading to reduced clearance of LDL and consequently very high plasma LDL cholesterol levels. This impairment represents a loss of function of the LDL receptor. A dominant negative mutation (A) involves a mutant protein interfering with the normal protein. Gain of function (C) means the protein does something new or excessive. Ectopic expression (B) is expression in the wrong place. Novel property (E) is gaining a new activity."
+  },
+  {
+    "question": "A 8-year-old boy is brought to the physician 10 days after recovering from a sore throat because his mother notices that 'his face is swollen.' Physical examination shows generalized edema. which the mother says began around the boy's eyes. His blood pressure is 180/130 mm Hg. Urine studies show grossly dark-colored urine, 2+ protein, and blood. Which of the following is the most likely causal organism?",
+    "options": [
+      "A. Coxsackie virus",
+      "B. Echovirus",
+      "C. Pneumococci",
+      "D. Staphylococci",
+      "E. Streptococci"
+    ],
+    "answer": "E",
+    "explanation": "The child presents with classic signs and symptoms of acute post-infectious glomerulonephritis (APGN) approximately 1-2 weeks after a sore throat: periorbital edema progressing to generalized edema, hypertension, hematuria (dark urine), and proteinuria. The most common cause of APGN following pharyngitis is infection with specific nephritogenic strains (e.g., M type 12) of Group A beta-hemolytic streptococci (Streptococcus pyogenes). The glomerulonephritis is caused by deposition of immune complexes containing streptococcal antigens in the glomeruli. Coxsackievirus (A) and Echovirus (B) cause various illnesses but not typically APGN. Pneumococci (C) cause pneumonia/meningitis. Staphylococci (D) can cause glomerulonephritis, usually associated with endocarditis or shunt infections, but post-pharyngitis GN is classically streptococcal."
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "question": "A 1-year-old boy is diagnosed with a degenerative disease involving the basal ganglia. Further studies show less than 1% of normal activity of hypoxanthine guanine phosphoribosyl transferase (HGPRT). Which of the following enzymes is most likely to show increased activity in this patient?",
+    "options": [
+      "A. Arginase",
+      "B. Cytoplasmic carbamoyl phosphate synthetase",
+      "C. 3.4-Dihydroxyphenylalanine (dopa) decarboxylase",
+      "D. Mitochondrial carbamoyl phosphate synthetase",
+      "E. Xanthine oxidase"
+    ],
+    "answer": "E",
+    "explanation": "This child has Lesch-Nyhan syndrome. This condition is caused by an X-linked recessive deficiency of hypoxanthine guanine phosphoribosyl transferase (HGPRT), an enzyme used in the purine salvage pathway. Dysfunction of this pathway leads to overactivation of de novo purine synthesis. Also, because the purine salvage pathway has extremely low activity in Lesch-Nyhan disease, almost all excess purine bases will be converted by xanthine oxidase to uric acid, leading to an overproduction of uric acid. Symptoms of Lesch-Nyhan syndrome include mental retardation, choreoathetoid movements, self-mutilation, hyperuricemia and potentially, gout. Arginase (choice A) is a urea cycle enzyme that catalyzes the hydrolysis of arginine to urea and ornithine. Arginase deficiency is characterized by a triad of symptoms common in every urea cycle deficiency: hyperammonemia, encephalopathy, and respiratory alkalosis. (Don't confuse urea, the major compound by which excess nitrogen is eliminated in humans) with uric acid, the major excretion product of excess purines. Cytoplasmic carbamoyl phosphate synthetase (choice B) catalyzes the committed step of pyrimidine synthesis. Pyrimidine catabolism does not produce uric acid and is not compromised in Lesch-Nyhan disease. 3.4-Dihydroxyphenylalanine (dopa) decarboxylase (choice C) is an enzyme in catecholamine synthesis that catalyzes the conversion of dihydroxyphenylalanine (L-DOPA) to dopamine. This pathway begins with tyrosine and is not related to disposal of extra purine bases. Mitochondrial carbamoyl phosphate synthetase (choice D) catalyzes the condensation and activation of NH3, HCO3- and phosphate (from ATP) to form carbamoyl phosphate, which goes on to participate in urea synthesis."
+  },
+  {
+    "question": "A 42-year-old woman is diagnosed with type 2 diabetes. After trying a diet modification and exercise program, her HbA1c is 7.3% (normal < 6.0%). Treatment with pioglitazone is begun. Which of the following best describes the mechanism of action of this drug?",
+    "options": [
+      "A. Binding to enhancer elements in DNA",
+      "B. Binding fo insulin receptors to increase glucose uptake into cells",
+      "C. Increasing methylation around insulin-responsive promoters",
+      "D. Inhibiting intestinal brush-border glucosidases",
+      "E. Inhibiting K+ channels in the B-islet cells of the pancreas"
+    ],
+    "answer": "A",
+    "explanation": "The thiazolidinediones (pioglitazone and rosiglitazone) bind to nuclear peroxisome proliferator-activating receptors (PPARs), which are enhancer elements in the DNA, involved in transcription of insulin-responsive genes. This binding leads to the sensitization of tissues to insulin and decreases hepatic gluconeogenesis. Thiazolidinediones also lower triglycerides and increase insulin receptor expression. Rosiglitazone remains on the market, but under severe restrictions because of elevated risk of myocardial infarction and stroke. Binding to insulin receptors to increase glucose uptake into cells (choice B) is the mechanism for insulin therapy. Increasing methylation around insulin-responsive promoters (choice C) is related to the mechanism of action for metformin. Alpha-glucosidase inhibitors (choice D), such as acarbose and miglitol, act by inhibiting intestinal brush-border glucosidases to decrease sugar absorption from the diet. Sulfonylureas (choice E) act by inhibiting K+ channels in the B-islet cells of the pancreas, leading to increased insulin release."
+  },
+  {
+    "question": "A 58-year-old man with a history of myocardial infarction develops hypertension. Ultrasound shows severe narrowing of the left renal artery. The patient undergoes surgical revascularization and his blood pressure decreases. This patient's hypertension is most likely caused by increased production of renin by cells in which of the following locations?",
+    "options": [
+      "A. Tunica intima of the afferent arteriole",
+      "B. Tunica media of the afferent arteriole",
+      "C. Wall of the collecting duct",
+      "D. Wall of the distal convoluted tubule adjacent to the afferent arteriole",
+      "E. Wall of the proximal convoluted tubule adjacent to the afferent arteriole"
+    ],
+    "answer": "B",
+    "explanation": "The cells of the juxtaglomerular apparatus (JG) are modified pericytes of the glomerular arterioles and are found in the tunica media of the afferent arteriole. These cells are also sometimes called granular cells, and they secrete renin in response to beta-1 adrenergic stimulation, decreased renal perfusion (as in this case), and decreased NaCl absorption in the macula densa. This patient has renal artery stenosis, which causes decreased perfusion to the kidney, increased renin production, and hypertension. Other cell types found in the juxtaglomerular apparatus include the macula densa cells, which are found in the wall of the distal convoluted tubule adjacent to the afferent arteriole (choice D). Macula densa cells sense sodium chloride concentration in the lumen of the distal tubule. The tunica intima of the afferent arteriole (choice A), the wall of the collecting duct (choice C), and the wall of the proximal convoluted tubule (choice E) do not play a role in the juxtaglomerular apparatus."
+  },
+  {
+    "question": "A researcher isolates a new double-stranded DNA virus that is sensitive to alcohol. What is the most likely means by which this virus would be transmitted in nature?",
+    "options": [
+      "A. Arthropod",
+      "B. Fecal-oral",
+      "C. Respiratory droplet",
+      "D. Sexual/parenteral",
+      "E. Transplacental"
+    ],
+    "answer": "D",
+    "explanation": "Viruses that are sensitive to alcohol are fragile, enveloped viruses. They tend to be transmitted in ways that protect them from dessication or change in temperature, so they are most likely to be associated with sexual or parenteral transmission. Arthropod (choice A) spread is not necessarily associated with the sensitivity of a virus to alcohol. Some arboviruses are naked, and some are enveloped. Fecal-oral (choice B) spread is the mode of transmission of the hardiest of viruses that are generally insensitive to alcohol and gastric acidity. Respiratory droplet (choice C) spread may involve either enveloped or naked capsid viruses, but viruses transmitted in this way may not be as fragile as those transmitted by sexual or parenteral means. Transplacental (choice E) is certainly a mode of transmission that would protect even the most fragile of viruses. Examples of viruses that spread transplacentally include cytomegalovirus, rubella, HIV, and hepatitis B. Transplacental transmission requires that the virus cause viremia, so not all enveloped viruses can be transplacentally transmitted."
+  },
+  {
+    "question": "A 64-year-old man with a history of congestive heart failure comes to the physician because of a 1-month history of moderate swelling of his ankles and occasional dyspnea. Serum potassium is 3.3 mEq/L. Current medications include digoxin, metoprolol, and captopril. Which of the following drugs is most appropriate for this patient?",
+    "options": [
+      "A. Disopyramide",
+      "B. Furosemide",
+      "C. Metolazone",
+      "D. Triamterene",
+      "E. Verapamil"
+    ],
+    "answer": "D",
+    "explanation": "Triamterene is a potassium-sparing diuretic that blocks sodium channels in the cortical collecting tubule. Along with other potassium-sparing diuretics such as spironolactone and amiloride, it decreases sodium resorption and increases potassium resorption, opposing the effect of aldosterone. This medication will treat the patient's peripheral edema and potentially treat the hypokalemia. The class IA antiarrhythmic disopyramide (choice A) and the calcium channel blocker verapamil (choice E) are both contraindicated for use in heart failure since they both have strong negative inotropic effects, which would worsen the patient's heart failure and edematous state. The loop diuretic, furosemide (choice B), and the thiazide diuretic, metolazone (choice C), would both treat the patient's edema. However, both agents would lower the patient's potassium level, which would most likely increase the potential for digoxin toxicity."
+  },
+  {
+    "question": "A study is conducted to determine the incidence of alpha-1-antitrypsin deficiency in various populations. In a Danish population, the incidence is found to be approximately 1/2,500. Which of the following best estimates the carrier frequency in this population?",
+    "options": ["A. 0.0004", "B. 0.02", "C. 0.04", "D. 0.25", "E. 0.96"],
+    "answer": "C",
+    "explanation": "The key to this question is remembering the Hardy-Weinberg population equations: 1 = p^2 + 2pq + q^2 and p + q = 1. Alpha-1-antitryspin deficiency is inherited in an autosomal recessive manner. According to the Hardy-Weinberg equations, p is the frequency of the dominant allele, q is the frequency of the recessive allele, p^2 is the percentage of homozygous dominant individuals, q^2 is the percentage of homozygous recessive individuals, and 2pq is the percentage of heterozygous individuals (carriers of recessive traits). In this population, the incidence of the disease (homozygous recessive) is q^2 = 1/2,500. Therefore, the frequency of the alpha-1-antitrysin deficiency allele, q, is equal to the square root of 1/2,500, which gives q = 1/50 = 0.02. The frequency of the normal allele, p, is equal to 1 - q = 1 - 1/50 = 49/50 = 0.98. Assuming that the population is in Hardy-Weinberg equilibrium, the carrier frequency is equal to 2pq = 2 * (49/50) * (1/50) = 98/2500 = 0.0392. When q is very small, as in this case, a good estimate of carrier frequency is 2q. Using this estimate, 2q = 2 * (1/50) = 2/50 = 0.04. 0.0004 (choice A) is the incidence of the disease, q^2. 0.02 (choice B) is the frequency of the recessive allele, q. 0.25 (choice D) is the probability that two carriers of an autosomal recessive trait will produce an affected child. 0.96 (choice E) is approximately the frequency of the normal allele, p (actually 0.98)."
+  },
+  {
+    "question": "A 32-year-old woman comes to the physician because of fatigue, constipation, menorrhagia, and a 5.4 kg (12 lb) weight gain during the past 2 months. Her pulse is 48/min, and her serum sodium is 132 mEq/dL. Which of the following is the most appropriate pharmacotherapy for this patient?",
+    "options": [
+      "A. Amitriptyline",
+      "B. Atenolol",
+      "C. Insulin aspartate",
+      "D. Levothyroxine",
+      "E. Methimazole"
+    ],
+    "answer": "D",
+    "explanation": "The classic signs and symptoms of hypothyroidism are weakness, lethargy, cold intolerance, constipation, hyponatremia, weight gain, depression, menstrual irregularity (menorrhagia), myalgia, coarse hair, facial edema, bradycardia, and a 'thick tongue'. Laboratory studies will show a high thyroid stimulating hormone (TSH) level. The treatment of choice for this patient is thyroid hormone replacement with levothyroxine. Amitriptyline (choice A) is a tricyclic antidepressant indicated for the treatment of depression and anxiety disorders. Atenolol (choice B) is a beta-blocker indicated for the treatment of hypertension. Insulin aspartate (choice C) is a synthetic rDNA insulin product indicated for the management of both type 1 and type 2 diabetes. Methimazole (choice E) inhibits the synthesis of thyroid hormones and is indicated for the treatment of hyperthyroidism."
+  },
+  {
+    "question": "A 3-day-old male newborn is brought fo the emergency department 20 minutes after he has a seizure. His temperature is 40°C (104°F). Examination of cerebrospinal fluid (CSF) obtained on lumbar puncture shows:\nAppearance cloudy\nGlucose 30 mg/dL\nProtein, total 80 mg/dL\nLeukocyte count 4000/mm^3 (*Note: original text had '4 gpo/mm *', interpreted as 4000 based on context)\nNeutrophils 95%\nWhich of the following diagnostic tests would be most appropriate to determine the causal agent?",
+    "options": [
+      "A. Acid-fast stain of CSF",
+      "B. Culture of CSF on chocolate agar",
+      "C. Enzyme-linked immunoabsorbent assay (ELISA) for CSF antibodies",
+      "D. Gram stain of CSF",
+      "E. Western blot of CSF antibodies"
+    ],
+    "answer": "D",
+    "explanation": "The CSF findings (cloudy appearance, low glucose, high protein, high WBC count with neutrophil predominance) are indicative of bacterial meningitis. The most common cause of neonatal meningitis in the United States is Streptococcus agalactiae (group B streptococcus). Other common causes include Escherichia coli and Listeria monocytogenes. These can be easily distinguished by a Gram stain of the CSF: S. agalactiae is a gram-positive coccus, E. coli is a gram-negative rod, and Listeria is a gram-positive rod. Acid-fast stain of CSF (choice A) would only be appropriate if there was a suspicion of tuberculous meningitis, which is not common in the United States in this age group. Culture of CSF on chocolate agar (choice B) would be diagnostic for Haemophilus influenzae meningitis, which occurs in children who are unvaccinated and between the ages of 3 months and 2 years. Neither ELISA for CSF antibodies (choice C) nor Western blot of CSF antibodies (choice E) are performed during an acute infection, because antibodies are found in very low levels in the CSF; therefore, it is more dependable to measure antigens or identify the organism directly."
+  },
+  {
+    "question": "An investigator creates a composite virus in the laboratory using the capsid of poliovirus and the naked genomic material of respiratory syncytial virus. She then adds the virus to appropriate tissue culture cells for 72 hours. Which of the following is the most likely to be found in the culture cells?",
+    "options": [
+      "A. Abortive infection",
+      "B. Complementation",
+      "C. Phenotypic masking",
+      "D. Phenotypic mixing",
+      "E. Poliovirus progeny",
+      "F. Respiratory syncytial virus progeny"
+    ],
+    "answer": "A",
+    "explanation": "The capsid of the virus dictates the tropism of the virus (i.e. it determines which host cell will be infected). The genomic material of the virus dictates what progeny will be produced. Because the genomic message of respiratory syncytial virus is in a negative-sense RNA form, in the absence of an RNA-dependent RNA polymerase (which normally comes packaged with the virus) to create messenger RNA, the infection would be abortive. No progeny would be produced. Complementation (choice B) is not possible in this case, because the enzyme required to complete the respiratory syncytial virus lifecycle is not included. Complementation occurs when two defective viruses can 'complement' the deficiencies in their genomes by sharing gene products with other viruses in the cell. Phenotypic masking (choice C) occurs when the capsid of one virus forms around the genome of another virus living inside the same cell. Because there is no genetic coding to produce the poliovirus capsid, it is not possible in this case. Phenotypic mixing (choice D) occurs when portions of each virus capsid form around the genomic material. Because there is no genetic coding to produce the poliovirus capsid, it is not possible in this case. Poliovirus progeny (choice E) would only be produced if the composite virus included the genetic material from poliovirus. Respiratory syncytial virus progeny (choice F) would only be produced if the RNA-dependent, RNA polymerase were included, and the question stem stipulates that the naked genomic material (RNA without the polymerase) was all that was included."
+  },
+  {
+    "question": "A 63-year-old woman comes to the emergency department because of a 3-hour history of severe swelling around her eyelids, lips, and tongue and a 2-day history of a nonproductive cough. She started taking a newly prescribed medication three days ago. Which of the following is the best explanation for the inclusion of this drug in the patient's medication regimen?",
+    "options": [
+      "A. Cardiac arrhythmia",
+      "B. Chronic bronchitis",
+      "C. Heart failure",
+      "D. Idiopathic thrombocytopenic purpura",
+      "E. Urinary tract infection"
+    ],
+    "answer": "C",
+    "explanation": "The patient is experiencing angioedema and cough, common side effects of ACE inhibitors. The angiotensin converting enzyme inhibitors, such as enalapril, captopril, and ramipril, are indicated for the treatment of heart failure, hypertension, and diabetic nephropathy. Angiotensin converting enzyme (ACE) inhibitors prevent the conversion of angiotensin I to angiotensin II, which is a potent vasoconstrictor. ACE inhibitors (ACEIs) can cause angioedema, typically involving the face or upper airway. Patients with a history of idiopathic angioedema or C1 esterase inhibitor deficiency are at increased risk for more severe or frequent episodes of angioedema while on ACEIs, and ACEIs should be avoided in such patients. These agents are also associated with the development of a chronic cough; both the angioedema and the dry cough may occur because of increased availability of bradykinin. Heart failure is a common indication for ACE inhibitors."
+  },
+  {
+    "question": "A 47-year-old woman comes to the physician because of a small mass located in the inner lower breast quadrant very near the sternum. Histologic examination of a biopsy specimen of the mass shows invasive carcinoma. The patient undergoes a lumpectomy, and radioactive blue dye is injected to identify a sentinel node for biopsy. Other than the axillary nodes, in which of the following locations is a sentinel node most likely to be located?",
+    "options": [
+      "A. Anterior compartment nodes",
+      "B. Internal mammary chain nodes",
+      "C. Intestinal nodes",
+      "D. Posterior triangle nodes",
+      "E. Supraclavicular nodes"
+    ],
+    "answer": "B",
+    "explanation": "Although it is well known that the breast drains to the axillary nodes, the internal mammary chain nodes (also called the parasternal lymph nodes) also drain the medial breast quadrants, particularly the inner lower quadrant near the sternum. These nodes are located deep to the anterior ends of the intercostal spaces, beside the internal mammary artery. These nodes also drain deeper structures of the anterior abdominal wall above the umbilicus, deeper parts of the anterior part of the thoracic wall, and a small group of lymph nodes behind the xiphoid process that drain the upper surface of the liver. The anterior compartment nodes (choice A) are nodes that drain the larynx and trachea. They surround the midline visceral structures of the neck. Intestinal nodes (choice C) drain abdominal structures. Posterior triangle nodes (choice D) are found in the posterior triangle of the neck near the spinal accessory nerve and drain occipital/mastoid, lateral neck, and nasopharyngeal sources. Supraclavicular nodes (choice E) are found in the hollow above the clavicle, just lateral to the sternum; these nodes drain the thoracic cavity, abdomen, and superior part of the breast. An enlarged left supraclavicular node is known as Virchow node and often indicates gastric cancer."
+  },
+  {
+    "question": "A 30-year-old man comes to the physician for resection of a melanoma on his neck. He has a history of squamous cell skin cancer. Physical examination shows fair skin, white hair, pale blue eyes and a 1-cm, irregularly shaped, darkly pigmented patch of skin on his neck. The enzyme that is deficient in this patient most likely uses which of the following amino acids as a substrate?",
+    "options": [
+      "A. Arginine",
+      "B. Glycine",
+      "C. Phenylalanine",
+      "D. Tryptophan",
+      "E. Tyrosine"
+    ],
+    "answer": "E",
+    "explanation": "The patient most likely has oculocutaneous albinism, an autosomal recessive trait caused by a defect in the enzyme tyrosinase, the enzyme that catalyzes the first step in the conversion of tyrosine to melanin. Patients who have this disorder typically have white hair, white or pink skin, and blue eyes. Squamous cell cancers occur as a result of exposure to sunlight in the absence of melanin and potent sunblocking agents. Basal cell cancers and melanomas are also common in these patients. Arginine is the substrate of arginase (choice A). In the urea cycle, arginase catalyzes the hydrolysis of arginine to urea and ornithine. Classic symptoms of arginase deficiency are hyperammonemia, respiratory alkalosis and encephalopathy. Glycine (choice B) is the substrate of glycine dehydrogenase, the enzyme catalyzing the first step in the breakdown of glycine. A deficiency in glycine dehydrogenase causes nonketotic hyperglycinemia. Phenylalanine (choice C) is the substrate of phenylalanine hydroxylase, which catalyzes the hydroxylation of phenylalanine to tyrosine. A deficiency in phenylalanine hydroxylase causes phenylketonuria (PKU). In the U.S. newborn screening for PKU is mandated in all 50 states, and a child testing positive will be promptly treated by restricting phenylalanine from the diet and supplementing it with tyrosine. If, however, a child with PKU is not treated in this way, he or she will develop progressive mental retardation after birth. In addition, melanin synthesis will be compromised and, like the child with albinism, a child with PKU will also have pale skin, white-blond hair and pale blue eyes. Tryptophan (choice D) is the substrate of tryptophan 2,3-dioxygenase, which catalyzes the first and rate-limiting step in tryptophan degradation."
+  },
+  {
+    "question": "A 30-year-old man comes to the physician for resection of a melanoma on his neck. He has a history of squamous cell skin cancer. Physical examination shows fair skin, white hair, pale blue eyes and a 1-cm, irregularly shaped, darkly pigmented patch of skin on his neck. The enzyme that is deficient in this patient most likely uses which of the following amino acids as a substrate?",
+    "options": [
+      "A. Arginine",
+      "B. Glycine",
+      "C. Phenylalanine",
+      "D. Tryptophan",
+      "E. Tyrosine"
+    ],
+    "answer": "E",
+    "explanation": "The patient most likely has oculocutaneous albinism, an autosomal recessive trait caused by a defect in the enzyme tyrosinase, the enzyme that catalyzes the first step in the conversion of tyrosine to melanin. Patients who have this disorder typically have white hair, white or pink skin, and blue eyes. Squamous cell cancers occur as a result of exposure to sunlight in the absence of melanin and potent sunblocking agents. Basal cell cancers and melanomas are also common in these patients. Arginine is the substrate of arginase (choice A). In the urea cycle, arginase catalyzes the hydrolysis of arginine to urea and ornithine. Classic symptoms of arginase deficiency are hyperammonemia, respiratory alkalosis and encephalopathy. Glycine (choice B) is the substrate of glycine dehydrogenase, the enzyme catalyzing the first step in the breakdown of glycine. A deficiency in glycine dehydrogenase causes nonketotic hyperglycinemia. Phenylalanine (choice C) is the substrate of phenylalanine hydroxylase, which catalyzes the hydroxylation of phenylalanine to tyrosine. A deficiency in phenylalanine hydroxylase causes phenylketonuria (PKU). In the U.S. newborn screening for PKU is mandated in all 50 states, and a child testing positive will be promptly treated by restricting phenylalanine from the diet and supplementing it with tyrosine. If, however, a child with PKU is not treated in this way, he or she will develop progressive mental retardation after birth. In addition, melanin synthesis will be compromised and, like the child with albinism, a child with PKU will also have pale skin, white-blond hair and pale blue eyes. Tryptophan (choice D) is the substrate of tryptophan 2,3-dioxygenase, which catalyzes the first and rate-limiting step in tryptophan degradation."
+  },
+  {
+    "question": "A 8-month-old girl is brought to the physician for a routine examination. She receives the pediatric vaccine against Streptococcus pneumoniae. To which of the following molecules must the capsular polysaccharide bind to elicit a protective immune response?",
+    "options": [
+      "A. CD40",
+      "B. CD40L",
+      "C. Idiotype of B-cell antigen receptor",
+      "D. Idiotype of T-cell antigen receptor",
+      "E. Major histocompatibility type I molecule",
+      "F. Major histocompatibility type II molecule"
+    ],
+    "answer": "C",
+    "explanation": "The pediatric Streptococcus pneumoniae vaccine uses the same strategy as the Haemophilus influenzae vaccine. It is a capsular polysaccharide from the organism, covalently coupled to the diphtheria toxoid, an unrelated protein that acts as a carrier. The B cells of the patient recognize the epitope of the capsule via their B-cell antigen receptor (surface immunoglobulin). The idiotype is the antigen-binding site of the receptor. Once the B cells endocytose and process the conjugate vaccine (polysaccharide + protein carrier), they present peptides from the protein carrier (diphtheria toxoid) in the context of MHC class II to the T-helper cell, which is required to promote isotype switching and memory response to the polysaccharide. CD40 (choice A) is a costimulatory molecule found on B cells, which binds to CD40L on T cells. This causes the signal for isotype switching to occur. It does not directly interact with the antigen. CD40L (choice B) is a costimulatory molecule found on TH2 cells, which binds to CD40 on B cells. This causes the signal for isotype switching to occur. It does not directly interact with the antigen. The idiotype of the T-cell antigen receptor (choice D) is what must interact with the MHC class II/peptide combination presented by the B cell. It would recognize the diphtheria toxoid component (carrier) in the vaccine, not the polysaccharide. The major histocompatibility type I molecule (choice E) presents peptides to cytotoxic T lymphocytes, which are not involved in this vaccination process. The major histocompatibility type II molecule (choice F) presents peptides (from the protein carrier) to T-helper lymphocytes. Only peptides can bind to this molecule, not the polysaccharide directly."
+  },
+  {
+    "question": "A 3-year-old girl is brought to the physician because of a 2-week history of diarrhea with unformed. watery, nonbloody stools. Her father says that several other children in her daycare also have diarrhea. Microscopic examination of a fresh stool specimen stained with iodine shows numerous smooth-walled, oval cysts that contain curved median bodies, axonemes, and four nuclei. Also present are leaf-shaped trophozoites. The trophozoites have a face-like image with two nuclei and transversely placed median bodies. Which of the following is the most appropriate treatment for this patient?",
+    "options": [
+      "A. Ampicillin",
+      "B. Azithromycin",
+      "C. Ketoconazole",
+      "D. Metronidazole",
+      "E. Tetracycline"
+    ],
+    "answer": "D",
+    "explanation": "The patient is presenting with giardiasis, an enteric infection caused by a flagellated, binucleated protozoan that causes enterogastritis, Giardia lamblia. The description of the cysts and trophozoites (face-like image) is classic for Giardia. Presentations can vary from the asymptomatic passage of cysts in the feces to acute, self-limiting watery, foul-smelling diarrhea to chronic diarrhea. Growth retardation in children has also been seen. It is a common cause of diarrhea in daycare centers as well as in campers and hikers who drink from fresh water sources that may be contaminated with animal fecal matter. The diagnosis is made through the detection of cysts or trophozoites in a stool sample. Metronidazole is recommended as a first-line treatment. Ampicillin (choice A) is indicated for the treatment of a variety of bacterial infections. Azithromycin (choice B) is a macrolide indicated for the treatment of various bacterial infections. Ketoconazole (choice C) is indicated for the treatment of fungal infections. Tetracycline (choice E) is indicated for certain bacterial and other infections, but not typically Giardia."
+  },
+  {
+    "question": "A 32-year-old primigravid woman at 20 weeks' gestation comes to the physician for routine prenatal care. Her thyroid function is evaluated. Which of the following laboratory serum profiles provides the best evidence for normal thyroid function in this patient?\nKey: t = above normal range; } = below normal range; N = within normal range\nColumns represent: TSH, Total T4, Total T3, Free T4, Free T3",
+    "options": [
+      "A. N, N, N, N, N",
+      "B. N, t, t, N, N",
+      "C. N, }, }, }, }",
+      "D. t, t, t, t, t",
+      "E. t, N, N, }, }",
+      "F. t, t, t, t, t",
+      "G. t, t, t, }, }"
+    ],
+    "answer": "B",
+    "explanation": "In healthy pregnancy, estrogen causes an increase in thyroid binding globulin (TBG). As the TBG increases, it binds more T4 and T3, transiently reducing free levels of both hormones. This decrease in free hormones stimulates TSH, leading to increased thyroid hormone production. At steady state (in pregnancy), there is increased total T4 and T3 because of the increased amount circulating bound to TBG. However, the patient remains euthyroid, with normal levels of free T4 and T3. Since free thyroid hormone levels are normal, the feedback signals that control TSH are normal, so the TSH level is also normal. Therefore, the expected pattern is Normal TSH, High Total T4, High Total T3, Normal Free T4, Normal Free T3. Choice A reflects the normal state in nonpregnant females. Choice C is inconsistent. Choice D represents primary hyperthyroidism. Choice E suggests primary hypothyroidism with possibly non-thyroidal illness affecting free levels. Choice F represents secondary hyperthyroidism. Choice G might represent a transition state or primary hyperthyroidism with altered free levels."
+  },
+  {
+    "question": "A 46-year-old man comes to a physician because of a 3-month history of generalized edema. Urinalysis shows oval fat bodies and fatty casts. A 24-hour urine study shows a loss of 4.5 g protein/day. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Focal segmental glomerulonephritis",
+      "B. IgA nephropathy",
+      "C. Membranoproliferative glomerulonephritis",
+      "D. Membranous glomerulonephritis",
+      "E. Minimal change disease"
+    ],
+    "answer": "D",
+    "explanation": "This patient has nephrotic syndrome, characterized by heavy proteinuria (>3.5 g/day), hypoalbuminemia, generalized edema, hyperlipidemia, and lipiduria (oval fat bodies, fatty casts). Membranous glomerulonephritis is the most common cause of primary nephrotic syndrome in non-diabetic Caucasian adults. Focal segmental glomerulonephritis (FSGS) (choice A) is also a common cause of nephrotic syndrome in adults, particularly in African Americans and Hispanics, but membranous was historically considered the most frequent overall. IgA nephropathy (choice B) typically presents as nephritic syndrome (hematuria) but can sometimes cause nephrotic syndrome. Membranoproliferative glomerulonephritis (MPGN) (choice C) can cause either nephritic or nephrotic syndrome. Minimal change disease (choice E) is the most frequent cause of nephrotic syndrome in children, not adults."
+  },
+  {
+    "question": "A 23-year-old woman is brought to the physician by her brother because 'something is just not right with her.' He says that she spends most of her time alone, does not really have any friends, and spends all day buying and selling Barbie dolls on eBay. She has a collection of thousands of dolls. She tells the physician that whenever she feels ill, she 'recites a secret verse and rubs her special good-luck charm and everything turns out all right.' Physical examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Antisocial personality disorder",
+      "B. Avoidant personality disorder",
+      "C. Borderline personality disorder",
+      "D. Dependent personality disorder",
+      "E. Histrionic personality disorder",
+      "F. Schizoid personality disorder",
+      "G. Schizotypal personality disorder"
+    ],
+    "answer": "G",
+    "explanation": "Schizotypal personality disorder is characterized by odd behavior, including magical thinking (e.g., 'secret verse', 'good-luck charm'), ideas of reference, illusions, idiosyncratic meanings, social anxiety or even paranoia, and suspiciousness. These individuals lack close friends, have odd speech or thinking, exhibit social isolation, and may have peculiar interests (e.g., intense focus on Barbie dolls). Antisocial personality disorder (choice A) involves disregard for and violation of others' rights. Avoidant personality disorder (choice B) involves social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation, but individuals typically desire relationships. Borderline personality disorder (choice C) involves instability in relationships, self-image, and affect, along with impulsivity. Dependent personality disorder (choice D) involves a pervasive need to be taken care of, leading to submissive and clinging behavior. Histrionic personality disorder (choice E) involves excessive emotionality and attention-seeking. Schizoid personality disorder (choice F) involves detachment from social relationships and a restricted range of emotional expression, but typically lacks the odd beliefs and perceptual distortions of schizotypal PD."
+  },
+  {
+    "question": "A 16-year-old girl is brought to the physician because of morning stiffness in her hips and hands that resolves after approximately 1 hour. She says that she also develops a burning red rash across her cheeks when she is exposed to the sun. Which of the following is the most likely mechanism of rash formation in this patient?",
+    "options": [
+      "A. Autoantibody-mediated lysis of endothelial cells",
+      "B. Complement activation following immune complex deposition in blood vessels",
+      "C. Cytotoxic T lymphocyte-mediated cytolysis of endothelial cells",
+      "D. Hapten-mediated endothelial cytolysis",
+      "E. IgE-mediated mast cell degranulation in the skin"
+    ],
+    "answer": "B",
+    "explanation": "This patient most likely has systemic lupus erythematosus (SLE), suggested by inflammatory arthritis (morning stiffness > 30 min) and photosensitive malar rash. SLE is primarily a type III hypersensitivity reaction. Autoantibodies (e.g., anti-dsDNA, anti-Sm) form immune complexes with antigens. These complexes circulate and deposit in various tissues, including small blood vessels in the skin. Deposition triggers complement activation, leading to inflammation (vasculitis) and tissue damage, manifesting as the characteristic rash. Autoantibody-mediated lysis of endothelial cells (choice A) describes a type II hypersensitivity. Cytotoxic T lymphocyte-mediated cytolysis (choice C) describes a type IV hypersensitivity. Hapten-mediated cytolysis (choice D) is not the primary mechanism in SLE. IgE-mediated mast cell degranulation (choice E) describes type I (allergic) hypersensitivity."
+  },
+  {
+    "question": "A 25-year-old man is brought to the emergency department 20 minutes after coughing up a large amount of blood. He says that he has also been having vague symptoms of malaise and fatigue. Urine studies show hematuria. Daily plasma exchange therapy is started, and his condition improves after 14 days. Electron microscopy of tissue obtained on renal biopsy is most likely to show which of the following?",
+    "options": [
+      "A. Dense-deposit disease",
+      "B. Glomerular basement membrane disruption",
+      "C. Mesangial dense deposits",
+      "D. Subendothelial deposits",
+      "E. Subepithelial humps"
+    ],
+    "answer": "B",
+    "explanation": "This patient presents with hemoptysis and hematuria, classic signs of pulmonary-renal syndrome. Goodpasture syndrome, caused by autoantibodies against the alpha-3 chain of type IV collagen in the glomerular basement membrane (GBM) and alveolar basement membrane, is a likely diagnosis, especially given the improvement with plasma exchange (which removes antibodies). The antibodies cause direct damage and inflammation. Electron microscopy can show damage and breaks in the glomerular basement membrane. Immunofluorescence microscopy classically shows linear IgG and C3 deposits along the GBM. Dense-deposit disease (choice A) is characteristic of MPGN type II. Mesangial dense deposits (choice C) are seen in IgA nephropathy. Subendothelial deposits (choice D) are typical of lupus nephritis (Class III/IV) or MPGN type I. Subepithelial humps (choice E) are characteristic of post-streptococcal glomerulonephritis."
+  },
+  {
+    "question": "A 35-year-old man comes to the physician because of a 2-year history of difficulty conceiving a child with his wife. He is 185 cm (6 ft 1 in) tall. Physical examination shows gynecomastia, small testes, and a small penis. Semen analysis shows azoospermia. A genetic abnormality is suspected. Which of the following findings is most likely present on testicular biopsy?",
+    "options": [
+      "A. Diffuse acute inflammation with abscess formation",
+      "B. Numerous granulomas with giant cells containing asteroid bodies",
+      "C. Replacement of tubules with hyalinized ghosts",
+      "D. Spermatocytic seminoma",
+      "E. Tubules with well-preserved Sertoli cells but no mature sperm"
+    ],
+    "answer": "C",
+    "explanation": "The clinical presentation (tall stature, gynecomastia, small testes, infertility/azoospermia) is classic for Klinefelter syndrome (47,XXY). Klinefelter syndrome causes dysgenesis of the seminiferous tubules, leading to impaired spermatogenesis and infertility. Testicular biopsy typically shows extensive hyalinization and fibrosis of the seminiferous tubules ('hyalinized ghosts'), with atrophy and loss of germ cells. Leydig cells may appear prominent due to tubular atrophy. Diffuse acute inflammation (choice A) suggests orchitis. Granulomas (choice B) suggest granulomatous orchitis (e.g., TB, autoimmune). Spermatocytic seminoma (choice D) is a germ cell tumor, typically in older men. Preserved Sertoli cells but absent mature sperm (Sertoli cell-only syndrome) (choice E) is another cause of male infertility but the extensive hyalinization is more characteristic of Klinefelter."
+  },
+  {
+    "question": "A 22-year-old woman comes to the emergency department because of a 4-day history of severe pain in her wrists and knee joints. Her temperature is 38.2°C (100.8°F). Physical examination shows tenderness and limited range of motion in her wrists and knees and vesiculopustular skin lesions on her arms and legs. Which of the following drugs is the most appropriate therapy?",
+    "options": [
+      "A. Azithromycin",
+      "B. Ceftriaxone",
+      "C. Colchicine",
+      "D. Ibuprofen",
+      "E. Prednisone"
+    ],
+    "answer": "B",
+    "explanation": "This presentation suggests disseminated gonococcal infection (DGI), characterized by the triad of tenosynovitis, dermatitis (vesiculopustular lesions, often on extremities), and migratory polyarthralgia/polyarthritis. Fever is common. DGI is caused by Neisseria gonorrhoeae. The treatment of choice for DGI is hospitalization and parenteral administration of a third-generation cephalosporin, such as ceftriaxone. Azithromycin (choice A) is used for Chlamydia infections, often co-administered with ceftriaxone for uncomplicated gonorrhea, but ceftriaxone is preferred for DGI. Colchicine (choice C) is used for gout. Ibuprofen (choice D) and Prednisone (choice E) manage inflammation but do not treat the underlying infection."
+  },
+  {
+    "question": "A 41-year-old man comes to the emergency department because of shortness of breath and palpitations. His pulse is 110/min. A Swan-Ganz catheter is placed and shows decreased mean arterial pressure, low pulmonary wedge pressure, and decreased cardiac output. Which of the following is most likely decreased in this patient?",
+    "options": [
+      "A. Ejection fraction",
+      "B. End diastolic volume",
+      "C. End systolic volume",
+      "D. Total peripheral resistance",
+      "E. Venous compliance"
+    ],
+    "answer": "B",
+    "explanation": "The patient has tachycardia (110/min), hypotension (decreased MAP), decreased cardiac output, and low pulmonary capillary wedge pressure (PCWP). Low PCWP indicates low left ventricular preload (end-diastolic volume). The decreased preload (low EDV) leads to decreased stroke volume (SV = EDV - ESV), which, despite the compensatory tachycardia, results in decreased cardiac output (CO = SV x HR). This hemodynamic profile is consistent with hypovolemic shock (e.g., due to hemorrhage) or distributive shock where preload is reduced. Ejection fraction (EF = SV/EDV) might be normal or even increased due to sympathetic stimulation attempting to compensate, so it's unlikely to be decreased (choice A). End systolic volume (ESV) might decrease or stay the same depending on contractility changes, but a primary decrease in ESV would increase SV (choice C). Total peripheral resistance (TPR) is usually increased in hypovolemic shock due to compensatory vasoconstriction, although it's decreased in distributive shock (choice D). Venous compliance (choice E) changes are less likely to be the primary driver here; decreased compliance would increase venous return."
+  },
+  {
+    "question": "The distribution of molecular products of the eight segments of the influenza A virus genome is shown.\nSegment 4: Hemagglutinin\nSegment 6: Neuraminidase\nIf a cell is co-infected with an animal and a human influenza virus, reassortment of which of the following segments would be most likely to cause serious disease in humans?",
+    "options": [
+      "A. Segments 1-3",
+      "B. Segment 4",
+      "C. Segment 5",
+      "D. Segment 6",
+      "E. Segment 7",
+      "F. Segment 8"
+    ],
+    "answer": "B",
+    "explanation": "Antigenic shift, resulting from the reassortment of genomic segments between different influenza A strains (e.g., animal and human), can lead to pandemics because the human population lacks immunity to the novel surface antigens. The hemagglutinin (HA) molecule, encoded by segment 4, is the primary antigen responsible for viral attachment to host cells and is the main target for neutralizing antibodies. A major change in the HA protein through reassortment (e.g., acquiring an HA subtype from an avian virus) means pre-existing antibodies in humans will not recognize it, allowing the new virus to cause widespread, severe disease. While changes in neuraminidase (NA, segment 6) also contribute to antigenic shift, changes in HA are considered more critical for pandemics. Segments 1-3 (choice A) encode the RNA polymerase complex. Segment 5 (choice C) encodes the nucleoprotein (NP). Segment 7 (choice E) encodes matrix proteins (M1, M2). Segment 8 (choice F) encodes non-structural proteins (NS1, NS2). While reassortment of any segment can occur, changes in the surface glycoproteins (HA and NA) are key to immune evasion and pandemic potential, with HA being paramount."
+  },
+  {
+    "question": "A 26-year-old woman with a history of HIV infection asks her physician to include her in a trial of a new CCR5 inhibitor. Which of the following is the mechanism of action of this type of drug?",
+    "options": [
+      "A. To inhibit the viral nef gene product",
+      "B. To inhibit proviral integration",
+      "C. To prevent infection of B lymphocytes",
+      "D. To prevent infection of macrophages",
+      "E. To prevent syncytia formation"
+    ],
+    "answer": "D",
+    "explanation": "HIV requires binding to CD4 and a coreceptor (either CCR5 or CXCR4) to enter target cells. Macrophages and some T cells primarily express CCR5 (R5-tropic viruses use this), while other T cells express CXCR4 (X4-tropic viruses use this). CCR5 inhibitors, like Maraviroc, are entry inhibitors that selectively bind to the human CCR5 coreceptor on the cell membrane. This prevents the interaction between the HIV envelope protein gp120 and CCR5, blocking the entry of R5-tropic HIV into susceptible cells, notably macrophages and CCR5-expressing CD4 T cells. Nef (choice A) is a regulatory protein. Integrase inhibitors block proviral integration (choice B). HIV primarily infects CD4+ T cells and macrophages, not B lymphocytes (choice C). While entry inhibition might indirectly reduce syncytia formation (cell fusion), the primary mechanism is blocking entry into individual cells, particularly CCR5-expressing ones like macrophages (choice E vs D)."
+  },
+  {
+    "question": "A 62-year-old man with a history of peripheral vascular disease comes to the physician because of abdominal pain and blood in his stools. Angiography shows a partial but severe blockage of an artery at its origin from the aorta, and also illustrates that the gastrointestinal bleeding site is in the mid transverse colon. Which of the following vessels is most likely to provide collateral circulation to the affected part of the colon?",
+    "options": [
+      "A. Ileocolic artery",
+      "B. Intestinal artery",
+      "C. Left colic artery",
+      "D. Middle colic artery",
+      "E. Right colic artery"
+    ],
+    "answer": "C",
+    "explanation": "The mid transverse colon is primarily supplied by the middle colic artery, a branch of the superior mesenteric artery (SMA). The scenario implies a blockage near the origin of the SMA from the aorta. Ischemia in the mid transverse colon suggests compromised flow through the middle colic artery. Collateral circulation to this area can come from the inferior mesenteric artery (IMA) system via the marginal artery of Drummond, which connects branches of the SMA and IMA. The left colic artery, a branch of the IMA, supplies the distal transverse colon and descending colon. Anastomoses between the middle colic artery (SMA system) and the left colic artery (IMA system) via the marginal artery allow the IMA system to potentially supply the ischemic area when SMA flow is compromised. The ileocolic artery (choice A), intestinal arteries (jejunal/ileal branches) (choice B), middle colic artery (choice D - this is the primary supply, likely compromised), and right colic artery (choice E) are all branches of the SMA."
+  },
+  {
+    "question": "A 3-month-old girl is brought to the emergency department after her mother finds her unresponsive when she tries to wake her for an early morning feeding. Despite resuscitation efforts, the patient dies within 15 minutes. Laboratory studies show severe hypoglycemia, lactic acidosis, hyperammonemia, increased urea nitrogen (BUN), elevated liver aminotransferases, and decreased acetoacetate and 3-hydroxybutyrate levels. Autopsy shows fatty liver, heart, and kidneys, and cerebral edema. This patient most likely had a defect in which of the following pathways?",
+    "options": [
+      "A. Conversion of fatty acids to acetyl CoA",
+      "B. Conversion of glycogen to glucose",
+      "C. Lysosomal hydrolysis of a sphingolipid",
+      "D. Synthesis of a sphingolipid",
+      "E. Synthesis of a triglyceride from fatty acids and glycerol-3-phosphate"
+    ],
+    "answer": "A",
+    "explanation": "The combination of severe hypoketotic hypoglycemia (low glucose with low ketones like acetoacetate and 3-hydroxybutyrate) during a period of fasting (overnight) is highly suggestive of a defect in fatty acid beta-oxidation. Beta-oxidation (choice A) breaks down fatty acids to acetyl-CoA, which normally fuels ketogenesis and gluconeogenesis during fasting. A defect prevents ketone body production and impairs gluconeogenesis, leading to hypoglycemia without compensatory ketosis. The accumulation of fatty acids leads to fatty infiltration of organs (liver, heart, kidneys). Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency is the most common defect. Defects in glycogenolysis (choice B) cause hypoglycemia but usually with appropriate ketosis and often hepatomegaly. Lysosomal storage diseases (choice C) present differently (e.g., hepatosplenomegaly, neurodegeneration). Defects in sphingolipid synthesis (choice D) or triglyceride synthesis (choice E) are generally not associated with this acute metabolic presentation."
+  },
+  {
+    "question": "A 45-year-old woman comes to the physician because of a 2-month history of fatigue. Physical examination shows an obese patient who has a very round face and fat accumulation on the upper part of her back near her neck. An MRI scan of the abdomen shows a 2-cm adrenal mass. The mass most likely produces a substance that stimulates which of the following?",
+    "options": [
+      "A. Gi-coupled receptors",
+      "B. Gq-coupled receptors",
+      "C. Gs-coupled receptors",
+      "D. Intracellular receptors",
+      "E. Ligand-gated ion channels",
+      "F. Receptor tyrosine Kinases",
+      "G. Voltage-gated ion channels"
+    ],
+    "answer": "D",
+    "explanation": "The patient presents with classic signs of Cushing syndrome (central obesity, moon facies, buffalo hump). The adrenal mass suggests the syndrome is caused by excessive cortisol production from an adrenal adenoma or carcinoma. Cortisol is a steroid hormone. Steroid hormones (glucocorticoids, mineralocorticoids, androgens, estrogens) exert their effects by binding to intracellular receptors (typically located in the cytoplasm or nucleus). The hormone-receptor complex then translocates to the nucleus and acts as a transcription factor, modulating gene expression. G-protein coupled receptors (choices A, B, C) mediate responses to many peptide hormones and neurotransmitters. Ligand-gated ion channels (choice E) are typically activated by neurotransmitters (e.g., acetylcholine at nicotinic receptors). Receptor tyrosine kinases (choice F) mediate responses to insulin and many growth factors. Voltage-gated ion channels (choice G) are crucial for neuronal action potentials."
+  },
+  {
+    "question": "A 38-year-old multigravid woman comes to the physician because of a 1-year history of irregular menses and a 2-month history of amenorrhea. She is sexually active and does not take oral contraceptives. Laboratory studies show a human chorionic gonadotropin level of <1 IU/mL, serum TSH level of 3.2 pU/mL, prolactin of 5.3 ng/mL, FSH of 45.5 U/L, and LH of 64.2 U/L. A progesterone challenge test results in no withdrawal bleeding, and an estrogen/progesterone challenge test does produce withdrawal bleeding. Which of the following is the most likely cause of this patient's amenorrhea?",
+    "options": [
+      "A. Chronic liver disease",
+      "B. Pituitary adenoma",
+      "C. Pregnancy",
+      "D. Premature ovarian failure",
+      "E. Thyroid disease"
+    ],
+    "answer": "D",
+    "explanation": "The patient has secondary amenorrhea. Lab results show negative hCG (ruling out pregnancy, choice C), normal TSH (ruling out significant thyroid disease, choice E), and normal prolactin (making prolactinoma unlikely, choice B). The key findings are markedly elevated FSH and LH levels, indicating a lack of negative feedback from the ovaries. This signifies ovarian failure. Since the patient is only 38, this is premature ovarian failure (POF), also known as primary ovarian insufficiency. The progesterone challenge test yielded no bleeding, indicating insufficient estrogen priming of the endometrium. However, bleeding occurred after estrogen/progesterone challenge, confirming the uterus is responsive and the primary issue is lack of estrogen production by the failing ovaries. Chronic liver disease (choice A) can affect hormone metabolism but typically doesn't cause such high gonadotropin levels."
+  },
+  {
+    "question": "The para shows body fluid volumes and osmolarity in a patient and in a healthy volunteer. The patient is oliguric, with a urine osmolarity of 1000 mOsmol/L. The gray shaded area represents the patient, and the unshaded area represents the healthy volunteer. [Diagram description: A Darrow-Yannet diagram showing Osmolarity vs Volume. Patient (gray) shows slightly increased osmolarity (~300+ mOsm/L vs ~290 in volunteer) and significantly decreased volume in both ECF and ICF compartments compared to volunteer]. Which of the following is the most likely cause of the patient's disorder?",
+    "options": [
+      "A. Diabetes insipidus",
+      "B. Excessive secretion of aldosterone",
+      "C. Primary polydipsia",
+      "D. Syndrome of inappropriate antidiuretic hormone (SIADH)",
+      "E. Water deprivation"
+    ],
+    "answer": "E",
+    "explanation": "The Darrow-Yannet diagram for the patient shows hyperosmolarity (higher osmolarity than normal) and volume contraction (decreased ECF and ICF volume). This pattern is characteristic of loss of free water or inadequate water intake. The patient is oliguric (low urine output) with highly concentrated urine (1000 mOsmol/L), indicating the kidneys are appropriately conserving water in response to dehydration. This clinical picture strongly suggests water deprivation. Diabetes insipidus (choice A) also causes hyperosmotic volume contraction, but urine would be inappropriately dilute. Excessive aldosterone (choice B) causes ECF volume expansion, often with normal osmolarity. Primary polydipsia (choice C) leads to hyposmotic volume expansion and dilute urine. SIADH (choice D) causes hyposmotic volume expansion (or euvolemia) and inappropriately concentrated urine."
+  },
+  {
+    "question": "A 42-year-old man comes to the physician because of dark-colored urine in the morning. Complete blood count shows a mild normochromic, normocytic anemia with increased reticulocytes. Laboratory testing shows erythrocyte lysis when acidified serum is added to the patient's red blood cells. This patient's condition is most likely related to a mutation of which of the following genes?",
+    "options": [
+      "A. Ankyrin",
+      "B. B-hemoglobin chain",
+      "C. Glucose-6-phosphate dehydrogenase",
+      "D. Phosphatidylinositol glycan A",
+      "E. Spectrin"
+    ],
+    "answer": "D",
+    "explanation": "The presentation of episodic hemoglobinuria (dark urine, worse in the morning), hemolytic anemia (normocytic, increased reticulocytes), and a positive acidified serum lysis test (Ham test) is classic for paroxysmal nocturnal hemoglobinuria (PNH). PNH is an acquired clonal disorder caused by a somatic mutation in the PIGA (Phosphatidylinositol glycan class A) gene in a hematopoietic stem cell. The PIGA gene is required for the synthesis of glycosylphosphatidylinositol (GPI) anchors, which attach various proteins to the cell surface, including complement regulatory proteins CD55 and CD59. Lack of these proteins makes red blood cells highly susceptible to complement-mediated lysis. Mutations in Ankyrin (choice A) or Spectrin (choice E) cause hereditary spherocytosis. Mutations in the B-hemoglobin chain (choice B) cause hemoglobinopathies like sickle cell anemia or thalassemia. Mutations in Glucose-6-phosphate dehydrogenase (choice C) cause G6PD deficiency, leading to episodic hemolysis triggered by oxidative stress."
+  },
+  {
+    "question": "A 62-year-old woman comes to the physician because of a 1-month history of difficulty seeing. Visual field testing results are shown, indicating a left inferior quadrantanopia. [Diagram Description: Image showing visual pathways with labels A-G pointing to Optic Nerve (A), Chiasm (B, C), Tract (D), Meyer's Loop (E), Optic Radiation projecting to Cuneus (F), Lingual Gyrus/Visual Cortex (G)]. Which of the following labeled structures has most likely been damaged?",
+    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "answer": "F",
+    "explanation": "A left inferior quadrantanopia (loss of vision in the lower left visual field quadrant of both eyes) is caused by damage to the contralateral superior optic radiation or the superior portion of the contralateral primary visual cortex. The superior optic radiation fibers carry information from the superior retinal quadrants (which receive input from the inferior visual field) and project to the cuneus gyrus (the upper bank of the calcarine sulcus) in the occipital lobe. Therefore, a lesion affecting the right superior optic radiation (labeled F, projecting towards the cuneus) would cause a left inferior quadrantanopia. A lesion of the optic nerve (A) causes monocular blindness. A midsagittal chiasm lesion (B) causes bitemporal hemianopia. A lateral chiasm lesion (C) causes nasal hemianopia. An optic tract lesion (D) causes contralateral homonymous hemianopia. A lesion of Meyer's loop (inferior optic radiation) (E) causes contralateral superior quadrantanopia. A lesion of the entire visual cortex (G) typically causes contralateral homonymous hemianopia, possibly with macular sparing."
+  },
+  {
+    "question": "A 51-year-old woman comes to the physician because of morning stiffness that lasts 30 minutes after she wakes. Radiographic skeletal examination shows asymmetric joint space narrowing, marginal osteophytes, subchondral sclerosis, and subchondral cysts. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Calcium pyrophosphate deposition disease",
+      "B. Gouty arthritis",
+      "C. Osteoarthritis",
+      "D. Osteoporosis",
+      "E. Rheumatoid arthritis"
+    ],
+    "answer": "C",
+    "explanation": "The clinical feature of morning stiffness lasting less than 30 minutes, combined with radiographic findings of asymmetric joint space narrowing, osteophytes (bone spurs), subchondral sclerosis (increased bone density beneath cartilage), and subchondral cysts, are characteristic features of osteoarthritis (OA). OA is a degenerative joint disease involving cartilage breakdown. Calcium pyrophosphate deposition disease (CPPD) (choice A) and gout (choice B) are crystal arthropathies causing episodic inflammation; radiographs may show chondrocalcinosis (CPPD) or erosions with overhanging edges (gout). Osteoporosis (choice D) involves decreased bone density, not these specific joint changes. Rheumatoid arthritis (choice E) is an inflammatory arthritis typically causing symmetric joint involvement, prolonged morning stiffness (>1 hour), periarticular osteopenia, and marginal erosions, not osteophytes or subchondral sclerosis."
+  },
+  {
+    "question": "A study is conducted to determine the effects of various pharmacologic agents on kidney function in healthy volunteers. A drug that increases the concentration of cAMP locally in the renal afferent arterioles is administered to a subject. Which of the following sets of findings is most likely?\nColumns: Renal Blood Flow, Glomerular Filtration Rate, Peritubular Capillary Pressure",
+    "options": [
+      "A. Decrease, Decrease, Decrease",
+      "B. Decrease, Decrease, Increase",
+      "C. Increase, Increase, Increase",
+      "D. Increase, Decrease, Increase",
+      "E. Increase, Increase, Decrease"
+    ],
+    "answer": "C",
+    "explanation": "Increased cAMP in vascular smooth muscle generally leads to relaxation (vasodilation). Therefore, increasing cAMP specifically in the renal afferent arterioles will cause afferent vasodilation. Afferent vasodilation decreases resistance to blood flow into the glomerulus, leading to increased renal blood flow (RBF). It also increases the hydrostatic pressure within the glomerular capillaries (Pgc). Increased Pgc increases the net filtration pressure, leading to an increased glomerular filtration rate (GFR). The increased pressure in the glomerular capillaries will also lead to increased pressure downstream in the efferent arteriole and peritubular capillaries, thus increasing peritubular capillary pressure. Therefore, the expected findings are increased RBF, increased GFR, and increased peritubular capillary pressure. Choice A represents afferent constriction. Choice D suggests efferent dilation. Choice E suggests afferent dilation plus efferent constriction."
+  },
+  {
+    "question": "A 20-year-old woman comes to the physician because of a 1-year history of weakness grasping objects between the thumb and fingers of her left hand. She cut her palm while cooking 1 year ago. Physical examination shows atrophy of the thenar eminence. Which of the following muscles are most likely affected in this patient?",
+    "options": [
+      "A. Abductor digiti minimi, flexor digiti minimi, opponens pollicis",
+      "B. Abductor pollicis brevis, abductor pollicis longus, flexor pollicis brevis, opponens pollicis",
+      "C. Abductor pollicis brevis, flexor pollicis brevis, opponens pollicis",
+      "D. Brachioradialis, extensor carpi radialis brevis, extensor carpi radialis longus",
+      "E. Lumbricals, pronator teres, supinator"
+    ],
+    "answer": "C",
+    "explanation": "Atrophy of the thenar eminence combined with weakness of thumb opposition and abduction points to damage to the recurrent branch of the median nerve, which typically arises after the median nerve passes through the carpal tunnel and innervates the three thenar muscles: opponens pollicis, abductor pollicis brevis, and the superficial head of the flexor pollicis brevis. A cut to the palm could easily injure this superficial branch. Therefore, these three muscles (choice C) are most likely affected. Choice A includes hypothenar muscles (innervated by ulnar nerve). Choice B includes abductor pollicis longus (innervated by radial nerve). Choice D lists muscles innervated by the radial nerve. Choice E lists lumbricals (median and ulnar nerves) and forearm muscles (median and radial nerves)."
+  },
+  {
+    "question": "A 55-year-old woman comes to the physician because of weakness, fatigue, abdominal pain, and nausea. She recently immigrated to the United States. Her blood pressure is 70/55 mm Hg while sitting and 55/45 mm Hg on standing. A PPD test is positive. Which of the following additional findings is most likely in this patient?",
+    "options": [
+      "A. Hypernatremia",
+      "B. Increased daily excretion of 17-hydroxysteroids",
+      "C. Increased daily excretion of 17-ketosteroids",
+      "D. Increased skin pigmentation",
+      "E. Increased volume of extracellular fluid"
+    ],
+    "answer": "D",
+    "explanation": "This patient presents with symptoms suggestive of primary adrenal insufficiency (Addison disease): weakness, fatigue, nausea, abdominal pain, and severe orthostatic hypotension. The positive PPD test suggests tuberculosis may be the underlying cause (adrenal destruction). Primary adrenal insufficiency involves the destruction of the adrenal cortex, leading to deficiencies in both cortisol and aldosterone. The lack of cortisol leads to loss of negative feedback on the pituitary, resulting in increased ACTH secretion. ACTH (and its precursor POMC) stimulates melanocytes, causing hyperpigmentation (increased skin pigmentation), especially in sun-exposed areas, skin creases, and buccal mucosa. Aldosterone deficiency leads to sodium loss and potassium retention, causing hyponatremia (not hypernatremia, choice A) and hyperkalemia, as well as volume depletion (decreased ECF volume, choice E). Urinary steroid metabolites (17-hydroxysteroids for cortisol, 17-ketosteroids for androgens) would be decreased, not increased (choices B, C)."
+  },
+  {
+    "question": "A 10-year-old boy is brought to the emergency department because of a high fever and a headache. His father reports that he complained of a persistent, unpleasant smell. The boy just returned home from a camping trip. A lumbar puncture shows motile microorganisms measuring 10-15 µm in diameter in the cerebrospinal fluid. Which of the following is most consistent with the diagnosis of a parasitic agent?",
+    "options": [
+      "A. 70S ribosomes",
+      "B. Chitin-containing cell wall",
+      "C. Cholesterol-containing cell membrane",
+      "D. Peptidoglycan",
+      "E. Polycistronic messenger RNA"
+    ],
+    "answer": "C",
+    "explanation": "The clinical scenario (fever, headache, altered smell sensation after camping/exposure to fresh water) and finding large (10-15 µm), motile organisms in the CSF suggest primary amebic meningoencephalitis (PAM) caused by the free-living amoeba Naegleria fowleri. Amoebae are protozoan parasites, which are eukaryotes. Eukaryotic cell membranes contain sterols, primarily cholesterol (choice C), which provides rigidity. Prokaryotes (bacteria) generally lack sterols in their membranes (except Mycoplasma). 70S ribosomes (choice A) and polycistronic mRNA (choice E) are characteristic of prokaryotes (bacteria). A chitin-containing cell wall (choice B) is characteristic of fungi. Peptidoglycan (choice D) is the main component of bacterial cell walls."
+  },
+  {
+    "question": "An investigator is studying the expression of the gene encoding human telomerase in cultured human embryonic stem cells. She introduces a frameshift mutation in the 5' exon of the telomerase gene, which destroys the activity of telomerase in these cells. Which of the following is the most likely result of this mutation?",
+    "options": [
+      "A. The cells will be more likely to transform into cancer cells",
+      "B. The cells will be unable to complete telophase",
+      "C. The cells will increase expression of homeobox (HOX) genes",
+      "D. The cells will undergo apoptosis much sooner",
+      "E. The chromosomes in the mutant cells will retain their telomere regions"
+    ],
+    "answer": "D",
+    "explanation": "Telomerase is an enzyme (a reverse transcriptase) responsible for maintaining the length of telomeres, the protective caps at the ends of eukaryotic chromosomes. Telomeres shorten with each cell division in most somatic cells. Embryonic stem cells normally express high levels of telomerase, allowing them to divide indefinitely without telomere shortening. Destroying telomerase activity via mutation will cause telomeres to shorten progressively with each cell division. Critically short telomeres trigger cellular senescence or apoptosis (programmed cell death). Therefore, the mutant stem cells will have a limited lifespan and undergo apoptosis much sooner than normal stem cells. Loss of telomerase activity limits proliferative capacity and acts as a tumor suppressor mechanism, making transformation into cancer less likely (contra choice A). Telophase (choice B) is a stage of mitosis and is not directly dependent on telomerase. HOX genes (choice C) regulate development and are unrelated to telomere maintenance. Telomeres will be lost progressively, not retained (contra choice E)."
+  },
+  {
+    "question": "A 16-year-old boy comes to the physician because of difficulty breathing and an abnormal 'hump' on his back. Physical examination shows severe kyphosis with osteochondritis. A table of percentage of predicted normal values for several measurements is shown. Which of the following sets of findings on pulmonary function testing is most likely in this patient?\nColumns: Total Lung Capacity (TLC), Forced Vital Capacity (FVC), Functional Residual Capacity (FRC), FEV1/FVC ratio, Residual Volume (RV)",
+    "options": [
+      "A. 120, 110, 130, 100, 130",
+      "B. 120, 110, 130, 70, 120",
+      "C. 100, 100, 100, 70, 100",
+      "D. 100, 100, 80, 100, 100",
+      "E. 70, 90, 70, 100, 100",
+      "F. 60, 65, 70, 110, 70"
+    ],
+    "answer": "F",
+    "explanation": "Severe kyphosis (like other chest wall deformities) restricts the expansion of the chest wall and lungs, leading to a restrictive pattern on pulmonary function testing. Restrictive lung disease is characterized by a reduction in lung volumes. Specifically, Total Lung Capacity (TLC), Forced Vital Capacity (FVC), Functional Residual Capacity (FRC), and Residual Volume (RV) are all typically decreased (below 80% of predicted). The FEV1 (forced expiratory volume in 1 second) is also reduced, but often proportionally less than the FVC, resulting in a normal or even increased FEV1/FVC ratio (typically > 80-100% of predicted). Option F shows significantly reduced TLC (60%), FVC (65%), FRC (70%), and RV (70%), with an increased FEV1/FVC ratio (110%), which is the classic pattern for restrictive lung disease. Choices A and B show increased volumes (obstructive or normal). Choices C and D show borderline or normal volumes with low FEV1/FVC (obstructive or mixed). Choice E shows reduced TLC and FRC but normal RV and FEV1/FVC, which is less typical than F."
+  },
+  {
+    "question": "A 7-year-old boy is brought to the emergency department after a severe motor vehicle collision. He is given a skeletal muscle relaxant during intubation. After he is given the drug, ECG shows peaked T waves, smaller P waves, and a widened QRS. Which of the following agents is most likely responsible for these electrocardiographic changes?",
+    "options": [
+      "A. Cyclobenzaprine",
+      "B. Dantrolene",
+      "C. Edrophonium",
+      "D. Succinylcholine",
+      "E. Tubocurarine",
+      "F. Vecuronium"
+    ],
+    "answer": "D",
+    "explanation": "The ECG changes described (peaked T waves, small P waves, widened QRS) are characteristic of severe hyperkalemia. Succinylcholine, a depolarizing neuromuscular blocker, causes a small, transient increase in serum potassium in most patients by stimulating acetylcholine receptors and causing potassium efflux from muscle cells. However, in patients with extensive burns, massive trauma (like this MVA patient), crush injuries, neuromuscular diseases, or prolonged immobility, upregulation of acetylcholine receptors can lead to a massive efflux of potassium upon administration of succinylcholine, resulting in life-threatening hyperkalemia and cardiac arrest. Cyclobenzaprine (choice A) is a centrally acting muscle relaxant. Dantrolene (choice B) inhibits calcium release from the sarcoplasmic reticulum. Edrophonium (choice C) is an acetylcholinesterase inhibitor. Tubocurarine (choice E) and Vecuronium (choice F) are non-depolarizing neuromuscular blockers that do not typically cause significant hyperkalemia."
+  },
+  {
+    "question": "A new blood test to detect tuberculosis is developed that requires only a single blood sample. The new test measures the release of cytokines from sensitized white blood cells exposed in culture to several Mycobacterium tuberculosis proteins. Which of the following cytokines is most likely being measured?",
+    "options": [
+      "A. Interferon-gamma",
+      "B. Interleukin-3",
+      "C. Interleukin-4",
+      "D. Interleukin-6",
+      "E. Interleukin-10"
+    ],
+    "answer": "A",
+    "explanation": "The test described is an Interferon-Gamma Release Assay (IGRA), such as the QuantiFERON-TB Gold test. This test diagnoses latent or active tuberculosis infection. It relies on the principle that individuals sensitized to Mycobacterium tuberculosis (M.tb) antigens have memory T lymphocytes (primarily CD4+ Th1 cells) in their blood that recognize these antigens. When the patient's whole blood is incubated with specific M.tb antigens (like ESAT-6 and CFP-10), these sensitized T cells are activated and release interferon-gamma (IFN-γ). Measuring the amount of IFN-γ released indicates M.tb sensitization. IFN-γ is a key cytokine in the Th1 response required for activating macrophages to control M.tb. Interleukin-3 (choice B) stimulates hematopoiesis. Interleukin-4 (choice C) and Interleukin-10 (choice E) are associated with Th2 responses and downregulate Th1 responses. Interleukin-6 (choice D) is a pro-inflammatory cytokine involved in the acute phase response."
+  },
+  {
+    "question": "A 54-year-old woman comes to the physician because of dyspnea on exertion. Her pulse is 100/min, respirations are 26/min, and blood pressure is 90/60 mm Hg. Physical examination shows shallow breathing and cyanosis. Rales are heard bilaterally in the lower and middle lung fields on auscultation of the chest. Hematocrit and hemoglobin are within reference ranges. A diagnosis of congestive heart failure with pulmonary edema is made. Which of the following patterns of arterial blood gases is most likely in this patient?\nColumns: PO2 (mm Hg), PCO2 (mm Hg), O2 Saturation of Hb (%), Content of O2 (mL/dL)",
+    "options": [
+      "A. 105, 30, 99, 22.6",
+      "B. 100, 40, 98, 20.1",
+      "C. 70, 30, 70, 19.1",
+      "D. 50, 40, 70, 18.5",
+      "E. 50, 52, 82, 16.5"
+    ],
+    "answer": "E",
+    "explanation": "Congestive heart failure with pulmonary edema impairs gas exchange, leading to ventilation-perfusion (V/Q) mismatch and intrapulmonary shunting. This typically causes hypoxemia (low PaO2). Initially, hypoxemia stimulates peripheral chemoreceptors, leading to hyperventilation and respiratory alkalosis (low PaCO2). However, in severe cases, especially with respiratory muscle fatigue due to increased work of breathing (shallow, rapid respirations), hypoventilation can occur, leading to hypercapnia (high PaCO2) and respiratory acidosis, superimposed on the hypoxemia. This patient has tachypnea, shallow breathing, and cyanosis, suggesting severe impairment. A PaO2 of 50 mmHg indicates significant hypoxemia. A PaCO2 of 52 mmHg indicates respiratory acidosis due to hypoventilation. An O2 saturation of ~82% is consistent with a PaO2 of 50 mmHg on the oxygen-hemoglobin dissociation curve (especially if acidosis shifts the curve right). The calculated O2 content reflects both dissolved O2 and O2 bound to Hb, which would be reduced due to low saturation. Option E (PO2 50, PCO2 52, Sat 82%, Content 16.5) fits this picture of acute hypoxemic respiratory failure with hypercapnia. Option C has inconsistent Sat/PO2. Option D has incorrect Sat/PO2 and normal PCO2."
+  },
+  {
+    "question": "A 33-year-old multigravid woman at 30 weeks' gestation comes to the physician for a routine prenatal examination. She and her husband are carriers of the B-thalassemia gene. Their 5-year-old daughter tested normal for the allele. A Southern blot of all family members, including the fetus, using a 12-kb probe to the 5' end of the gene to detect an RFLP is shown. [Southern blot description: Mother has 11 kb and 7 kb bands. Father has 9 kb and 7 kb bands. Daughter (normal) has 11 kb and 9 kb bands. Fetus has only a 7 kb band (homozygous 7kb/7kb)]. Which of the following is the most appropriate conclusion?",
+    "options": [
+      "A. The probability that the unborn child is affected with B-thalassemia is 1 in 4",
+      "B. The unborn child carries the B-thalassemia trait",
+      "C. The unborn child is affected with B-thalassemia",
+      "D. The unborn child tests normal for the trait",
+      "E. The unborn child's genotype at the B-thalassemia locus cannot be determined"
+    ],
+    "answer": "C",
+    "explanation": "Let N represent the normal allele and 'b' represent the B-thalassemia allele. The parents are carriers (N/b). The daughter is normal (N/N). Mother (N/b) has RFLP bands 11 kb and 7 kb. Father (N/b) has RFLP bands 9 kb and 7 kb. Daughter (N/N) received the 11 kb band from the mother and the 9 kb band from the father. This linkage tells us: Mother's Normal allele (N) is linked to the 11 kb RFLP, and her Thalassemia allele (b) is linked to the 7 kb RFLP. Father's Normal allele (N) is linked to the 9 kb RFLP, and his Thalassemia allele (b) is linked to the 7 kb RFLP. The fetus has only the 7 kb band, meaning it inherited the 7 kb RFLP from the mother and the 7 kb RFLP from the father. Based on the established linkage, the fetus inherited the thalassemia allele (b) from the mother (linked to 7 kb) and the thalassemia allele (b) from the father (linked to 7 kb). Therefore, the fetus's genotype is b/b, meaning the unborn child is affected with B-thalassemia major. Choice A is the probability before RFLP analysis. Choice B (carrier) would be N/b (11kb/7kb or 9kb/7kb). Choice D (normal) would be N/N (11kb/9kb)."
+  },
+  {
+    "question": "A 25-year-old primigravid woman at 28 weeks' gestation delivers a male newborn. Shortly after birth, the newborn develops tachypnea and respiratory distress. Which of the following is the most important factor in the pathogenesis of this patient's distress?",
+    "options": [
+      "A. Decreased airway resistance",
+      "B. Decreased elastic recoil of the lung",
+      "C. Decreased volume at end of expiration",
+      "D. Increased airway resistance",
+      "E. Increased pulmonary compliance"
+    ],
+    "answer": "C",
+    "explanation": "This newborn, born prematurely at 28 weeks, is likely suffering from Neonatal Respiratory Distress Syndrome (NRDS) due to surfactant deficiency. Surfactant reduces alveolar surface tension, which prevents alveolar collapse at the end of expiration and increases lung compliance. Without sufficient surfactant, surface tension is high, leading to increased elastic recoil (choice B is incorrect) and decreased pulmonary compliance (choice E is incorrect). The high surface tension causes alveoli to collapse, especially smaller ones, at the end of expiration. This leads to a decreased functional residual capacity (FRC), which is the volume remaining in the lungs at the end of normal expiration (choice C). The infant must expend significant effort with each breath to re-open collapsed alveoli, leading to respiratory distress and tachypnea. Airway resistance (choices A, D) is not the primary issue, although small airways may collapse secondary to low lung volumes."
+  },
+  {
+    "question": "A 1-month-old male infant is brought to the physician for a routine examination. The parents report that the infant has a paternal aunt and a maternal uncle who both died of Tay-Sachs disease. The family pedigree is shown [Implied Pedigree: Paternal Grandparents -> Father + Paternal Aunt (Affected). Maternal Grandparents -> Mother + Maternal Uncle (Affected). Father + Mother -> Infant]. Which of the following best estimates the probability that the child will have Tay-Sachs disease?",
+    "options": ["A. 1/16", "B. 1/9", "C. 1/8", "D. 1/4", "E. 9/34"],
+    "answer": "B",
+    "explanation": "Tay-Sachs disease is an autosomal recessive disorder. Since the father has an affected sibling (paternal aunt), his parents (paternal grandparents) must both be carriers. The probability that the father (who is phenotypically normal) is a carrier is 2/3. Similarly, since the mother has an affected sibling (maternal uncle), her parents (maternal grandparents) must both be carriers. The probability that the mother (who is phenotypically normal) is also a carrier is 2/3. For the infant to have Tay-Sachs disease (genotype aa), both parents must be carriers (genotype Aa), and both must transmit the recessive allele (a). The probability of the father being a carrier is 2/3. The probability of the mother being a carrier is 2/3. If both are carriers, the probability of them having an affected child (aa) is 1/4. Therefore, the overall probability that the infant has Tay-Sachs disease is P(father is carrier) * P(mother is carrier) * P(child is aa | parents are carriers) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9."
+  },
+  {
+    "question": "A 1-month-old male infant is brought to the physician for a routine examination. The parents report that the infant has a paternal aunt and a maternal uncle who both died of Tay-Sachs disease. The family pedigree is shown [Implied Pedigree: Paternal Grandparents -> Father + Paternal Aunt (Affected). Maternal Grandparents -> Mother + Maternal Uncle (Affected). Father + Mother -> Infant]. Which of the following best estimates the probability that the child will have Tay-Sachs disease?",
+    "options": ["A. 1/16", "B. 1/9", "C. 1/8", "D. 1/4", "E. 9/34"],
+    "answer": "B",
+    "explanation": "Tay-Sachs disease is an autosomal recessive disorder. Since the father has an affected sibling (paternal aunt), his parents (paternal grandparents) must both be carriers. The probability that the father (who is phenotypically normal) is a carrier is 2/3. Similarly, since the mother has an affected sibling (maternal uncle), her parents (maternal grandparents) must both be carriers. The probability that the mother (who is phenotypically normal) is also a carrier is 2/3. For the infant to have Tay-Sachs disease (genotype aa), both parents must be carriers (genotype Aa), and both must transmit the recessive allele (a). The probability of the father being a carrier is 2/3. The probability of the mother being a carrier is 2/3. If both are carriers, the probability of them having an affected child (aa) is 1/4. Therefore, the overall probability that the infant has Tay-Sachs disease is P(father is carrier) * P(mother is carrier) * P(child is aa | parents are carriers) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9."
+  },
+  {
+    "question": "A 38-year-old man comes to the physician because of a 2-month history of depressed mood, anxiety, irritability, and a short temper. He says has had an increased appetite and a 5.0 kg (11 lb) weight gain. Withdrawal from which of the following drugs is the most likely cause of this patient's symptoms?",
+    "options": [
+      "A. Barbiturates",
+      "B. Cocaine",
+      "C. Heroin",
+      "D. Marijuana",
+      "E. Nicotine"
+    ],
+    "answer": "B",
+    "explanation": "Cocaine is a stimulant. Withdrawal from stimulants like cocaine typically causes symptoms that are opposite to the drug's effects, including depression ('crash'), fatigue, hypersomnia or insomnia, increased appetite (hyperphagia) leading to weight gain, psychomotor retardation or agitation, vivid unpleasant dreams, and intense craving. The patient's symptoms of depressed mood, anxiety, irritability, increased appetite, and weight gain are highly consistent with cocaine withdrawal. Barbiturate withdrawal (choice A) causes anxiety, insomnia, tremors, seizures. Heroin withdrawal (choice C) causes flu-like symptoms, dysphoria, insomnia, yawning, lacrimation, rhinorrhea, muscle aches, nausea/vomiting, diarrhea. Marijuana withdrawal (choice D) is typically milder, including irritability, anxiety, sleep disturbance, decreased appetite. Nicotine withdrawal (choice E, as described in another explanation block) can cause irritability, anxiety, depression, and increased appetite, but cocaine withdrawal often presents with more severe depression and pronounced hyperphagia."
+  },
+  {
+    "question": "Intravenous antibiotics are administered to a hospitalized patient. The clearance of the antibiotic is 0.1 L/min, and the steady-state plasma level is 3 mg/L. Which of the following best represents the maintenance dose of the antibiotic?",
+    "options": [
+      "A. 0.03 mg/min",
+      "B. 0.3 mg/min",
+      "C. 3.0 mg/min",
+      "D. 3.1 mg/min",
+      "E. 30.0 mg/min",
+      "F. 31.0 mg/min"
+    ],
+    "answer": "B",
+    "explanation": "The maintenance dose rate required to achieve a target steady-state plasma concentration (Css) is calculated using the formula: Maintenance Dose Rate = Css * Clearance (Cl). For intravenous administration, bioavailability (F) is 1. Given: Css = 3 mg/L, Cl = 0.1 L/min. Maintenance Dose Rate = (3 mg/L) * (0.1 L/min) = 0.3 mg/min."
+  },
+  {
+    "question": "A 34-year-old man comes to the physician for a routine examination. While in the waiting room, he is rude and makes sexually suggestive comments to the office staff. When the physician asks the patient about his behavior, the patient tells him that it is just all in good fun and that the female staff actually like the attention. The patient says that he sees nothing wrong with his behavior and sees no reason to apologize. Which of the following is the most appropriate response by the physician?",
+    "options": [
+      "A. Arrange for a meeting during which the office staff can tell the patient to his face how they feel about his behavior",
+      "B. Explain to the patient that respectful behavior is a sign of maturity and that women prefer a more subtle approach",
+      "C. Refer the patient to a physician colleague who employs male office staff",
+      "D. Tell the office staff to ignore the patient whenever his behavior is inappropriate",
+      "E. Tell the patient that if the behavior continues, he will have to find a new physician",
+      "F. Schedule all of this patient's future appointments at the end of the day when the staff has already left"
+    ],
+    "answer": "E",
+    "explanation": "The physician has a responsibility to protect their staff from harassment and maintain a professional environment. The patient's behavior is inappropriate and unprofessional, and he shows no insight or remorse. Ignoring the behavior (choice D) or minimizing it (choice B) is unacceptable. Confrontation involving staff (choice A) can escalate the situation and put staff in an uncomfortable position. Referring the patient (choice C) avoids the problem but doesn't address the behavior and may constitute abandonment if not handled properly. Scheduling appointments at the end of the day (choice F, as suggested in another explanation block) might minimize staff contact but doesn't address the core issue and may not always be feasible. The most appropriate initial response is to set clear boundaries. The physician should directly inform the patient that his behavior is unacceptable in the office setting, explain the expectations for professional conduct, and state the consequences if the behavior persists, which may include termination of the physician-patient relationship (choice E). This addresses the behavior directly while outlining potential repercussions."
+  },
+  {
+    "question": "A 25-year-old man comes to the physician because of dizziness when he stands up. His pulse is 80/min and blood pressure is 105/75 mm Hg in a supine position on a horizontal table. The table is abruptly tilted to a head-up position. Within seconds, the subject's heart rate increases to 105/min. Which of the following additional hemodynamic changes is most likely in this subject during the first few seconds?",
+    "options": [
+      "A. Decreased capillary filtration in the legs",
+      "B. Increased arterial blood pressure",
+      "C. Increased central venous pressure",
+      "D. Reduction of preload",
+      "E. Systemic vasodilation"
+    ],
+    "answer": "D",
+    "explanation": "When moving from a supine to a standing (head-up tilt) position, gravity causes pooling of blood in the dependent veins of the legs and lower body. This pooling decreases the volume of blood returning to the heart, leading to a reduction in venous return. Decreased venous return directly translates to a decrease in ventricular filling during diastole, which is a reduction of preload (end-diastolic volume and pressure). This reduction in preload leads to a decrease in stroke volume via the Frank-Starling mechanism. The initial response is often a transient drop in arterial blood pressure (choice B is incorrect initially, though reflexes aim to restore it). Central venous pressure (CVP) decreases due to reduced venous return (choice C is incorrect). Capillary hydrostatic pressure in the legs increases due to gravity, leading to increased capillary filtration, not decreased (choice A is incorrect). The baroreflex is triggered by the drop in blood pressure, causing reflex tachycardia (as observed) and systemic vasoconstriction (choice E is incorrect)."
+  },
+  {
+    "question": "A study is conducted to determine the efficacy of a new drug for reducing cholesterol. Results of the study show that cholesterol levels in the group receiving the new drug are reduced by 14%, compared with a 4% reduction in the placebo group. This difference generates a test statistic of t = 3.52, p<0.05. Which of the following conclusions is best supported by these data?",
+    "options": [
+      "A. A type II error may have occurred",
+      "B. Most patients will benefit from this drug",
+      "C. The chance of a type I error is low enough to suggest that the new drug is effective",
+      "D. The study may lack sufficient statistical power",
+      "E. The study provides evidence supporting the null hypothesis"
+    ],
+    "answer": "C",
+    "explanation": "The p-value represents the probability of observing the study result (or a more extreme result) if the null hypothesis (that there is no true difference between the groups) were actually true. A p-value < 0.05 is conventionally considered statistically significant, meaning we reject the null hypothesis. Rejecting the null hypothesis when it is true is a Type I error. The p-value (<0.05) indicates that the probability of making a Type I error (falsely concluding the drug is effective when it is not) is less than 5%. This low probability of a Type I error supports the conclusion that the observed difference is unlikely to be due to chance alone, suggesting the drug is effective. A Type II error (choice A) occurs when we fail to reject a false null hypothesis (i.e., we miss a real effect); this is not possible since we rejected the null. Statistical significance does not tell us about the magnitude of the effect or the proportion of patients benefiting (choice B). The study demonstrated sufficient power to detect a difference, as a statistically significant result was found (choice D). The study provides evidence *against* the null hypothesis (choice E)."
+  },
+  {
+    "question": "A 22-year-old woman comes to the physician because of palpitations. Cardiac examination shows an apical mid-to-late systolic click and an apical mid-to-late systolic murmur that continues through the S2 sound. Valsalva maneuver makes the click closer to S1 and increases the duration of the murmur. Echocardiography shows systolic billowing of both mitral valve leaflets. If this patient develops mitral regurgitation, which of the following findings is most likely?",
+    "options": [
+      "A. Annular calcification",
+      "B. Buttonhole deformity",
+      "C. MacCallum plagues",
+      "D. Myocardial ring abscesses",
+      "E. Myxomatous degeneration"
+    ],
+    "answer": "E",
+    "explanation": "The clinical findings (mid-systolic click, late systolic murmur, effect of Valsalva) and echocardiographic findings (billowing leaflets) are classic for Mitral Valve Prolapse (MVP). MVP is most commonly caused by myxomatous degeneration of the mitral valve leaflets and chordae tendineae. This degeneration involves the accumulation of glycosaminoglycans, leading to thickened, redundant ('floppy') leaflets that prolapse into the left atrium during systole. This underlying pathology is the reason MVP can progress to significant mitral regurgitation. Annular calcification (choice A) affects the valve annulus, usually in elderly individuals. Buttonhole deformity (choice B) is characteristic of rheumatic mitral stenosis. MacCallum patches (choice C) are atrial endocardial thickenings seen in rheumatic heart disease. Myocardial ring abscesses (choice D) are a complication of infective endocarditis."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Which of the following is the powerhouse of the cell?",
+    "options": [
+      "A. Nucleus",
+      "B. Mitochondria",
+      "C. Golgi Apparatus",
+      "D. Endoplasmic Reticulum",
+      "E. Lysosome"
+    ],
+    "answer": "B",
+    "topic": "Cell Biology",
+    "explanation": "Mitochondria are often referred to as the powerhouse of the cell because they generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.",
+    "tags": ["Cell Biology", "Organelles", "Mitochondria", "Energy Production"]
+  },
+  {
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "options": [
+      "A. Respiration",
+      "B. Photosynthesis",
+      "C. Transpiration",
+      "D. Germination",
+      "E. Fermentation"
+    ],
+    "answer": "B",
+    "topic": "Plant Biology",
+    "explanation": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.",
+    "tags": ["Plant Biology", "Photosynthesis", "Energy", "Chlorophyll"]
+  },
+  {
+    "question": "DNA is composed of which of the following nucleotide bases?",
+    "options": [
+      "A. Adenine, thymine, uracil, and cytosine",
+      "B. Adenine, thymine, guanine, and uracil",
+      "C. Adenine, thymine, guanine, and cytosine",
+      "D. Adenine, uracil, guanine, and cytosine",
+      "E. Thymine, uracil, guanine, and cytosine"
+    ],
+    "answer": "C",
+    "topic": "Molecular Biology",
+    "explanation": "DNA (deoxyribonucleic acid) is composed of four nucleotide bases: adenine (A), thymine (T), guanine (G), and cytosine (C). Uracil (U) is found in RNA instead of thymine.",
+    "tags": ["DNA", "Molecular Biology", "Genetics", "Nucleotides"]
+  }
+]

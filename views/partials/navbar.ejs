@@ -1,0 +1,41 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand text-white" href="/">
+      <i class="fas fa-brain me-2"></i>
+      QuizMaster
+    </a>
+
+    <!-- Add navbar toggler button for mobile -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarContent"
+      aria-controls="navbarContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fas fa-bars text-white"></i>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <div
+        class="ms-auto d-flex flex-column flex-lg-row align-items-start align-items-lg-center gap-2 mt-3 mt-lg-0"
+      >
+        <a href="/additional-quizzes" class="btn btn-outline-light">
+          <i class="fas fa-chart-line me-2"></i>Categories
+        </a>
+        <a href="/stats" class="btn btn-outline-light">
+          <i class="fas fa-chart-line me-2"></i>Statistics
+        </a>
+        <button
+          id="darkModeToggle"
+          class="btn btn-outline-light"
+          onclick="toggleDarkMode()"
+        >
+          <i class="fas fa-moon"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>

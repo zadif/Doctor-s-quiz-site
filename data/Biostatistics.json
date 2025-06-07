@@ -1,0 +1,1048 @@
+[
+  {
+    "question": "A 45-year-old man with a history of poorly controlled diabetes mellitus is admitted with severe hyperglycemia, increased thirst, frequent urination, nausea, vomiting, dry mucous membranes, and breath smelling like nail polish remover. Arterial blood gas analysis shows pH 7.12, Arterial CO2 29 mm Hg, and Arterial HCO3 15 mEq/L. Which of the following measurements is most likely to be decreased in this patient compared to the normal range?",
+    "options": [
+      "A. Plasma acetone",
+      "B. Plasma catecholamines",
+      "C. Plasma glucagon",
+      "D. Plasma 3-hydroxybutyrate",
+      "E. Ratio of acetoacetate to 3-hydroxybutyrate"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Plasma levels of acetone are actually increased during diabetic ketoacidosis (DKA), leading to the characteristic breath odor.",
+      "B": "Plasma catecholamines, as stress hormones, are increased during DKA due to the shift to a starvation-like metabolic state.",
+      "C": "Plasma glucagon is increased during DKA, contributing to hyperglycemia and ketogenesis.",
+      "D": "Plasma 3-hydroxybutyrate, a ketone body, increases significantly in DKA.",
+      "E": "In pathologic conditions such as diabetes, the production ratio of ketoacids shifts, with 3-hydroxybutyrate predominating over acetoacetate. Therefore, the ratio of acetoacetate to 3-hydroxybutyrate decreases, while the net amount of total ketoacids increases."
+    }
+  },
+  {
+    "question": "A 3-month-old girl is brought to the emergency department because of seizures. Examination reveals hepatomegaly and growth retardation. Laboratory studies show severe hypoglycemia and hyperlipidemia. A defect involving which of the following enzymes is most likely responsible for this patient's illness?",
+    "options": [
+      "A. Alpha-L-iduronidase",
+      "B. Beta-glucocerebrosidase",
+      "C. Glucose-6-phosphatase",
+      "D. Hexosaminidase A",
+      "E. Muscle phosphorylase"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Alpha-L-iduronidase deficiency causes Hurler syndrome, a lysosomal storage disease with hepatosplenomegaly, dwarfism, and corneal clouding, but not typically presenting with severe hypoglycemia and seizures at this age.",
+      "B": "Beta-glucocerebrosidase deficiency causes Gaucher disease, characterized by hepatosplenomegaly and accumulation of glucocerebrosides, without the severe hypoglycemia.",
+      "C": "Glucose-6-phosphatase deficiency causes Von Gierke disease (glycogen storage disease type Ia), typically presenting at 3-4 months with severe fasting hypoglycemia, seizures, lactic acidosis, hyperlipidemia, and hepatomegaly due to glycogen accumulation.",
+      "D": "Hexosaminidase A deficiency causes Tay-Sachs disease, characterized by progressive neurologic deterioration and cherry-red spots, but not hepatomegaly or severe hypoglycemia.",
+      "E": "Muscle phosphorylase deficiency causes McArdle disease, which presents later with exercise intolerance and muscle cramps, and does not cause hypoglycemia or hepatomegaly."
+    }
+  },
+  {
+    "question": "A 7-year-old boy often experiences severe abdominal cramps after eating a high-fat meal. He is diagnosed with a genetic defect resulting in a deficiency of lipoprotein lipase. Which of the following substances is most likely increased in this patient's plasma following a fatty meal?",
+    "options": [
+      "A. Albumin-bound free fatty acids",
+      "B. Chylomicrons",
+      "C. HDL",
+      "D. LDL",
+      "E. Unesterified fatty acids"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Albumin-bound free fatty acids primarily increase during fasting when stored fat is mobilized, not directly after a fatty meal in this condition.",
+      "B": "Dietary triglycerides are packaged into chylomicrons by enterocytes. Lipoprotein lipase (LPL) normally degrades triglycerides in chylomicrons circulating in the blood. Deficiency of LPL prevents this breakdown, leading to the accumulation of large, triglyceride-rich chylomicrons in the plasma after a fatty meal.",
+      "C": "HDL is involved in reverse cholesterol transport and providing apolipoproteins, not directly carrying dietary fat from the intestine in this manner.",
+      "D": "LDL is derived from VLDL metabolism and primarily carries cholesterol; it would not be the primary substance accumulating due to LPL deficiency after a fatty meal.",
+      "E": "Unesterified (free) fatty acids are released *by* the action of LPL; therefore, a defect in LPL would cause a decrease, not an increase, in their release from chylomicrons."
+    }
+  },
+  {
+    "question": "A 47-year-old man presents with a swollen and extremely tender left ankle. He has a history of 4 episodes of severe flank pain radiating to the groin over the past 5 months. Polarized light microscopy examination of synovial fluid from the ankle shows negatively birefringent, needle-shaped crystals. An abnormality in which metabolic pathway is the most likely underlying cause?",
+    "options": [
+      "A. Urea synthesis",
+      "B. Purine salvage/degradation",
+      "C. Pyrimidine synthesis",
+      "D. Calcium pyrophosphate metabolism",
+      "E. Glycolate metabolism"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "A defect in urea synthesis would result in hyperammonemia, not gout.",
+      "B": "The clinical presentation (acute arthritis, history of renal colic) and crystal findings (negatively birefringent, needle-shaped) are classic for gout, caused by deposition of monosodium urate crystals. This results from hyperuricemia, which arises from abnormalities in purine metabolism, specifically overproduction or underexcretion of uric acid, the end product of purine degradation. Issues in the purine salvage pathway (e.g., HPRT deficiency) can lead to overproduction.",
+      "C": "An abnormality of pyrimidine synthesis (e.g., orotic aciduria) causes megaloblastic anemia and crystal uropathy, not gout.",
+      "D": "Calcium pyrophosphate deposition disease (pseudogout) presents with similar joint symptoms but involves positively birefringent, rhomboid-shaped crystals.",
+      "E": "Ethylene glycol poisoning leads to metabolic acidosis and deposition of calcium oxalate crystals, not urate crystals."
+    }
+  },
+  {
+    "question": "In a strain of knockout mice where the gene encoding phenylethanolamine-N-methyltransferase (PNMT) is deleted, analysis of adrenal gland catecholamine content after stress will most likely show the absence of which of the following?",
+    "options": [
+      "A. Dopa",
+      "B. Dopamine",
+      "C. Epinephrine",
+      "D. Norepinephrine",
+      "E. Tyrosine"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Dopa is an intermediate synthesized from tyrosine by tyrosine hydroxylase, upstream of PNMT.",
+      "B": "Dopamine is synthesized from dopa by dopa decarboxylase, upstream of PNMT.",
+      "C": "PNMT catalyzes the conversion of norepinephrine to epinephrine by transferring a methyl group. If PNMT is absent, epinephrine cannot be synthesized.",
+      "D": "Norepinephrine is synthesized from dopamine by dopamine beta-hydroxylase and serves as the substrate for PNMT. It would be present, and potentially accumulate, if PNMT is absent.",
+      "E": "Tyrosine is the initial amino acid precursor for all catecholamines."
+    }
+  },
+  {
+    "question": "A boy exhibits delayed motor development, spasticity, writhing movements, compulsive self-mutilation (biting fingers/lips), head banging, arthritis by age 14, and renal failure by age 20. This clinical picture is consistent with Lesch-Nyhan syndrome. Which of the following is most likely to be increased in the serum of this patient?",
+    "options": [
+      "A. Galactitol",
+      "B. Glucocerebroside",
+      "C. Monosodium urate",
+      "D. Orotic acid",
+      "E. Phenylalanine"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Galactitol accumulates in galactosemia, causing cataracts.",
+      "B": "Glucocerebroside accumulates in Gaucher disease.",
+      "C": "Lesch-Nyhan syndrome is caused by deficiency of the purine salvage enzyme HPRT. This leads to increased degradation of purine bases to uric acid and increased de novo purine synthesis, resulting in hyperuricemia (excessive monosodium urate), causing gouty arthritis and urate nephropathy.",
+      "D": "Orotic acid accumulates in orotic aciduria (a pyrimidine synthesis defect) or sometimes secondarily in OTC deficiency (a urea cycle defect).",
+      "E": "Phenylalanine accumulates in phenylketonuria (PKU)."
+    }
+  },
+  {
+    "question": "A 6-month-old girl, previously exclusively breast-fed, experiences increased crying, sweating, and shaking chills approximately 1 hour after being fed applesauce and puréed pears. A diagnosis related to fructose metabolism is suspected. Deficiency of which enzyme is most consistent with these symptoms occurring after fructose ingestion?",
+    "options": [
+      "A. Aldose reductase",
+      "B. Fructokinase",
+      "C. Fructose-1-phosphate aldolase",
+      "D. Hexokinase",
+      "E. Lactase"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Aldose reductase converts sugars to sugar alcohols (e.g., galactose to galactitol), involved in cataract formation in galactosemia.",
+      "B": "Fructokinase deficiency causes essential fructosuria, a benign condition where fructose appears in the urine but causes no symptoms.",
+      "C": "Deficiency of fructose-1-phosphate aldolase (Aldolase B) causes hereditary fructose intolerance (HFI). Ingestion of fructose leads to accumulation of fructose-1-phosphate, which inhibits glycogenolysis and gluconeogenesis, causing severe hypoglycemia, vomiting, sweating, and lethargy shortly after fructose consumption.",
+      "D": "Hexokinase is the first enzyme in glycolysis for glucose; it can phosphorylate fructose but is not the primary enzyme for fructose metabolism.",
+      "E": "Lactase deficiency causes lactose intolerance, leading to diarrhea, bloating, and flatulence after consuming dairy products, not typically severe hypoglycemia or chills after eating fruit."
+    }
+  },
+  {
+    "question": "A 2-month-old boy with mildly dysmorphic features experiences a brief generalized seizure and becomes semicomatose. Laboratory studies show elevated C8-C10 acylcarnitines, suggesting MCAD deficiency. Which of the following additional laboratory findings is most likely in this patient?",
+    "options": [
+      "A. Decreased secretion of glucagon",
+      "B. Decreased plasma free fatty acids",
+      "C. Hyperammonemia",
+      "D. Hyperglycemia",
+      "E. Hyperketosis"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Hypoglycemia in MCAD deficiency triggers *increased* glucagon secretion.",
+      "B": "Hypoglycemia triggers mobilization of triglycerides, *increasing* plasma free fatty acids.",
+      "C": "The inability to conduct fatty acid beta-oxidation in the liver during fasting leads to low ATP levels. The urea cycle requires ATP; low ATP levels decrease urea cycle activity, causing ammonia to build up in the bloodstream (hyperammonemia).",
+      "D": "MCAD deficiency impairs energy production during fasting, leading to *hypo*glycemia, not hyperglycemia.",
+      "E": "Beta-oxidation is required for ketone body synthesis in the liver. Impaired beta-oxidation leads to *hypo*ketosis, not hyperketosis, especially in the context of hypoglycemia."
+    }
+  },
+  {
+    "question": "A 26-year-old woman presents with fatigue and pallor. She reports that her sister and older brother have been diagnosed with hemolytic anemia, and her parents are second cousins. Deficiency of which of the following enzymes, involved in glycolysis, is a known autosomal recessive cause of hemolytic anemia?",
+    "options": [
+      "A. Debranching enzyme",
+      "B. Glucose-6-phosphatase",
+      "C. Muscle phosphorylase",
+      "D. Pyruvate carboxylase",
+      "E. Pyruvate kinase"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Debranching enzyme deficiency (Cori disease) affects glycogen metabolism, causing hepatomegaly and mild hypoglycemia.",
+      "B": "Glucose-6-phosphatase deficiency (Von Gierke disease) affects glycogen metabolism and gluconeogenesis, causing severe hypoglycemia and hepatomegaly.",
+      "C": "Muscle phosphorylase deficiency (McArdle disease) affects muscle glycogenolysis, causing exercise intolerance.",
+      "D": "Pyruvate carboxylase deficiency affects gluconeogenesis and TCA cycle anaplerosis, causing lactic acidosis and neurological problems.",
+      "E": "Pyruvate kinase (PK) deficiency is an autosomal recessive disorder affecting glycolysis in red blood cells. Insufficient ATP production impairs ion pump function, leading to cell swelling and lysis (hemolytic anemia). Consanguinity increases the risk of autosomal recessive disorders."
+    }
+  },
+  {
+    "question": "A 38-year-old obese man follows a strict diet with very small amounts of carbohydrates. Laboratory studies show a low-normal level of blood glucose, maintained by gluconeogenesis. Which of the following is the source of the majority of the newly synthesized glucose carbon atoms in this dieting individual?",
+    "options": [
+      "A. Amino acids from protein degradation",
+      "B. Ethanol synthesized by bacteria",
+      "C. Fatty acids from fat breakdown",
+      "D. Glycerol from fat breakdown",
+      "E. Purine catabolism"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Amino acids are gluconeogenic and become the major source in true starvation, but contribute less than glycerol in simple dieting with adequate fat stores.",
+      "B": "Ethanol is not a significant source for gluconeogenesis.",
+      "C": "Fatty acids (specifically the acetyl-CoA produced via beta-oxidation) cannot be converted to glucose in humans (except minor contribution from odd-chain fatty acids).",
+      "D": "Stored fat (triglycerides) is hydrolyzed, releasing fatty acids and glycerol. The glycerol backbone can be phosphorylated by glycerol kinase (primarily in the liver) to glycerol-3-phosphate, which enters the gluconeogenic pathway via conversion to DHAP. In dieting obese individuals, this pathway contributes about 80% of the glucose.",
+      "E": "Purine catabolism produces uric acid, not glucose."
+    }
+  },
+  {
+    "question": "A 3-year-old boy is diagnosed with megaloblastosis and a hypochromic anemia unresponsive to vitamin B12, folate, pyridoxine, and iron. Urinalysis shows white, needle-shaped crystals. Treatment with uridine corrects the anemia and decreases crystal excretion. Deficiency of which enzyme involved in pyrimidine synthesis is the most likely cause?",
+    "options": [
+      "A. Aspartate carbamoyltransferase",
+      "B. Cytoplasmic carbamoyl-phosphate synthetase II",
+      "C. Mitochondrial carbamoyl-phosphate synthetase I",
+      "D. Ornithine carbamoyltransferase",
+      "E. Orotidine-5'-phosphate decarboxylase (part of UMP synthase)"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Aspartate carbamoyltransferase deficiency would decrease orotic acid.",
+      "B": "Cytoplasmic CPS II deficiency would decrease orotic acid.",
+      "C": "Mitochondrial CPS I is part of the urea cycle; deficiency causes hyperammonemia.",
+      "D": "Ornithine carbamoyltransferase deficiency is a urea cycle defect that can cause secondary orotic aciduria due to mitochondrial carbamoyl phosphate spilling into the cytosol, but presents primarily with hyperammonemia, not megaloblastic anemia.",
+      "E": "This patient has hereditary orotic aciduria, typically caused by a defect in UMP synthase, which has both orotate phosphoribosyltransferase and orotidine-5'-phosphate decarboxylase activities. This blocks pyrimidine synthesis, causing megaloblastic anemia (due to lack of dTTP/CTP for DNA) and accumulation of orotic acid (leading to orotic aciduria and crystal formation). Uridine administration bypasses the block."
+    }
+  },
+  {
+    "question": "A 5-day-old newborn develops poor feeding, sleepiness, convulsions, coma, and apnea. Urinalysis shows ketones. Specialized laboratory studies show a deficiency of branched-chain ketoacid dehydrogenase. Which of the following amino acids should be eliminated from this baby's diet?",
+    "options": [
+      "A. Histidine",
+      "B. Isoleucine",
+      "C. Methionine",
+      "D. Phenylalanine",
+      "E. Tyrosine"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Histidine restriction is relevant for histidinemia.",
+      "B": "The disease described is maple syrup urine disease (MSUD), caused by deficient branched-chain ketoacid dehydrogenase. This enzyme metabolizes the ketoacid derivatives of the branched-chain amino acids leucine, isoleucine, and valine. Dietary restriction of all three (leucine, isoleucine, valine) is necessary.",
+      "C": "Methionine restriction is relevant for homocystinuria.",
+      "D": "Phenylalanine restriction is relevant for phenylketonuria (PKU).",
+      "E": "Tyrosine metabolism defects include tyrosinemia, albinism, and alkaptonuria."
+    }
+  },
+  {
+    "question": "A neonate develops jaundice that worsens over the first few days of life. Phototherapy is initiated. This therapy effectively decomposes bilirubin but is known to degrade riboflavin. Supplementation with which vitamin is therefore most appropriate specifically due to the phototherapy treatment?",
+    "options": [
+      "A. Ascorbate (Vitamin C)",
+      "B. Folate",
+      "C. Niacin (Vitamin B3)",
+      "D. Riboflavin (Vitamin B2)",
+      "E. Vitamin D"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Ascorbate is generally stable under phototherapy conditions.",
+      "B": "Folate is generally stable under phototherapy conditions.",
+      "C": "Niacin is generally stable under phototherapy conditions.",
+      "D": "Phototherapy uses light that can degrade riboflavin (Vitamin B2). Therefore, riboflavin supplementation is required during phototherapy to prevent deficiency.",
+      "E": "Vitamin D may actually be increased by some forms of light exposure and is not typically depleted by standard phototherapy."
+    }
+  },
+  {
+    "question": "A 1-year-old boy presents with severe hypotonia, difficulty feeding due to progressive dyspnea and fatigue, hepatomegaly, rales on lung auscultation, and cardiomegaly on chest x-ray. These findings are characteristic of Pompe disease. Deficiency of which of the following enzymes is responsible?",
+    "options": [
+      "A. Glucose-6-phosphatase",
+      "B. Glycogen branching enzyme",
+      "C. Lysosomal a-1,4-glucosidase",
+      "D. Lysosomal sphingomyelinase",
+      "E. Myophosphorylase"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Glucose-6-phosphatase deficiency (Von Gierke) causes severe hypoglycemia and hepatomegaly, but not typically the prominent cardiomyopathy seen here.",
+      "B": "Glycogen branching enzyme deficiency (Andersen) causes liver cirrhosis and failure, myopathy, and heart failure, usually lethal by age 2.",
+      "C": "Pompe disease (glycogen storage disease type II) is caused by deficiency of lysosomal a-1,4-glucosidase (acid maltase). Glycogen accumulates in lysosomes, severely affecting cardiac and skeletal muscle, leading to cardiomegaly, cardiomyopathy, hypotonia, and respiratory failure.",
+      "D": "Lysosomal sphingomyelinase deficiency (Niemann-Pick) causes hepatosplenomegaly and neurodegeneration.",
+      "E": "Myophosphorylase deficiency (McArdle) causes exercise intolerance and muscle cramps, primarily affecting skeletal muscle."
+    }
+  },
+  {
+    "question": "A healthy, asymptomatic 2-year-old girl undergoing a well-child examination has a urinalysis positive for a reducing substance, but further testing shows it is not glucose. She is meeting all developmental milestones. This urinalysis finding most likely represents a deficiency of which enzyme?",
+    "options": [
+      "A. Fructokinase",
+      "B. Fructose-1-phosphate aldolase",
+      "C. Galactokinase",
+      "D. Galactose-1-phosphate uridyltransferase",
+      "E. Glucose-6-phosphatase"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Fructokinase deficiency causes essential fructosuria, a benign, asymptomatic autosomal recessive condition. Fructokinase normally phosphorylates dietary fructose. In its absence, fructose is not metabolized, blood levels rise slightly, and fructose is readily excreted in the urine, where it registers as a reducing substance.",
+      "B": "Fructose-1-phosphate aldolase (Aldolase B) deficiency causes hereditary fructose intolerance, a severe condition presenting with hypoglycemia and liver damage upon fructose ingestion.",
+      "C": "Galactokinase deficiency causes accumulation of galactose and galactitol, leading primarily to cataracts.",
+      "D": "Galactose-1-phosphate uridyltransferase deficiency causes classic galactosemia, a severe condition with failure to thrive, liver damage, cataracts, and mental retardation if untreated.",
+      "E": "Glucose-6-phosphatase deficiency causes Von Gierke disease, presenting with severe fasting hypoglycemia."
+    }
+  },
+  {
+    "question": "A man of African descent develops hemolytic anemia after administration of the antimalarial drug primaquine. This scenario is highly suggestive of glucose-6-phosphate dehydrogenase (G6PD) deficiency. What is the primary role of the NADPH generated by G6PD in red blood cells?",
+    "options": [
+      "A. Synthesizing ATP via oxidative phosphorylation",
+      "B. Maintaining hemoglobin in the reduced (Fe2+) state",
+      "C. Regenerating reduced glutathione to protect against oxidative damage",
+      "D. Facilitating oxygen release from hemoglobin via 2,3-BPG synthesis"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Red blood cells lack mitochondria and cannot perform oxidative phosphorylation.",
+      "B": "While oxidative stress can lead to methemoglobin (Fe3+), the direct reduction system involves other enzymes; NADPH's role is indirect via glutathione.",
+      "C": "G6PD produces NADPH in the pentose phosphate pathway. NADPH is essential for the enzyme glutathione reductase, which maintains glutathione in its reduced state (GSH). Reduced glutathione is crucial for detoxifying reactive oxygen species (like hydrogen peroxide via glutathione peroxidase), protecting RBC components from oxidative damage. Insufficient NADPH leads to increased susceptibility to hemolysis under oxidative stress.",
+      "D": "2,3-BPG synthesis is part of a glycolysis shunt, not directly dependent on NADPH from the HMP shunt."
+    }
+  },
+  {
+    "question": "A 45-year-old man consumes 5-6 alcoholic drinks daily. Compared to a nondrinker, which metabolic alteration is most likely present in this man due to chronic alcohol consumption?",
+    "options": [
+      "A. Glycerol-3-phosphate formation is favored over dihydroxyacetone phosphate formation",
+      "B. Fatty acid oxidation is stimulated",
+      "C. Gluconeogenesis is stimulated",
+      "D. The ratio of lactate to pyruvate is decreased",
+      "E. The ratio of NAD+ to NADH is increased"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Alcohol metabolism generates excess NADH, increasing the NADH/NAD+ ratio. This high ratio drives the equilibrium of the glycerol-3-phosphate dehydrogenase reaction towards glycerol-3-phosphate (Glycerol-3P + NAD+ <=> DHAP + NADH + H+). Thus, glycerol-3-phosphate formation is favored.",
+      "B": "The high NADH/NAD+ ratio inhibits beta-oxidation of fatty acids.",
+      "C": "The high NADH/NAD+ ratio inhibits gluconeogenesis (e.g., by favoring lactate over pyruvate and malate over oxaloacetate).",
+      "D": "The high NADH/NAD+ ratio drives the conversion of pyruvate to lactate via lactate dehydrogenase, thus *increasing* the lactate/pyruvate ratio.",
+      "E": "The metabolism of ethanol via alcohol dehydrogenase and acetaldehyde dehydrogenase *reduces* NAD+ to NADH, thus *decreasing* the NAD+/NADH ratio (or increasing the NADH/NAD+ ratio)."
+    }
+  },
+  {
+    "question": "A man's blood glucose level is maintained within the normal range 6 hours after his last meal, primarily through hepatic glycogenolysis and gluconeogenesis stimulated by glucagon. This hormonal signaling leads to the phosphorylation of key hepatic enzymes. Which statement correctly describes the effect of this phosphorylation?",
+    "options": [
+      "A. Glycogen synthase becomes more active",
+      "B. Glycogen phosphorylase becomes less active",
+      "C. Both glycogen synthase and glycogen phosphorylase become more active",
+      "D. Glycogen synthase becomes less active, and glycogen phosphorylase becomes more active"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Phosphorylation *inactivates* glycogen synthase.",
+      "B": "Phosphorylation *activates* glycogen phosphorylase (via activation of phosphorylase kinase).",
+      "C": "The enzymes controlling glycogen synthesis and breakdown are reciprocally regulated by phosphorylation.",
+      "D": "Glucagon signaling (via cAMP and PKA) leads to phosphorylation that inhibits glycogen synthesis (inactivating glycogen synthase) and promotes glycogen breakdown (activating glycogen phosphorylase), thus increasing glucose release from the liver."
+    }
+  },
+  {
+    "question": "Children immigrating from Somalia, sponsored by a local church, appear thin with protuberant abdomens and large palpable livers, suggestive of protein malnutrition (Kwashiorkor). Which of the following amino acids is essential and must be obtained from the diet?",
+    "options": [
+      "A. Alanine",
+      "B. Glycine",
+      "C. Leucine",
+      "D. Proline",
+      "E. Serine"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Alanine is non-essential.",
+      "B": "Glycine is non-essential.",
+      "C": "Leucine is an essential amino acid (part of the PVT TIM HALL mnemonic: Phenylalanine, Valine, Threonine, Tryptophan, Isoleucine, Methionine, Histidine, Arginine, Leucine, Lysine) that cannot be synthesized by the body and must be provided in the diet. Deficiency contributes to protein malnutrition syndromes.",
+      "D": "Proline is non-essential.",
+      "E": "Serine is non-essential."
+    }
+  },
+  {
+    "question": "Pentavalent arsenic (arsenate) inhibits net ATP production in glycolysis by competing with inorganic phosphate (Pi) in the reaction catalyzed by glyceraldehyde-3-phosphate dehydrogenase, forming an unstable intermediate that spontaneously hydrolyzes to 3-phosphoglycerate. What is the net yield of ATP molecules when one molecule of glucose is converted anaerobically to two molecules of pyruvate in the presence of arsenate?",
+    "options": ["A. 0", "B. 1", "C. 2", "D. 3", "E. 4"],
+    "answer": "A",
+    "explanations": {
+      "A": "Normally, anaerobic glycolysis yields a net of 2 ATP per glucose (2 consumed in the investment phase, 4 produced in the payoff phase). Arsenate bypasses the substrate-level phosphorylation step catalyzed by phosphoglycerate kinase (which normally produces 2 ATP per glucose). Therefore, the 2 ATP usually gained at this step are lost. The 2 ATP consumed are still consumed, and the 2 ATP produced by pyruvate kinase are still produced. Net yield = -2 ATP (consumed) + 0 ATP (PGK step) + 2 ATP (PK step) = 0 ATP.",
+      "B": "Incorrect calculation.",
+      "C": "This is the normal net yield without arsenate poisoning.",
+      "D": "Incorrect calculation.",
+      "E": "This represents the gross ATP production in the payoff phase without arsenate."
+    }
+  },
+  {
+    "question": "A 61-year-old man with a 35-year history of heavy drinking presents with confusion, ataxia, and sluggish pupillary light reflex (Wernicke encephalopathy). Later, he exhibits severe short-term memory impairment and confabulation (Korsakoff syndrome). Thiamine deficiency is the cause. Which of the following conditions is also commonly associated with thiamine deficiency?",
+    "options": [
+      "A. Dermatitis",
+      "B. Hypertrophic cardiomyopathy",
+      "C. Megaloblastic anemia",
+      "D. Night blindness",
+      "E. Polyneuritis"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Dermatitis is characteristic of pellagra (niacin deficiency).",
+      "B": "Thiamine deficiency is associated with dilated cardiomyopathy ('wet' beriberi), not typically hypertrophic cardiomyopathy.",
+      "C": "Megaloblastic anemia is caused by Vitamin B12 or folate deficiency.",
+      "D": "Night blindness is caused by Vitamin A deficiency.",
+      "E": "Thiamine deficiency, in addition to Wernicke-Korsakoff syndrome and wet beriberi, can cause peripheral nerve damage known as polyneuritis ('dry' beriberi)."
+    }
+  },
+  {
+    "question": "An investigator compares the kinetics of triose phosphate isomerase from leukocytes of two patients (Mutations Y and X) against a normal control (Line Z) using a Lineweaver-Burk plot (1/v vs 1/[S]). Line Y shows the same y-intercept (1/Vmax) as the control but crosses the x-axis closer to the origin (-1/Km). Line X shows a higher y-intercept than the control but the same x-intercept. Which choice correctly identifies the lines?",
+    "options": [
+      "A. Normal control: Line X, Mutation increasing Km: Line Y, Mutation decreasing amount of enzyme: Line Z",
+      "B. Normal control: Line Y, Mutation increasing Km: Line X, Mutation decreasing amount of enzyme: Line Z",
+      "C. Normal control: Line Y, Mutation increasing Km: Line Z, Mutation decreasing amount of enzyme: Line X",
+      "D. Normal control: Line Z, Mutation increasing Km: Line X, Mutation decreasing amount of enzyme: Line Y",
+      "E. Normal control: Line Z, Mutation increasing Km: Line Y, Mutation decreasing amount of enzyme: Line X"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Line X has lower Vmax than Z, so it cannot be normal.",
+      "B": "Line Y has lower Vmax than Z at finite [S], unlikely to be normal.",
+      "C": "Line Y is unlikely to be normal.",
+      "D": "Line X has lower Vmax (higher 1/Vmax) but same Km as Z; Line Y has higher Km (x-intercept closer to origin) but same Vmax as Z. This mismatches the descriptions.",
+      "E": "Line Z represents the normal control (highest Vmax, specific Km). Line Y has the same Vmax (same y-intercept) but a higher Km (x-intercept closer to the origin, thus smaller negative value of -1/Km). Line X has a lower Vmax (higher y-intercept) but the same Km (same x-intercept) as the control, consistent with a decreased amount of functional enzyme."
+    }
+  },
+  {
+    "question": "A 47-year-old man with a history of alcoholism is found disoriented, walking unsteadily (ataxia), unable to adduct the right eye or abduct the left eye (ophthalmoplegia), and providing elaborate fictitious stories when asked about recent events (confabulation). These symptoms suggest Wernicke-Korsakoff syndrome. Altered activity of which mitochondrial enzyme complex, requiring a thiamine-derived cofactor, is most likely contributing to his neurological symptoms?",
+    "options": [
+      "A. Fructose 1-phosphate aldolase",
+      "B. Glucose 6-phosphate dehydrogenase",
+      "C. Pyruvate carboxylase",
+      "D. Pyruvate dehydrogenase complex",
+      "E. Pyruvate kinase"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Aldolase B deficiency causes hereditary fructose intolerance.",
+      "B": "G6PD deficiency causes hemolytic anemia.",
+      "C": "Pyruvate carboxylase requires biotin, not thiamine.",
+      "D": "Wernicke-Korsakoff syndrome is caused by thiamine deficiency. Thiamine pyrophosphate (TPP) is an essential cofactor for the pyruvate dehydrogenase complex, which links glycolysis to the TCA cycle. Impaired activity of PDH due to thiamine deficiency disrupts cerebral energy metabolism, contributing to the neurological symptoms observed.",
+      "E": "Pyruvate kinase is a glycolytic enzyme not directly dependent on thiamine."
+    }
+  },
+  {
+    "question": "A 15-month-old boy presents with mental retardation, failure to thrive, progressive neurologic deterioration, hepatosplenomegaly, and retinal pallor sparing the macula (cherry-red spot). This clinical picture is most consistent with which lysosomal storage disease?",
+    "options": [
+      "A. Hunter syndrome",
+      "B. I-cell disease",
+      "C. Niemann-Pick disease",
+      "D. Pompe disease",
+      "E. Tay-Sachs disease"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Hunter syndrome (MPS II) involves hepatosplenomegaly and skeletal/cardiac issues but lacks the cherry-red spot and specific neurodegeneration pattern.",
+      "B": "I-cell disease involves multiple enzyme targeting defects, coarse features, skeletal abnormalities, and organomegaly.",
+      "C": "Niemann-Pick disease (Type A) is caused by sphingomyelinase deficiency, leading to accumulation of sphingomyelin. It presents with progressive neurodegeneration, hepatosplenomegaly (due to accumulation in macrophages), failure to thrive, and often a cherry-red spot. This combination fits the description.",
+      "D": "Pompe disease involves hypotonia and severe cardiomyopathy.",
+      "E": "Tay-Sachs disease presents with similar neurodegeneration, cherry-red spot, and age of onset, but characteristically lacks hepatosplenomegaly."
+    }
+  },
+  {
+    "question": "An individual is identified with abnormally high urine levels of glutathione and undetectable gamma-glutamyltranspeptidase (GGT) activity in cultured skin fibroblasts, associated with mild mental retardation. GGT is important in which cellular function involving glutathione?",
+    "options": [
+      "A. Transporting certain amino acids into cells via the gamma-glutamyl cycle",
+      "B. Transporting cholesterol across cell membranes",
+      "C. Transporting fatty acids into mitochondria",
+      "D. Transporting nucleotides for salvage pathways",
+      "E. Transporting sugars across the intestinal brush border"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Glutathione (y-glutamyl-cysteinyl-glycine) is involved in the transport of certain amino acids across cell membranes via the gamma-glutamyl cycle. GGT, a membrane-bound enzyme, catalyzes the transfer of the gamma-glutamyl moiety from glutathione to an amino acid acceptor, facilitating its transport. GGT deficiency disrupts this cycle, leading to glutathione accumulation (glutathionuria).",
+      "B": "Cholesterol transport involves lipoproteins and specific cellular receptors/transporters.",
+      "C": "Fatty acid transport into mitochondria involves the carnitine shuttle system.",
+      "D": "Nucleotide transport involves specific membrane transporters.",
+      "E": "Sugar transport involves transporters like SGLT and GLUT family members."
+    }
+  },
+  {
+    "question": "An investigator finds that adding sodium citrate to an enzyme assay buffer greatly decreases the activity of the enzyme being studied. Citrate, which accumulates in the cytosol when the citric acid cycle slows, acts as a negative allosteric regulator for which key glycolytic enzyme?",
+    "options": [
+      "A. Fructose-2,6-bisphosphatase",
+      "B. Isocitrate dehydrogenase",
+      "C. Phosphofructokinase-1 (PFK-1)",
+      "D. Pyruvate carboxylase",
+      "E. 6-phosphogluconate dehydrogenase"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Fructose-2,6-bisphosphatase activity is regulated by phosphorylation (inhibited by insulin, activated by glucagon).",
+      "B": "Isocitrate dehydrogenase (TCA cycle) is inhibited by ATP and NADH.",
+      "C": "Citrate, transported from the mitochondria to the cytosol, is a key negative allosteric effector of Phosphofructokinase-1 (PFK-1), the rate-limiting enzyme of glycolysis. High citrate levels signal that cellular energy needs are met and intermediates are abundant, thus inhibiting further glucose breakdown via glycolysis.",
+      "D": "Pyruvate carboxylase (gluconeogenesis/anaplerosis) is activated by acetyl-CoA.",
+      "E": "6-phosphogluconate dehydrogenase is part of the pentose phosphate pathway."
+    }
+  },
+  {
+    "question": "A 2-week-old boy develops vomiting, diarrhea, and jaundice after starting milk feedings. He later develops cataracts, ascites, and mental retardation despite being switched to a milk-free diet. Which protein deficiency is the most likely cause of this classic galactosemia?",
+    "options": [
+      "A. Beta polypeptide of a copper-transporting ATPase",
+      "B. Galactose-1-phosphate uridyltransferase",
+      "C. Myophosphorylase",
+      "D. Transmembrane conductance regulator in exocrine tissues",
+      "E. UDP-glucuronyltransferase"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Deficiency of this protein causes Wilson disease, presenting later with copper accumulation issues.",
+      "B": "Classic galactosemia is caused by deficiency of Galactose-1-phosphate uridyltransferase (GALT). This prevents metabolism of galactose-1-phosphate derived from lactose (in milk). Accumulation of Gal-1-P causes toxicity leading to liver disease, cataracts, failure to thrive, and mental retardation. Strict dietary restriction of galactose/lactose is required immediately.",
+      "C": "Myophosphorylase deficiency causes McArdle disease (muscle symptoms).",
+      "D": "Deficiency of CFTR causes cystic fibrosis.",
+      "E": "Deficiency of UDP-glucuronyltransferase causes Crigler-Najjar or Gilbert syndrome (impaired bilirubin conjugation)."
+    }
+  },
+  {
+    "question": "Fraternal twin boys exhibit progressive weakness, diminished reflexes, hypotonia (frog-leg position), and seizures accompanied by hypoglycemia and hypoketonemia. One twin dies at 5 months. The survivor develops cardiomegaly, and labs show elevated carnitine esters. Which fatty acid oxidation disorder is most likely?",
+    "options": [
+      "A. a-L-iduronidase deficiency (Hurler syndrome)",
+      "B. Acid maltase deficiency (Pompe disease)",
+      "C. Carnitine uptake deficiency",
+      "D. Long-chain acyl CoA dehydrogenase (LCAD) deficiency",
+      "E. Muscle glycogen phosphorylase deficiency (McArdle disease)"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Hurler syndrome is a mucopolysaccharidosis affecting connective tissues, skeleton, heart valves, and causing MR.",
+      "B": "Pompe disease causes glycogen accumulation in lysosomes, leading to cardiomyopathy and hypotonia, but not typically hypoketotic hypoglycemia.",
+      "C": "Carnitine uptake deficiency would impair fatty acid transport but typically results in low tissue/serum carnitine, not elevated carnitine esters.",
+      "D": "LCAD deficiency affects the initial steps of long-chain fatty acid beta-oxidation. This impairs energy production from fats, particularly affecting heart and muscle, leading to cardiomyopathy and weakness. It also causes hypoketotic hypoglycemia during fasting because the liver cannot perform beta-oxidation to produce ketones or sufficient ATP/acetyl-CoA for gluconeogenesis. Incomplete oxidation leads to accumulation of long-chain acylcarnitines.",
+      "E": "McArdle disease affects muscle glycogenolysis, causing exercise intolerance."
+    }
+  },
+  {
+    "question": "A 24-year-old woman reports severe muscle cramps and weakness with moderate exercise, occasionally followed by excretion of red urine. This presentation is typical of McArdle disease. Which biochemical process is directly impaired?",
+    "options": [
+      "A. Hydrolysis of galactocerebroside",
+      "B. Hydrolysis of glucose 6-phosphate",
+      "C. Hydrolysis of sphingomyelin",
+      "D. Phosphorolysis of glycogen in muscle",
+      "E. Transport of neutral amino acids"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Defective hydrolysis of galactocerebroside occurs in Krabbe disease.",
+      "B": "Defective hydrolysis of glucose 6-phosphate occurs in Von Gierke disease.",
+      "C": "Defective hydrolysis of sphingomyelin occurs in Niemann-Pick disease.",
+      "D": "McArdle disease is caused by a deficiency of myophosphorylase, the enzyme that catalyzes the phosphorolysis (breakdown using phosphate) of glycogen to release glucose-1-phosphate in skeletal muscle. This impairs the muscle's ability to access glycogen stores for energy during exercise.",
+      "E": "Defective transport of neutral amino acids occurs in Hartnup disease."
+    }
+  },
+  {
+    "question": "A newborn with jaundice and anorexia has a glycogen sample incubated with phosphate, normal glycogen phosphorylase, and debranching enzyme. The ratio of glucose-1-phosphate (G1P) formed to free glucose formed is abnormally high. Deficiency of which enzyme in the newborn best explains this finding?",
+    "options": [
+      "A. a-1,6-glucosidase activity of debranching enzyme",
+      "B. (a-1,4 -> a-1,4) glucan transferase activity of debranching enzyme",
+      "C. (a-1,4 -> a-1,6) glucan transferase (Branching enzyme)",
+      "D. Glycogen phosphorylase",
+      "E. Glycogen phosphorylase kinase"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Deficiency of this debranching activity would leave single glucose residues at branch points; digestion with normal enzymes would yield a normal or low G1P:glucose ratio.",
+      "B": "Deficiency of this debranching activity would leave short outer branches; digestion with normal enzymes would yield a normal or low G1P:glucose ratio.",
+      "C": "The G1P:glucose ratio reflects the length of linear chains (releasing G1P via phosphorylase) relative to the number of branch points (releasing free glucose via debranching enzyme's glucosidase activity). An abnormally high ratio means there are long linear chains relative to the number of branches. This indicates insufficient branching, caused by deficiency of the branching enzyme ((a-1,4 -> a-1,6) glucan transferase), characteristic of Andersen disease (Type IV GSD).",
+      "D": "Deficiency of glycogen phosphorylase prevents glycogen breakdown; the structure would be normal if formed.",
+      "E": "Deficiency of glycogen phosphorylase kinase prevents activation of phosphorylase; the structure would be normal if formed."
+    }
+  },
+  {
+    "question": "An investigator is setting up an assay to measure the amount of a specific enzyme in biological samples by measuring reaction velocity (Vo) at varying substrate concentrations ([S]). To ensure the measured velocity directly reflects the enzyme concentration ([E]), under which condition should the assay ideally be run?",
+    "options": [
+      "A. [S] = 0.30 mM (Vo = 0.60)",
+      "B. [S] = 1.20 mM (Vo = 1.66)",
+      "C. [S] = 1.50 mM (Vo = 1.90)",
+      "D. [S] = 2.00 mM (Vo = 2.15)",
+      "E. [S] = 3.00 mM (Vo = 2.33)"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "At low [S], Vo is highly dependent on [S] (first-order kinetics).",
+      "B": "Vo is still significantly dependent on [S].",
+      "C": "Vo is still significantly dependent on [S].",
+      "D": "Vo is approaching saturation, but still increasing noticeably with [S].",
+      "E": "To measure [E] accurately, the reaction should be run under zero-order conditions with respect to [S], meaning the enzyme is saturated. This occurs when [S] is much greater than Km, and Vo approaches Vmax (plateaus). Based on the data, the velocity increases minimally between [S]=2.50 (Vo=2.29) and [S]=3.00 (Vo=2.33), indicating the enzyme is nearly saturated at 3.00 mM, making this the most suitable concentration listed for the assay."
+    }
+  },
+  {
+    "question": "Muscle biopsy specimens taken from a healthy volunteer at rest and after 30 minutes of aerobic exercise show much higher activity of the pyruvate dehydrogenase (PDH) complex in the post-exercise specimen. Which biochemical change occurring during exercise is most likely responsible for activating PDH?",
+    "options": [
+      "A. Decreased ADP concentration",
+      "B. Decreased intracellular Ca2+ concentration",
+      "C. Increased acetyl-CoA concentration",
+      "D. Increased NADH/NAD+ ratio",
+      "E. Increased pyruvate concentration"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "ADP concentration *increases* during exercise, which inhibits PDH kinase, favoring active PDH.",
+      "B": "Intracellular Ca2+ concentration *increases* during muscle contraction/exercise, stimulating PDH phosphatase, favoring active PDH.",
+      "C": "Increased acetyl-CoA (product inhibition) inhibits the PDH complex.",
+      "D": "Increased NADH/NAD+ ratio (product inhibition) inhibits the PDH complex.",
+      "E": "Increased rates of glycolysis during exercise lead to higher pyruvate concentrations. High pyruvate inhibits PDH kinase, the enzyme that phosphorylates and inactivates PDH. Reduced kinase activity allows PDH phosphatase activity to dominate, leading to more dephosphorylated, active PDH."
+    }
+  },
+  {
+    "question": "A 64-year-old man with benign prostatic hyperplasia develops urinary retention and an E. coli UTI with sepsis, requiring hospitalization and at least 4 weeks of broad-spectrum antibiotics. This prolonged antibiotic therapy places him at increased risk for deficiency of vitamin K, potentially leading to which complication?",
+    "options": [
+      "A. Blood in stool",
+      "B. Bony abnormalities",
+      "C. Decreased night vision",
+      "D. Peripheral neuritis",
+      "E. Scurvy"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Prolonged broad-spectrum antibiotics can eradicate gut bacteria that synthesize Vitamin K. Vitamin K is essential for the gamma-carboxylation of clotting factors II, VII, IX, and X, and proteins C and S. Deficiency leads to impaired coagulation and a bleeding tendency, which can manifest as easy bruising, petechiae, or bleeding, including blood in the stool (melena or hematochezia).",
+      "B": "Bony abnormalities are more related to Vitamin D or C deficiency.",
+      "C": "Decreased night vision is related to Vitamin A deficiency.",
+      "D": "Peripheral neuritis can be related to deficiencies of B vitamins (e.g., B1, B6, B12).",
+      "E": "Scurvy is caused by Vitamin C deficiency."
+    }
+  },
+  {
+    "question": "A 20-year-old primigravid woman, 2 months pregnant, had phenylketonuria (PKU) as a child requiring a diet restricting aspartame. Current labs show markedly elevated maternal serum phenylalanine levels. Regarding the health of her fetus, which statement is most accurate?",
+    "options": [
+      "A. Childhood phenylalanine restriction is sufficient to protect the health of the fetus in the future.",
+      "B. Further information regarding the father's genotype is required to ascertain if the fetus is at risk.",
+      "C. The fetus is at no health risk if it is heterozygous for the PKU gene.",
+      "D. The fetus is at no health risk if maternal phenylalanine levels are normalized by the third trimester.",
+      "E. The mother's current hyperphenylalaninemia may already have harmed the fetus."
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Childhood diet control does not protect the fetus if maternal levels are high during pregnancy.",
+      "B": "The fetus is at risk from high maternal phenylalanine regardless of paternal genotype or fetal genotype.",
+      "C": "Even a heterozygous fetus (or a genetically normal fetus) is vulnerable to the teratogenic effects of high phenylalanine crossing the placenta from the mother.",
+      "D": "The critical period for organogenesis is the first trimester (first 8 weeks). Damage from high phenylalanine levels may occur during this time, before levels might be normalized later in pregnancy.",
+      "E": "Phenylalanine readily crosses the placenta and acts as a teratogen. Because the woman is already 2 months pregnant (within the critical first trimester) and has markedly elevated phenylalanine levels, teratogenic damage (microcephaly, mental retardation, heart defects) may have already occurred. Strict maternal diet control is crucial ideally *before* conception and throughout pregnancy."
+    }
+  },
+  {
+    "question": "Autopsy of a 28-year-old man reveals contraction band necrosis of the myocardium, and cocaine metabolites are detected. Cocaine causes coronary vasospasm leading to ischemia. Under these ischemic conditions, which enzyme of myocardial energy metabolism was most likely exhibiting increased activity prior to death?",
+    "options": [
+      "A. Phosphoenolpyruvate carboxykinase",
+      "B. Phosphofructokinase-1",
+      "C. Pyruvate dehydrogenase",
+      "D. Succinate dehydrogenase",
+      "E. Transketolase"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "PEPCK is involved in gluconeogenesis, not typically active in ischemic heart muscle.",
+      "B": "Myocardial ischemia forces cells to rely on anaerobic glycolysis for ATP production. Phosphofructokinase-1 (PFK-1) is the key rate-limiting, regulated enzyme of glycolysis. Its activity increases significantly under anaerobic conditions to maximize ATP yield from glucose.",
+      "C": "Pyruvate dehydrogenase links glycolysis to the aerobic TCA cycle and requires oxygen (indirectly via NAD+ regeneration); its activity decreases during ischemia.",
+      "D": "Succinate dehydrogenase is part of the TCA cycle and electron transport chain, requiring oxygen; its activity decreases during ischemia.",
+      "E": "Transketolase is part of the pentose phosphate pathway, primarily involved in NADPH and ribose synthesis."
+    }
+  },
+  {
+    "question": "A 64-year-old man presents with a painful right knee. Fluid aspirated from the joint is yellow-white, cloudy, contains 200,000 WBC/mm3 (85% neutrophils), and shows needle-shaped, strongly negatively birefringent crystals. These crystals most likely have which composition?",
+    "options": [
+      "A. Basic calcium phosphate",
+      "B. Calcium oxalate",
+      "C. Calcium pyrophosphate dihydrate",
+      "D. Cholesterol",
+      "E. Monosodium urate"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Basic calcium phosphate (apatite) crystals are nonbirefringent clumps.",
+      "B": "Calcium oxalate crystals are typically bipyramidal and found in urine.",
+      "C": "Calcium pyrophosphate dihydrate crystals (pseudogout) are typically rod-to-rhomboidal and weakly positively birefringent.",
+      "D": "Cholesterol crystals are large, flat plates, often with notched corners.",
+      "E": "The description of needle-shaped, strongly negatively birefringent crystals, especially in the context of an acute inflammatory arthritis, is pathognomonic for monosodium urate crystals, the cause of gout."
+    }
+  },
+  {
+    "question": "A 6-month-old girl presents with persistent weakness, hypoglycemia, hyperammonemia, and myoglobinuria, attributed to defective carnitine biosynthesis. Carnitine is necessary for which specific biochemical function related to energy metabolism?",
+    "options": [
+      "A. Serving as the primary carrier of free fatty acids in the blood",
+      "B. Importing nascent proteins into the endoplasmic reticulum lumen",
+      "C. Targeting misfolded proteins to proteasomes for degradation",
+      "D. Transferring digestive enzymes from the Golgi apparatus to lysosomes",
+      "E. Transporting activated long-chain fatty acids across the inner mitochondrial membrane"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Albumin carries free fatty acids in the blood.",
+      "B": "Signal sequences target proteins to the ER.",
+      "C": "Ubiquitin targets proteins to proteasomes.",
+      "D": "Mannose-6-phosphate targets enzymes to lysosomes.",
+      "E": "Carnitine is essential for the carnitine shuttle system (involving carnitine palmitoyltransferases CPT I and CPT II). It transports long-chain fatty acyl groups (attached to carnitine) from the cytosol across the inner mitochondrial membrane into the mitochondrial matrix, where they are converted back to fatty acyl-CoA for beta-oxidation."
+    }
+  },
+  {
+    "question": "During strenuous exercise on a hot day, cutaneous vasodilation occurs. Increased blood flow releases nitric oxide (NO) from endothelial cells, which acts on adjacent vascular smooth muscle. Which enzyme within the smooth muscle cell is directly activated by NO?",
+    "options": [
+      "A. Adenylate cyclase",
+      "B. Soluble guanylate cyclase",
+      "C. Heme oxygenase",
+      "D. Nitric oxide synthase (NOS)",
+      "E. Phospholipase C"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Adenylate cyclase produces cAMP, typically activated by hormones via G-proteins.",
+      "B": "Nitric oxide (NO) is a signaling molecule that readily diffuses into target cells like smooth muscle. Inside the cell, NO binds to the heme moiety of soluble guanylate cyclase, activating the enzyme to produce cyclic GMP (cGMP) from GTP. Increased cGMP leads to smooth muscle relaxation and vasodilation.",
+      "C": "Heme oxygenase breaks down heme.",
+      "D": "NOS *produces* NO in endothelial cells (or neurons/macrophages); it is not activated by NO itself.",
+      "E": "Phospholipase C generates IP3 and DAG, typically activated by hormones via G-proteins."
+    }
+  },
+  {
+    "question": "An electron micrograph shows various subcellular compartments labeled with colloidal gold antibodies. An antibody to which of the following enzymes involved in fatty acid metabolism would most likely selectively label the outer mitochondrial membrane (indicated by arrow 2)?",
+    "options": [
+      "A. Carnitine acyltransferase I",
+      "B. Fatty acyl-CoA synthetase",
+      "C. Glucose-6-phosphate dehydrogenase",
+      "D. Hexokinase",
+      "E. Carnitine acyltransferase II"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Carnitine acyltransferase I is located on the outer mitochondrial membrane, transferring fatty acyl groups from CoA to carnitine.",
+      "B": "Fatty acyl-CoA synthetase (also known as thiokinase) activates free fatty acids by attaching them to CoA. This activation step occurs on the outer mitochondrial membrane (arrow 2) before the fatty acyl-CoA enters the carnitine shuttle system.",
+      "C": "G6PD is cytosolic (arrow 3).",
+      "D": "Hexokinase is cytosolic (arrow 3).",
+      "E": "Carnitine acyltransferase II is located on the inner mitochondrial membrane, facing the matrix (arrow 5)."
+    }
+  },
+  {
+    "question": "After a healthy volunteer ingests a very fatty meal, serum chylomicron diameter decreases from 500 nm at 1 hour to 150 nm at 3 hours. The enzyme responsible for hydrolyzing triglycerides within the chylomicrons, causing this size reduction, is primarily located at which site?",
+    "options": [
+      "A. Within adipocyte cytoplasm",
+      "B. On the luminal surface of capillary endothelial cells",
+      "C. Within the intestinal lumen",
+      "D. Within hepatocyte cytoplasm",
+      "E. On the surface of myocytes"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Adipocytes contain hormone-sensitive lipase for stored fat breakdown, not LPL for circulating lipoproteins.",
+      "B": "Lipoprotein lipase (LPL) is synthesized by cells like adipocytes and myocytes but is secreted and anchored to the luminal surface of capillary endothelial cells, particularly in adipose tissue, skeletal muscle, and cardiac muscle. Here, it interacts with circulating chylomicrons (and VLDL), hydrolyzing their core triglycerides.",
+      "C": "Pancreatic lipase acts within the intestinal lumen.",
+      "D": "Hepatocytes take up chylomicron remnants but LPL acts in the periphery.",
+      "E": "Myocytes utilize fatty acids released by LPL but the enzyme itself is primarily on the adjacent endothelium."
+    }
+  },
+  {
+    "question": "A pollutant found in drinking water inhibits gluconeogenesis. Gluconeogenesis must bypass the irreversible steps of glycolysis. Which pair of enzymes represents key regulated steps unique to gluconeogenesis that bypass irreversible glycolytic reactions?",
+    "options": [
+      "A. Fructose-1,6-bisphosphatase and Pyruvate carboxylase",
+      "B. Glucose-6-phosphatase and Phosphofructokinase-1",
+      "C. Glucose-6-phosphatase and Pyruvate dehydrogenase",
+      "D. Phosphoenolpyruvate carboxykinase and Glucokinase",
+      "E. Pyruvate kinase and Pyruvate carboxylase"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Pyruvate carboxylase (along with PEPCK) bypasses pyruvate kinase. Fructose-1,6-bisphosphatase bypasses phosphofructokinase-1. These are key regulatory enzymes specific to gluconeogenesis.",
+      "B": "Phosphofructokinase-1 is a glycolytic enzyme.",
+      "C": "Pyruvate dehydrogenase commits pyruvate to the TCA cycle, not gluconeogenesis.",
+      "D": "Glucokinase is a glycolytic enzyme (in liver/pancreas).",
+      "E": "Pyruvate kinase is a glycolytic enzyme."
+    }
+  },
+  {
+    "question": "A child presents with features initially resembling Marfan syndrome (tall stature, long limbs, kyphosis, lens dislocation) but also exhibits mental retardation and limited joint mobility. Laboratory studies show elevated plasma methionine and homocysteine. Deficiency of which enzyme is the most common cause of this condition (classic homocystinuria)?",
+    "options": [
+      "A. Cystathionine beta-synthase",
+      "B. Methionine synthase",
+      "C. Homogentisate oxidase",
+      "D. Phenylalanine hydroxylase",
+      "E. Tyrosinase"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Deficiency of cystathionine beta-synthase blocks the conversion of homocysteine to cystathionine. This leads to accumulation of homocysteine, which is then remethylated back to methionine, causing elevation of both. The clinical features described (Marfanoid habitus plus MR and joint/thrombosis issues) are characteristic of classic homocystinuria due to cystathionine beta-synthase deficiency.",
+      "B": "Methionine synthase deficiency also causes elevated homocysteine but typically low/normal methionine and often megaloblastic anemia.",
+      "C": "Homogentisate oxidase deficiency causes alkaptonuria.",
+      "D": "Phenylalanine hydroxylase deficiency causes PKU.",
+      "E": "Tyrosinase deficiency causes albinism."
+    }
+  },
+  {
+    "question": "A 14-year-old girl experiences chronic fatigue, worse after exercise, along with painful leg cramps during strenuous activity. A cardiac stress test is stopped prematurely due to these cramps, and laboratory studies immediately following show no significant increase in serum lactate. Which enzyme deficiency best explains this presentation of McArdle disease?",
+    "options": [
+      "A. Glucose-6-phosphatase",
+      "B. Glycogen branching enzyme",
+      "C. Glycogen debranching enzyme",
+      "D. Liver phosphorylase",
+      "E. Lysosomal a-1,4-glucosidase",
+      "F. Myophosphorylase"
+    ],
+    "answer": "F",
+    "explanations": {
+      "A": "Deficiency causes Von Gierke disease (hypoglycemia, hepatomegaly).",
+      "B": "Deficiency causes Andersen disease (cirrhosis, myopathy).",
+      "C": "Deficiency causes Cori disease (milder hypoglycemia, hepatomegaly, possible myopathy).",
+      "D": "Liver phosphorylase deficiency (Hers disease) causes hepatomegaly and mild hypoglycemia.",
+      "E": "Deficiency causes Pompe disease (cardiomyopathy, hypotonia).",
+      "F": "McArdle disease (Type V GSD) is caused by deficiency of the muscle isoform of glycogen phosphorylase (myophosphorylase). This prevents glycogen breakdown in muscle during exercise, leading to cramps, fatigue, myoglobinuria, and a characteristic failure to produce lactate during anaerobic exercise."
+    }
+  },
+  {
+    "question": "A 5-year-old girl presents with lethargy, irritability, poor attention span, anorexia, abdominal pain, constipation, pallor, and reduced reflexes. Treatment with intravenous EDTA is begun, suggesting heavy metal toxicity. Lead poisoning causes these symptoms and impairs heme synthesis by inhibiting which of the following enzymes?",
+    "options": [
+      "A. Aminolevulinate dehydratase",
+      "B. Ceruloplasmin",
+      "C. Glucose-6-phosphate dehydrogenase",
+      "D. Pyruvate kinase",
+      "E. Uroporphyrinogen-I synthase"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Lead poisoning classically inhibits two key enzymes in the heme synthesis pathway: Aminolevulinate (ALA) dehydratase (also called porphobilinogen synthase) and ferrochelatase. Inhibition of ALA dehydratase leads to accumulation of ALA and contributes to the neurological and abdominal symptoms, as well as impairing heme production.",
+      "B": "Ceruloplasmin is involved in iron metabolism; deficiency causes iron overload.",
+      "C": "G6PD deficiency causes hemolytic anemia under oxidative stress.",
+      "D": "Pyruvate kinase deficiency causes chronic hemolytic anemia.",
+      "E": "Uroporphyrinogen-I synthase (also called PBG deaminase) deficiency causes Acute Intermittent Porphyria."
+    }
+  },
+  {
+    "question": "A man collapses while running a marathon. His arterial blood gas shows metabolic acidosis (pH 7.30) despite normal PO2 and PCO2. Evaluation shows increased lactate dehydrogenase (LDH) activity. In this setting of strenuous exercise exceeding aerobic capacity, LDH primarily functions to:",
+    "options": [
+      "A. Convert lactate back to pyruvate for entry into the TCA cycle.",
+      "B. Directly synthesize ATP through substrate-level phosphorylation.",
+      "C. Oxidize NADH to NAD+, allowing glycolysis to continue.",
+      "D. Produce NADH for the electron transport chain."
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "This occurs in the liver (Cori cycle) or when aerobic metabolism resumes, not during intense anaerobic exercise.",
+      "B": "LDH does not directly produce ATP.",
+      "C": "During intense anaerobic exercise, NAD+ required for the glyceraldehyde-3-phosphate dehydrogenase step of glycolysis becomes depleted as NADH accumulates. LDH catalyzes the reduction of pyruvate to lactate, simultaneously regenerating NAD+ from NADH. This allows glycolysis to proceed and generate ATP anaerobically.",
+      "D": "LDH consumes NADH in the direction of lactate formation."
+    }
+  },
+  {
+    "question": "A newborn develops multiple hemorrhages and laboratory studies show an elevated prothrombin time (PT), suggestive of Vitamin K deficiency. This deficiency impairs the synthesis of functional clotting factors II, VII, IX, and X because Vitamin K is required for which post-translational modification?",
+    "options": [
+      "A. Conversion of homocysteine to methionine",
+      "B. Conversion of methylmalonyl-CoA to succinyl-CoA",
+      "C. Degradation of cystathionine",
+      "D. Formation of gamma-carboxyglutamate residues from glutamate residues",
+      "E. Hydroxylation of proline residues in collagen"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Requires Vitamin B12 and folate.",
+      "B": "Requires Vitamin B12.",
+      "C": "Requires Vitamin B6 (pyridoxal phosphate).",
+      "D": "Vitamin K acts as a cofactor for gamma-glutamyl carboxylase, which adds a carboxyl group to specific glutamate residues on precursor proteins of factors II, VII, IX, X, and proteins C & S. This forms gamma-carboxyglutamate (Gla) residues, which are essential for calcium binding and the proper function of these factors in coagulation.",
+      "E": "Requires Vitamin C."
+    }
+  },
+  {
+    "question": "A 1-year-old child presents with hypercalcemia (11.5 mg/dL), relatively low urine calcium excretion (95 mg/24 hr), and inappropriately normal/high serum parathyroid hormone (680 pg/mL). Which genetic abnormality most likely underlies this condition, Familial Hypocalciuric Hypercalcemia (FHH)?",
+    "options": [
+      "A. Cyclin D1 gene inversion",
+      "B. Mutation of autoimmune regulator gene (AIRE)",
+      "C. Heterozygous inactivating mutation of the calcium-sensing receptor gene (CaSR)",
+      "D. Mutation of transcription factor gene glial cells missing-2 (GCM2)",
+      "E. Activating mutation in tyrosine kinase receptor (RET)"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Associated with sporadic parathyroid adenomas, causing primary hyperparathyroidism with hypercalciuria.",
+      "B": "Associated with autoimmune hypoparathyroidism (part of APS-1), causing hypocalcemia.",
+      "C": "FHH (also called familial benign hypercalcemia) is typically caused by a heterozygous loss-of-function mutation in the CaSR gene. This reduces the sensitivity of the parathyroid glands and kidneys to calcium, leading to a higher set-point for calcium homeostasis, resulting in mild hypercalcemia, inappropriately normal/high PTH, and hypocalciuria.",
+      "D": "Associated with familial isolated hypoparathyroidism, causing hypocalcemia.",
+      "E": "Associated with MEN IIa/IIb, which can include primary hyperparathyroidism, but typically with hypercalciuria."
+    }
+  },
+  {
+    "question": "A 25-year-old woman with sickle cell anemia develops right upper quadrant pain radiating to the right shoulder, especially after fatty meals, leading to a diagnosis of cholelithiasis. Given her underlying condition, the gallstones are most likely composed primarily of:",
+    "options": [
+      "A. Calcium bilirubinate",
+      "B. Calcium oxalate",
+      "C. Cholesterol",
+      "D. Cholesterol and calcium carbonate",
+      "E. Cystine"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Sickle cell anemia causes chronic hemolysis, leading to increased production and excretion of bilirubin into bile. This supersaturation predisposes to the formation of black pigment gallstones, which are primarily composed of calcium bilirubinate polymers.",
+      "B": "Calcium oxalate stones are typically kidney stones.",
+      "C": "Cholesterol stones are common but associated with factors like obesity, female gender, and age, not directly with hemolysis.",
+      "D": "Mixed stones often contain cholesterol and calcium carbonate/phosphate, but pure pigment stones are characteristic of hemolysis.",
+      "E": "Cystine stones are typically kidney stones, caused by cystinuria."
+    }
+  },
+  {
+    "question": "A 9-year-old boy who recently emigrated from the Philippines, where polished rice may be a dietary staple, has difficulty keeping up with classmates, mild pallor, pulmonary rales, and biventricular dilation of the heart on chest x-ray. Deficiency of which vitamin is the most likely cause of this 'wet beriberi'?",
+    "options": [
+      "A. Ascorbic acid (Vitamin C)",
+      "B. Retinol (Vitamin A)",
+      "C. Riboflavin (Vitamin B2)",
+      "D. Thiamine (Vitamin B1)",
+      "E. Vitamin K"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Vitamin C deficiency causes scurvy.",
+      "B": "Vitamin A deficiency causes night blindness and epithelial issues.",
+      "C": "Riboflavin deficiency causes cheilosis and glossitis.",
+      "D": "Thiamine deficiency causes beriberi. The cardiovascular manifestations, including high-output heart failure, peripheral vasodilation, edema, and dilated cardiomyopathy, are termed 'wet beriberi'. This can occur in populations relying on polished rice, which lacks thiamine.",
+      "E": "Vitamin K deficiency causes bleeding disorders."
+    }
+  },
+  {
+    "question": "After a man consumes a sugar-containing drink following a race, insulin is released, promoting glucose uptake by skeletal muscle. Which glucose transporter isoform mediates this insulin-stimulated glucose uptake into skeletal muscle cells?",
+    "options": ["A. GLUT1", "B. GLUT2", "C. GLUT3", "D. GLUT4", "E. GLUT5"],
+    "answer": "D",
+    "explanations": {
+      "A": "GLUT1 provides basal glucose uptake for many cells (RBCs, brain barrier).",
+      "B": "GLUT2 is a high-capacity, low-affinity transporter in liver, pancreas, intestine, kidney.",
+      "C": "GLUT3 is a high-affinity transporter for neurons.",
+      "D": "GLUT4 is located primarily in skeletal muscle, cardiac muscle, and adipose tissue. Its translocation from intracellular vesicles to the plasma membrane is stimulated by insulin (and independently by exercise), increasing glucose uptake into these tissues.",
+      "E": "GLUT5 is primarily a fructose transporter."
+    }
+  },
+  {
+    "question": "A 3-month-old boy with seizures, hypotonia, and psychomotor retardation is diagnosed with pyruvate carboxylase deficiency. Laboratory studies show elevated lactate, alanine, and pyruvate. Pyruvate carboxylase is a mitochondrial enzyme normally used to directly synthesize which molecule from pyruvate?",
+    "options": [
+      "A. Acetyl-CoA",
+      "B. Citrate",
+      "C. Malate",
+      "D. Oxaloacetate",
+      "E. Succinyl CoA"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Acetyl-CoA is formed from pyruvate by pyruvate dehydrogenase.",
+      "B": "Citrate is formed from oxaloacetate and acetyl-CoA by citrate synthase.",
+      "C": "Malate is an intermediate in the TCA cycle and malate-aspartate shuttle.",
+      "D": "Pyruvate carboxylase catalyzes the ATP-dependent carboxylation of pyruvate to form oxaloacetate. This is a key anaplerotic reaction replenishing TCA cycle intermediates and is the first step in gluconeogenesis from pyruvate.",
+      "E": "Succinyl CoA is an intermediate in the TCA cycle."
+    }
+  },
+  {
+    "question": "A newborn develops vomiting, tachypnea, and progressive lethargy after starting formula feeding. Labs show marked hyperammonemia (NH3 300 uM), elevated plasma glutamine, and absent plasma citrulline. Orotic aciduria is also present (implied from explanation context). Which urea cycle disorder is the most likely diagnosis?",
+    "options": [
+      "A. Arginase deficiency",
+      "B. Argininosuccinic acid lyase deficiency",
+      "C. Argininosuccinic acid synthetase deficiency",
+      "D. Carbamoyl phosphate synthetase I deficiency",
+      "E. Ornithine transcarbamylase deficiency"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Arginase deficiency causes elevated arginine.",
+      "B": "Argininosuccinate lyase deficiency causes elevated argininosuccinate (and usually citrulline).",
+      "C": "Argininosuccinate synthetase deficiency causes markedly elevated citrulline.",
+      "D": "CPS I deficiency causes hyperammonemia with low/absent citrulline but typically low orotic acid.",
+      "E": "Ornithine transcarbamylase (OTC) deficiency, an X-linked disorder, causes hyperammonemia with low/absent citrulline. Accumulated carbamoyl phosphate spills into the cytosol and stimulates pyrimidine synthesis, leading to orotic aciduria. This combination of findings (hyperammonemia, low citrulline, orotic aciduria) is characteristic of OTC deficiency."
+    }
+  },
+  {
+    "question": "A 7-month-old boy of Ashkenazi Jewish heritage presents with developmental regression (stopped smiling, lost motor skills). His parents are concerned about inherited disorders common in their heritage. Which pair of lysosomal storage diseases has an increased incidence in the Ashkenazi Jewish population?",
+    "options": [
+      "A. Albinism and Galactosemia",
+      "B. Cystic fibrosis and Lesch-Nyhan disease",
+      "C. Gaucher disease and Tay-Sachs disease",
+      "D. Krabbe disease and Niemann-Pick disease",
+      "E. Metachromatic leukodystrophy and Phenylketonuria"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "These do not have a specific increased incidence in this population.",
+      "B": "CF is more common in Northern Europeans; Lesch-Nyhan is X-linked, no specific ethnic predilection noted here.",
+      "C": "Tay-Sachs disease (Hexosaminidase A deficiency) and Type 1 Gaucher disease (Glucocerebrosidase deficiency) are both sphingolipidoses with a significantly higher carrier frequency and disease incidence among individuals of Ashkenazi Jewish descent compared to the general population.",
+      "D": "While Niemann-Pick Type A also has increased incidence, Krabbe disease does not have this specific association.",
+      "E": "These do not have a specific increased incidence in this population."
+    }
+  },
+  {
+    "question": "A 53-year-old man with a history of alcoholism and malnutrition (BMI 16) presents with multiple ecchymoses on his extremities and thorax, along with hemorrhages around hair follicles. Deficiency of which nutrient, essential for proper collagen synthesis, is most likely responsible for these findings of scurvy?",
+    "options": [
+      "A. Vitamin B1 (thiamine)",
+      "B. Vitamin B6 (pyridoxine)",
+      "C. Vitamin B12 (cobalamin)",
+      "D. Vitamin C (ascorbate)",
+      "E. Vitamin D2 (ergocalciferol)"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Thiamine deficiency causes beriberi or Wernicke-Korsakoff.",
+      "B": "Pyridoxine deficiency can cause anemia, cheilosis, neuropathy.",
+      "C": "Cobalamin deficiency causes megaloblastic anemia and neuropathy.",
+      "D": "The clinical presentation (ecchymoses, perifollicular hemorrhages) in a malnourished individual is classic for scurvy, caused by Vitamin C (ascorbate) deficiency. Vitamin C is required for the hydroxylation of proline and lysine residues during collagen synthesis; impaired collagen formation leads to fragile capillaries and connective tissue defects.",
+      "E": "Vitamin D deficiency causes bone problems (rickets/osteomalacia)."
+    }
+  },
+  {
+    "question": "An 11-year-old boy presents with difficulties with balance (ataxia), night vision problems, foul-smelling stools (steatorrhea), decreased proprioception and vibratory sensation, and low total cholesterol and vitamin E levels. Acanthocytosis may also be present. This constellation strongly suggests abetalipoproteinemia, caused by an inherited mutation in which protein required for lipoprotein assembly?",
+    "options": [
+      "A. CYP7A1 (7-alpha hydroxylase)",
+      "B. Hormone-sensitive lipase (HSL)",
+      "C. Lecithin-cholesterol acyltransferase (LCAT)",
+      "D. Lipoprotein lipase (LPL)",
+      "E. Microsomal triglyceride transfer protein (MTP)"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "7-alpha hydroxylase is key for bile acid synthesis.",
+      "B": "HSL mobilizes stored fat from adipocytes.",
+      "C": "LCAT esterifies cholesterol on HDL.",
+      "D": "LPL hydrolyzes triglycerides in chylomicrons/VLDL.",
+      "E": "Abetalipoproteinemia is caused by mutations in the gene for Microsomal triglyceride transfer protein (MTP). MTP is essential for loading lipids onto apolipoprotein B and assembling chylomicrons (in intestine) and VLDL (in liver). Its absence leads to failure to secrete these lipoproteins, resulting in severe fat malabsorption, deficiency of fat-soluble vitamins (A, E causing neurological/visual symptoms), very low plasma lipids, and acanthocytosis."
+    }
+  },
+  {
+    "question": "A 30-year-old woman has lost 27.2 kg (60 lb) over 4 months by consuming only water and vitamin pills. In this state of prolonged starvation, which of the following metabolic intermediates will most likely be elevated in her blood?",
+    "options": [
+      "A. Acetoacetic acid",
+      "B. Alanine",
+      "C. Bicarbonate",
+      "D. Chylomicrons",
+      "E. VLDL"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Prolonged starvation leads to hydrolysis of adipose triglycerides, release of fatty acids, and increased beta-oxidation in the liver. The resulting excess acetyl-CoA is converted into ketone bodies, primarily acetoacetic acid and 3-hydroxybutyrate, which are released into the blood and become elevated.",
+      "B": "Serum alanine levels drop during starvation as it is used for gluconeogenesis and protein breakdown slows.",
+      "C": "Bicarbonate levels decrease as it is consumed buffering the protons released from the ketone bodies (ketoacidosis).",
+      "D": "Chylomicrons transport dietary fat and would be absent during starvation.",
+      "E": "VLDL transports endogenously synthesized triglycerides and would be very low during starvation."
+    }
+  },
+  {
+    "question": "A 6-month-old girl of Ashkenazi Jewish descent develops seizures, diminished responsiveness, and progressive blindness. Fundoscopic examination shows retinal pallor except in the macular area (cherry-red spot), but abdominal examination reveals no hepatosplenomegaly. Given this presentation, consistent with Tay-Sachs disease, enzyme activity measurements in the parents would most likely show decreased activity of:",
+    "options": [
+      "A. Arylsulfatase A",
+      "B. a-Galactosidase A",
+      "C. Glucocerebrosidase",
+      "D. Hexosaminidase A",
+      "E. Sphingomyelinase"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Deficiency causes Metachromatic leukodystrophy.",
+      "B": "Deficiency causes Fabry disease.",
+      "C": "Deficiency causes Gaucher disease.",
+      "D": "Tay-Sachs disease is an autosomal recessive disorder caused by deficiency of Hexosaminidase A. The parents of an affected child must both be heterozygous carriers. Heterozygotes typically have reduced levels (approximately 50%) of Hexosaminidase A activity compared to non-carriers, although they are phenotypically normal.",
+      "E": "Deficiency causes Niemann-Pick disease (which typically includes hepatosplenomegaly)."
+    }
+  },
+  {
+    "question": "A 45-year-old woman presents with episodic headaches, palpitations, and markedly elevated blood pressure (190/140 mm Hg) during episodes. A CT scan shows an adrenal mass consistent with pheochromocytoma. The catecholamines (epinephrine, norepinephrine, dopamine) secreted by this tumor are synthesized from which amino acid precursor?",
+    "options": [
+      "A. Arginine",
+      "B. Glutamate",
+      "C. Glycine",
+      "D. Tryptophan",
+      "E. Tyrosine"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Arginine is the precursor for nitric oxide (NO).",
+      "B": "Glutamate is the precursor for gamma-aminobutyric acid (GABA).",
+      "C": "Glycine is an inhibitory neurotransmitter itself.",
+      "D": "Tryptophan is the precursor for serotonin and melatonin.",
+      "E": "The synthesis pathway for all catecholamines begins with the amino acid tyrosine, which is hydroxylated to DOPA, then decarboxylated to dopamine. Dopamine can be hydroxylated to norepinephrine, which can then be methylated to epinephrine."
+    }
+  },
+  {
+    "question": "A 37-year-old man with a known history of acute intermittent porphyria (AIP) presents with severe abdominal pain, tachycardia, hypertension, and proximal muscle weakness following an acute illness. Which laboratory finding is most characteristic of an acute AIP attack?",
+    "options": [
+      "A. Increased erythrocyte Zn-protoporphyrin",
+      "B. Increased porphobilinogen deaminase (PBGD) activity in erythrocytes",
+      "C. Increased total serum porphyrins",
+      "D. Increased urinary coproporphyrins",
+      "E. Increased urinary delta-aminolevulinic acid (ALA) and porphobilinogen (PBG)"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Increased Zn-protoporphyrin is characteristic of lead poisoning or iron deficiency.",
+      "B": "AIP is caused by a *deficiency* (partial) of PBGD activity; activity would be decreased, not increased.",
+      "C": "Serum porphyrins are typically normal or only slightly elevated in AIP, as the block is early in the pathway.",
+      "D": "Increased urinary coproporphyrins are seen in other porphyrias (e.g., hereditary coproporphyria, porphyria cutanea tarda).",
+      "E": "AIP results from deficient activity of PBG deaminase (also called HMB synthase). During an acute attack (often precipitated by drugs, stress, etc.), ALA synthase activity is induced, leading to a buildup of the precursors ALA and PBG *before* the enzyme block. Markedly increased urinary excretion of ALA and PBG is the key diagnostic finding during an acute episode."
+    }
+  }
+]

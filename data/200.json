@@ -1,0 +1,2367 @@
+[
+  {
+    "question": "What do the two images depict (left shows lens shape, right shows crescent shape)?",
+    "options": [
+      "A. Left: Subdural hematoma; Right: Epidural hematoma.",
+      "B. Left: Brain tumor; Right: Stroke.",
+      "C. Left: Epidural hematoma (arterial bleed, lens shape); Right: Subdural hematoma (venous bleed, crescent shape).",
+      "D. Left: Hydrocephalus; Right: Brain abscess."
+    ],
+    "answer": "C",
+    "explanation": "They show intracranial hemorrhage. The image on the left shows an epidural hematoma. The image on the right shows a subdural hematoma. The epidural is from an arterial bleed and has higher pressure that more readily “pushes in” the brain, and the blood forms the shape of a lens. The subdural is from a venous bleed that forms the shape of a crescent."
+  },
+  {
+    "question": "When is a non-contrast head CT scan considered the best initial imaging test?",
+    "options": [
+      "A. For evaluating chronic headaches.",
+      "B. As the standard screening for dementia.",
+      "C. For initial imaging of the brain, especially in trauma (to look for blood) and for suspected stroke (to rule out hemorrhage).",
+      "D. To diagnose multiple sclerosis."
+    ],
+    "answer": "C",
+    "explanation": "The CT scan is always the best initial test for imaging the brain. This is especially true in trauma when looking for blood. The head CT is also the best initial test for a stroke, in which we are also looking for blood."
+  },
+  {
+    "question": "In the context of head trauma and intracranial bleeding (epidural/subdural hematomas), what is the most accurate imaging test?",
+    "options": [
+      "A. Skull X-ray.",
+      "B. MRI of the brain.",
+      "C. Head CT scan.",
+      "D. Cerebral Angiography."
+    ],
+    "answer": "C",
+    "explanation": "In head trauma, and intracranial bleeding such as subdural and epidural hematomas, there is no test more accurate than the head CT scan."
+  },
+  {
+    "question": "What imaging modality is shown in these images?",
+    "options": [
+      "A. CT scan of the brain.",
+      "B. MRI of the brain.",
+      "C. PET scan of the brain.",
+      "D. SPECT scan of the brain."
+    ],
+    "answer": "B",
+    "explanation": "This is an MRI of the brain."
+  },
+  {
+    "question": "What does the image on the right show, compared to the normal image on the left?",
+    "options": [
+      "A. Diffuse brain atrophy.",
+      "B. Acute hemorrhage.",
+      "C. A 'ring' or contrast-enhancing lesion, suggestive of cancer or infection.",
+      "D. White matter plaques typical of multiple sclerosis."
+    ],
+    "answer": "C",
+    "explanation": "The image on the left is normal. The image on the right shows a “ring” or contrast-enhancing lesion consistent with either cancer or infection."
+  },
+  {
+    "question": "For which neurological conditions is MRI considered the most accurate imaging test?",
+    "options": [
+      "A. Acute intracranial hemorrhage.",
+      "B. Skull fractures.",
+      "C. Strokes, multiple sclerosis, and most lesions affecting the brain stem and cerebellum.",
+      "D. Hydrocephalus."
+    ],
+    "answer": "C",
+    "explanation": "The MRI is the most accurate test for strokes, multiple sclerosis, and most lesions of the brain stem and cerebellum."
+  },
+  {
+    "question": "What is generally considered the only diagnostic procedure more accurate than an MRI for a suspected brain mass lesion?",
+    "options": [
+      "A. CT scan with contrast.",
+      "B. PET scan.",
+      "C. Brain biopsy.",
+      "D. Lumbar puncture."
+    ],
+    "answer": "C",
+    "explanation": "The only test more accurate than an MRI for a mass lesion is a brain biopsy. If biopsy is not one of the choices and the question asks about the “most accurate test,” then the answer is MRL"
+  },
+  {
+    "question": "What are Anti-Acetylcholine Receptor (Anti-Ach-R) Antibodies?",
+    "options": [
+      "A. Antibodies targeting muscle fibers directly.",
+      "B. Autoantibodies that bind to postsynaptic acetylcholine receptors at the neuromuscular junction, characteristic of Myasthenia Gravis.",
+      "C. Antibodies against voltage-gated calcium channels.",
+      "D. Antibodies associated with Guillain-Barré syndrome."
+    ],
+    "answer": "B",
+    "explanation": "Myasthenia gravis is characterized by anti-acetylcholine receptor antibodies (anti-Ach-R) that are made when autoimmune disease causes antibodies that bind to postsynaptic acetylcholine receptors..."
+  },
+  {
+    "question": "When are Anti-Acetylcholine Receptor (Anti-Ach-R) Antibodies considered the best initial test?",
+    "options": [
+      "A. For diagnosing Lambert-Eaton syndrome.",
+      "B. For diagnosing Myasthenia Gravis (more accurate than Tensilon/edrophonium testing).",
+      "C. To screen for muscular dystrophy.",
+      "D. When evaluating peripheral neuropathy."
+    ],
+    "answer": "B",
+    "explanation": "Anti-Ach-R antibodies are the best initial test for the diagnosis of myasthenia gravis. They are more accurate than tensilon or edrophonium testing."
+  },
+  {
+    "question": "What diagnostic test is considered the most sensitive (more accurate than Anti-Ach-R antibodies) for Myasthenia Gravis?",
+    "options": [
+      "A. Repetitive nerve stimulation study.",
+      "B. Single-fiber electromyography (EMG).",
+      "C. Muscle biopsy.",
+      "D. Chest CT scan (to look for thymoma)."
+    ],
+    "answer": "B",
+    "explanation": "Single-fiber electromyography (EMG) is the most sensitive diagnostic test for myasthenia gravis."
+  },
+  {
+    "question": "What is Carotid Doppler?",
+    "options": [
+      "A. An MRI scan of the neck arteries.",
+      "B. An invasive angiogram of the carotid arteries.",
+      "C. A sonographic (ultrasound) evaluation of the carotid arteries to quantify the degree of stenosis.",
+      "D. A blood test measuring cholesterol levels."
+    ],
+    "answer": "C",
+    "explanation": "Carotid doppler is a sonographic evaluation of the carotid arteries that allows a precise quantification of the degree of stenosis of these vessels."
+  },
+  {
+    "question": "When is ordering a Carotid Doppler indicated?",
+    "options": [
+      "A. For all patients with headaches.",
+      "B. As the initial test to determine the source of embolic strokes or TIAs in patients presenting with symptoms of anterior circulation ischemia (e.g., amaurosis fugax, focal weakness).",
+      "C. To evaluate neck pain.",
+      "D. For screening asymptomatic patients without risk factors."
+    ],
+    "answer": "B",
+    "explanation": "Answer carotid doppler when you are presented with a patient with signs or symptoms of ischemia in the anterior circulation of the brain, such as amaurosis fugax or focal extremity weakness. It is the initial test to determine the etiology of embolic strokes or TIAs."
+  },
+  {
+    "question": "What is considered the most accurate diagnostic test for evaluating carotid artery stenosis?",
+    "options": [
+      "A. Carotid Doppler ultrasound.",
+      "B. CT Angiography (CTA) of the neck.",
+      "C. Magnetic Resonance Angiography (MRA) of the neck.",
+      "D. Conventional Angiogram (catheter-based)."
+    ],
+    "answer": "D",
+    "explanation": "The most accurate test of the carotid arteries is the angiogram."
+  },
+  {
+    "question": "When is a Cervical Spine X-ray indicated based on the mechanism of injury described?",
+    "options": [
+      "A. After any minor fall.",
+      "B. For chronic neck pain.",
+      "C. Following trauma involving significant axial loading, such as diving into shallow water, falling and landing on the head, or having a heavy object land on the head.",
+      "D. To evaluate dizziness."
+    ],
+    "answer": "C",
+    "explanation": "Look for a case of someone diving or falling and landing on his head, or having something really heavy land on his head. This gives increased axial loading."
+  },
+  {
+    "question": "What is a CT Myelogram primarily used to detect?",
+    "options": [
+      "A. Degenerative disc disease.",
+      "B. Compression of the spinal cord, often from mass lesions like cancer, hematoma, or epidural abscess.",
+      "C. Spinal stenosis.",
+      "D. Vertebral fractures."
+    ],
+    "answer": "B",
+    "explanation": "The CT myelogram is to detect compression of the spinal cord from mass lesions, such as cancer, and occasionally from a hematoma or an infection, such as an epidural abscess."
+  },
+  {
+    "question": "How is a CT Myelogram performed?",
+    "options": [
+      "A. Intravenous contrast is injected, followed by a CT scan.",
+      "B. A needle is placed into the subarachnoid space, contrast material is injected, and CT scans are taken (often with patient positioning changes) to visualize blockage.",
+      "C. Ultrasound is used to visualize the spinal cord.",
+      "D. Electrodes are placed along the spine to measure nerve conduction."
+    ],
+    "answer": "B",
+    "explanation": "A spinal needle is introduced into the subarachnoid space... contrast material inserted into the subarachnoid space to move and detect the lesion..."
+  },
+  {
+    "question": "Why is CT Myelogram rarely performed today and often considered a wrong answer on exams?",
+    "options": [
+      "A. It uses too much radiation.",
+      "B. It is less sensitive than plain X-rays.",
+      "C. MRI is generally superior for visualizing the spinal cord and nerve roots and does not require lumbar puncture/contrast injection, making CT myelogram a backup only if MRI is contraindicated (e.g., pacemaker, inability to lie still).",
+      "D. It cannot detect tumors."
+    ],
+    "answer": "C",
+    "explanation": "ACT myelogram is virtually never done. It is most often a wrong answer on your test. The MRI is the answer if you strongly suspect cord compression. The only reason to answer CT myelogram is if the MRI is not possible to do..."
+  },
+  {
+    "question": "What is the Edrophonium (Tensilon) Test?",
+    "options": [
+      "A. A test for carpal tunnel syndrome.",
+      "B. A sensitive diagnostic test for Myasthenia Gravis (MG) involving administration of a short-acting acetylcholinesterase inhibitor.",
+      "C. A measurement of muscle enzyme levels.",
+      "D. An assessment of nerve conduction velocity."
+    ],
+    "answer": "B",
+    "explanation": "The edrophonium (Tensilon) test is a very sensitive test for the diagnosis of myasthenia gravis (MG). Edrophonium chloride is an acetylcholinesterase inhibitor..."
+  },
+  {
+    "question": "How does the Edrophonium (Tensilon) Test work?",
+    "options": [
+      "A. It blocks acetylcholine receptors, worsening weakness.",
+      "B. It measures antibody levels in the blood.",
+      "C. It prolongs the presence of acetylcholine in the neuromuscular junction by inhibiting its breakdown, resulting in temporary improvement in muscle strength in patients with MG.",
+      "D. It directly stimulates muscle contraction."
+    ],
+    "answer": "C",
+    "explanation": "It prolongs the presence of acetylcholine in the neuromuscular junction and results in an immediate increase in muscle strength in affected muscles."
+  },
+  {
+    "question": "When is the Edrophonium (Tensilon) Test indicated?",
+    "options": [
+      "A. For evaluating generalized fatigue.",
+      "B. When Myasthenia Gravis is suspected based on clinical presentation (muscle weakness worse with repetition, ptosis, dysphagia, diplopia).",
+      "C. To diagnose Guillain-Barré syndrome.",
+      "D. In cases of suspected muscular dystrophy."
+    ],
+    "answer": "B",
+    "explanation": "Answer edrophonium testing when you see a case with muscular weakness that is worse with repetitive exercise. MG often starts with dysphagia, ocular weakness, or difficulty chewing..."
+  },
+  {
+    "question": "What is considered the single most accurate diagnostic test for Myasthenia Gravis?",
+    "options": [
+      "A. Edrophonium (Tensilon) Test.",
+      "B. Anti-Acetylcholine Receptor Antibody test.",
+      "C. Electromyography (specifically single-fiber EMG).",
+      "D. Chest CT scan."
+    ],
+    "answer": "C",
+    "explanation": "Electromyography is the single most accurate test to confirm the diagnosis of MG."
+  },
+  {
+    "question": "What neoplasm is associated with Myasthenia Gravis in about 10% of cases?",
+    "options": [
+      "A. Lung cancer.",
+      "B. Thymoma.",
+      "C. Lymphoma.",
+      "D. Brain tumor."
+    ],
+    "answer": "B",
+    "explanation": "Thymomas are associated with the diagnosis of MG 10% of the time."
+  },
+  {
+    "question": "What is an Electroencephalogram (EEG)?",
+    "options": [
+      "A. A measurement of nerve conduction speed.",
+      "B. A recording of the electrical activity of the brain via scalp electrodes.",
+      "C. An imaging test using magnetic fields.",
+      "D. A test of muscle electrical activity."
+    ],
+    "answer": "B",
+    "explanation": "An electroencephalogram (EEG) is the measurement of brain wave patterns by putting electrodes into the scalp."
+  },
+  {
+    "question": "When is an EEG the best answer as a diagnostic tool?",
+    "options": [
+      "A. To diagnose brain tumors.",
+      "B. When evaluating a patient with new onset of possible seizure activity or recurrent syncope of unclear (non-cardiac) etiology.",
+      "C. To confirm a stroke.",
+      "D. For diagnosing Alzheimer's disease."
+    ],
+    "answer": "B",
+    "explanation": "Answer EEG when the patient has the new onset of possible seizure activity. Also, EEG is useful in patients with recurrent sudden-onset syncope if there is no cardiac etiology identified."
+  },
+  {
+    "question": "What type of EEG is considered the most sensitive, especially for evaluating if anti-epileptic therapy can be safely stopped?",
+    "options": [
+      "A. Routine awake EEG.",
+      "B. EEG during hyperventilation.",
+      "C. Sleep-deprived EEG.",
+      "D. Ambulatory 24-hour EEG."
+    ],
+    "answer": "C",
+    "explanation": "Sleep deprivation EEG has the greatest sensitivity. This is the answer if the patient has been seizure-free for 2 years and you want a test to see if it is safe to stop the anti-epileptic therapy."
+  },
+  {
+    "question": "What is Electromyography (EMG)?",
+    "options": [
+      "A. A recording of brain waves.",
+      "B. A test measuring the electrical activity within muscles, used to diagnose neuromuscular diseases and differentiate nerve vs. muscle disorders.",
+      "C. An ultrasound of muscles.",
+      "D. A test of reflexes."
+    ],
+    "answer": "B",
+    "explanation": "Electromyography (EMG) is a test of muscular strength and electrical activity. EMGs are used to diagnose primary neuromuscular diseases. EMG is used to distinguish between neural and muscular disorders."
+  },
+  {
+    "question": "How is EMG typically performed?",
+    "options": [
+      "A. Surface electrodes are placed over muscles.",
+      "B. Blood is drawn to measure muscle enzymes.",
+      "C. A needle electrode is inserted into the muscle to record electrical activity at rest and during contraction.",
+      "D. Magnetic stimulation is applied to the muscle."
+    ],
+    "answer": "C",
+    "explanation": "A needle is placed into the muscle. The electrical activity during rest and activity is compared."
+  },
+  {
+    "question": "Seeing EMG mentioned in a case should prompt consideration of which group of diseases?",
+    "options": [
+      "A. Stroke, TIA, Brain tumor.",
+      "B. Myasthenia Gravis, Guillain-Barré syndrome, Muscular Dystrophy, Polymyositis.",
+      "C. Multiple Sclerosis, Parkinson's disease, Alzheimer's disease.",
+      "D. Epilepsy, Migraine, Meningitis."
+    ],
+    "answer": "B",
+    "explanation": "An EMG in the case should make you think of myasthenia gravis, Guillain-Barre syndrome, and muscular dystrophy. (Polymyositis also often involves EMG)."
+  },
+  {
+    "question": "For which condition is Single-Fiber EMG considered the single most accurate diagnostic test?",
+    "options": [
+      "A. Guillain-Barré syndrome.",
+      "B. Muscular Dystrophy.",
+      "C. Myasthenia Gravis.",
+      "D. Polymyositis."
+    ],
+    "answer": "C",
+    "explanation": "Single-fiber EMG is the single most accurate test for myasthenia gravis."
+  },
+  {
+    "question": "For which condition is combined EMG and Nerve Conduction Velocity (NCV) testing the single most accurate test?",
+    "options": [
+      "A. Myasthenia Gravis.",
+      "B. Guillain-Barré syndrome.",
+      "C. Muscular Dystrophy.",
+      "D. Multiple Sclerosis."
+    ],
+    "answer": "B",
+    "explanation": "Combined EMG and nerve conduction velocity testing is the single most accurate test for Guillain-Barré syndrome."
+  },
+  {
+    "question": "What is a Lumbar Puncture (LP)?",
+    "options": [
+      "A. Injection of contrast into the spinal canal for imaging.",
+      "B. A biopsy of the spinal cord.",
+      "C. Insertion of a needle into the subarachnoid space to collect cerebrospinal fluid (CSF) for analysis.",
+      "D. Measurement of pressure within the skull."
+    ],
+    "answer": "C",
+    "explanation": "Lumbar puncture (LP) is the insertion of a spinal needle into the subarachnoid space to aspirate CSF fluid."
+  },
+  {
+    "question": "In which scenarios is performing a Lumbar Puncture (LP) indicated?",
+    "options": [
+      "A. To diagnose degenerative disc disease.",
+      "B. For suspected meningitis; suspected subarachnoid hemorrhage when CT is negative; new-onset seizure with fever; or fever in an infant <6 weeks with negative initial studies.",
+      "C. As a routine test for chronic back pain.",
+      "D. To evaluate peripheral neuropathy."
+    ],
+    "answer": "B",
+    "explanation": "LP is the answer in the following scenarios:\nm Patients with suspected meningeal infection\nm Patient with the worst headache of her life, in whom the CT scan is negative to exclude subarachnoid hemorrhage\nm New-onset seizures with fever\nm Any infant (less than 6 weeks old) with fever if the other studies are negative"
+  },
+  {
+    "question": "When is performing a Lumbar Puncture (LP) contraindicated without first obtaining a head CT scan?",
+    "options": [
+      "A. In any patient with a headache.",
+      "B. If the patient has a fever.",
+      "C. If there are signs suggestive of increased intracranial pressure or a mass lesion (e.g., focal neurological findings, papilledema, new seizure, significantly altered mental status).",
+      "D. In patients over 65 years old."
+    ],
+    "answer": "C",
+    "explanation": "LPs are contraindicated with any suspected mass lesion. Do a head CT scan before the LP when there are focal findings, papilledema, or a new seizure, or when the patient is so confused as to make the neurological examination inaccurate."
+  },
+  {
+    "question": "What are Oligoclonal Bands?",
+    "options": [
+      "A. Specific proteins found in muscle tissue.",
+      "B. Elevated bands of IgG detected in cerebrospinal fluid (CSF) electrophoresis.",
+      "C. Abnormalities seen on brain MRI.",
+      "D. Markers of bacterial infection in CSF."
+    ],
+    "answer": "B",
+    "explanation": "Detection of elevated bands of IgG (oligoclonal bands) in the CSF is possible..."
+  },
+  {
+    "question": "The presence of Oligoclonal Bands in CSF is suggestive, though not specific, for which neurological condition?",
+    "options": [
+      "A. Alzheimer's disease.",
+      "B. Parkinson's disease.",
+      "C. Multiple Sclerosis (MS).",
+      "D. Bacterial meningitis."
+    ],
+    "answer": "C",
+    "explanation": "...in a patient presenting with signs and symptoms of multiple sclerosis. The presence of these bands is not specific."
+  },
+  {
+    "question": "When is testing CSF for Oligoclonal Bands typically recommended in the evaluation of possible Multiple Sclerosis (MS)?",
+    "options": [
+      "A. As the first diagnostic test for MS.",
+      "B. Only when the MRI of the brain is non-confirmatory, but clinical suspicion for MS remains high.",
+      "C. In all patients with optic neuritis.",
+      "D. To monitor disease activity in established MS."
+    ],
+    "answer": "B",
+    "explanation": "Examining the CSF for oligoclonal bands is recommended only when the MRI is nonconfirmatory but your clinical suspicion for MS remains high."
+  },
+  {
+    "question": "What is considered the most accurate test for diagnosing Multiple Sclerosis (MS)?",
+    "options": [
+      "A. CSF analysis for oligoclonal bands.",
+      "B. Visual evoked potentials (VEP).",
+      "C. MRI of the brain (and sometimes spinal cord).",
+      "D. Clinical diagnosis based on symptoms alone."
+    ],
+    "answer": "C",
+    "explanation": "MRI of the brain is the most accurate test to diagnose MS, with a sensitivity of 90-95%."
+  },
+  {
+    "question": "What is the Urea Breath Test?",
+    "options": [
+      "A. A test for lung function.",
+      "B. A test measuring radiolabeled CO2 exhaled after ingesting labeled urea, used to detect Helicobacter pylori infection.",
+      "C. A method to diagnose gastroesophageal reflux.",
+      "D. A screening test for small intestinal bacterial overgrowth."
+    ],
+    "answer": "B",
+    "explanation": "Urea breath testing is the measurement of radiolabeled carbon dioxide after the oral ingestion of labeled urea. H. pylori splits urea with urease. The labeled carbon is in the urea and is released as labeled carbon dioxide."
+  },
+  {
+    "question": "When is the Urea Breath Test most appropriately used in the management of H. pylori infection?",
+    "options": [
+      "A. As the initial diagnostic test for peptic ulcer disease.",
+      "B. Primarily to confirm eradication of H. pylori after completion of treatment.",
+      "C. During active bleeding from an ulcer.",
+      "D. To screen asymptomatic individuals."
+    ],
+    "answer": "B",
+    "explanation": "Urea breath testing is best used to confirm the eradication of H. pylori immediately after treatment. Serology does not rapidly improve after treatment."
+  },
+  {
+    "question": "In which clinical scenario would a Urea Breath Test be indicated?",
+    "options": [
+      "A. A patient with acute diarrhea.",
+      "B. A patient with epigastric pain whose symptoms persist or recur after a course of treatment (PPI and antibiotics) for presumed H. pylori-related disease.",
+      "C. To diagnose Barrett's esophagus.",
+      "D. When endoscopy shows active ulceration (biopsy is preferred then)."
+    ],
+    "answer": "B",
+    "explanation": "Answer urea breath test with a patient with epigastric pain that does not improve or that recurs after a proton pump inhibitor and antibiotics have been given."
+  },
+  {
+    "question": "What is Serum Trypsinogen concentration used to assess?",
+    "options": [
+      "A. Acute pancreatitis.",
+      "B. Pancreatic exocrine function, helping to diagnose chronic pancreatitis as a cause of steatorrhea.",
+      "C. Pancreatic cancer.",
+      "D. Cystic fibrosis."
+    ],
+    "answer": "B",
+    "explanation": "Serum assay of trypsinogen is used when you suspect chronic pancreatitis in a patient with steatorrhea. This is the only test that is specific for steatorrhea of pancreatic origin."
+  },
+  {
+    "question": "What level of Serum Trypsinogen would be expected in steatorrhea caused by chronic pancreatitis?",
+    "options": [
+      "A. High levels.",
+      "B. Normal levels.",
+      "C. Low levels (due to pancreatic burnout).",
+      "D. Fluctuating levels."
+    ],
+    "answer": "C",
+    "explanation": "Trypsinogen levels are low if the fat malabsorption is from a burned-out pancreas."
+  },
+  {
+    "question": "When is measuring Serum Trypsinogen level indicated?",
+    "options": [
+      "A. As the first test for abdominal pain.",
+      "B. Only after fat malabsorption (steatorrhea) has been confirmed (e.g., by Sudan black stain), and other causes like celiac disease have been considered or ruled out.",
+      "C. To screen for pancreatic divisum.",
+      "D. In patients with elevated amylase and lipase."
+    ],
+    "answer": "B",
+    "explanation": "Answer trypsinogen level only after Sudan black stain has confirmed a fat malabsorption. Antigliadin and anti-endomysial antibodies should be normal."
+  },
+  {
+    "question": "What is Fasting Transferrin Saturation?",
+    "options": [
+      "A. A measure of total iron stores (like ferritin).",
+      "B. The percentage of iron-binding sites on transferrin that are occupied by iron (calculated as Serum Iron / TIBC).",
+      "C. The amount of transferrin protein in the blood.",
+      "D. A marker of inflammation."
+    ],
+    "answer": "B",
+    "explanation": "Fasting transferrin saturation = (serum iron/TIBC)."
+  },
+  {
+    "question": "Measuring Fasting Transferrin Saturation is considered the best initial test for diagnosing which condition?",
+    "options": [
+      "A. Iron deficiency anemia.",
+      "B. Anemia of chronic disease.",
+      "C. Hereditary Hemochromatosis (HH).",
+      "D. Thalassemia."
+    ],
+    "answer": "C",
+    "explanation": "Serum measurement of fasting transferrin saturation is the best initial test to diagnose hereditary hemochromatosis (HH) as well as the screening test for asymptomatic family members."
+  },
+  {
+    "question": "When should testing for Fasting Transferrin Saturation be considered?",
+    "options": [
+      "A. In any patient with fatigue.",
+      "B. When evaluating microcytic anemia.",
+      "C. In a patient presenting with a combination suggestive of iron overload: liver disease, joint pain (arthropathy), diabetes, cardiomyopathy, skin hyperpigmentation ('bronze diabetes'), or infertility.",
+      "D. To monitor response to iron supplementation."
+    ],
+    "answer": "C",
+    "explanation": "Answer fasting transferrin saturation when you see a case of liver disease with joint pain, diabetes, cardiomyopathy, skin hyperpigmentation, and infertility."
+  },
+  {
+    "question": "If Fasting Transferrin Saturation is elevated, suggesting Hereditary Hemochromatosis, what is the most accurate confirmatory test?",
+    "options": [
+      "A. Serum ferritin level.",
+      "B. Genetic testing for HFE mutations.",
+      "C. Liver biopsy (to assess iron deposition and fibrosis).",
+      "D. MRI of the liver."
+    ],
+    "answer": "C",
+    "explanation": "Liver biopsy is the most accurate test. (Although genetic testing is also crucial)."
+  },
+  {
+    "question": "What is the underlying pathogenesis of Hereditary Hemochromatosis?",
+    "options": [
+      "A. Excessive dietary iron intake.",
+      "B. Chronic blood loss.",
+      "C. A genetically determined abnormal increase in intestinal iron absorption.",
+      "D. Impaired iron utilization by bone marrow."
+    ],
+    "answer": "C",
+    "explanation": "The pathogenesis is genetically determined abnormal increase in intestinal absorption of iron."
+  },
+  {
+    "question": "What is the optimal age range for screening family members of patients with Hereditary Hemochromatosis?",
+    "options": [
+      "A. Infancy.",
+      "B. Childhood (ages 5-10).",
+      "C. Early adulthood (ages 18-30), before significant organ damage occurs.",
+      "D. After age 50."
+    ],
+    "answer": "C",
+    "explanation": "The optimal timing for screening family members is between the ages of 18 and 30, before organ damage (e.g., cirrhosis) has occurred."
+  },
+  {
+    "question": "What is the Sudan Black stain used for in stool analysis?",
+    "options": [
+      "A. To detect occult blood.",
+      "B. To identify parasites.",
+      "C. To detect the presence of fat (steatorrhea) as a sign of malabsorption.",
+      "D. To culture bacteria."
+    ],
+    "answer": "C",
+    "explanation": "Stool staining with Sudan black is used to detect steatorrhea as a sign of fat malabsorption."
+  },
+  {
+    "question": "What is considered the most accurate test for quantifying fat malabsorption, although rarely performed?",
+    "options": [
+      "A. Sudan black stain.",
+      "B. D-xylose test.",
+      "C. 72-hour quantitative fecal fat estimation.",
+      "D. Serum trypsinogen level."
+    ],
+    "answer": "C",
+    "explanation": "Seventy-two-hour quantitative estimation of stool fat is the most accurate test..."
+  },
+  {
+    "question": "When is ordering a Sudan Black stain of stool indicated?",
+    "options": [
+      "A. For acute infectious diarrhea.",
+      "B. When evaluating constipation.",
+      "C. In a patient presenting with chronic, pale, greasy, foul-smelling diarrhea suggestive of fat malabsorption, without evidence of infection.",
+      "D. To screen for colon cancer."
+    ],
+    "answer": "C",
+    "explanation": "Answer Sudan black stain when you see a patient with chronic pale, greasy, malodorous diarrhea, and no evidence of infection."
+  },
+  {
+    "question": "What was the String Test historically used for?",
+    "options": [
+      "A. Detecting H. pylori.",
+      "B. Diagnosing giardiasis by sampling duodenal contents.",
+      "C. Measuring esophageal pH.",
+      "D. Identifying sources of upper GI bleeding."
+    ],
+    "answer": "B",
+    "explanation": "The string testis an old test for giardiasis. The string test samples the duodenal mucosa..."
+  },
+  {
+    "question": "Why is the String Test considered obsolete and always a wrong answer on modern exams?",
+    "options": [
+      "A. It is too expensive.",
+      "B. It has low sensitivity.",
+      "C. Less invasive and more accurate tests, like stool ova and parasite exam or stool Giardia antigen testing (ELISA), are now available.",
+      "D. It carries a high risk of complications."
+    ],
+    "answer": "C",
+    "explanation": "String testing is always the wrong answer. Stool ova and parasite testing is sufficiently sensitive and less invasive. Stool Giardia antigen testing by ELISA is the single most accurate test for Giardia and is considerably less invasive."
+  },
+  {
+    "question": "What is the 72-Hour Fecal Fat collection test used for?",
+    "options": [
+      "A. Detecting specific parasites.",
+      "B. Measuring fecal elastase.",
+      "C. As the single most accurate (though rarely performed) test for quantifying intestinal fat malabsorption.",
+      "D. Screening for inflammatory bowel disease."
+    ],
+    "answer": "C",
+    "explanation": "The 72-hour fecal fat collection is an old test for intestinal malabsorption... The 72-hour fecal fat collection is the single most accurate test for fat malabsorption..."
+  },
+  {
+    "question": "When might the 72-Hour Fecal Fat test be considered (despite usually being the wrong answer)?",
+    "options": [
+      "A. As the initial test for diarrhea.",
+      "B. If fat malabsorption is strongly suspected, but the initial Sudan black stain of the stool is negative.",
+      "C. To diagnose Celiac disease directly.",
+      "D. When evaluating constipation."
+    ],
+    "answer": "B",
+    "explanation": "...it is virtually never done and is most often a wrong answer on your test. The 72-hour fecal fat is the answer if you strongly suspect fat malabsorption and the Sudan black stain is negative."
+  },
+  {
+    "question": "In which patients with gastroesophageal reflux disease (GERD) should screening upper endoscopy be considered?",
+    "options": [
+      "A. All patients immediately upon diagnosis of GERD.",
+      "B. Patients whose GERD symptoms have been present for more than 5 years (to screen for Barrett's esophagus), or those with cirrhosis (to screen for varices).",
+      "C. Only patients with severe, intractable symptoms.",
+      "D. Patients under the age of 40."
+    ],
+    "answer": "B",
+    "explanation": "Screening upper endoscopy should be performed in patients with gastroesophageal reflux disease (GERD) in whom the symptoms have been present for more than 5 years. You are screening to see if there is Barrett's esophagus... Screening for the presence of esophageal varices should be done in those with cirrhosis."
+  },
+  {
+    "question": "What is the recommended management and surveillance for Barrett's esophagus found on screening endoscopy?",
+    "options": [
+      "A. Immediate surgical resection.",
+      "B. Treatment with H2 blockers and repeat endoscopy yearly.",
+      "C. Treatment with proton pump inhibitors (PPIs) and repeat upper endoscopy every 2-3 years.",
+      "D. Observation only."
+    ],
+    "answer": "C",
+    "explanation": "Barrett's esophagus is treated with proton pump inhibitors (PPIs) with a repeat upper endoscopy every 2-3 years."
+  },
+  {
+    "question": "What is the Secretin Stimulation Test used for?",
+    "options": [
+      "A. Only to diagnose Zollinger-Ellison syndrome (ZES).",
+      "B. Only to diagnose chronic pancreatitis.",
+      "C. To diagnose either Zollinger-Ellison syndrome (ZES) or chronic pancreatitis, depending on how the test is performed and interpreted.",
+      "D. To evaluate gallbladder function."
+    ],
+    "answer": "C",
+    "explanation": "Secretin stimulation is a rarely used test for two completely separate diseases: Zollinger-Fllison syndrome (ZES) and chronic pancreatitis."
+  },
+  {
+    "question": "How does the Secretin Stimulation Test help diagnose Zollinger-Ellison Syndrome (ZES)?",
+    "options": [
+      "A. Secretin causes a paradoxical rise (or failure to suppress) serum gastrin levels in patients with ZES.",
+      "B. Secretin suppresses gastrin levels significantly in ZES.",
+      "C. Secretin stimulates bicarbonate release, which is measured.",
+      "D. Secretin causes abdominal pain in patients with ZES."
+    ],
+    "answer": "A",
+    "explanation": "ZES: You inject secretin intravenously and measure the level of gastrin... In ZES there is a failure to suppress gastrin levels."
+  },
+  {
+    "question": "How does the Secretin Stimulation Test help diagnose Chronic Pancreatitis?",
+    "options": [
+      "A. It measures serum gastrin levels.",
+      "B. It causes a rise in pancreatic enzymes in the blood.",
+      "C. It assesses the pancreas's ability to release bicarbonate into the duodenum in response to secretin; a reduced bicarbonate output suggests chronic pancreatitis.",
+      "D. It visualizes the pancreatic duct via imaging."
+    ],
+    "answer": "C",
+    "explanation": "Chronic pancreatitis: Normally, secretin should induce a large release of bicarbonate from the pancreas into the duodenum... With chronic pancreatitis, the pancreas is too burned out and tired to do anything."
+  },
+  {
+    "question": "When is the Secretin Stimulation Test indicated for suspected Zollinger-Ellison Syndrome (ZES)?",
+    "options": [
+      "A. As the first test for any patient with peptic ulcer disease.",
+      "B. When a patient has clinical features suggestive of ZES (large, recurrent, multiple, distal ulcers) but the fasting serum gastrin level is nondiagnostic (not >1000 pg/ml).",
+      "C. To monitor response to PPI therapy.",
+      "D. If H. pylori testing is negative."
+    ],
+    "answer": "B",
+    "explanation": "Answer secretin stimulation testing in ZFS when the patient has large, recurrent, and multiple ulcers, but has a nondiagnostic fasting serum gastrin concentration."
+  },
+  {
+    "question": "What is 24-Hour Esophageal pH Monitoring used for?",
+    "options": [
+      "A. To diagnose esophageal cancer.",
+      "B. To measure esophageal motility.",
+      "C. To objectively document abnormal esophageal acid exposure, confirming GERD.",
+      "D. To detect H. pylori infection."
+    ],
+    "answer": "C",
+    "explanation": "Twenty-four-hour esophageal pH recording is indicated to document abnormal esophageal acid exposure."
+  },
+  {
+    "question": "In which clinical scenarios is 24-Hour Esophageal pH Monitoring the appropriate test?",
+    "options": [
+      "A. As the initial test for all patients with heartburn.",
+      "B. When GERD symptoms persist despite adequate PPI therapy; to evaluate unexplained non-cardiac chest pain; prior to considering anti-reflux surgery (especially if endoscopy is negative); or to evaluate suspected reflux-related laryngitis/cough/asthma.",
+      "C. To screen for Barrett's esophagus.",
+      "D. After successful anti-reflux surgery."
+    ],
+    "answer": "B",
+    "explanation": "It is the appropriate test in the following scenarios:\nm Persistent symptoms of gastroesophageal reflux disease (GERD) after at least 4 weeks of treatment with proton pump inhibitors (PPIs)\nm To exclude GERD in a patient with unexplained chest pain\nm GERD symptoms with a negative upper endoscopy when you are considering antireflux surgical repair...\nm lo evaluate patients with laryngitis, pharyngitis, chronic cough, nonallergic asthma..."
+  },
+  {
+    "question": "What diagnostic test involves PAS (Periodic acid-Schiff) staining of a small bowel biopsy specimen?",
+    "options": [
+      "A. Celiac disease.",
+      "B. Crohn's disease.",
+      "C. Whipple's disease.",
+      "D. Tropical sprue."
+    ],
+    "answer": "C",
+    "explanation": "PAS staining on a small bowel biopsy specimen is the most accurate test for Whipple's disease."
+  },
+  {
+    "question": "When should PAS staining of a small bowel biopsy be considered for diagnosing Whipple's disease?",
+    "options": [
+      "A. In any patient with diarrhea.",
+      "B. When evaluating iron deficiency anemia.",
+      "C. In a patient with a chronic multisystem illness featuring joint symptoms, fat malabsorption, fever, and potentially neurological or ocular findings.",
+      "D. To screen for colon polyps."
+    ],
+    "answer": "C",
+    "explanation": "Look for chronic multisystem illness, initially rheumatological (80%), then with fat malabsorption (75%), fever (50%), and ocular and neurological complaints."
+  },
+  {
+    "question": "What is the recommended treatment for Whipple's disease?",
+    "options": [
+      "A. Lifelong gluten-free diet.",
+      "B. Corticosteroids.",
+      "C. Initial course of Ceftriaxone followed by trimethoprim-sulfamethoxazole for 1 year.",
+      "D. Mesalamine."
+    ],
+    "answer": "C",
+    "explanation": "Initial course of Ceftriaxone followed by trimethoprim-sulfamethoxazole for 1 year."
+  },
+  {
+    "question": "What is a HIDA (Hepatobiliary Iminodiacetic Acid) Scan used for?",
+    "options": [
+      "A. To visualize the liver parenchyma for tumors.",
+      "B. To assess gallbladder function and cystic duct patency, primarily used when acute cholecystitis is suspected but ultrasound is inconclusive.",
+      "C. To measure gastric emptying time.",
+      "D. To detect kidney stones."
+    ],
+    "answer": "B",
+    "explanation": "HIDA scan is used when you suspect acute cholecystitis with a nondiagnostic ultrasonography."
+  },
+  {
+    "question": "When is a HIDA scan indicated?",
+    "options": [
+      "A. As the first test for right upper quadrant pain.",
+      "B. When ultrasound shows gallstones but no signs of acute inflammation (edema, Murphy's sign), OR when ultrasound shows signs of inflammation but no gallstones, and acute cholecystitis is still suspected.",
+      "C. To screen for gallstones in asymptomatic patients.",
+      "D. To diagnose pancreatitis."
+    ],
+    "answer": "B",
+    "explanation": "Answer HIDA scan when you see either:\na. Gallstones without gallbladder edema and ultrasound Murphy's sign, or\nb. Gallbladder edema and ultrasound Murphy's sign without gallstones."
+  },
+  {
+    "question": "How does a HIDA scan work, and what finding suggests acute cholecystitis?",
+    "options": [
+      "A. Ultrasound waves detect gallbladder wall thickening.",
+      "B. A radioactive tracer (HIDA) is taken up by the liver and excreted into bile; failure of the gallbladder to visualize (opacify) suggests cystic duct obstruction, consistent with acute cholecystitis.",
+      "C. Contrast dye is injected into the bile ducts.",
+      "D. The patient drinks a fatty meal, and gallbladder contraction is measured."
+    ],
+    "answer": "B",
+    "explanation": "HIDA is taken up by hepatocytes and excreted into bile and concentrated in the gallbladder. If the gallbladder does not opacify, it means that there is an obstruction of the cystic duct."
+  },
+  {
+    "question": "When is a HIDA scan often considered the wrong answer or unnecessary?",
+    "options": [
+      "A. If the ultrasound is equivocal.",
+      "B. In critically ill patients requiring immediate surgery, or when the diagnosis of acute cholecystitis is already clinically obvious based on presentation and definitive ultrasound findings.",
+      "C. In patients with jaundice.",
+      "D. If the patient has a fever."
+    ],
+    "answer": "B",
+    "explanation": "The HIDA is not recommended in critically ill patients who should be taken to the operating room. If the diagnosis is obvious, the HIDA scan is not necessary, surgery is necessary."
+  },
+  {
+    "question": "What genetic tests are used as confirmatory tests for hereditary hemochromatosis?",
+    "options": [
+      "A. Factor V Leiden mutation.",
+      "B. BRCA1 and BRCA2 mutations.",
+      "C. Testing for mutations in the HFE gene, particularly the C282Y mutation.",
+      "D. Philadelphia chromosome (BCR-ABL)."
+    ],
+    "answer": "C",
+    "explanation": "The HFE gene and C282Y mutation both lead to the overabsorption of iron... They are the confirmatory tests for hemochromatosis."
+  },
+  {
+    "question": "When is genetic testing for HFE mutations (like C282Y) indicated?",
+    "options": [
+      "A. As a routine screening test for anemia.",
+      "B. To evaluate liver disease of unknown cause.",
+      "C. When a patient has clinical features and abnormal iron studies (high ferritin, high transferrin saturation) consistent with hemochromatosis, to confirm the hereditary basis.",
+      "D. To diagnose iron deficiency."
+    ],
+    "answer": "C",
+    "explanation": "Answer HFE gene and C282Y mutation when you are shown a patient with the characteristics of hemochromatosis and abnormal iron studies consistent with hemochromatosis."
+  },
+  {
+    "question": "What is Gastrograffin?",
+    "options": [
+      "A. A type of barium suspension.",
+      "B. A water-soluble, radio-opaque contrast material.",
+      "C. A medication used to treat GERD.",
+      "D. A radioactive tracer used in nuclear scans."
+    ],
+    "answer": "B",
+    "explanation": "Gastrograffin is a water-soluble form of radio-opaque contrast material..."
+  },
+  {
+    "question": "When is Gastrograffin the contrast agent of choice for diagnostic imaging?",
+    "options": [
+      "A. For routine evaluation of dysphagia.",
+      "B. When there is a suspicion of gastrointestinal perforation (e.g., Boerhaave's syndrome, esophageal perforation), as barium leakage causes inflammation.",
+      "C. To visualize small bowel mucosal patterns.",
+      "D. For performing a colonoscopy."
+    ],
+    "answer": "B",
+    "explanation": "...used when there is the possibility that there has been organ perforation and the material may leak through into the peritoneum. Gastrograffin is used as the diagnostic test of choice for Boerhaave’s syndrome, or esophageal perforation..."
+  },
+  {
+    "question": "What is the most accurate imaging test for confirming suspected esophageal perforation (Boerhaave's syndrome)?",
+    "options": [
+      "A. Gastrograffin swallow study.",
+      "B. Barium swallow study.",
+      "C. CT scan (often with oral contrast).",
+      "D. Chest X-ray."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test is a CT scan."
+  },
+  {
+    "question": "What is the significance of measuring serum Gastrin levels?",
+    "options": [
+      "A. To diagnose H. pylori infection.",
+      "B. To screen for gastric cancer.",
+      "C. To diagnose Zollinger-Ellison syndrome (ZES), where levels are typically markedly elevated.",
+      "D. To assess gastric emptying."
+    ],
+    "answer": "C",
+    "explanation": "Serum gastrin levels should be measured when you suspect Zollinger-Ellison syndrome (ZES)."
+  },
+  {
+    "question": "When is measuring serum Gastrin level the best initial test?",
+    "options": [
+      "A. In all patients with dyspepsia.",
+      "B. When ZES is suspected due to clinical features like large (>1 cm), recurrent, distal, or multiple peptic ulcers.",
+      "C. To monitor response to PPI therapy.",
+      "D. In patients with unexplained diarrhea."
+    ],
+    "answer": "B",
+    "explanation": "Look for ulcers that are large (>1 cm), recurrent, distal, and multiple. A gastrin level greater than 1,000 pg/ml is diagnostic."
+  },
+  {
+    "question": "If the fasting serum Gastrin level is elevated but not definitively diagnostic for ZES, what additional test can help confirm the diagnosis?",
+    "options": [
+      "A. Urea breath test.",
+      "B. Secretin stimulation test (which shows a paradoxical rise or failure to suppress gastrin in ZES).",
+      "C. Upper endoscopy with biopsy for H. pylori.",
+      "D. 24-hour pH monitoring."
+    ],
+    "answer": "B",
+    "explanation": "The secretin stimulation test can confirm ZES when serum gastrin concentration testing is nondiagnostic. In ZES, gastrin levels do not go down with secretin."
+  },
+  {
+    "question": "Zollinger-Ellison Syndrome (ZES) is often associated with which genetic syndrome?",
+    "options": [
+      "A. Multiple Endocrine Neoplasia Type II (MEN II).",
+      "B. Multiple Endocrine Neoplasia Type I (MEN I).",
+      "C. Von Hippel-Lindau syndrome.",
+      "D. Neurofibromatosis Type 1."
+    ],
+    "answer": "B",
+    "explanation": "7FS is associated with MEN I: Hyperparathyroidism, Pituitary adenomas, Pancreatic islet cell / gastrointestinal adenomas"
+  },
+  {
+    "question": "What is the purpose of testing stool for Fecal Leukocytes?",
+    "options": [
+      "A. To detect occult blood.",
+      "B. To screen for colon cancer.",
+      "C. To help determine the etiology of acute diarrhea by identifying inflammatory causes (suggesting invasive pathogens).",
+      "D. To diagnose fat malabsorption."
+    ],
+    "answer": "C",
+    "explanation": "Fecal leukocytes are used to assess the etiology of acute diarrhea."
+  },
+  {
+    "question": "The presence of Fecal Leukocytes in stool suggests diarrhea caused by which type of pathogens?",
+    "options": [
+      "A. Viruses or pre-formed toxins.",
+      "B. Invasive or inflammatory bacteria (e.g., Salmonella, Shigella, Campylobacter, EHEC, C. difficile) or inflammatory bowel disease.",
+      "C. Non-invasive parasites like Giardia.",
+      "D. Lactose intolerance."
+    ],
+    "answer": "B",
+    "explanation": "Invasive and inflammatory causes of diarrhea can give both blood as well as fecal leukocytes. Diseases such as Salmonella, Shigella, Campylobacter, etc., can give both blood as well as white cells in the stool."
+  },
+  {
+    "question": "When is testing for Fecal Leukocytes indicated?",
+    "options": [
+      "A. In all cases of chronic diarrhea.",
+      "B. When evaluating constipation.",
+      "C. In a patient with acute diarrhea, especially if fever is present or blood is absent, to help differentiate inflammatory from non-inflammatory causes.",
+      "D. To monitor treatment for inflammatory bowel disease."
+    ],
+    "answer": "C",
+    "explanation": "Look for a patient with diarrhea with no blood in whom you are trying to see if there is an invasive form of diarrhea."
+  },
+  {
+    "question": "What is Fecal Occult Blood Testing (FOBT)?",
+    "options": [
+      "A. A direct visualization of the colon.",
+      "B. A test to detect microscopic amounts of blood in visibly normal stool.",
+      "C. A culture for pathogenic bacteria in stool.",
+      "D. A measurement of fat in the stool."
+    ],
+    "answer": "B",
+    "explanation": "Fecal occult blood testing {FOBT) is the screening of normal brown stool for microscopic amounts of blood not grossly visible."
+  },
+  {
+    "question": "When is Fecal Occult Blood Testing (FOBT) primarily used?",
+    "options": [
+      "A. To diagnose acute gastrointestinal bleeding.",
+      "B. As one option for colorectal cancer screening in average-risk individuals over age 50 (typically performed annually).",
+      "C. To evaluate iron deficiency anemia.",
+      "D. To detect H. pylori infection."
+    ],
+    "answer": "B",
+    "explanation": "FOBT is a screening test for occult blood in the stool. FOBT is an option for screening for colon cancer in those above the age of 50."
+  },
+  {
+    "question": "If a Fecal Occult Blood Test (FOBT) is positive, what is the recommended follow-up investigation?",
+    "options": [
+      "A. Repeat FOBT.",
+      "B. Barium enema.",
+      "C. Colonoscopy.",
+      "D. Abdominal CT scan."
+    ],
+    "answer": "C",
+    "explanation": "A positive FOBT should be investigated with a colonoscopy."
+  },
+  {
+    "question": "What is Esophageal Manometry used to diagnose?",
+    "options": [
+      "A. Gastroesophageal reflux disease (GERD).",
+      "B. Esophageal motility disorders (like achalasia, diffuse esophageal spasm, nutcracker esophagus) causing dysphagia or chest pain when mechanical obstruction is absent.",
+      "C. Barrett's esophagus.",
+      "D. Esophageal cancer."
+    ],
+    "answer": "B",
+    "explanation": "Esophageal manometry is used to establish the diagnosis of dysphagia or unexplained chest pain when there is no mechanical obstruction."
+  },
+  {
+    "question": "How is Esophageal Manometry performed?",
+    "options": [
+      "A. By swallowing a barium contrast agent.",
+      "B. Via endoscopy with biopsy.",
+      "C. By placing a pressure-sensing transducer (catheter) into the esophagus to record muscle contractions.",
+      "D. Using 24-hour pH monitoring."
+    ],
+    "answer": "C",
+    "explanation": "Esophageal manometry consists of a transducer placed in the esophagus to record pressure."
+  },
+  {
+    "question": "When is Esophageal Manometry indicated?",
+    "options": [
+      "A. As the first test for any difficulty swallowing.",
+      "B. When a patient has dysphagia or non-cardiac chest pain, and initial tests like barium swallow or upper endoscopy are inconclusive or suggest a motility disorder.",
+      "C. To screen for esophageal varices.",
+      "D. If GERD is suspected."
+    ],
+    "answer": "B",
+    "explanation": "Look for a case of dysphagia with an inconclusive barium radiograph or upper endoscopy. If the stem of the question clearly describes a motility problem, you do not have to do either endoscopy or barium prior to doing the manometry..."
+  },
+  {
+    "question": "What is Endoscopic Retrograde Cholangiopancreatography (ERCP)?",
+    "options": [
+      "A. An ultrasound of the gallbladder and bile ducts.",
+      "B. A procedure involving endoscopy to visualize and potentially intervene on the biliary and pancreatic ducts.",
+      "C. A nuclear scan assessing liver function.",
+      "D. A CT scan focused on the pancreas."
+    ],
+    "answer": "B",
+    "explanation": "ERCP is a direct visualization of the biliary tract."
+  },
+  {
+    "question": "For which conditions is ERCP considered the most accurate diagnostic test (and often therapeutic)?",
+    "options": [
+      "A. Gallstones within the gallbladder (cholelithiasis).",
+      "B. Stones within the common bile duct (choledocholithiasis) and Primary Sclerosing Cholangitis (PSC).",
+      "C. Acute cholecystitis.",
+      "D. Pancreatitis."
+    ],
+    "answer": "B",
+    "explanation": "ERCP is the most accurate diagnostic test for stones in the biliary system. ERCP is also the most accurate test for primary sclerosing cholangitis (PSC)."
+  },
+  {
+    "question": "What is the characteristic appearance of Primary Sclerosing Cholangitis (PSC) on ERCP?",
+    "options": [
+      "A. Smooth dilation of the common bile duct.",
+      "B. A single large stone obstructing the duct.",
+      "C. Multiple strictures and dilations of the intrahepatic and/or extrahepatic bile ducts, giving a 'beaded' appearance.",
+      "D. Normal biliary anatomy."
+    ],
+    "answer": "C",
+    "explanation": "In sclerosing cholangitis there are multiple intrahepatic and/or extrahepatic strictures of the biliary tract on cholangiography. This gives the biliary radicles a “beaded” appearance."
+  },
+  {
+    "question": "When is ERCP most strongly indicated?",
+    "options": [
+      "A. For any patient with elevated liver enzymes.",
+      "B. When suspecting acute cholangitis (Charcot's triad: fever/chills, RUQ pain, jaundice) as it allows diagnosis and stone removal/stenting; or for diagnosing PSC in a patient (often with IBD) with jaundice/pruritus and negative initial imaging/hepatitis serology.",
+      "C. As a screening test for pancreatic cancer.",
+      "D. To evaluate chronic constipation."
+    ],
+    "answer": "B",
+    "explanation": "The strongest indication for ERCP is when the patient has high fever, chills, right upper-quandrant abdominal pain, and jaundice. ERCP is both diagnostic and therapeutic... For PSC, look for a patient with a history of ulcerative colitis complaining of pruritus and jaundice with a negative hepatitis profile and negative abdominal sonogram."
+  },
+  {
+    "question": "What is the D-Xylose test used for?",
+    "options": [
+      "A. To measure blood glucose levels.",
+      "B. To differentiate between intestinal malabsorption (impaired absorption of D-xylose) and pancreatic insufficiency (normal absorption of D-xylose) as the cause of steatorrhea.",
+      "C. To detect lactose intolerance.",
+      "D. To diagnose H. pylori infection."
+    ],
+    "answer": "B",
+    "explanation": "D-xylose testing is used in determining the etiology of different malabsorption syndromes. D-xylose is used to differentiate between intestinal malabsorption and chronic pancreatitis."
+  },
+  {
+    "question": "How does the D-Xylose test work?",
+    "options": [
+      "A. It measures fat content in the stool.",
+      "B. D-xylose is a sugar that requires pancreatic enzymes for absorption; low levels indicate pancreatic insufficiency.",
+      "C. D-xylose is a sugar absorbed by intact small bowel mucosa without needing pancreatic enzymes; low urinary excretion after an oral dose indicates mucosal malabsorption.",
+      "D. It involves a biopsy of the small intestine."
+    ],
+    "answer": "C",
+    "explanation": "D-xylose is a sugar that should be absorbed if the small bowel mucosa is intact. It does not require digestive pancreatic enzymes. A low D-xylose level in the urine indicates that the intestinal mucosa is defective and that D-xylose was not absorbed."
+  },
+  {
+    "question": "When is the D-Xylose test indicated?",
+    "options": [
+      "A. As the first test for any diarrhea.",
+      "B. When evaluating a patient with confirmed steatorrhea (e.g., positive Sudan stain, foul-smelling stools, weight loss) to help determine if the cause is mucosal disease or pancreatic insufficiency.",
+      "C. To screen for inflammatory bowel disease.",
+      "D. If a patient has abdominal bloating."
+    ],
+    "answer": "B",
+    "explanation": "Look for a patient with foul-smelling stool without blood, who has weight loss, malnutrition, fat in stool, and a positive Sudan black stain."
+  },
+  {
+    "question": "What is generally considered the most accurate test for assessing the small bowel mucosa when malabsorption is suspected?",
+    "options": [
+      "A. D-Xylose test.",
+      "B. Stool fat analysis.",
+      "C. Small bowel biopsy.",
+      "D. Abdominal CT scan."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test of the small bowel mucosa is a biopsy to assess histology and architecture."
+  },
+  {
+    "question": "In which malabsorptive conditions would the D-Xylose test likely be abnormal (low urinary excretion)?",
+    "options": [
+      "A. Chronic pancreatitis.",
+      "B. Lactose intolerance.",
+      "C. Celiac disease, Tropical sprue, Whipple's disease (conditions affecting small bowel mucosal absorption).",
+      "D. Bile acid malabsorption."
+    ],
+    "answer": "C",
+    "explanation": "The D-xylose test is abnormal with celiac disease, tropical sprue, and Whipple's disease."
+  },
+  {
+    "question": "What are the standard colonoscopy screening recommendations for the general population?",
+    "options": [
+      "A. Every 5 years starting at age 45.",
+      "B. Every 10 years starting at age 50.",
+      "C. Only if symptoms develop.",
+      "D. Annually starting at age 40."
+    ],
+    "answer": "B",
+    "explanation": "General population: Every 10 years for patients over age 50."
+  },
+  {
+    "question": "How do colonoscopy screening recommendations change for an individual with a single first-degree relative diagnosed with colon cancer?",
+    "options": [
+      "A. No change from general population guidelines.",
+      "B. Start screening at age 40, or 10 years earlier than the relative's diagnosis age (whichever is earlier), repeat frequency may vary.",
+      "C. Start screening at age 30, repeat every 5 years.",
+      "D. Screen only with FOBT annually."
+    ],
+    "answer": "B",
+    "explanation": "Single family member with colon cancer: Start at age 40 or 10 years earlier than the family member's diagnosis, whichever is earlier."
+  },
+  {
+    "question": "What are the colonoscopy screening recommendations for individuals with Hereditary Non-Polyposis Cancer Syndrome (HNPCC or Lynch Syndrome)?",
+    "options": [
+      "A. Same as the general population.",
+      "B. Start at age 40, repeat every 5 years.",
+      "C. Start screening much earlier (e.g., age 25) and repeat frequently (every 1-2 years).",
+      "D. Screen with sigmoidoscopy only."
+    ],
+    "answer": "C",
+    "explanation": "Hereditary non-polyposis cancer syndrome (HNPCC or Lynch syndrome): Start at age 25 and repeat every 1-2 years."
+  },
+  {
+    "question": "What is Ceruloplasmin?",
+    "options": [
+      "A. The main storage protein for iron.",
+      "B. A copper-carrying protein synthesized in the liver.",
+      "C. An enzyme involved in glucose metabolism.",
+      "D. A marker of muscle damage."
+    ],
+    "answer": "B",
+    "explanation": "Serum ceruloplasmin levels... Wilson's disease is a disease of copper overload... inability of the liver to incorporate copper into the protein ceruloplasmin..."
+  },
+  {
+    "question": "Measuring serum Ceruloplasmin levels (along with slit-lamp exam for Kayser-Fleischer rings) is the best initial approach for diagnosing which condition?",
+    "options": [
+      "A. Hemochromatosis.",
+      "B. Wilson's Disease.",
+      "C. Primary Biliary Cirrhosis.",
+      "D. Alpha-1 Antitrypsin Deficiency."
+    ],
+    "answer": "B",
+    "explanation": "Serum ceruloplasmin levels and the presence of Kayser-Fleischer rings on exam are the best initial tests for Wilson's disease."
+  },
+  {
+    "question": "When should testing for Ceruloplasmin be considered?",
+    "options": [
+      "A. In any patient with elevated liver enzymes.",
+      "B. When evaluating chronic kidney disease.",
+      "C. In a patient (often younger) presenting with a combination of unexplained liver disease and neuropsychiatric symptoms (behavior changes, movement disorder).",
+      "D. To screen for copper deficiency."
+    ],
+    "answer": "C",
+    "explanation": "Look for a patient with the combination of unexplained hepatic and psychiatric abnormalities with a movement disorder."
+  },
+  {
+    "question": "Is a high or low serum Ceruloplasmin level typically considered strong evidence for Wilson's Disease?",
+    "options": [
+      "A. High.",
+      "B. Low.",
+      "C. Normal.",
+      "D. Level does not correlate with the disease."
+    ],
+    "answer": "B",
+    "explanation": "An extremely low serum ceruloplasmin level should be taken as strong evidence for the diagnosis of Wilson's disease."
+  },
+  {
+    "question": "What additional tests help confirm the diagnosis of Wilson's Disease?",
+    "options": [
+      "A. Serum iron studies.",
+      "B. 24-hour urine copper excretion (which will be abnormally high) and liver biopsy (most accurate test).",
+      "C. Anti-mitochondrial antibodies.",
+      "D. Serum alpha-1 antitrypsin level."
+    ],
+    "answer": "B",
+    "explanation": "Twenty-four-hour urine copper excretion will be abnormally high. The most accurate test is the liver biopsy."
+  },
+  {
+    "question": "What is a Bleeding Scan (Technetium-labeled RBC scan)?",
+    "options": [
+      "A. An angiogram to visualize bleeding vessels directly.",
+      "B. A nuclear medicine scan performed in patients with active lower GI bleeding of unclear origin (after negative endoscopy) to help localize the bleeding site.",
+      "C. An ultrasound to detect sources of bleeding.",
+      "D. A test measuring clotting times."
+    ],
+    "answer": "B",
+    "explanation": "The bleeding scan, or technetium-labeled RBC scanning, is performed in a patient with small amounts of active lower GI bleeding in which the bleeding site could not be identified with endoscopy."
+  },
+  {
+    "question": "When is a Bleeding Scan indicated?",
+    "options": [
+      "A. As the first test for any suspected GI bleed.",
+      "B. For evaluating upper GI bleeding.",
+      "C. In a patient with significant or ongoing lower gastrointestinal bleeding where endoscopy (colonoscopy) has failed to identify the source.",
+      "D. To screen for polyps."
+    ],
+    "answer": "C",
+    "explanation": "Look for a patient who presents with severe gastrointestinal bleeding in whom the lower endoscopy is unable to find a source. The bleeding continues and the patient may still require transfusions."
+  },
+  {
+    "question": "What is the Bernstein Test?",
+    "options": [
+      "A. A test for H. pylori infection.",
+      "B. A test to diagnose gastroesophageal reflux disease (GERD) by attempting to reproduce symptoms with esophageal acid infusion.",
+      "C. A measurement of esophageal pressure.",
+      "D. An endoscopic examination of the esophagus."
+    ],
+    "answer": "B",
+    "explanation": "The Bernstein test is to diagnose gastroesophageal reflux disease."
+  },
+  {
+    "question": "How is the Bernstein Test performed?",
+    "options": [
+      "A. The patient swallows a capsule camera.",
+      "B. A nasogastric tube is placed in the esophagus, and dilute hydrochloric acid is instilled to see if it reproduces the patient's symptoms.",
+      "C. Barium contrast is swallowed while X-rays are taken.",
+      "D. A pressure sensor is placed in the esophagus."
+    ],
+    "answer": "B",
+    "explanation": "The Bernstein test involves the placement of a nasogastric tube into the esophagus... Dilute hydrochloric acid is instilled or dripped into the esophagus in an attempt to reproduce the symptoms..."
+  },
+  {
+    "question": "Is the Bernstein Test considered a current or recommended diagnostic test for GERD?",
+    "options": [
+      "A. Yes, it is the gold standard.",
+      "B. Yes, it is the best initial test.",
+      "C. No, it is an older, obsolete test (largely replaced by empiric PPI trials or 24-hour pH monitoring) and is considered always wrong to perform currently.",
+      "D. Yes, but only if pH monitoring is unavailable."
+    ],
+    "answer": "C",
+    "explanation": "This is an older test that has been made obsolete by the use of empiric trials of PPIs or the 24-hour pH monitor. The Bernstein test is always wrong to do."
+  },
+  {
+    "question": "For which symptom is a Barium Esophagram (Barium Swallow) generally the best initial test (unless obstruction is obvious)?",
+    "options": [
+      "A. Heartburn.",
+      "B. Dysphagia (difficulty swallowing).",
+      "C. Abdominal pain.",
+      "D. Nausea and vomiting."
+    ],
+    "answer": "B",
+    "explanation": "Barium esophagram is, generally, the best initial test for dysphagia. This is not in scenarios where there are clear signs of obstruction..."
+  },
+  {
+    "question": "What characteristic findings might be seen on a Barium Esophagram in Achalasia and Diffuse Esophageal Spasm?",
+    "options": [
+      "A. Achalasia: Stricture; Spasm: Ulceration.",
+      "B. Achalasia: 'Bird's beak' narrowing at GE junction; Spasm: 'Corkscrew' pattern.",
+      "C. Achalasia: Wide open GE junction; Spasm: Smooth tapering.",
+      "D. Both show large diverticuli."
+    ],
+    "answer": "B",
+    "explanation": "For achalasia, barium esophagram shows a “bird's beak” at the gastroesophageal junction. In diffuse esophageal spasm, barium esophagram shows a “corkscrew” pattern at the time of spasm."
+  },
+  {
+    "question": "For which esophageal conditions is the Barium Esophagram considered the most accurate diagnostic test?",
+    "options": [
+      "A. Esophageal cancer and Barrett's esophagus.",
+      "B. Esophageal motility disorders (achalasia, spasm).",
+      "C. Structural abnormalities like esophageal rings, webs, and diverticuli.",
+      "D. Gastroesophageal reflux disease (GERD)."
+    ],
+    "answer": "C",
+    "explanation": "Barium esophagram is the most accurate test for esophageal rings, webs, and diverticuli."
+  },
+  {
+    "question": "If a Barium Esophagram suggests a motility disorder (achalasia, spasm) or cancer, what is the most accurate follow-up test?",
+    "options": [
+      "A. Repeat Barium Esophagram.",
+      "B. Motility disorders: Manometry; Cancer: Endoscopy with biopsy.",
+      "C. 24-hour pH monitoring.",
+      "D. CT scan of the chest."
+    ],
+    "answer": "B",
+    "explanation": "In achalasia, esophageal spasm, and nutcracker esophagus, the most accurate test is manometry. With cancer, the most accurate test is endoscopy for a biopsy."
+  },
+  {
+    "question": "What condition is suggested by the presence of Anti-Smooth Muscle Antibodies (ASMA)?",
+    "options": [
+      "A. Primary Biliary Cirrhosis.",
+      "B. Autoimmune Hepatitis.",
+      "C. Wilson's Disease.",
+      "D. Viral Hepatitis."
+    ],
+    "answer": "B",
+    "explanation": "Serum assay detection of anti-smooth muscle antibodies (ASMA) is the best initial test for autoimmune hepatitis."
+  },
+  {
+    "question": "When should testing for Anti-Smooth Muscle Antibodies (ASMA) be considered?",
+    "options": [
+      "A. In any patient with jaundice.",
+      "B. When evaluating alcoholic liver disease.",
+      "C. In a patient (often a young female) presenting with liver disease of unclear etiology, after excluding common causes like viral hepatitis, alcohol, and Wilson's.",
+      "D. To screen for liver cancer."
+    ],
+    "answer": "C",
+    "explanation": "Answer ASMA when you are shown a young female with liver disease who does not drink or have inflammatory bowel disease or infectious hepatitis."
+  },
+  {
+    "question": "Besides ASMA, what other immune markers are often associated with Autoimmune Hepatitis?",
+    "options": [
+      "A. Anti-mitochondrial antibodies (AMA).",
+      "B. Antinuclear antibodies (ANA) and antibodies to liver/kidney microsome type 1 (anti-LKM1).",
+      "C. Anti-endomysial antibodies.",
+      "D. Anti-neutrophil cytoplasmic antibodies (ANCA)."
+    ],
+    "answer": "B",
+    "explanation": "Autoimmune hepatitis is associated with antinuclear antibodies (ANA) and antibodies to liver/kidney microsome type 1 {anti-LKM1)."
+  },
+  {
+    "question": "What is considered the most accurate test for definitively diagnosing Autoimmune Hepatitis?",
+    "options": [
+      "A. ASMA level.",
+      "B. ANA titer.",
+      "C. Liver biopsy.",
+      "D. MRI of the liver."
+    ],
+    "answer": "C",
+    "explanation": "Liver biopsy is the most accurate test for autoimmune hepatitis and most other liver diseases."
+  },
+  {
+    "question": "What is the primary diagnostic utility of testing for Anti-Mitochondrial Antibodies (AMA)?",
+    "options": [
+      "A. To diagnose autoimmune hepatitis.",
+      "B. As the best initial test to specifically suggest Primary Biliary Cirrhosis (PBC).",
+      "C. To screen for Wilson's disease.",
+      "D. To detect chronic viral hepatitis."
+    ],
+    "answer": "B",
+    "explanation": "Serum screening for antimitochondrial antibodies is the best initial test to make a specific diagnosis of primary biliary cirrhosis (PBC)."
+  },
+  {
+    "question": "When should testing for Anti-Mitochondrial Antibodies (AMA) be performed?",
+    "options": [
+      "A. In all patients with elevated liver enzymes.",
+      "B. When evaluating acute liver failure.",
+      "C. In a patient (typically middle-aged female) presenting with itching (pruritus) and an elevated alkaline phosphatase, often with a normal bilirubin initially.",
+      "D. To diagnose gallstones."
+    ],
+    "answer": "C",
+    "explanation": "Look for a middle-aged female presenting with itching (pruritus) and an elevated alkaline phosphatase with a normal bilirubin."
+  },
+  {
+    "question": "What is the most accurate test for confirming the diagnosis of Primary Biliary Cirrhosis (PBC)?",
+    "options": [
+      "A. AMA titer.",
+      "B. Serum bilirubin level.",
+      "C. Liver biopsy.",
+      "D. ERCP."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test for PBC is a liver biopsy."
+  },
+  {
+    "question": "What is Capsule Endoscopy?",
+    "options": [
+      "A. A standard upper endoscopy.",
+      "B. A procedure where the patient swallows a small camera pill that transmits images of the GI tract, especially the small bowel.",
+      "C. A type of colonoscopy.",
+      "D. An external ultrasound of the abdomen."
+    ],
+    "answer": "B",
+    "explanation": "It is a capsule the size of a large pill, with a camera and a small transmitter. Once swallowed, it begins transmitting images of the inside gastrointestinal tract..."
+  },
+  {
+    "question": "When is Capsule Endoscopy the procedure of choice?",
+    "options": [
+      "A. For evaluating dysphagia.",
+      "B. As the initial test for suspected peptic ulcer disease.",
+      "C. For investigating suspected small bowel bleeding when upper and lower endoscopy have not identified a source.",
+      "D. To screen for colorectal cancer."
+    ],
+    "answer": "C",
+    "explanation": "Capsule endoscopy is the procedure of choice for suspected small bowel bleeding that was not detected with upper or lower endoscopy."
+  },
+  {
+    "question": "What are Anti-endomysial and Anti-gliadin Antibodies?",
+    "options": [
+      "A. Antibodies associated with inflammatory bowel disease.",
+      "B. Antibodies directed against components of gluten (gliadin) and the small intestine lining (endomysium), used to help diagnose Celiac Disease.",
+      "C. Markers for autoimmune hepatitis.",
+      "D. Antibodies found in pernicious anemia."
+    ],
+    "answer": "B",
+    "explanation": "Serum assay for endomysial and antigliadin antibodies are made against wheat or gluten (gliadin) antigens and the villous (endomysial) lining of the small intestine. They are used to confirm the diagnosis of celiac disease."
+  },
+  {
+    "question": "When is testing for Anti-endomysial and Anti-gliadin Antibodies indicated?",
+    "options": [
+      "A. In all patients with abdominal pain.",
+      "B. When Celiac Disease is suspected based on symptoms (e.g., oily/greasy diarrhea, weight loss, malabsorption) after fat malabsorption is confirmed (e.g., positive Sudan stain) and pancreatitis is less likely.",
+      "C. To screen for H. pylori infection.",
+      "D. For diagnosing irritable bowel syndrome."
+    ],
+    "answer": "B",
+    "explanation": "Look for a case of probable celiac disease with oily, greasy diarrhea, foul-smelling stool without evidence of chronic pancreatitis. They are the tests to answer to confirm gluten-sensitive enteropathy after Sudan black stain has confirmed a fat malabsorption."
+  },
+  {
+    "question": "What is considered the most accurate test for definitively diagnosing Celiac Disease?",
+    "options": [
+      "A. Anti-endomysial/Anti-gliadin antibody levels.",
+      "B. Response to a gluten-free diet.",
+      "C. Small bowel biopsy (showing villous atrophy).",
+      "D. D-xylose test."
+    ],
+    "answer": "C",
+    "explanation": "Small bowel biopsy is the most accurate test for celiac disease. It must be done to exclude lymphoma as well as to diagnose the disease."
+  },
+  {
+    "question": "What conditions can a Barium Enema (BE) potentially detect?",
+    "options": [
+      "A. Only hemorrhoids.",
+      "B. Colorectal cancers, polyps, diverticulosis, bowel obstruction, and extent of inflammatory bowel disease.",
+      "C. Gastric ulcers and gastritis.",
+      "D. Esophageal varices."
+    ],
+    "answer": "B",
+    "explanation": "Barium enema (BE) creates a “contrast” picture to outline the lining of the rectum and colon. BE can be used in detecting colorectal cancers, polyps, diverticulosis, and bowel obstruction and to evaluate the extent of inflammatory bowel disease."
+  },
+  {
+    "question": "What is the generally preferred follow-up test if a Barium Enema reveals a suspicious lesion in the colon?",
+    "options": [
+      "A. Repeat Barium Enema.",
+      "B. Abdominal CT scan.",
+      "C. Colonoscopy (allows direct visualization and biopsy/polypectomy).",
+      "D. Fecal Occult Blood Test."
+    ],
+    "answer": "C",
+    "explanation": "Barium enema is inferior to colonoscopy if you are suspecting a lesion in the colon. Colonoscopy is also superior to enema in that it can directly biopsy lesions or remove polyps."
+  },
+  {
+    "question": "In which situations is performing a Barium Enema contraindicated?",
+    "options": [
+      "A. If the patient has constipation.",
+      "B. If the patient is over 70 years old.",
+      "C. If there is suspicion of peritonitis, bowel perforation, or acute diverticulitis (due to risk of contrast leak or worsening perforation).",
+      "D. If the patient has inflammatory bowel disease."
+    ],
+    "answer": "C",
+    "explanation": "Patient's who may have peritonitis or bowel perforation must not undergo this test... BE is also contraindicated in diverticulitis, in which it increases the risk of perforation."
+  },
+  {
+    "question": "What specific abnormalities are shown in the left and right images of the Barium Enema?",
+    "options": [
+      "A. Left: Diverticulosis; Right: Colon cancer.",
+      "B. Left: Ulcerative colitis; Right: Crohn's disease.",
+      "C. Left: Colon cancer ('apple core' lesion likely); Right: Diverticulosis (outpouchings).",
+      "D. Left: Polyps; Right: Obstruction."
+    ],
+    "answer": "C",
+    "explanation": "The left image shows a colon cancer, and the right image shows diverticulosis."
+  },
+  {
+    "question": "Is Barium Enema ever considered the 'most accurate test' if colonoscopy is available as an option?",
+    "options": [
+      "A. Yes, for detecting polyps.",
+      "B. Yes, for staging cancer.",
+      "C. No, BE is never the most accurate test if colonoscopy is an available choice.",
+      "D. Yes, for evaluating diverticulosis."
+    ],
+    "answer": "C",
+    "explanation": "BE is never the answer to the question, “What is the most accurate test?” if colonoscopy is one of the choices."
+  },
+  {
+    "question": "What condition is shown in the upper endoscopy image, characterized by metaplastic columnar epithelium replacing squamous epithelium in the distal esophagus?",
+    "options": [
+      "A. Esophageal varices.",
+      "B. Barrett's esophagus.",
+      "C. Candida esophagitis.",
+      "D. Esophageal cancer."
+    ],
+    "answer": "B",
+    "explanation": "This is an upper endoscopy showing Barrett's esophagus."
+  },
+  {
+    "question": "What is the underlying pathophysiology of Barrett's esophagus?",
+    "options": [
+      "A. Infection with H. pylori.",
+      "B. Replacement of normal distal squamous mucosa by metaplastic columnar epithelium (containing goblet cells) as a response to chronic acid reflux.",
+      "C. Congenital abnormality of the esophagus.",
+      "D. Direct invasion by gastric cancer."
+    ],
+    "answer": "B",
+    "explanation": "Barrett's esophagus occurs when the distal stratified squamous mucosa is replaced by metaplastic columnar epithelium containing goblet cells. The metaplasia results as a form of defense from the persistent acid reflux..."
+  },
+  {
+    "question": "What are the potential complications of Barrett's esophagus?",
+    "options": [
+      "A. Strictures only.",
+      "B. Esophageal ulcers, strictures, and an increased risk of developing esophageal adenocarcinoma.",
+      "C. Bleeding varices.",
+      "D. Achalasia."
+    ],
+    "answer": "B",
+    "explanation": "Complications of Barrett's esophagus are ulcers, strictures, and adenocarcinoma."
+  },
+  {
+    "question": "What study is shown in the image?",
+    "options": [
+      "A. Chest X-ray.",
+      "B. Abdominal X-ray.",
+      "C. CT scan of the abdomen.",
+      "D. Barium enema."
+    ],
+    "answer": "B",
+    "explanation": "This is an abdominal X ray."
+  },
+  {
+    "question": "What abnormality is depicted in the abdominal X-ray, characterized by multiple air-fluid levels?",
+    "options": [
+      "A. Pneumoperitoneum (free air).",
+      "B. Small bowel obstruction.",
+      "C. Large bowel obstruction.",
+      "D. Ileus."
+    ],
+    "answer": "B",
+    "explanation": "The abnormality is a small bowel obstruction. There are multiple air-fluid levels seen throughout the bowel."
+  },
+  {
+    "question": "What imaging studies are typically most accurate for diagnosing small bowel obstruction?",
+    "options": [
+      "A. Abdominal ultrasound only.",
+      "B. A combination of abdominal X-ray and abdominal CT scan.",
+      "C. Upper endoscopy.",
+      "D. MRI enterography."
+    ],
+    "answer": "B",
+    "explanation": "The most accurate test for small bowel obstruction is a combination of the abdominal X ray and the abdominal CT scan."
+  },
+  {
+    "question": "When is obtaining an abdominal X-ray primarily indicated?",
+    "options": [
+      "A. To evaluate chronic constipation.",
+      "B. When suspecting small bowel obstruction (look for abdominal pain/distension, hypoactive/absent bowel sounds, failure to pass stool/flatus).",
+      "C. To screen for colon cancer.",
+      "D. For diagnosing peptic ulcer disease."
+    ],
+    "answer": "B",
+    "explanation": "Suspected small bowel obstruction is the only use for the abdominal X ray. Look for a patient with abdominal pain and distension; hypoactive or absent bowel sounds... and the failure to pass either stool or flatus."
+  },
+  {
+    "question": "What are serum Amylase and Lipase levels primarily used for?",
+    "options": [
+      "A. Assessing liver function.",
+      "B. As the initial tests in the diagnosis of acute pancreatitis.",
+      "C. Diagnosing peptic ulcer disease.",
+      "D. Screening for pancreatic cancer."
+    ],
+    "answer": "B",
+    "explanation": "Amylase and lipase are the initial tests in the diagnosis of acute pancreatitis."
+  },
+  {
+    "question": "Which enzyme, Amylase or Lipase, is more specific for pancreatic injury?",
+    "options": [
+      "A. Amylase.",
+      "B. Lipase.",
+      "C. Both are equally specific.",
+      "D. Neither is specific."
+    ],
+    "answer": "B",
+    "explanation": "Lipase is more specific for the pancreas. Amylase can be elevated from damage to the salivary glands, esophagus, or small bowel."
+  },
+  {
+    "question": "When should Amylase and Lipase levels be ordered?",
+    "options": [
+      "A. For any abdominal pain.",
+      "B. In a patient presenting with acute onset of severe epigastric pain, often radiating to the back, possibly with a history of alcohol abuse or gallstones.",
+      "C. To monitor chronic pancreatitis.",
+      "D. When evaluating jaundice."
+    ],
+    "answer": "B",
+    "explanation": "Answer amylase/ lipase for a patient presenting with the acute onset of severe epigastric pain radiating to the back. Such a patient may have a history of alcohol abuse or gallstones."
+  },
+  {
+    "question": "What is considered the most accurate imaging test for diagnosing acute pancreatitis and assessing its severity (e.g., detecting necrosis)?",
+    "options": [
+      "A. Abdominal Ultrasound.",
+      "B. Abdominal X-ray.",
+      "C. Abdominal CT scan.",
+      "D. ERCP."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test for acute pancreatitis is an abdominal CT scan... Pancreatic necrosis on a CT scan is extremely specific for severe pancreatitis..."
+  },
+  {
+    "question": "What abnormality is shown on the right-sided chest X-ray compared to the normal left-sided one?",
+    "options": [
+      "A. Pneumothorax.",
+      "B. Consolidation.",
+      "C. Pleural effusion (blunting of costophrenic angle).",
+      "D. Lung mass."
+    ],
+    "answer": "C",
+    "explanation": "This is a normal chest X ray on the left and a chest X ray showing a pleural effusion on the right."
+  },
+  {
+    "question": "What are the most common causes of a pleural effusion?",
+    "options": [
+      "A. Lung cancer and tuberculosis.",
+      "B. Congestive heart failure (CHF) and pneumonia (parapneumonic effusion).",
+      "C. Pulmonary embolism and pancreatitis.",
+      "D. Trauma and autoimmune disease."
+    ],
+    "answer": "B",
+    "explanation": "The most common etiology of a pleural effusion is congestive heart failure or pneumonia."
+  },
+  {
+    "question": "What is the most accurate diagnostic test for determining the cause of a pleural effusion?",
+    "options": [
+      "A. Chest X-ray.",
+      "B. Chest CT scan.",
+      "C. Thoracentesis (aspiration of pleural fluid for analysis).",
+      "D. MRI of the chest."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test for a pleural effusion is a thoracentesis for fluid analysis."
+  },
+  {
+    "question": "What does a high protein level in pleural fluid generally suggest?",
+    "options": [
+      "A. Transudative effusion (e.g., CHF).",
+      "B. Exudative effusion, often due to infection or cancer.",
+      "C. Hemothorax.",
+      "D. Chylothorax."
+    ],
+    "answer": "B",
+    "explanation": "A high protein level indicates infection or cancer."
+  },
+  {
+    "question": "What findings in pleural fluid analysis strongly indicate an infection (empyema or complicated parapneumonic effusion)?",
+    "options": [
+      "A. Low glucose and low protein.",
+      "B. High cell count and/or low pH (<7.2).",
+      "C. Presence of malignant cells.",
+      "D. High triglyceride level."
+    ],
+    "answer": "B",
+    "explanation": "A high cell count and /or low pH (<7.2) indicates an infection."
+  },
+  {
+    "question": "What condition is shown on the chest X-ray?",
+    "options": [
+      "A. Pleural effusion.",
+      "B. Pneumothorax (collapsed lung).",
+      "C. Consolidation.",
+      "D. Large bulla."
+    ],
+    "answer": "B",
+    "explanation": "The chest X ray shows a pneumothorax."
+  },
+  {
+    "question": "What is the typical clinical presentation of a significant pneumothorax?",
+    "options": [
+      "A. Gradual onset cough and fever.",
+      "B. Acute onset shortness of breath, decreased breath sounds on the affected side, hyperresonance to percussion, and possible tracheal deviation.",
+      "C. Chest pain radiating to the arm.",
+      "D. Hemoptysis and weight loss."
+    ],
+    "answer": "B",
+    "explanation": "In all three cases, the patient will present as acutely short of breath with decreased breath sounds on one side, hyperresonance to percussion, and tracheal deviation."
+  },
+  {
+    "question": "What is the immediate next step in management for a large or tension pneumothorax?",
+    "options": [
+      "A. Observation and repeat X-ray.",
+      "B. Administration of oxygen.",
+      "C. Needle decompression (if tension) followed by chest tube placement to re-inflate the lung.",
+      "D. Bronchoscopy."
+    ],
+    "answer": "C",
+    "explanation": "The next step after a pneumothorax is detected is to re-inflate the lung. If there is a “tension” pneumothorax, then a needle decompression should be performed. All large pneumothoraces require the placement of a chest tube."
+  },
+  {
+    "question": "What does a Flow-Volume Loop graphically represent?",
+    "options": [
+      "A. Cardiac output over time.",
+      "B. Changes in blood oxygen saturation.",
+      "C. The relationship between airflow rate and lung volume during forced inhalation and exhalation.",
+      "D. Esophageal pressure changes during swallowing."
+    ],
+    "answer": "C",
+    "explanation": "Flow-volume loops are a graphical representation of inhalation and exhalation... The loop tells not only how much you inhale /exhale, but also how fast."
+  },
+  {
+    "question": "When is analyzing a Flow-Volume Loop useful?",
+    "options": [
+      "A. To diagnose pulmonary embolism.",
+      "B. To assess different patterns of lung disease (obstructive vs. restrictive) by visualizing airflow limitations during breathing maneuvers.",
+      "C. To identify specific infectious organisms.",
+      "D. To evaluate pleural effusions."
+    ],
+    "answer": "B",
+    "explanation": "This test is to assess various forms of obstructive and restrictive lung disease; for example, to tell the difference between COPD and interstitial lung disease."
+  },
+  {
+    "question": "What do Pulmonary Function Tests (PFTs) measure?",
+    "options": [
+      "A. Arterial blood gas levels.",
+      "B. Lung volumes and flow rates during forced breathing maneuvers (e.g., FVC, FEV1).",
+      "C. Diffusion capacity of the lungs only.",
+      "D. Pressures within the pleural space."
+    ],
+    "answer": "B",
+    "explanation": "These are pulmonary function tests. The patient gives a maximum exhalation after a maximum inhalation. That is the FVC, or forced vital capacity... FEV1..."
+  },
+  {
+    "question": "What PFT pattern is characteristic of obstructive lung disease (e.g., COPD), as shown in Graph A?",
+    "options": [
+      "A. Proportionally reduced FEV1 and FVC, with a normal FEV1/FVC ratio.",
+      "B. Reduced FEV1 and FVC, with the FEV1 reduced disproportionately more, resulting in a low FEV1/FVC ratio (<80% or <0.7); increased residual volume.",
+      "C. Increased FEV1 and FVC.",
+      "D. Normal FEV1 and FVC, but reduced DLCO."
+    ],
+    "answer": "B",
+    "explanation": "Graph A shows obstructive disease. You see a decrease in both the FEV1 and FVC; however, the FEV1 decreases even more. This gives an abnormally low ratio of FEV1 to FVC of <80%. The residual volume goes up..."
+  },
+  {
+    "question": "What PFT pattern is characteristic of restrictive lung disease (e.g., interstitial fibrosis), as shown in Graph C?",
+    "options": [
+      "A. Low FEV1/FVC ratio.",
+      "B. Increased total lung capacity.",
+      "C. Proportionally reduced lung volumes (FEV1, FVC, TLC), resulting in a normal or even high FEV1/FVC ratio.",
+      "D. Isolated reduction in FEV1."
+    ],
+    "answer": "C",
+    "explanation": "Graph C shows restrictive lung disease. All the volumes are diminished, but they are diminished proportionately so all the ratios stay normal."
+  },
+  {
+    "question": "When are PFTs considered the most accurate diagnostic test?",
+    "options": [
+      "A. For diagnosing pneumonia.",
+      "B. To definitively distinguish between obstructive and restrictive patterns in a patient with shortness of breath; also, when combined with bronchodilator/methacholine challenge, for diagnosing asthma/reactive airways disease.",
+      "C. To detect pulmonary embolism.",
+      "D. For staging lung cancer."
+    ],
+    "answer": "B",
+    "explanation": "The PFT is the most accurate test to distinguish obstructive from restrictive lung disease... When combined with bronchodilators or methacholine, PFTs are the most accurate test to diagnose asthma or reactive airways disease."
+  },
+  {
+    "question": "What single measurement on PFTs is most critical for differentiating obstructive from restrictive patterns?",
+    "options": [
+      "A. Forced Vital Capacity (FVC).",
+      "B. Forced Expiratory Volume in 1 second (FEV1).",
+      "C. The ratio of FEV1 to FVC (FEV1/FVC ratio).",
+      "D. Total Lung Capacity (TLC)."
+    ],
+    "answer": "C",
+    "explanation": "The single most accurate part of the PFT is the FEV1 /FVC ratio."
+  },
+  {
+    "question": "When should measuring Serum Alpha-1 Antitrypsin (AAT) Level be considered?",
+    "options": [
+      "A. In all patients with asthma.",
+      "B. In a young patient (<45-50) who is a non-smoker presenting with emphysema (COPD), especially if there is associated liver disease or a strong family history of emphysema.",
+      "C. To diagnose cystic fibrosis.",
+      "D. When evaluating chronic cough."
+    ],
+    "answer": "B",
+    "explanation": "Serum alpha-1 antitrypsin (AAT) level is measured in a young nonsmoker with emphysema and liver disease. It may also be measured in a patient with a strong family history of emphysema."
+  },
+  {
+    "question": "What does a low Serum Alpha-1 Antitrypsin (AAT) level indicate?",
+    "options": [
+      "A. Active lung infection.",
+      "B. A deficiency in this elastase inhibitor, leading to increased risk of emphysema and liver disease.",
+      "C. Recent exposure to tobacco smoke.",
+      "D. Allergic bronchopulmonary aspergillosis."
+    ],
+    "answer": "B",
+    "explanation": "Low levels indicate AAT deficiency, in which the body lacks an elastase inhibitor."
+  },
+  {
+    "question": "Increased Serum Angiotensin-Converting Enzyme (ACE) levels are associated (though not specific) with which condition?",
+    "options": [
+      "A. Tuberculosis.",
+      "B. Sarcoidosis.",
+      "C. Lung cancer.",
+      "D. COPD."
+    ],
+    "answer": "B",
+    "explanation": "Increased ACE levels are associated with sarcoidosis in 75% of patients."
+  },
+  {
+    "question": "When should measuring Serum ACE levels be considered?",
+    "options": [
+      "A. In all patients with shortness of breath.",
+      "B. When sarcoidosis is suspected, particularly in a patient (often African-American female) presenting with cough, dyspnea, chest pain, and bilateral hilar adenopathy on chest X-ray.",
+      "C. To monitor hypertension treatment.",
+      "D. To screen for pulmonary fibrosis."
+    ],
+    "answer": "B",
+    "explanation": "Answer ACE levels when you are shown an African-American female patient who presents with cough, dyspnea, chest pain, and bilateral hilar adenopathy on chest X ray."
+  },
+  {
+    "question": "What is the most accurate diagnostic test for confirming Sarcoidosis?",
+    "options": [
+      "A. Serum ACE level.",
+      "B. Chest X-ray showing bilateral hilar adenopathy.",
+      "C. Biopsy of an affected tissue (e.g., lymph node, lung, skin) showing noncaseating granulomas.",
+      "D. Pulmonary function tests."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate diagnostic test for sarcoidosis is the presence of noncaseating granulomas on biopsy."
+  },
+  {
+    "question": "What parameters are directly measured by an Arterial Blood Gas (ABG)?",
+    "options": [
+      "A. Oxygen saturation, hemoglobin, hematocrit.",
+      "B. pH, partial pressure of carbon dioxide (pCO2), and partial pressure of oxygen (pO2).",
+      "C. Bicarbonate, lactate, base excess.",
+      "D. Serum electrolytes and glucose."
+    ],
+    "answer": "B",
+    "explanation": "The arterial blood gas (ABG) directly measures the pH, partial pressure of carbon dioxide (pCO,), and the partial pressure of oxygen (pO,)."
+  },
+  {
+    "question": "In what way is an ABG superior to pulse oximetry?",
+    "options": [
+      "A. ABG is non-invasive.",
+      "B. ABG provides a more accurate oxygen saturation measurement.",
+      "C. ABG provides information on acid-base status (pH, pCO2, calculated bicarbonate) and ventilation adequacy, which pulse oximetry does not.",
+      "D. Pulse oximetry is always more accurate than ABG."
+    ],
+    "answer": "C",
+    "explanation": "An ABG allows you to know how hard someone is working in order to become oxygenated and whether there is life-threatening acidosis."
+  },
+  {
+    "question": "When is obtaining an Arterial Blood Gas (ABG) particularly indicated?",
+    "options": [
+      "A. For routine monitoring of oxygen therapy.",
+      "B. When there is concern for respiratory acidosis (e.g., COPD exacerbation) or significant metabolic acidosis (e.g., DKA, sepsis, toxic ingestion) requiring assessment of pH and pCO2.",
+      "C. To diagnose pneumonia.",
+      "D. In all patients with shortness of breath."
+    ],
+    "answer": "B",
+    "explanation": "Answer ABG if there is COPD or another possibility of respiratory acidosis. Answer ABG if the question shows a case with a low serum bicarbonate and there may be a severe metabolic acidosis."
+  },
+  {
+    "question": "What is the Purified Protein Derivative (PPD) test used for?",
+    "options": [
+      "A. To diagnose active tuberculosis (TB).",
+      "B. To screen asymptomatic individuals for exposure to tuberculosis and identify latent TB infection (LTBI).",
+      "C. To determine TB drug susceptibility.",
+      "D. To vaccinate against TB."
+    ],
+    "answer": "B",
+    "explanation": "The PPD is to screen for exposure to tuberculosis (TB) and the possibility of latent infection. PPD testing is only to screen asymptomatic patients."
+  },
+  {
+    "question": "What size induration constitutes a positive PPD test in an HIV-positive individual or recent close contact of an active TB case?",
+    "options": [
+      "A. ≥ 5 mm",
+      "B. ≥ 10 mm",
+      "C. ≥ 15 mm",
+      "D. Any redness, regardless of size."
+    ],
+    "answer": "A",
+    "explanation": "≥ or = 5 mm: HIV-positive, recent contact with person with active TB..."
+  },
+  {
+    "question": "What size induration constitutes a positive PPD test in a recent immigrant from a high-prevalence country or an injection drug user?",
+    "options": [
+      "A. ≥ 5 mm",
+      "B. ≥ 10 mm",
+      "C. ≥ 15 mm",
+      "D. Only if blistering occurs."
+    ],
+    "answer": "B",
+    "explanation": "≥ or = 10 mm: recent immigrants from countries with high TB prevalence, injection drug users..."
+  },
+  {
+    "question": "What size induration constitutes a positive PPD test in a person with no known risk factors for TB?",
+    "options": [
+      "A. ≥ 5 mm",
+      "B. ≥ 10 mm",
+      "C. ≥ 15 mm",
+      "D. PPD is not used in low-risk individuals."
+    ],
+    "answer": "C",
+    "explanation": "≥ or= 15mm: persons with no risk factors for TB"
+  },
+  {
+    "question": "What is the mandatory next step for any patient with a positive PPD test?",
+    "options": [
+      "A. Start 4-drug therapy for active TB immediately.",
+      "B. Obtain a chest X-ray to exclude active pulmonary TB disease.",
+      "C. Repeat the PPD test.",
+      "D. Obtain sputum cultures."
+    ],
+    "answer": "B",
+    "explanation": "Ali patients with a positive PPD should get a chest X ray to exclude active disease."
+  },
+  {
+    "question": "How does previous vaccination with BCG (Bacille Calmette-Guérin) affect the interpretation of PPD test results according to the guidelines presented?",
+    "options": [
+      "A. Any positive PPD is considered false positive.",
+      "B. It has no impact; interpretation thresholds remain the same (e.g., >10 mm is considered potentially positive regardless of BCG history).",
+      "C. Only induration >20 mm is considered positive.",
+      "D. A blood test (IGRA) must be done instead."
+    ],
+    "answer": "B",
+    "explanation": "Previous vaccination with BCG has no impact on these recommendations. A test result >10 mm is not to be considered a false positive because of a previous BCG."
+  },
+  {
+    "question": "What is the Sweat Chloride Test?",
+    "options": [
+      "A. A test for dehydration.",
+      "B. The gold standard diagnostic test for Cystic Fibrosis (CF).",
+      "C. A screening test for diabetes.",
+      "D. A measure of kidney function."
+    ],
+    "answer": "B",
+    "explanation": "Sweat chloride test is the best test (the gold standard) for the diagnosis of cystic fibrosis."
+  },
+  {
+    "question": "How is the Sweat Chloride Test performed?",
+    "options": [
+      "A. By analyzing chloride levels in urine.",
+      "B. Pilocarpine is used to stimulate sweating, and the concentration of sodium and chloride in the collected sweat is measured.",
+      "C. Through a blood test.",
+      "D. By genetic analysis."
+    ],
+    "answer": "B",
+    "explanation": "Pilocarpine is given and the amount of sodium and chloride is measured in the sweat."
+  },
+  {
+    "question": "When should a Sweat Chloride Test be ordered?",
+    "options": [
+      "A. In any child with a cough.",
+      "B. When Cystic Fibrosis is suspected due to chronic respiratory problems (cough, wheeze, infections), signs of fat malabsorption (bulky stools, vitamin deficiencies), infertility, or infant failure to thrive.",
+      "C. To evaluate asthma.",
+      "D. For screening newborns."
+    ],
+    "answer": "B",
+    "explanation": "Answer sweat chloride test when you are shown a patient with chronic respiratory problems such as a cough, wheezing, and shortness of breath. There will also be signs of fat malabsorption such as bulky stools and vitamin A, D, E, and K deficiency in a patient who has been unable to have children. Look for an infant with failure to thrive."
+  },
+  {
+    "question": "What is Bronchoscopy?",
+    "options": [
+      "A. A surgical procedure to remove part of the lung.",
+      "B. Insertion of a fiberoptic scope into the airways (through nose/mouth, vocal cords, trachea, bronchi) for visualization and sampling.",
+      "C. A type of pulmonary function test.",
+      "D. An imaging scan using sound waves."
+    ],
+    "answer": "B",
+    "explanation": "Bronchoscopy is the insertion of a small, thin fiberoptic scope through the nose, through the vocal cords, through the carina, and into a mid-sized branching bronchus."
+  },
+  {
+    "question": "For which conditions is Bronchoscopy often the most accurate diagnostic test, especially for obtaining specific samples?",
+    "options": [
+      "A. Asthma and COPD.",
+      "B. Certain infections (like Pneumocystis, Tuberculosis) or suspected lung cancer/mass lesions (especially central ones) requiring tissue/fluid samples (lavage, brushing, biopsy).",
+      "C. Pulmonary embolism.",
+      "D. Pleural effusion."
+    ],
+    "answer": "B",
+    "explanation": "Bronchoscopy is the most accurate diagnostic test for infections such as Pneumocystis or tuberculosis. In addition, bronchoscopy is often the most accurate test for lung cancer or other mass lesions of the lung, such as abscess."
+  },
+  {
+    "question": "For lung mass lesions or infections, what procedure is considered even more accurate than Bronchoscopy?",
+    "options": [
+      "A. CT scan of the chest.",
+      "B. Sputum culture.",
+      "C. Open lung biopsy.",
+      "D. PET scan."
+    ],
+    "answer": "C",
+    "explanation": "For mass lesions and infection, the only test more accurate than a bronchoscopy is an open lung biopsy."
+  },
+  {
+    "question": "What abnormality is shown in the chest X-ray?",
+    "options": [
+      "A. Bilateral interstitial infiltrates.",
+      "B. Right upper lobe cavitary lesion.",
+      "C. Pneumothorax.",
+      "D. Pleural effusion."
+    ],
+    "answer": "B",
+    "explanation": "The abnormality is a right upper lobe cavitary lesion..."
+  },
+  {
+    "question": "What are the most likely causes of a cavitary lesion seen on chest X-ray?",
+    "options": [
+      "A. Pneumonia, bronchitis, asthma.",
+      "B. Bacterial lung abscess, tuberculosis, or cavitating lung cancer.",
+      "C. Pulmonary embolism, pleural effusion, pneumothorax.",
+      "D. Sarcoidosis, interstitial lung disease, COPD."
+    ],
+    "answer": "B",
+    "explanation": "The most likely cause is a bacterial lung abscess, although tuberculosis or a cavitating lung cancer can also give a lung cavity."
+  },
+  {
+    "question": "What is generally the most accurate test to determine the etiology of a lung mass or cavity?",
+    "options": [
+      "A. Chest X-ray.",
+      "B. CT scan.",
+      "C. Lung biopsy (via bronchoscopy, transthoracic needle, or open biopsy) for histology and culture.",
+      "D. Sputum cytology."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test for a lung mass or cavity is a lung biopsy. You must have tissue to diagnose cancer or to obtain a specific microbiologic diagnosis."
+  },
+  {
+    "question": "What clinical presentation is typical for a bacterial lung abscess?",
+    "options": [
+      "A. Acute onset of high fever and rigors.",
+      "B. Several weeks of fever, cough, weight loss, and potentially foul-smelling sputum, often in a patient with increased aspiration risk (alcoholism, seizure, stroke, intubation).",
+      "C. Sudden onset shortness of breath and chest pain.",
+      "D. Chronic dry cough and hilar adenopathy."
+    ],
+    "answer": "B",
+    "explanation": "For a lung abscess, look for a patient described as febrile with a cough for the last several weeks, weight loss, and possibly malodorous sputum. Lung abscess is most common in those with an increased risk of aspiration..."
+  },
+  {
+    "question": "What abnormality is visible in the right lung field on the left chest X-ray?",
+    "options": [
+      "A. Pneumothorax.",
+      "B. Pleural effusion.",
+      "C. Infiltrate (consolidation) in the right middle lobe.",
+      "D. Large mass."
+    ],
+    "answer": "C",
+    "explanation": "The film on the left side shows an infiltrate in the right middle lobe."
+  },
+  {
+    "question": "What is the most likely bacterial cause of a lobar pneumonia (like the RML infiltrate shown)?",
+    "options": [
+      "A. Mycoplasma pneumoniae.",
+      "B. Legionella pneumophila.",
+      "C. Streptococcus pneumoniae (Pneumococcus) or Haemophilus influenzae.",
+      "D. Staphylococcus aureus."
+    ],
+    "answer": "C",
+    "explanation": "The most likely etiology of this infection is Streptococcus pneumonia, although hemophilus is also possible."
+  },
+  {
+    "question": "What is considered the most accurate diagnostic test for identifying the specific bacterial cause of pneumonia?",
+    "options": [
+      "A. Chest X-ray pattern.",
+      "B. Complete blood count (CBC).",
+      "C. Gram stain and culture of a good quality sputum sample (or other relevant sample like blood culture or pleural fluid).",
+      "D. C-reactive protein (CRP) level."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test of any bacterial infection is a Gram’s stain of the sputum and a sputum culture. Culture is always the right answer for the answer to the “most accurate diagnostic test” question, if it is an infection."
+  },
+  {
+    "question": "When is a chest X-ray indicated as the best initial test?",
+    "options": [
+      "A. For routine health screening.",
+      "B. Whenever a patient presents with symptoms suggestive of a lower respiratory tract process, such as fever and cough or shortness of breath.",
+      "C. To evaluate abdominal pain.",
+      "D. For diagnosing pulmonary embolism."
+    ],
+    "answer": "B",
+    "explanation": "Answer chest X ray as the best initial test whenever there is fever and a cough or shortness of breath."
+  },
+  {
+    "question": "What finding is shown on this chest X-ray?",
+    "options": [
+      "A. Lobar consolidation.",
+      "B. Bilateral interstitial infiltrates.",
+      "C. Large pleural effusions.",
+      "D. Pneumothorax."
+    ],
+    "answer": "B",
+    "explanation": "This is a chest X ray that shows bilateral interstitial infiltrates."
+  },
+  {
+    "question": "Bilateral interstitial infiltrates on chest X-ray can be caused by which types of pathogens or conditions?",
+    "options": [
+      "A. Primarily typical bacteria like Streptococcus pneumoniae.",
+      "B. Atypical pathogens (Viral pneumonia, Pneumocystis, Mycoplasma, Chlamydia, Coxiella, Legionella) or non-infectious interstitial lung diseases.",
+      "C. Only fungal infections.",
+      "D. Mainly large airway diseases like bronchitis."
+    ],
+    "answer": "B",
+    "explanation": "Interstitial infiltrates can be caused by viral pneumonia, pneumocystis, mycoplasma, chlamydia, coxiella, and sometimes legionella."
+  },
+  {
+    "question": "What is the most accurate test for diagnosing Mycoplasma, Chlamydia, or Coxiella pneumonia?",
+    "options": [
+      "A. Sputum Gram stain and culture.",
+      "B. Serology (antibody titers).",
+      "C. Urine antigen testing.",
+      "D. Bronchoalveolar lavage."
+    ],
+    "answer": "B",
+    "explanation": "Mycoplasma, Chlamydia, Coxiella—serology (antibody titers)"
+  },
+  {
+    "question": "What are the most accurate tests for diagnosing Legionella pneumonia?",
+    "options": [
+      "A. Serology only.",
+      "B. Urine antigen testing and/or culture on specialized media (charcoal yeast extract).",
+      "C. Sputum Gram stain.",
+      "D. Chest X-ray findings."
+    ],
+    "answer": "B",
+    "explanation": "Legionella—urine antigen testing, culture on specialized media"
+  },
+  {
+    "question": "What is the most accurate diagnostic method for Pneumocystis pneumonia (PCP)?",
+    "options": [
+      "A. Chest X-ray.",
+      "B. Serum LDH level.",
+      "C. Sputum culture.",
+      "D. Identifying the organism in respiratory samples, typically obtained via induced sputum or bronchoalveolar lavage (BAL)."
+    ],
+    "answer": "D",
+    "explanation": "PCP—bronchealveolar lavage, increased LDH (LDH is suggestive, BAL is diagnostic)"
+  },
+  {
+    "question": "What is Tonometry?",
+    "options": [
+      "A. Measurement of visual acuity.",
+      "B. A test used to measure intraocular pressure (IOP), primarily for screening and diagnosing glaucoma.",
+      "C. Examination of the retina.",
+      "D. Assessment of eye muscle movement."
+    ],
+    "answer": "B",
+    "explanation": "Tonometry is the test used to measure intraocular pressure (IOP). It tests for glaucoma."
+  },
+  {
+    "question": "What are common methods for performing tonometry?",
+    "options": [
+      "A. Only direct palpation of the eye.",
+      "B. Pneumotonometry (air puff - screening), Goldmann applanation tonometry (slit lamp based - accurate), and electronic indentation tonometry.",
+      "C. Using eye drops to estimate pressure.",
+      "D. Measuring corneal thickness."
+    ],
+    "answer": "B",
+    "explanation": "Pneumotonometry is used as a screening tool... Golmann tonometry is the more accurate way... The most accurate test is the electronic indentation tonometry..."
+  },
+  {
+    "question": "Which form of tonometry is considered the most accurate according to the text?",
+    "options": [
+      "A. Pneumotonometry (air puff).",
+      "B. Goldmann applanation tonometry.",
+      "C. Electronic indentation tonometry.",
+      "D. Digital palpation."
+    ],
+    "answer": "C",
+    "explanation": "The most accurate test is the electronic indentation tonometry..."
+  },
+  {
+    "question": "When is Tonometry indicated?",
+    "options": [
+      "A. For any patient with red eyes.",
+      "B. As both the best initial and most accurate test for screening and diagnosing glaucoma.",
+      "C. To evaluate cataracts.",
+      "D. When assessing for dry eye syndrome."
+    ],
+    "answer": "B",
+    "explanation": "Tonometry is both the best initial and most accurate test for glaucoma."
+  },
+  {
+    "question": "What is the primary purpose of Gonioscopy?",
+    "options": [
+      "A. To measure intraocular pressure.",
+      "B. To visualize the drainage angle between the cornea and the iris, assessing for narrow angle or angle closure glaucoma.",
+      "C. To examine the optic nerve head.",
+      "D. To test visual fields."
+    ],
+    "answer": "B",
+    "explanation": "Gonioscopy is visualization of the angle between the cornea and the iris. This is performed to assess for narrow angle or angle closure in glaucoma."
+  },
+  {
+    "question": "How does Gonioscopy allow visualization of the drainage angle?",
+    "options": [
+      "A. By using ultrasound waves.",
+      "B. By using a special lens (goniolens) with mirrors or prisms to deflect light from the slit lamp obliquely through the cornea into the angle.",
+      "C. Through direct pressure measurement in the angle.",
+      "D. By injecting fluorescein dye."
+    ],
+    "answer": "B",
+    "explanation": "In gonioscopy, light from the slit lamp is deflected obliquely through the cornea using a prism or mirror in order to get a view of the angle..."
+  },
+  {
+    "question": "When is Gonioscopy typically performed in the evaluation of glaucoma?",
+    "options": [
+      "A. As the initial screening test for glaucoma.",
+      "B. After the diagnosis of glaucoma has been made (e.g., by tonometry and optic nerve exam), to determine the type of glaucoma (open-angle vs. angle-closure).",
+      "C. Only if intraocular pressure is normal.",
+      "D. To monitor response to glaucoma treatment."
+    ],
+    "answer": "B",
+    "explanation": "You answer gonioscopy when you see a case of glaucoma... and tonometry has already confirmed glaucoma. Gonioscopy is used to determine the type of glaucoma after the diagnosis has been made."
+  },
+  {
+    "question": "What is a Slit-Lamp Examination?",
+    "options": [
+      "A. A test of visual acuity.",
+      "B. A microscopic examination of the anterior segment of the eye (and potentially posterior segment with special lenses) using a focused beam of light.",
+      "C. Measurement of intraocular pressure.",
+      "D. An ultrasound of the eye."
+    ],
+    "answer": "B",
+    "explanation": "Slit-lamp examination is a microscopic examination of the anterior half of the eye by projecting a thin beam of light through a slit."
+  },
+  {
+    "question": "What specific finding, diagnostic of Wilson's disease, can be seen on slit-lamp examination?",
+    "options": [
+      "A. Cataracts.",
+      "B. Corneal abrasion.",
+      "C. Kayser-Fleischer ring (copper deposits in Descemet's membrane).",
+      "D. Optic disc cupping."
+    ],
+    "answer": "C",
+    "explanation": "In this photo, a Kayser-Fleischer ring is formed by copper deposits in Descemet’s membrane of the cornea. This finding is diagnostic of Wilson's disease..."
+  },
+  {
+    "question": "When is a Slit-Lamp Examination particularly indicated?",
+    "options": [
+      "A. For routine eye pressure checks.",
+      "B. When evaluating hearing loss.",
+      "C. In a patient presenting with a red, painful eye, especially if associated with photophobia (light sensitivity) suggesting iritis/uveitis, or to evaluate for cataracts or corneal injury/abrasion.",
+      "D. To screen for diabetic retinopathy (fundoscopy is primary)."
+    ],
+    "answer": "C",
+    "explanation": "Answer slit-lamp exam when you are shown a patient with a red, painful eye when the pain is worsened by shining a light in the eye or photophobia... Slit-lamp is also a very good way to detect cataracts or corneal injury."
+  },
+  {
+    "question": "What is a Roth Spot, often seen on funduscopic examination?",
+    "options": [
+      "A. A hard exudate.",
+      "B. A retinal hemorrhage surrounding a white or pale center (cotton wool spot/infarct).",
+      "C. Neovascularization.",
+      "D. Drusen."
+    ],
+    "answer": "B",
+    "explanation": "A Roth spot is actually a cotton wool spot (infarct) with surrounding hemorrhage."
+  },
+  {
+    "question": "While not specific, Roth spots are classically associated with which condition?",
+    "options": [
+      "A. Glaucoma.",
+      "B. Diabetic retinopathy.",
+      "C. Subacute Bacterial Endocarditis.",
+      "D. Macular degeneration."
+    ],
+    "answer": "C",
+    "explanation": "Subacute bacterial endocarditis is commonly associated; however, Roth spots are not specific..."
+  },
+  {
+    "question": "What is believed to be the underlying cause of Roth spots in subacute bacterial endocarditis?",
+    "options": [
+      "A. Direct bacterial emboli.",
+      "B. An immunological phenomenon (immune complex deposition).",
+      "C. Hypertensive damage.",
+      "D. Diabetic microvascular changes."
+    ],
+    "answer": "B",
+    "explanation": "Roth spots in subacute bacterial endocarditis are an immunological phenomenon."
+  },
+  {
+    "question": "What symptoms often describe the onset of a Retinal Detachment?",
+    "options": [
+      "A. Gradual blurring of vision with eye pain.",
+      "B. Sudden, painless unilateral loss of vision, often described as an ascending/descending veil or curtain, possibly preceded by flashes (photopsia) and floaters.",
+      "C. Double vision and eye muscle weakness.",
+      "D. Itchy, red eyes with discharge."
+    ],
+    "answer": "B",
+    "explanation": "Patients with retinal detachment often describe an ascending/descending veil in front of one eye with flashes and floaters. The unilateral loss of vision is sudden and painless."
+  },
+  {
+    "question": "What is the usual underlying cause of a Retinal Detachment?",
+    "options": [
+      "A. Increased intraocular pressure.",
+      "B. A tear or break in the retina allowing fluid to seep underneath.",
+      "C. Inflammation of the optic nerve.",
+      "D. Blockage of the central retinal artery."
+    ],
+    "answer": "B",
+    "explanation": "Retinal detachment is usually caused by a retinal tear."
+  },
+  {
+    "question": "What is the appropriate management approach for a Retinal Detachment?",
+    "options": [
+      "A. Observation with frequent follow-up.",
+      "B. Prescription eye drops.",
+      "C. It is a medical emergency requiring urgent surgical intervention (e.g., laser photocoagulation, cryopexy, scleral buckle, vitrectomy) to reattach the retina.",
+      "D. Systemic corticosteroids."
+    ],
+    "answer": "C",
+    "explanation": "Retinal detachment is a medical emergency! Laser surgery or cryoplexy is always used to help reattach the retina. A scleral buckle may be placed... or a vitrectomy may be done..."
+  },
+  {
+    "question": "What is Fluorescein Eye Staining?",
+    "options": [
+      "A. Measurement of tear production.",
+      "B. A test using fluorescein dye and a blue light to detect defects or abnormalities on the corneal surface (e.g., abrasions, ulcers, foreign bodies).",
+      "C. Visualization of retinal blood vessels.",
+      "D. Staining bacteria in the eye."
+    ],
+    "answer": "B",
+    "explanation": "After manual staining of the eye with fluorescein, the eye is exposed to a blue light that detects foreign bodies or damage to the cornea."
+  },
+  {
+    "question": "In which situations is Fluorescein Eye Staining commonly performed?",
+    "options": [
+      "A. To diagnose glaucoma.",
+      "B. When evaluating suspected corneal injury: abrasion, infection (ulcer), trauma, foreign body, or abnormal tear production (dry eye).",
+      "C. To screen for cataracts.",
+      "D. For checking optic nerve health."
+    ],
+    "answer": "B",
+    "explanation": "Fluorescein staining is used in the evaluation of the following corneal injuries:\n® Corneal abrasion\nHw Infection\n8 Injury or trauma\nBW Foreign bodies\nHB Abnormal tear production\nBm Keratoconjunctivitis sicca"
+  },
+  {
+    "question": "What does a normal Fluorescein Eye Stain result look like?",
+    "options": [
+      "A. The entire cornea stains bright green.",
+      "B. The dye adheres only to the conjunctiva.",
+      "C. The dye remains within the tear film and does not adhere to the corneal surface.",
+      "D. Multiple punctate green dots appear across the cornea."
+    ],
+    "answer": "C",
+    "explanation": "Normally, the dye stays in the tear film... and does not adhere to the cornea."
+  },
+  {
+    "question": "When is Fluorescein Eye Staining most likely the indicated test?",
+    "options": [
+      "A. Patient complaining of floaters.",
+      "B. Patient with gradual vision loss.",
+      "C. Patient experiencing ocular trauma with severe eye pain, to rule out a corneal abrasion.",
+      "D. Patient with suspected macular degeneration."
+    ],
+    "answer": "C",
+    "explanation": "The most likely question in which a fluorescein stain is the answer is when you are shown a person who has had ocular trauma and there is very severe pain, and you need to exclude a corneal abrasion."
+  },
+  {
+    "question": "What ocular condition is represented in the photograph, characterized by neovascularization?",
+    "options": [
+      "A. Non-proliferative diabetic retinopathy.",
+      "B. Proliferative Diabetic Retinopathy (PDR).",
+      "C. Hypertensive retinopathy.",
+      "D. Age-related macular degeneration."
+    ],
+    "answer": "B",
+    "explanation": "This photograph represents proliferative diabetic retinopathy (PDR). There is neovascularization over the disc... Neovascularization differentiates PDR from non-PDR."
+  },
+  {
+    "question": "What feature specifically differentiates Proliferative Diabetic Retinopathy (PDR) from Non-Proliferative Diabetic Retinopathy (NPDR)?",
+    "options": [
+      "A. Presence of microaneurysms.",
+      "B. Presence of hard exudates.",
+      "C. Presence of neovascularization (new, abnormal blood vessel growth).",
+      "D. Presence of cotton wool spots."
+    ],
+    "answer": "C",
+    "explanation": "Neovascularization differentiates PDR from non-PDR."
+  },
+  {
+    "question": "What are two major vision-threatening complications of Proliferative Diabetic Retinopathy (PDR)?",
+    "options": [
+      "A. Cataracts and glaucoma.",
+      "B. Retinal detachment (tractional) and neovascular glaucoma.",
+      "C. Corneal ulcers and uveitis.",
+      "D. Optic neuritis and macular edema."
+    ],
+    "answer": "B",
+    "explanation": "PDR can lead to retinal detachment and neovascular glaucoma."
+  },
+  {
+    "question": "What is the standard treatment for Proliferative Diabetic Retinopathy (PDR)?",
+    "options": [
+      "A. Observation only.",
+      "B. Topical eye drops.",
+      "C. Pan-Retinal Photocoagulation (PRP) laser therapy.",
+      "D. Systemic corticosteroids."
+    ],
+    "answer": "C",
+    "explanation": "The treatment of PDR is with pan retinal photocoagulation."
+  }
+]

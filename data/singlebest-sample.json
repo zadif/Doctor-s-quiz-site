@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is the powerhouse of the cell?",
+    "A": "Nucleus",
+    "B": "Mitochondria",
+    "C": "Golgi Apparatus",
+    "D": "Endoplasmic Reticulum",
+    "answer": "B",
+    "explanation": "Mitochondria are often referred to as the powerhouse of the cell because they generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.",
+    "subject": "Biology"
+  },
+  {
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "A": "Respiration",
+    "B": "Photosynthesis",
+    "C": "Transpiration",
+    "D": "Germination",
+    "answer": "B",
+    "explanation": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.",
+    "subject": "Biology"
+  },
+  {
+    "question": "Which of the following is NOT a type of blood cell?",
+    "A": "Red blood cells",
+    "B": "White blood cells",
+    "C": "Platelets",
+    "D": "Nephrons",
+    "answer": "D",
+    "explanation": "Nephrons are the functional units of the kidneys, not a type of blood cell. The three types of blood cells are red blood cells, white blood cells, and platelets.",
+    "subject": "Biology"
+  },
+  {
+    "question": "Which structure in a plant cell gives the cell its shape and supports the cell?",
+    "A": "Cell wall",
+    "B": "Cell membrane",
+    "C": "Nucleus",
+    "D": "Chloroplast",
+    "answer": "A",
+    "explanation": "The cell wall is a rigid layer outside the cell membrane that provides structural support and protection for plant cells.",
+    "subject": "Biology"
+  },
+  {
+    "question": "What is the main function of DNA in living organisms?",
+    "A": "Energy storage",
+    "B": "Genetic information storage",
+    "C": "Cell movement",
+    "D": "Waste removal",
+    "answer": "B",
+    "explanation": "DNA (deoxyribonucleic acid) is the genetic material that contains the instructions needed for an organism to develop, survive, and reproduce.",
+    "subject": "Biology"
+  }
+]

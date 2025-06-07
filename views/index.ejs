@@ -1,0 +1,70 @@
+<div class="quiz-container">
+  <div class="progress-container text-center mb-4">
+    <h4>
+      Question <span id="currentQuestion">1</span> of <%= questions.length %>
+    </h4>
+    <div class="progress">
+      <div class="progress-bar" role="progressbar" style="width: 0%"></div>
+    </div>
+  </div>
+
+  <div id="quiz-carousel" class="carousel slide" data-bs-interval="false">
+    <div class="carousel-inner">
+      <% questions.forEach((question, index) => { %>
+      <div class="carousel-item <%= index === 0 ? 'active' : '' %>">
+        <div class="card quiz-card">
+          <div class="card-body">
+            <h5 class="card-title mb-4"><%= question.question %></h5>
+            <div class="options-container">
+              <% question.options.forEach((option, optionIndex) => { %>
+              <button
+                class="btn btn-outline-primary option-btn w-100 mb-3"
+                data-correct="<%= optionIndex === question.correctAnswer %>"
+                onclick="checkAnswer(this, <%= optionIndex === question.correctAnswer %>)"
+              >
+                <%= option %>
+              </button>
+              <% }); %>
+            </div>
+          </div>
+        </div>
+      </div>
+      <% }); %>
+
+      <!-- Results slide -->
+      <div class="carousel-item">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="mb-4">Quiz Complete!</h3>
+            <p class="score-text">
+              You scored: <span id="finalScore">0</span> out of <%=
+              questions.length %>
+            </p>
+            <button class="btn btn-primary" onclick="restartQuiz()">
+              <i class="fas fa-redo me-2"></i>Restart Quiz
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="d-flex justify-content-between mt-4">
+    <button
+      class="btn btn-secondary"
+      onclick="previousQuestion()"
+      id="prevBtn"
+      style="display: none"
+    >
+      <i class="fas fa-arrow-left me-2"></i>Previous
+    </button>
+    <button
+      class="btn btn-primary"
+      onclick="nextQuestion()"
+      id="nextBtn"
+      disabled
+    >
+      Next<i class="fas fa-arrow-right ms-2"></i>
+    </button>
+  </div>
+</div>

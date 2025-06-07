@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, maximum-scale=1.0, user-scalable=no"
+    />
+    <!-- ...existing head content... -->
+  </head>
+  <body>
+    <div class="quiz-container">
+      <div class="category-header text-center mb-4">
+        <div class="category-icon-large bg-primary mb-3">
+          <i class="fas <%= category.icon %> fa-4x"></i>
+        </div>
+        <h2 class="mb-3"><%= category.title %> Quiz</h2>
+      </div>
+
+      <div class="progress-container text-center mb-4">
+        <h4>
+          Question <span id="currentQuestion">1</span> of <%= questions.length
+          %>
+        </h4>
+        <div class="progress">
+          <div
+            class="progress-bar bg-primary"
+            role="progressbar"
+            style="width: 0%"
+          ></div>
+        </div>
+      </div>
+
+      <div id="quiz-carousel" class="carousel slide" data-bs-interval="false">
+        <div class="carousel-inner">
+          <% questions.forEach((question, index) => { %>
+          <div class="carousel-item <%= index === 0 ? 'active' : '' %>">
+            <div class="card quiz-card">
+              <div class="card-body">
+                <div
+                  class="d-flex justify-content-between align-items-start mb-4"
+                >
+                  <h5 class="card-title"><%= question.question %></h5>
+                  <button
+                    class="btn btn-sm btn-outline-primary copy-btn"
+                    onclick="copyQuestionToChat('<%= question.question %>')"
+                  >
+                    <i class="fas fa-comment-dots"></i>
+                  </button>
+                </div>
+                <div class="options-container">
+                  <% question.options.forEach((option, optionIndex) => { %>
+                  <button
+                    class="btn btn-outline-primary option-btn w-100 mb-3"
+                    data-correct="<%= optionIndex === question.correctAnswer %>"
+                    data-explanation="<%= encodeURIComponent(question.explanation) %>"
+                    onclick="checkAnswer(this, <%= optionIndex === question.correctAnswer %>)"
+                  >
+                    <%= option %>
+                  </button>
+                  <% }); %>
+                </div>
+
+                <!-- New explanation section that shows up after answering -->
+                <div class="explanation-section mt-4" style="display: none">
+                  <button
+                    class="btn btn-outline-info w-100 mb-2 explanation-toggle"
+                  >
+                    <i class="fas fa-lightbulb me-2"></i>View Explanation
+                  </button>
+                  <div
+                    class="explanation-content p-3 border rounded"
+                    style="display: none"
+                  ></div>
+                </div>
+                <!-- Note: explanation content is now empty and will be filled by JavaScript -->
+              </div>
+            </div>
+          </div>
+          <% }); %>
+
+          <!-- Results slide -->
+          <div class="carousel-item">
+            <div class="card">
+              <div class="card-body text-center">
+                <div class="category-icon-large bg-primary mb-3">
+                  <i class="fas fa-trophy"></i>
+                </div>
+                <h3 class="mb-4">Quiz Complete!</h3>
+                <p class="score-text">
+                  You scored: <span id="finalScore">0</span> out of <%=
+                  questions.length %>
+                </p>
+                <div class="d-grid gap-2 d-md-block">
+                  <button class="btn btn-primary" onclick="restartQuiz()">
+                    <i class="fas fa-redo me-2"></i>Try Again
+                  </button>
+                  <button
+                    class="btn btn-outline-primary"
+                    onclick="reviewAnswers()"
+                  >
+                    <i class="fas fa-eye me-2"></i>Review Answers
+                  </button>
+                  <a href="/" class="btn btn-outline-primary">
+                    <i class="fas fa-home me-2"></i>Back to Categories
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex justify-content-between mt-4">
+        <button
+          class="btn btn-outline-primary"
+          onclick="previousQuestion()"
+          id="prevBtn"
+          style="display: none"
+        >
+          <i class="fas fa-arrow-left me-2"></i>Previous
+        </button>
+        <button
+          class="btn btn-primary"
+          onclick="nextQuestion()"
+          id="nextBtn"
+          disabled
+        >
+          Next<i class="fas fa-arrow-right ms-2"></i>
+        </button>
+      </div>
+
+      <!-- Chat Widget -->
+      <div class="chat-widget d-none d-sm-block">
+        <button class="chat-button" onclick="toggleChat()">
+          <i class="fas fa-comment-dots"></i>
+        </button>
+        <div class="chat-sidebar">
+          <div class="chat-header p-3 text-white">
+            <h5 class="mb-0">AI Assistant</h5>
+            <button
+              class="btn-close btn-close-white"
+              onclick="closeChat()"
+            ></button>
+          </div>
+          <div class="chat-messages" id="chatMessages"></div>
+          <div class="chat-input p-3 border-top">
+            <div class="input-group">
+              <input
+                type="text"
+                class="form-control"
+                id="chatInput"
+                placeholder="Ask a question..."
+                onkeydown="if (event.key === 'Enter') sendMessage()"
+              />
+              <button class="btn btn-primary" onclick="sendMessage()">
+                <i class="fas fa-paper-plane"></i>
+              </button>
+            </div>
+          </div>
+          <div class="resize-handle"></div>
+        </div>
+      </div>
+
+      <!-- Mobile-friendly chat button -->
+      <div class="chat-widget-mobile d-sm-none">
+        <button class="chat-button" onclick="toggleChat()">
+          <i class="fas fa-comment-dots"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="text-white py-4 mt-5">
+      <div class="container text-center">
+        <p class="mb-0">&copy; 2024 QuizMaster. All rights reserved.</p>
+        <div class="mt-2">
+          <a href="#" class="text-white mx-2"
+            ><i class="fab fa-facebook"></i
+          ></a>
+          <a href="#" class="text-white mx-2"><i class="fab fa-twitter"></i></a>
+          <a href="#" class="text-white mx-2"
+            ><i class="fab fa-instagram"></i
+          ></a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

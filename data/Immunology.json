@@ -1,0 +1,1520 @@
+[
+  {
+    "question": "A 7-day-old newborn is brought to the physician by his mother because of tetanic contractions of his arms and legs. Physical examination shows low-set ears, and a vertically elongated mouth and profile. A chest x-ray shows absence of a thymic shadow. Which of the following immunologic parameters is most likely to be normal in this newborn?",
+    "options": [
+      "A. Antibody-dependent cell-mediated cytotoxicity",
+      "B. Cytotoxic T-lymphocyte production",
+      "C. Delayed-type hypersensitivity",
+      "D. Gamma-delta T-cell numbers",
+      "E. Immunoglobulin A production"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Antibody-dependent cell-mediated cytotoxicity (ADCC) often involves IgG antibodies, the production of which (beyond IgM) requires T-helper cell function, which is deficient in DiGeorge syndrome.",
+      "B": "Cytotoxic T-lymphocyte (CTL) production requires thymic education and selection, which is absent or severely impaired in DiGeorge syndrome.",
+      "C": "Delayed-type hypersensitivity (Type IV) is dependent on T-helper 1 (TH1) cells and macrophages, both requiring functional T cells derived from the thymus.",
+      "D": "This infant has DiGeorge syndrome, characterized by thymic aplasia due to failure of the 3rd/4th pharyngeal pouches. Most T cells (alpha-beta T cells) require thymic development. However, gamma-delta T cells develop independently of the thymus. Therefore, their numbers are likely to be normal.",
+      "E": "Immunoglobulin A production requires isotype switching stimulated by T-helper 2 (TH2) cell cytokines. TH2 cells require thymic development and would be absent or deficient."
+    }
+  },
+  {
+    "question": "A 38-year-old man who recently emigrated from Mexico is brought to the emergency department because of 3-month history of weight loss, night sweats, anorexia, malaise, and low-grade fever. A PPD skin test shows 10 mm of induration. If the area of induration is biopsied, which of the following cell surface markers is most likely to be present on the most numerous immune cells in the biopsy?",
+    "options": ["A. CD4", "B. CD8", "C. CD14", "D. CD19", "E. CD56"],
+    "answer": "C",
+    "explanations": {
+      "A": "CD4 is a marker for T-helper lymphocytes. While TH1 cells orchestrate the PPD reaction (a type IV hypersensitivity), they are not the most numerous cell type in the lesion.",
+      "B": "CD8 is a marker for cytotoxic T lymphocytes. CTLs are not the predominant cell type in a classic PPD reaction.",
+      "C": "The PPD test induces a delayed-type hypersensitivity reaction characterized by infiltration of mononuclear cells. The most numerous cells in such a lesion are macrophages, attracted and activated by cytokines from sensitized TH1 cells. CD14 is a key surface marker for monocytes and macrophages (it's the endotoxin/LPS receptor).",
+      "D": "CD19 is a marker for B lymphocytes. B cells are not involved in Type IV hypersensitivity reactions like the PPD test.",
+      "E": "CD56 is a marker often used for Natural Killer (NK) cells. NK cells are not the predominant cell type in a PPD reaction."
+    }
+  },
+  {
+    "question": "A 38-year-old man who recently emigrated from Mexico comes to the physician because of a gradual loss of sensation in his fingertips over the last year. Physical examination shows several nodular lesions on the ears, nose, and fingers. Histologic examination of a lesion shows acid-fast bacilli and multinucleated giant cells (granuloma). Which of the following cells produce the interferon-gamma that mediates the transformation of macrophages into epithelioid cells in this type of lesion?",
+    "options": [
+      "A. Cytotoxic T lymphocytes",
+      "B. Multinucleated giant cells",
+      "C. Natural Killer cells",
+      "D. TH1 subset of T-helper lymphocytes",
+      "E. TH2 subset of T-helper lymphocytes"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Cytotoxic T lymphocytes (CTLs, CD8+) primarily kill infected cells and produce some cytokines, but IFN-gamma production for macrophage activation is mainly a TH1 function.",
+      "B": "Multinucleated giant cells are formed from fused macrophages within the granuloma; they do not produce the activating IFN-gamma.",
+      "C": "Natural Killer (NK) cells can produce IFN-gamma, but in the context of adaptive immunity driving granuloma formation against intracellular pathogens like Mycobacterium leprae (causing leprosy), TH1 cells are the primary source.",
+      "D": "This patient likely has leprosy, characterized by granuloma formation against the acid-fast bacilli. Granulomas are orchestrated by T-helper lymphocytes, specifically the TH1 subset. TH1 cells secrete interferon-gamma (IFN-gamma), which is the key cytokine that activates macrophages, causing them to enlarge, increase phagocytic/killing capacity, and transform into epithelioid cells characteristic of granulomas.",
+      "E": "TH2 lymphocytes primarily secrete IL-4, IL-5, and IL-10, which promote humoral immunity (antibody production) and are generally inhibitory to macrophage activation required for granuloma formation."
+    }
+  },
+  {
+    "question": "A previously healthy 20-year-old man requires a splenectomy after a motor vehicle collision. Nine months later, despite prior antibiotic prophylaxis, he develops symptoms of pneumonia (shortness of breath, pleuritic chest pain, chills, fever). Which of the following descriptions most likely corresponds to the causal organism?",
+    "options": [
+      "A. An atypical fungus like Pneumocystis jiroveci",
+      "B. A Gram-negative, oxidase-positive bacillus like Pseudomonas aeruginosa",
+      "C. A Gram-positive, catalase-negative, alpha-hemolytic diplococcus",
+      "D. A Gram-positive, catalase-positive, beta-hemolytic coccus in clusters",
+      "E. An intracellular ATP-defective reticulate body like Chlamydia"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Pneumocystis pneumonia is typical in severely immunocompromised individuals (e.g., AIDS), not primarily associated with splenectomy.",
+      "B": "Pseudomonas aeruginosa is encapsulated and can cause pneumonia, especially in CF patients, but S. pneumoniae is more common post-splenectomy.",
+      "C": "Splenectomy severely impairs the clearance of encapsulated bacteria. Streptococcus pneumoniae is the most common cause of overwhelming post-splenectomy infection (OPSI) and pneumonia in these patients. S. pneumoniae is classically described as a Gram-positive, lancet-shaped diplococcus that is catalase-negative and alpha-hemolytic on blood agar.",
+      "D": "This describes Staphylococcus aureus, which is less commonly associated with OPSI compared to encapsulated organisms.",
+      "E": "Chlamydia species are intracellular bacteria; immunity is primarily cell-mediated and less dependent on splenic clearance."
+    }
+  },
+  {
+    "question": "A 21-year-old man experiences chest tightness and diaphoresis shortly after a bee sting, requiring emergency treatment. This anaphylactic reaction is mediated by IgE antibodies. Which cytokine is most crucial for inducing B lymphocytes to switch isotype and produce IgE?",
+    "options": [
+      "A. IFN-gamma",
+      "B. IL-1",
+      "C. IL-2",
+      "D. IL-4",
+      "E. IL-5",
+      "F. IL-10"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "IFN-gamma, produced by TH1 cells, promotes cell-mediated immunity and generally inhibits IgE production.",
+      "B": "IL-1 is a pro-inflammatory cytokine primarily produced by macrophages.",
+      "C": "IL-2 is a T-cell growth factor, primarily involved in cell-mediated immunity.",
+      "D": "Interleukin-4 (IL-4), primarily produced by TH2 lymphocytes (and mast cells/basophils), is the key cytokine that drives B cell isotype switching to IgE. It is essential for the development of Type I hypersensitivity reactions.",
+      "E": "IL-5, also from TH2 cells, promotes eosinophil development and B cell switching to IgA.",
+      "F": "IL-10, primarily from TH2 cells and regulatory T cells, is generally immunosuppressive, particularly inhibiting TH1 responses."
+    }
+  },
+  {
+    "question": "A 15-year-old boy, previously healthy until age 12, presents with a history of five episodes of bacterial pneumonia requiring hospitalization in the last 3 years. A chest x-ray shows bronchiectasis. Sweat test is negative. T- and B-cell counts are normal. Delayed hypersensitivity skin testing is reactive. Which immunodeficiency is the most likely diagnosis?",
+    "options": [
+      "A. Adenosine deaminase deficiency",
+      "B. Common variable immunodeficiency",
+      "C. DiGeorge syndrome",
+      "D. Hyper-IgM syndrome",
+      "E. X-linked hypogammaglobulinemia"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Adenosine deaminase deficiency causes Severe Combined Immunodeficiency (SCID), presenting in infancy with profound defects in both T and B cells.",
+      "B": "Common Variable Immunodeficiency (CVID) is characterized by late onset (often adolescence or early adulthood) of recurrent bacterial infections (especially sinopulmonary), markedly decreased levels of IgG, IgA, and/or IgM, but typically normal B-cell numbers. T-cell function can be variable but is often sufficient for positive delayed hypersensitivity tests. Bronchiectasis is a common complication. This fits the patient's presentation.",
+      "C": "DiGeorge syndrome presents in infancy with thymic aplasia (absent T cells, negative DTH tests), hypocalcemia, and cardiac/facial abnormalities.",
+      "D": "Hyper-IgM syndrome involves defective isotype switching, resulting in high IgM but low IgG, IgA, IgE, typically presenting earlier with recurrent infections.",
+      "E": "X-linked (Bruton) hypogammaglobulinemia presents in early childhood (after maternal IgG wanes) with very low levels of all immunoglobulins and absent B cells."
+    }
+  },
+  {
+    "question": "A germline B lymphocyte possesses 200 V, 20 D, and 50 J gene segments for its heavy-chain variable domain, and 100 V and 10 J gene segments for its light-chain variable domain. Assuming random recombination without inaccuracies, how many distinct antibody idiotypes (antigen-binding sites) can potentially be produced by this lymphocyte lineage?",
+    "options": [
+      "A. 1,000",
+      "B. 4,000",
+      "C. 1 x 10^5",
+      "D. 2 x 10^5",
+      "E. 2 x 10^8"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "1,000 (100 V x 10 J) is the number of possible light chain combinations.",
+      "B": "4,000 (200 V x 20 D) is an incomplete calculation for the heavy chain.",
+      "C": "Incorrect calculation.",
+      "D": "2 x 10^5 (200 V x 20 D x 50 J) is the number of possible heavy chain combinations.",
+      "E": "The total diversity arises from the random combination of heavy and light chains. Number of heavy chain possibilities = V x D x J = 200 x 20 x 50 = 200,000 (2 x 10^5). Number of light chain possibilities = V x J = 100 x 10 = 1,000 (1 x 10^3). Total distinct idiotypes = (Heavy chain possibilities) x (Light chain possibilities) = (2 x 10^5) x (1 x 10^3) = 2 x 10^8."
+    }
+  },
+  {
+    "question": "Prior to 1990, an early trial vaccine for Haemophilus influenzae type B consisted only of the polyribitol phosphate capsule administered with an adjuvant. What would have been the predominant isotype of antibody produced in response to this type of polysaccharide-only vaccine?",
+    "options": ["A. IgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "answer": "E",
+    "explanations": {
+      "A": "IgA production requires T-cell help for isotype switching.",
+      "B": "IgD is primarily a B-cell surface receptor, present in only trace amounts in serum.",
+      "C": "IgE production requires T-cell help (specifically IL-4) for isotype switching.",
+      "D": "IgG production requires T-cell help for isotype switching.",
+      "E": "Polysaccharide antigens are typically T-independent antigens. They can directly stimulate B cells to produce antibody without T-cell help, but this stimulation does not efficiently induce isotype switching or memory formation. Therefore, the predominant antibody isotype produced is IgM."
+    }
+  },
+  {
+    "question": "A 50-year-old woman receives the adult pneumococcal vaccine (Pneumovax 23), composed of capsular polysaccharides from 23 serotypes of Streptococcus pneumoniae, prior to a splenectomy. This vaccine is most likely to produce which predominant immunologic response?",
+    "options": [
+      "A. A delayed-type hypersensitivity response to Streptococcus",
+      "B. An IgA response to Streptococcus",
+      "C. An IgG response to Streptococcus",
+      "D. An IgM response to Streptococcus",
+      "E. A natural-killer cell response to Streptococcus"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Delayed-type hypersensitivity (DTH) is a T-cell mediated response, typically against protein antigens. Polysaccharide vaccines do not effectively stimulate T cells.",
+      "B": "IgA production requires T-cell help for isotype switching, which is not efficiently induced by polysaccharide antigens.",
+      "C": "IgG production requires T-cell help for isotype switching, which is not efficiently induced by polysaccharide antigens.",
+      "D": "The pneumococcal polysaccharide vaccine (PPSV23) contains only polysaccharide antigens, which are T-independent. They primarily stimulate B cells to produce IgM antibodies without significant isotype switching or generation of strong immunological memory.",
+      "E": "Natural killer (NK) cells primarily respond to virus-infected cells or tumor cells, not typically bacterial polysaccharide antigens in this manner."
+    }
+  },
+  {
+    "question": "A 51-year-old man with a history of hepatitis B infection undergoes a liver transplant. One year later, follow-up shows elevated liver enzymes (AST 83 U/L, ALT 102 U/L) and bilirubin (3.2 mg/dL), suggesting chronic rejection. Immunosuppressive therapy to minimize chronic rejection should primarily target the downregulation of which component?",
+    "options": [
+      "A. Autoantibody production",
+      "B. Complement protein synthesis",
+      "C. HLA antigen expression",
+      "D. Mast cell degranulation",
+      "E. T-lymphocyte activity"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Rejection involves alloantibodies (against the graft), not typically autoantibodies (against self). While antibodies play a role, T cells are central.",
+      "B": "Complement activation contributes to graft damage, but immunosuppression doesn't primarily target complement synthesis.",
+      "C": "HLA antigen expression by the graft is constitutive and the target of rejection, but immunosuppression doesn't aim to reduce its expression.",
+      "D": "Mast cell degranulation is characteristic of Type I hypersensitivity, not chronic graft rejection.",
+      "E": "Chronic graft rejection is primarily a cell-mediated process driven by T lymphocytes (both helper T cells assisting other immune cells and cytotoxic T cells directly attacking graft cells), along with contributions from alloantibodies. Therefore, immunosuppressive strategies focus heavily on suppressing T-lymphocyte activation, proliferation, and function."
+    }
+  },
+  {
+    "question": "A 46-year-old woman presents with fatigue and painful cervical lymph nodes. Biopsy shows hypercellularity, and serum electrophoresis reveals a monoclonal spike of IgG protein. Which description accurately represents the basic structure of the IgG molecules producing this spike?",
+    "options": [
+      "A. One alpha heavy chain, one gamma heavy chain, and two kappa light chains",
+      "B. One gamma heavy chain and two kappa light chains",
+      "C. Two identical gamma heavy chains and two identical kappa light chains",
+      "D. Two identical gamma heavy chains, one kappa light chain, and one lambda light chain",
+      "E. Two mu heavy chains and two kappa light chains"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Antibodies have two identical heavy chains; alpha chains are characteristic of IgA.",
+      "B": "Antibodies have two identical heavy chains.",
+      "C": "A basic immunoglobulin monomer consists of two identical heavy chains and two identical light chains. For IgG, the heavy chains are gamma (γ) type. The light chains can be either kappa (κ) or lambda (λ), but within a single antibody molecule, both light chains are identical. Therefore, an IgG molecule consists of two gamma chains and either two kappa chains or two lambda chains.",
+      "D": "The two light chains within a single antibody molecule must be identical (either both kappa or both lambda).",
+      "E": "Mu (μ) heavy chains are characteristic of IgM."
+    }
+  },
+  {
+    "question": "A 32-year-old pathologist develops acute eczematous dermatitis on his hands and wrists corresponding to the area covered by latex gloves. The reaction appears 72 hours after returning to work following a vacation during which the rash cleared. This delayed onset skin reaction is best described as which type of hypersensitivity?",
+    "options": [
+      "A. Irritant dermatitis",
+      "B. Type I reaction",
+      "C. Type II reaction",
+      "D. Type III reaction",
+      "E. Type IV reaction"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Irritant dermatitis is a non-immunologic reaction to friction, sweat, or chemicals, usually appearing more quickly.",
+      "B": "Type I reactions (IgE-mediated) occur within minutes to hours, causing urticaria, rhinitis, asthma, or anaphylaxis.",
+      "C": "Type II reactions involve antibody against cell surface or matrix antigens.",
+      "D": "Type III reactions involve immune complex deposition, often causing vasculitis or systemic symptoms.",
+      "E": "The delayed onset (48-72 hours), eczematous appearance, and localization to the area of contact are characteristic of a Type IV (delayed-type, cell-mediated) hypersensitivity reaction, specifically contact dermatitis. In this case, it's likely mediated by T cells reacting to chemicals added during latex processing."
+    }
+  },
+  {
+    "question": "An investigator studies immunity to Babesia microti, an intraerythrocytic parasite transmitted by ticks. Since erythrocytes lack MHC class I molecules, which immune cell marker is most specific for identifying cells capable of extracellular lysis of Babesia-infected red blood cells, likely via ADCC?",
+    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD56"],
+    "answer": "E",
+    "explanations": {
+      "A": "CD3 is a pan T-cell marker. T cells require MHC presentation, which RBCs lack.",
+      "B": "CD4 marks T-helper cells, which are not directly cytotoxic in this way.",
+      "C": "CD8 marks cytotoxic T lymphocytes (CTLs), which require MHC class I for target recognition; RBCs lack MHC I.",
+      "D": "CD14 marks monocytes/macrophages, which primarily phagocytose opsonized cells rather than mediating extracellular lysis in this context.",
+      "E": "CD56 (along with CD16) is a common marker for Natural Killer (NK) cells. NK cells can mediate Antibody-Dependent Cellular Cytotoxicity (ADCC). They bind via their CD16 (Fc receptor) to antibodies (like IgG) coating infected RBCs and induce lysis without requiring MHC presentation. This makes them capable effector cells against infected RBCs."
+    }
+  },
+  {
+    "question": "An investigator uses a fluorescence-activated cell sorter (FACS) to analyze leukocytes labeled with fluorescent antibodies against CD3, CD4, CD8, and CD20. Three plots are shown: I (CD3 vs CD8), II (CD3 vs CD4), III (CD3 vs CD20). The MMR vaccine, containing live attenuated viruses, primarily elicits a cell-mediated immune response. In which quadrant of which graph would the most important effector cells against virus-infected cells be predominantly found?",
+    "options": [
+      "A. I-1 (CD8+ only)",
+      "B. I-2 (CD3+ CD8+)",
+      "C. I-3 (CD3- CD8-)",
+      "D. I-4 (CD3+ only, CD8-)",
+      "E. II-2 (CD3+ CD4+)",
+      "F. III-1 (CD20+ only)"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "CD8+ cells are T cells, so they should also be CD3+.",
+      "B": "The primary effector cells against virus-infected cells are Cytotoxic T Lymphocytes (CTLs). CTLs are T cells (CD3+) that also express the CD8 co-receptor. Therefore, they would appear in the upper right quadrant (Quadrant 2) of Graph I, which plots CD3 fluorescence versus CD8 fluorescence.",
+      "C": "Double negatives represent non-T cells or background.",
+      "D": "CD3+ CD8- cells include CD4+ T cells and other T cell subsets.",
+      "E": "II-2 represents T-helper cells (CD3+ CD4+). While important for orchestrating the response, CTLs are the main direct effectors against infected cells.",
+      "F": "III-1 represents B lymphocytes (CD20+). B cells/antibodies are less critical than CTLs for clearing established viral infections."
+    }
+  },
+  {
+    "question": "A 14-month-old boy presents with a persistent itchy rash (eczema), easy bruising (petechiae, bruises of various stages), and a history of recurrent colds and ear infections. Laboratory studies are most likely to show which finding consistent with Wiskott-Aldrich syndrome?",
+    "options": [
+      "A. Elevated IgM level",
+      "B. Low IgA level",
+      "C. Low IgE level",
+      "D. Lymphopenia",
+      "E. Thrombocytopenia"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "IgM levels are typically low or normal in Wiskott-Aldrich syndrome.",
+      "B": "IgA levels are often elevated.",
+      "C": "IgE levels are often elevated.",
+      "D": "Lymphocyte counts are usually normal, although T-cell function declines over time.",
+      "E": "Wiskott-Aldrich syndrome is an X-linked recessive disorder characterized by the triad of Eczema, recurrent pyogenic Infections, and Thrombocytopenia (mnemonic: WIPE). The thrombocytopenia is often severe, leading to purpura, petechiae, and easy bruising/bleeding."
+    }
+  },
+  {
+    "question": "A 4-year-old boy, recently immigrated, presents with severe respiratory distress, high fever, drooling, difficulty swallowing, and inspiratory stridor. A lateral neck x-ray (shown) reveals a swollen epiglottis ('thumb sign'). This presentation is classic for epiglottitis, commonly caused by Haemophilus influenzae type B. Which description best fits the modern vaccine used to prevent this condition?",
+    "options": [
+      "A. Live attenuated virus",
+      "B. Killed, whole-cell bacterium",
+      "C. Purified polyribitol phosphate capsule only",
+      "D. Inactivated bacterial toxoid only",
+      "E. Bacterial polysaccharide (polyribitol phosphate) conjugated to a protein carrier (e.g., toxoid)"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Attenuated vaccines are typically viral (e.g., MMR, varicella).",
+      "B": "Killed whole-cell vaccines exist (e.g., older pertussis vaccine) but are not used for Hib.",
+      "C": "Vaccines containing only the polysaccharide capsule (T-independent antigen) elicit primarily IgM and poor memory, proving ineffective in young infants.",
+      "D": "Toxoid vaccines are used for diseases caused by toxins (e.g., tetanus, diphtheria).",
+      "E": "The Haemophilus influenzae type b (Hib) vaccine is a conjugate vaccine. The polyribitol phosphate (PRP) capsular polysaccharide is covalently linked (conjugated) to an immunogenic protein carrier (like tetanus toxoid or diphtheria toxoid). This allows the polysaccharide to be processed and presented by antigen-presenting cells to T-helper cells, eliciting a T-dependent immune response with isotype switching (IgG production) and robust immunological memory, effective even in infants."
+    }
+  },
+  {
+    "question": "A 45-year-old man develops double vision and ptosis that worsens throughout the day. Symptoms improve with a test dose of edrophonium. This clinical picture suggests myasthenia gravis. Which hypersensitivity mechanism is responsible?",
+    "options": [
+      "A. Antibody binding directly to cells or tissue resulting in a change of function without immediate cytotoxicity",
+      "B. Cytotoxic T lymphocyte-mediated destruction of neuromuscular junctions",
+      "C. Immune complex deposition at the neuromuscular junction activating complement",
+      "D. IgE-mediated mast cell degranulation affecting neuromuscular transmission",
+      "E. TH1 lymphocyte and macrophage infiltration causing inflammation at the neuromuscular junction"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Myasthenia gravis is caused by autoantibodies binding to acetylcholine receptors (AChRs) at the postsynaptic neuromuscular junction. This binding blocks acetylcholine from binding, increases receptor degradation, and can cause complement-mediated damage, but the primary mechanism leading to muscle weakness is receptor blockade and functional impairment, fitting the definition of a Type II non-cytotoxic hypersensitivity.",
+      "B": "CTLs are not the primary mediators in myasthenia gravis.",
+      "C": "While complement may contribute, immune complex deposition is more characteristic of Type III hypersensitivity.",
+      "D": "IgE and mast cells are involved in Type I hypersensitivity (allergy/anaphylaxis).",
+      "E": "TH1 cells and macrophages mediate Type IV (delayed-type) hypersensitivity."
+    }
+  },
+  {
+    "question": "A 54-year-old woman presents with macrocytic anemia, hypersegmented neutrophils, glossitis, paresthesias ('pins-and-needles' in feet), and serum antibodies to intrinsic factor, diagnostic of pernicious anemia. Which other autoimmune disease is caused by a similar Type II non-cytotoxic hypersensitivity mechanism involving antibodies altering receptor function?",
+    "options": [
+      "A. Arthus reaction",
+      "B. Graves disease",
+      "C. Hashimoto thyroiditis",
+      "D. Poststreptococcal acute glomerulonephritis",
+      "E. Rheumatic fever"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Arthus reaction is a Type III (immune complex) hypersensitivity.",
+      "B": "Graves disease is caused by autoantibodies against the TSH receptor that *stimulate* the receptor, causing hyperthyroidism. Like pernicious anemia (where antibodies block B12 absorption by targeting intrinsic factor/parietal cells) and myasthenia gravis (where antibodies block ACh receptors), it involves antibodies altering cellular function without direct cytotoxicity, fitting the Type II non-cytotoxic category.",
+      "C": "Hashimoto thyroiditis involves primarily Type IV (cell-mediated destruction) and Type II cytotoxic mechanisms against the thyroid.",
+      "D": "Poststreptococcal glomerulonephritis is a Type III (immune complex) hypersensitivity.",
+      "E": "Rheumatic fever involves Type II cytotoxic hypersensitivity (antibodies against Strep cross-reacting with heart tissue)."
+    }
+  },
+  {
+    "question": "The current recommended DTaP vaccine involves immunizing children with diphtheria toxoid, acellular pertussis antigens, and tetanus toxoid, leading to the child producing their own antibodies and memory cells. Which term best describes this type of immunization?",
+    "options": [
+      "A. Artificial active immunity",
+      "B. Artificial passive immunity",
+      "C. Natural active immunity",
+      "D. Natural passive immunity"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Immunity is 'active' because the individual's own immune system is stimulated to produce antibodies and memory cells. It is 'artificial' because the antigens (toxoids, purified proteins) are introduced medically via vaccination, rather than through natural infection.",
+      "B": "Artificial passive immunity involves receiving pre-formed antibodies (e.g., immune globulin injection).",
+      "C": "Natural active immunity results from surviving a natural infection.",
+      "D": "Natural passive immunity involves receiving antibodies naturally (e.g., maternal IgG across placenta, IgA in breast milk)."
+    }
+  },
+  {
+    "question": "A 58-year-old man presents with ataxia, sharp extremity pain, loss of proprioception, a wide-based slapping gait, and granulomatous nodules (gummas) in oral mucous membranes. Spinal MRI shows dorsal column degeneration, and VDRL is positive, indicating tabes dorsalis (tertiary syphilis). Gummas are granulomas; which cell type is most numerous within these lesions?",
+    "options": [
+      "A. B lymphocytes",
+      "B. Dendritic cells",
+      "C. Macrophages",
+      "D. Polymorphonuclear leukocytes",
+      "E. T helper-1 lymphocytes",
+      "F. T helper-2 lymphocytes"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "B lymphocytes and plasma cells are involved in antibody production, not the primary components of a granuloma.",
+      "B": "Dendritic cells are primarily involved in initial antigen presentation.",
+      "C": "Granulomas, including syphilitic gummas, are primarily composed of activated macrophages (often called epithelioid cells) and multinucleated giant cells (fused macrophages), organized in response to persistent antigen and cytokines (like IFN-gamma) from TH1 cells. Therefore, macrophages are the most numerous cell type.",
+      "D": "Polymorphonuclear leukocytes (neutrophils) are characteristic of acute inflammation and abscesses, not chronic granulomas.",
+      "E": "TH1 lymphocytes orchestrate granuloma formation by activating macrophages, but they are typically found surrounding the core of macrophages and are less numerous.",
+      "F": "TH2 lymphocytes promote humoral immunity and are not involved in granuloma formation."
+    }
+  },
+  {
+    "question": "A 58-year-old man develops pneumonia with rust-colored sputum. Gram stain shows gram-positive diplococci, consistent with Streptococcus pneumoniae. Once this encapsulated organism enters the blood, what is the most important protective immunologic mechanism for its clearance, particularly involving the spleen?",
+    "options": [
+      "A. C3 nephritic factor activity",
+      "B. C5b-9 (Membrane Attack Complex) mediated lysis",
+      "C. IgG-mediated opsonization facilitating phagocytosis in the spleen",
+      "D. Myeloperoxidase activity within phagocytic cells",
+      "E. Secretory IgA binding on mucosal surfaces"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "C3 nephritic factor stabilizes C3 convertase, leading to complement consumption, associated with certain types of glomerulonephritis.",
+      "B": "Encapsulated bacteria are relatively resistant to direct lysis by the Membrane Attack Complex.",
+      "C": "Encapsulated bacteria like S. pneumoniae resist direct phagocytosis. Opsonization (coating with antibodies like IgG and/or complement fragments like C3b) is crucial for their clearance. IgG binds to the bacteria, and its Fc portion then binds to Fc receptors on phagocytes (macrophages, neutrophils), greatly enhancing phagocytosis. The spleen, with its specialized macrophages and architecture that slows blood flow, is particularly important for clearing opsonized encapsulated bacteria from the bloodstream.",
+      "D": "Myeloperoxidase is involved in intracellular killing *after* phagocytosis has occurred.",
+      "E": "Secretory IgA provides mucosal immunity but is less important once the organism has invaded the bloodstream. S. pneumoniae also produces an IgA protease."
+    }
+  },
+  {
+    "question": "A 23-year-old soldier receives a booster vaccination. The physician warns of potential swelling and inflammation at the injection site within 24 hours. This localized reaction, occurring upon re-exposure to an antigen in a previously immunized individual, reflects which mechanism?",
+    "options": [
+      "A. Cytokine production by macrophages causing systemic effects",
+      "B. Cytotoxic T cell activation against injected antigens",
+      "C. Local immune complex formation activating complement (Arthus reaction)",
+      "D. IgE-mediated mast cell degranulation causing immediate reaction",
+      "E. Non-specific neutrophil infiltration due to needle trauma"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "While cytokines are involved in inflammation, this describes a specific localized immune reaction, not systemic shock.",
+      "B": "CTL activation is key for cell-mediated immunity, not typically the cause of this type of localized reaction to injected protein/toxoid antigens.",
+      "C": "The Arthus reaction is a localized Type III hypersensitivity. It occurs when pre-existing IgG antibodies in the recipient's circulation encounter the injected antigen, forming immune complexes locally in small blood vessel walls at the injection site. Complement activation follows, leading to neutrophil recruitment, inflammation, edema, and sometimes necrosis, typically peaking within 4-12 hours but significant within 24 hours.",
+      "D": "IgE-mediated reactions (Type I) are immediate, occurring within minutes.",
+      "E": "While some neutrophil infiltration occurs with any injection, the Arthus reaction is a specific immunologic phenomenon driven by immune complexes."
+    }
+  },
+  {
+    "question": "A trauma patient requires transfusion. Blood typing tests show: Patient RBCs + Anti-A serum = Agglutination; Patient RBCs + Anti-B serum = Agglutination; Patient RBCs + Anti-RhD serum = Agglutination; Patient Serum + Type A RBCs = No agglutination; Patient Serum + Type B RBCs = No agglutination. Which blood type matches this patient?",
+    "options": [
+      "A. A RhD-",
+      "B. A RhD+",
+      "C. B RhD-",
+      "D. B RhD+",
+      "E. AB RhD-",
+      "F. AB RhD+",
+      "G. O RhD-",
+      "H. O RhD+"
+    ],
+    "answer": "F",
+    "explanations": {
+      "A": "Incorrect based on agglutination results.",
+      "B": "Incorrect based on agglutination results.",
+      "C": "Incorrect based on agglutination results.",
+      "D": "Incorrect based on agglutination results.",
+      "E": "Incorrect based on agglutination results.",
+      "F": "Agglutination with Anti-A and Anti-B indicates the patient's RBCs have both A and B antigens (Blood Type AB). Agglutination with Anti-RhD indicates the patient's RBCs have the RhD antigen (RhD+). No agglutination when patient serum is mixed with Type A or Type B cells confirms the absence of Anti-A and Anti-B antibodies in the patient's serum, consistent with Blood Type AB. Therefore, the patient is AB RhD+.",
+      "G": "Incorrect based on agglutination results.",
+      "H": "Incorrect based on agglutination results."
+    }
+  },
+  {
+    "question": "A 10-year-old boy experiences recurrent upper respiratory tract infections caused by S. pneumoniae and H. influenzae. The provided pedigree shows multiple affected males linked through unaffected females, consistent with X-linked inheritance. Which immunodeficiency disorder fits this pattern and clinical presentation?",
+    "options": [
+      "A. Bruton agammaglobulinemia",
+      "B. Common variable immunodeficiency",
+      "C. Cystic fibrosis",
+      "D. Hereditary angioedema",
+      "E. Selective IgA deficiency"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Bruton agammaglobulinemia (X-linked agammaglobulinemia, XLA) is an X-linked recessive disorder caused by a defect in Bruton tyrosine kinase (BTK), essential for B-cell maturation. Affected boys lack mature B cells and have very low levels of all immunoglobulin isotypes. This leads to recurrent infections with encapsulated extracellular bacteria (like S. pneumoniae, H. influenzae) starting after maternal IgG declines (around 6 months). The X-linked inheritance pattern fits the pedigree.",
+      "B": "CVID typically has a later onset and is usually sporadic or autosomal, not X-linked.",
+      "C": "Cystic fibrosis is autosomal recessive and primarily causes lung/pancreatic disease, though infections occur.",
+      "D": "Hereditary angioedema is autosomal dominant and causes swelling episodes due to C1 inhibitor deficiency.",
+      "E": "Selective IgA deficiency is common but usually not X-linked, and primarily affects mucosal immunity."
+    }
+  },
+  {
+    "question": "An 8-year-old boy awaiting a renal transplant undergoes HLA-A typing via microcytotoxicity test along with potential donors. The recipient's cells lyse with antisera 1 and 7. Donor A's cells also lyse only with antisera 1 and 7. Donor B lyses with 1 and 3. Donor C lyses with 3 and 9. Donor D lyses with 3 and 9. Donor E lyses with 2 and 8. Which donor is most likely histocompatible for the HLA-A haplotype?",
+    "options": [
+      "A. Donor A",
+      "B. Donor B",
+      "C. Donor C",
+      "D. Donor D",
+      "E. Donor E"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "The microcytotoxicity test identifies which HLA antigens are present on the cells (lysis occurs if the cell has the antigen corresponding to the antibody in the antiserum + complement). The recipient expresses HLA-A alleles 1 and 7. Donor A also expresses HLA-A alleles 1 and 7. Since they share the same HLA-A alleles, Donor A is the most histocompatible match for the HLA-A locus among the options.",
+      "B": "Donor B (A1, A3) is a mismatch.",
+      "C": "Donor C (A3, A9) is a mismatch.",
+      "D": "Donor D (A3, A9) is a mismatch.",
+      "E": "Donor E (A2, A8) is a mismatch."
+    }
+  },
+  {
+    "question": "A 10-year-old boy, recently emigrated from Haiti, presents with shortness of breath, wheezing, exertional dyspnea, and occasional urticaria. Stool shows Ascaris lumbricoides ova, and sputum contains nematode larvae and eosinophils. What type of hypersensitivity reaction best explains his pulmonary symptoms?",
+    "options": [
+      "A. Type I hypersensitivity",
+      "B. Type II cytotoxic hypersensitivity",
+      "C. Type II noncytotoxic hypersensitivity",
+      "D. Type III hypersensitivity",
+      "E. Type IV hypersensitivity"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "Ascaris larval migration through the lungs can trigger a strong allergic response due to potent parasite allergens. This involves the production of IgE antibodies, mast cell degranulation upon re-exposure, and eosinophil recruitment. The resulting symptoms (wheezing, dyspnea, urticaria, eosinophilia - Loeffler syndrome) are characteristic of a Type I (immediate, IgE-mediated) hypersensitivity reaction.",
+      "B": "Type II involves antibodies against cell surfaces (e.g., hemolytic anemia).",
+      "C": "Type II non-cytotoxic involves antibodies altering receptor function (e.g., Graves).",
+      "D": "Type III involves immune complex deposition (e.g., serum sickness).",
+      "E": "Type IV involves T-cell mediated reactions (e.g., contact dermatitis)."
+    }
+  },
+  {
+    "question": "A 32-year-old primigravid woman at 6 months gestation has routine prenatal screening. RPR is negative. HIV ELISA is positive, but the confirmatory Western blot is reactive only for antibodies to the p24 antigen. How should this Western blot result be interpreted, and what is the most appropriate next step?",
+    "options": [
+      "A. Interpret as positive; tell the patient she and her baby are infected.",
+      "B. Interpret as false-positive ELISA; tell the patient she is negative.",
+      "C. Interpret as negative based on negative RPR.",
+      "D. Interpret as positive based on positive ELISA.",
+      "E. Interpret as indeterminate; recommend HIV PCR testing."
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Result is not definitively positive.",
+      "B": "Cannot conclude false-positive ELISA yet; could be early seroconversion.",
+      "C": "RPR tests for syphilis, not HIV.",
+      "D": "ELISA requires confirmation; Western blot result here is not positive.",
+      "E": "A positive HIV Western blot requires reactivity to specific combinations of HIV proteins (e.g., typically antibodies to at least two of gp120/160, gp41, p24). Reactivity only to p24 is considered an indeterminate result. It could represent early seroconversion or a non-specific reaction. The most appropriate next step is further testing with a different method, such as an HIV RNA PCR (viral load) or DNA PCR test, to directly detect the virus."
+    }
+  },
+  {
+    "question": "A 34-year-old woman develops diffuse pelvic pain, fever, and a tender left adnexal mass one month after her husband was treated for an STD. This suggests Pelvic Inflammatory Disease (PID), commonly caused by Chlamydia trachomatis or Neisseria gonorrhoeae. Considering Chlamydia trachomatis is the most common bacterial STD and an intracellular pathogen, which immune component is most important in clearing this type of infection?",
+    "options": [
+      "A. Antibody",
+      "B. Complement",
+      "C. NK cells",
+      "D. TH1 lymphocytes",
+      "E. TH2 lymphocytes"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Antibodies are less effective against obligate intracellular pathogens like Chlamydia.",
+      "B": "Complement is mainly effective against extracellular bacteria or in antibody-mediated lysis.",
+      "C": "NK cells primarily target virus-infected cells and tumor cells.",
+      "D": "Clearance of intracellular pathogens like Chlamydia primarily relies on cell-mediated immunity. T-helper 1 (TH1) lymphocytes are crucial. They recognize processed Chlamydial antigens presented by infected cells/APCs and secrete cytokines like IFN-gamma and IL-2. These cytokines activate macrophages to kill intracellular bacteria and activate cytotoxic T lymphocytes (CTLs) to kill infected host cells.",
+      "E": "TH2 lymphocytes primarily promote humoral (antibody) immunity, which is less effective for clearing established intracellular infections."
+    }
+  },
+  {
+    "question": "A 9-month-old boy presents with recurrent pyogenic infections. Labs show normal leukocyte count, hemoglobin, hematocrit, but mild thrombocytopenia. Serum immunoglobulins show increased IgM but decreased IgG and IgA levels. Which molecule, crucial for T cell-B cell interaction required for isotype switching, is most likely deficient?",
+    "options": [
+      "A. CD40 ligand (CD40L) on the T cell",
+      "B. CD40 molecule on the B cell",
+      "C. Interferon-gamma",
+      "D. Interleukin-2",
+      "E. Interleukin-3"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "This patient has Hyper-IgM syndrome (HIGM). The most common form (X-linked) is caused by mutations in the gene for CD40 ligand (CD40L, also known as CD154), which is expressed on activated T-helper cells. Interaction between CD40L on the T cell and CD40 on the B cell is essential, along with cytokines like IL-4, for B cells to undergo isotype switching from IgM to IgG, IgA, or IgE. Deficiency of CD40L prevents this interaction, resulting in high/normal IgM levels but low levels of other isotypes.",
+      "B": "Mutations in CD40 itself can cause an autosomal recessive form of HIGM, but it's less common than CD40L deficiency.",
+      "C": "IFN-gamma is primarily involved in cell-mediated immunity.",
+      "D": "IL-2 is a T-cell growth factor.",
+      "E": "IL-3 is a hematopoietic growth factor."
+    }
+  },
+  {
+    "question": "A 52-year-old woman experiences heat intolerance, has protuberant eyeballs (exophthalmos), sinus tachycardia, and elevated T3/T4 levels, consistent with Graves disease. This condition involves autoantibodies that stimulate the TSH receptor. What type of hypersensitivity mechanism does this represent?",
+    "options": [
+      "A. Type I hypersensitivity",
+      "B. Type II cytotoxic hypersensitivity",
+      "C. Type II noncytotoxic hypersensitivity",
+      "D. Type III hypersensitivity",
+      "E. Type IV hypersensitivity"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Type I involves IgE and mast cell degranulation (e.g., allergies).",
+      "B": "Type II cytotoxic involves antibodies causing cell destruction via complement or ADCC (e.g., autoimmune hemolytic anemia).",
+      "C": "Graves disease is a classic example of Type II non-cytotoxic hypersensitivity. Autoantibodies (Thyroid Stimulating Immunoglobulins, TSIs) bind to the TSH receptor on thyroid cells and mimic the action of TSH, leading to chronic stimulation and hyperthyroidism without immediate destruction of the thyroid cells.",
+      "D": "Type III involves immune complex deposition (e.g., lupus nephritis).",
+      "E": "Type IV involves T-cell mediated damage (e.g., Hashimoto thyroiditis, contact dermatitis)."
+    }
+  },
+  {
+    "question": "A man's blood typing results are: RBCs + Anti-A = No agglutination; RBCs + Anti-B = No agglutination; RBCs + Anti-RhD = No agglutination; Serum + Type A RBCs = Agglutination; Serum + Type B RBCs = Agglutination. He states his mother is Type A+ and his father is Type B+. Could this man be the natural offspring of these parents?",
+    "options": [
+      "A. No, the patient cannot be the natural offspring of these parents.",
+      "B. Yes, but only if the mother has genotype AO.",
+      "C. Yes, but only if the father has genotype BO.",
+      "D. Yes, the patient could be the natural offspring of these parents."
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "This conclusion cannot be definitively drawn.",
+      "B": "Paternal genotype also matters.",
+      "C": "Maternal genotype also matters.",
+      "D": "The patient's blood type is O RhD- (no A, B, or RhD antigens on RBCs; has Anti-A and Anti-B antibodies in serum). A mother who is phenotypically A+ could have the genotype AO +/-. A father who is phenotypically B+ could have the genotype BO +/-. If both parents are heterozygous for the ABO alleles (AO and BO) and heterozygous for RhD (+/-), they can produce a child with genotype OO -- (Blood Type O RhD-). Therefore, the patient *could* be the natural offspring of these parents."
+    }
+  },
+  {
+    "question": "A 10-year-old boy with a history of recurrent bacterial and fungal infections, impaired wound healing, and a family history of a similar recessive genetic disease likely has Leukocyte Adhesion Deficiency (LAD). This disorder results from defective adhesion and diapedesis of leukocytes due to deficiency in the expression of which surface molecules?",
+    "options": [
+      "A. Adenosine deaminase",
+      "B. IgA immunoglobulins",
+      "C. IgG immunoglobulins",
+      "D. Integrins (e.g., CD11/CD18 family)",
+      "E. Neutrophil cytochrome B (component of NADPH oxidase)"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Adenosine deaminase deficiency causes SCID.",
+      "B": "IgA deficiency primarily affects mucosal immunity.",
+      "C": "IgG deficiency affects systemic humoral immunity.",
+      "D": "Leukocyte Adhesion Deficiency Type 1 (LAD-1) is caused by mutations affecting the CD18 subunit, which is the common beta chain (β2) for several leukocyte integrins (like LFA-1, Mac-1/CR3). These integrins are crucial for the firm adhesion of neutrophils and other leukocytes to endothelial cells, a necessary step for diapedesis into tissues. Defective integrins impair this process.",
+      "E": "Neutrophil cytochrome B defects cause Chronic Granulomatous Disease (CGD), impairing intracellular killing, not adhesion."
+    }
+  },
+  {
+    "question": "A 47-year-old woman presents with hemoptysis and hematuria. Kidney biopsy shows smooth, ribbon-like immunofluorescent staining along the glomerular basement membranes. This pattern is characteristic of Goodpasture disease. Autoantibodies directed against which antigen are most strongly associated with this condition?",
+    "options": [
+      "A. Centromeres",
+      "B. Double-stranded DNA",
+      "C. Glomerular basement membrane (specifically Type IV collagen)",
+      "D. Scl-70 (DNA topoisomerase I)",
+      "E. Smith antigen (snRNP component)"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Anti-centromere antibodies are associated with CREST syndrome (limited scleroderma).",
+      "B": "Anti-dsDNA antibodies are highly specific for Systemic Lupus Erythematosus (SLE).",
+      "C": "Goodpasture disease is a Type II hypersensitivity caused by autoantibodies targeting the alpha-3 chain of Type IV collagen, a major component of the glomerular basement membrane (GBM) and alveolar basement membranes. This leads to rapidly progressive glomerulonephritis and pulmonary hemorrhage.",
+      "D": "Anti-Scl-70 antibodies are associated with diffuse systemic sclerosis.",
+      "E": "Anti-Smith antibodies are highly specific for SLE."
+    }
+  },
+  {
+    "question": "A 4-month-old boy presents with facial twitching (tetany), a history of severe Candida infections, low-set ears, hypertelorism, and a shortened philtrum. These features suggest DiGeorge syndrome. Due to the underlying thymic aplasia/hypoplasia, which additional immunologic finding is most likely?",
+    "options": [
+      "A. Absence of type IV hypersensitivity responses",
+      "B. Decreased serum alpha-fetoprotein levels",
+      "C. Elevated serum IgE levels",
+      "D. Elevated serum IgM levels",
+      "E. Prominent telangiectasias around the eyes"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "DiGeorge syndrome results from failure of the 3rd and 4th pharyngeal pouches to develop, leading to absent or hypoplastic thymus and parathyroid glands. The lack of a thymus prevents proper T-lymphocyte development and maturation. Type IV hypersensitivity reactions (e.g., delayed-type hypersensitivity skin tests like PPD, contact dermatitis) are mediated by T cells (primarily TH1 and CTLs). Therefore, patients with significant DiGeorge syndrome will lack these responses.",
+      "B": "Alpha-fetoprotein levels are related to pregnancy screening or certain tumors, not DiGeorge syndrome.",
+      "C": "IgE production requires T-helper cell help; it would likely be decreased, not elevated.",
+      "D": "While isotype switching is T-dependent, severely affected patients may have low levels of all antibodies due to lack of T-cell help for B cells. Elevated IgM is characteristic of Hyper-IgM syndrome.",
+      "E": "Telangiectasias are characteristic of Ataxia-Telangiectasia syndrome."
+    }
+  },
+  {
+    "question": "Following a puncture wound in a 6-year-old boy, bacteria are introduced. Phagocytic cells must migrate from the bloodstream into the infected tissue (diapedesis). Which pair of complementary adhesion molecules is most critical for the *strong adhesion* step that precedes diapedesis?",
+    "options": [
+      "A. CD28 (on T cell) and B7 (on APC)",
+      "B. CR3 (on phagocyte) and ICAM-1 (on endothelium)",
+      "C. LFA-1 (on phagocyte) and ICAM-1 (on endothelium)",
+      "D. MAdCAM-1 (on endothelium) and L-selectin (on lymphocyte)",
+      "E. P-selectin (on endothelium) and Addressin (ligand on lymphocyte)"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "CD28/B7 interaction is crucial for T-cell co-stimulation, not leukocyte adhesion/diapedesis.",
+      "B": "CR3 (Mac-1) is an integrin that binds ICAM-1, but LFA-1/ICAM-1 is generally considered the primary interaction for firm adhesion of neutrophils/monocytes.",
+      "C": "Diapedesis involves initial rolling (selectins), followed by firm adhesion, and then transmigration. Firm adhesion of leukocytes (like neutrophils and monocytes) to the endothelium is primarily mediated by the binding of integrins on the leukocyte surface to their ligands on the endothelial cell surface. The key interaction for neutrophils and monocytes is LFA-1 (Leukocyte Function-associated Antigen-1, an integrin) binding to ICAM-1 (Intercellular Adhesion Molecule-1) on activated endothelium.",
+      "D": "MAdCAM-1/L-selectin interactions are more involved in lymphocyte homing to mucosal tissues.",
+      "E": "P-selectin (on endothelium) binds ligands (like PSGL-1) on leukocytes, mediating initial rolling, not firm adhesion. Addressins are typically ligands for selectins or integrins involved in lymphocyte homing."
+    }
+  },
+  {
+    "question": "A 60-year-old woman develops fever, facial wound erythema/edema, petechial rash, lymphadenopathy, and signs of peripheral ischemia (dark fingertips) two days after sustaining facial lacerations. Wound cultures grow catalase-negative, gram-positive cocci (likely Streptococcus pyogenes). This presentation suggests streptococcal toxic shock syndrome mediated by superantigens. Which immune effector cells are non-specifically and massively activated by superantigens?",
+    "options": [
+      "A. B cells",
+      "B. Eosinophils",
+      "C. NK cells",
+      "D. Plasma cells",
+      "E. Tc cells (CTLs)",
+      "F. TH cells (T-helper cells)"
+    ],
+    "answer": "F",
+    "explanations": {
+      "A": "B cells are not the primary target of superantigens.",
+      "B": "Eosinophils are associated with allergic reactions and parasite defense.",
+      "C": "NK cells provide innate immunity against certain infected/tumor cells.",
+      "D": "Plasma cells are antibody-producing B cells.",
+      "E": "Tc cells (CTLs) recognize specific antigen presented by MHC class I.",
+      "F": "Superantigens (like those produced by S. pyogenes and S. aureus) bypass normal antigen processing. They bind directly to MHC class II molecules on antigen-presenting cells and to the Vβ region of the T-cell receptor on T-helper (TH) cells (CD4+). This cross-linking causes massive, non-specific activation of a large fraction (up to 20%) of TH cells, leading to a 'cytokine storm' (IL-1, IL-6, TNF-α from APCs; IFN-γ, IL-2 from TH cells) responsible for the symptoms of toxic shock syndrome."
+    }
+  },
+  {
+    "question": "A 65-year-old woman presents with painful, symmetric swelling of the proximal phalangeal joints and large subcutaneous nodules over the extensor surfaces of both arms. These findings are highly suggestive of rheumatoid arthritis. Autoantibodies directed against which antigen are characteristically found in this patient's serum?",
+    "options": [
+      "A. Acetylcholine receptor",
+      "B. Double-stranded DNA",
+      "C. Histones",
+      "D. Fc portion of IgG",
+      "E. Ribonucleoprotein"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Anti-AChR antibodies are found in myasthenia gravis.",
+      "B": "Anti-dsDNA antibodies are found in SLE.",
+      "C": "Anti-histone antibodies are characteristic of drug-induced lupus.",
+      "D": "Rheumatoid Factor (RF) is the characteristic autoantibody found in many patients with rheumatoid arthritis. RF is typically an IgM (or sometimes IgG or IgA) antibody that recognizes and binds to the Fc portion of the patient's own IgG molecules.",
+      "E": "Anti-RNP antibodies are associated with Mixed Connective Tissue Disease and Sjogren syndrome."
+    }
+  },
+  {
+    "question": "A 37-year-old woman with chronic active hepatitis B develops fever, petechial rash, and proteinuria. Kidney biopsy reveals irregular deposits of antigen-antibody complexes, neutrophils, and tubular damage, consistent with immune complex glomerulonephritis. Which complement component is most critical for the solubilization and clearance of such immune complexes from the bloodstream?",
+    "options": ["A. C1q", "B. C3b", "C. C5", "D. C5a", "E. Factor B"],
+    "answer": "B",
+    "explanations": {
+      "A": "C1q is the recognition component of the classical pathway, binding to immune complexes to initiate the cascade.",
+      "B": "C3b, generated by the cleavage of C3 via either the classical or alternative pathway, plays multiple crucial roles. It covalently binds to immune complexes (and microbial surfaces), acting as a major opsonin recognized by CR1 receptors on phagocytes (facilitating clearance by liver/spleen macrophages) and erythrocytes (transporting complexes). C3b deposition also helps keep immune complexes soluble. Deficiencies in C3 or components leading to C3b generation often result in susceptibility to immune complex diseases.",
+      "C": "C5 is cleaved to C5a and C5b, initiating the membrane attack complex.",
+      "D": "C5a is a potent anaphylatoxin and chemoattractant for neutrophils.",
+      "E": "Factor B is a component of the alternative pathway C3 convertase."
+    }
+  },
+  {
+    "question": "A 4-year-old boy presents with purplish patches (purpura/petechiae) on his arms and thorax, a history of eczema, and recurrent pneumococcal pneumonia. Laboratory studies show thrombocytopenia and selectively decreased serum IgM. Which X-linked immunodeficiency syndrome best fits this clinical picture?",
+    "options": [
+      "A. Ataxia telangiectasia",
+      "B. Common variable immunodeficiency",
+      "C. Hyper-IgM syndrome",
+      "D. Severe combined immunodeficiency",
+      "E. Wiskott-Aldrich syndrome"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Ataxia telangiectasia is autosomal recessive, presents with ataxia, telangiectasias, and often IgA/IgE deficiency.",
+      "B": "CVID typically has later onset and is not X-linked.",
+      "C": "Hyper-IgM syndrome involves high IgM and low IgG/IgA/IgE, without characteristic eczema or thrombocytopenia.",
+      "D": "SCID involves profound T and B cell defects, presenting earlier with broader susceptibility.",
+      "E": "Wiskott-Aldrich syndrome is an X-linked disorder characterized by the triad of Thrombocytopenia (often with small platelets, leading to purpura/bleeding), Eczema, and recurrent Infections (especially with encapsulated bacteria due to impaired antibody response to polysaccharides). IgM levels are typically low, while IgA/IgE may be elevated. This matches the patient's presentation."
+    }
+  },
+  {
+    "question": "A newborn whose mother had a mild maculopapular rash in mid-pregnancy presents with characteristics of congenital rubella syndrome: small for gestational age, cataracts, hepatosplenomegaly, thrombocytopenic purpura ('blueberry muffin' spots), patent ductus arteriosus, bone lucency, and meningoencephalitis. Which preventative measure would most likely have averted this condition?",
+    "options": [
+      "A. Mother avoiding cat litter during pregnancy",
+      "B. Mother avoiding delicatessen foods during pregnancy",
+      "C. Mother receiving a live attenuated rubella vaccine prior to pregnancy",
+      "D. Mother taking prenatal folate supplements",
+      "E. Mother practicing safe sex during pregnancy"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Avoiding cat litter prevents Toxoplasma gondii infection.",
+      "B": "Avoiding deli meats/unpasteurized dairy helps prevent Listeria monocytogenes infection.",
+      "C": "Congenital rubella syndrome results from maternal rubella infection during pregnancy, especially the first trimester. The most effective prevention is ensuring maternal immunity prior to conception. This is achieved through vaccination with the live attenuated rubella vaccine (typically as part of MMR). The vaccine is contraindicated during pregnancy.",
+      "D": "Prenatal folate prevents neural tube defects.",
+      "E": "Safe sex helps prevent STDs like syphilis, HIV, CMV, and HSV, which can cause congenital infections, but rubella is typically spread via respiratory droplets."
+    }
+  },
+  {
+    "question": "A 20-year-old college student develops a viral exanthem. Serological testing for antibodies to varicella zoster virus is performed. The presence of which type of anti-varicella immunoglobulin most reliably indicates long-term immunity from past infection or vaccination?",
+    "options": [
+      "A. An antibody with a valence of 4 (dimeric IgA)",
+      "B. An antibody with a valence of 10 (pentameric IgM)",
+      "C. An antibody with two epsilon heavy chains (IgE)",
+      "D. An opsonic antibody that is the predominant isotype in serum (IgG)",
+      "E. The antibody with the shortest serum half-life (IgD)"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "IgA provides mucosal immunity; its serum levels don't best reflect long-term systemic immunity.",
+      "B": "IgM is the primary antibody produced in an initial response; its presence indicates recent or current infection, not long-term immunity.",
+      "C": "IgE is involved in allergic responses.",
+      "D": "IgG is the predominant antibody isotype found in serum and is the major antibody produced during a secondary (memory) immune response. Its presence indicates past exposure (infection or vaccination) and generally correlates with long-term immunity. IgG antibodies are also opsonic, facilitating phagocytosis.",
+      "E": "IgD has a very short half-life and low serum concentration; it primarily functions as a B cell receptor."
+    }
+  },
+  {
+    "question": "A 32-year-old woman with no history of chickenpox wants to visit her sister, whose daughter currently has the disease. She requests testing to see if she has antibodies indicating immunity to the varicella zoster virus. Which laboratory technique is most commonly used for this purpose?",
+    "options": [
+      "A. Enzyme-linked immunosorbent assay (ELISA)",
+      "B. Northern blot",
+      "C. Polymerase Chain Reaction (PCR)",
+      "D. Southern blot",
+      "E. Subtractive hybridization"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "ELISA is a widely used, sensitive, and relatively simple immunoassay technique to detect the presence and/or quantity of specific antibodies (or antigens) in a sample, such as serum. Detecting anti-varicella IgG antibodies via ELISA is the standard method to determine immunity.",
+      "B": "Northern blotting detects specific RNA sequences.",
+      "C": "PCR amplifies specific DNA (or RNA via RT-PCR) sequences; it detects viral genetic material, not host antibodies.",
+      "D": "Southern blotting detects specific DNA sequences.",
+      "E": "Subtractive hybridization is a molecular biology technique to identify differentially expressed genes."
+    }
+  },
+  {
+    "question": "A 4-year-old boy presents with epistaxis, a history of multiple respiratory infections (bacterial and viral) and eczema. His maternal uncle had similar problems. Examination shows petechiae. Labs reveal thrombocytopenia and increased serum IgE. Mutation in the gene encoding which protein is the most likely cause of this X-linked disorder?",
+    "options": [
+      "A. Adenosine deaminase",
+      "B. Bruton tyrosine kinase",
+      "C. CD18 (Integrin beta-2 chain)",
+      "D. Myeloperoxidase",
+      "E. NADPH oxidase component",
+      "F. Wiskott-Aldrich syndrome protein (WASP)"
+    ],
+    "answer": "F",
+    "explanations": {
+      "A": "Deficiency causes SCID.",
+      "B": "Deficiency causes X-linked agammaglobulinemia (Bruton's).",
+      "C": "Deficiency causes Leukocyte Adhesion Deficiency Type 1.",
+      "D": "Deficiency impairs intracellular killing, usually asymptomatic.",
+      "E": "Deficiency causes Chronic Granulomatous Disease.",
+      "F": "This patient has Wiskott-Aldrich syndrome (eczema, thrombocytopenia, immunodeficiency, X-linked inheritance). The disorder is caused by mutations in the WAS gene on the X chromosome, which encodes the Wiskott-Aldrich syndrome protein (WASP). WASP is involved in actin cytoskeleton reorganization in hematopoietic cells, affecting cell migration, interaction, and platelet formation."
+    }
+  },
+  {
+    "question": "A 17-year-old boy experiences recurrent lung infections, otitis media, and multiple episodes of bacterial meningitis despite being fully immunized. Serum immunoglobulin levels show: IgM 300 mg/dL (Normal), IgG 660 mg/dL (Normal), IgA <10 mg/dL (Very Low). Which condition is often associated with this pattern of selective IgA deficiency?",
+    "options": [
+      "A. Increased incidence of contact dermatitis",
+      "B. Decreased phagocytic efficiency",
+      "C. Increased risk of immune complex disease",
+      "D. Increased incidence of atopy (allergic diseases)",
+      "E. Presence of partial albinism"
+    ],
+    "answer": "D",
+    "explanations": {
+      "A": "Contact dermatitis is a Type IV hypersensitivity, unrelated to IgA levels.",
+      "B": "Phagocytic function is typically normal.",
+      "C": "Immune complex disease is more associated with complement deficiencies.",
+      "D": "Selective IgA deficiency, the most common primary immunodeficiency, is frequently associated with an increased incidence of allergic (atopic) diseases, such as asthma, allergic rhinitis, and food allergies. The reason is not fully clear but may relate to impaired mucosal tolerance or compensatory IgE responses.",
+      "E": "Partial albinism is seen in Chediak-Higashi syndrome."
+    }
+  },
+  {
+    "question": "A 42-year-old nurse, vaccinated with BCG 2 years prior, receives an intradermal tuberculin (PPD) test. At 48 hours, an 8-mm zone of erythema and induration develops. Which immune mechanism is primarily responsible for this delayed-type hypersensitivity reaction?",
+    "options": [
+      "A. Antibody-mediated alteration of cellular function (Type II non-cytotoxic)",
+      "B. Antibody-mediated destruction of cells or tissues (Type II cytotoxic)",
+      "C. IgE-mediated degranulation of mast cells and basophils (Type I)",
+      "D. Immune complex deposition in tissues and complement activation (Type III)",
+      "E. TH1 cell activation of macrophages presenting tuberculin antigens (Type IV)"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Characteristic of diseases like Graves or myasthenia gravis.",
+      "B": "Characteristic of diseases like autoimmune hemolytic anemia or Goodpasture.",
+      "C": "Characteristic of immediate allergic reactions.",
+      "D": "Characteristic of diseases like serum sickness or lupus nephritis.",
+      "E": "The tuberculin skin test (PPD) is the classic example of a Type IV (delayed-type) hypersensitivity reaction. Prior sensitization (from BCG vaccination or previous TB exposure) leads to memory T cells. Upon intradermal injection of tuberculin antigens, these antigens are processed by local antigen-presenting cells (like macrophages, dendritic cells). Sensitized T-helper 1 (TH1) cells recognize the antigen presented on MHC class II, become activated, and release cytokines (especially IFN-gamma). These cytokines recruit and activate macrophages, leading to local inflammation, edema, and induration peaking at 48-72 hours."
+    }
+  },
+  {
+    "question": "A 27-year-old woman develops acute wheezing, lip/tongue swelling, difficulty breathing, and hypotension shortly after eating a chicken and nut dish. This anaphylactic reaction is mediated by IgE. Which interleukin, produced by TH2 cells, is essential for inducing B cells to class-switch and produce IgE antibodies?",
+    "options": [
+      "A. Interferon-gamma",
+      "B. Interleukin-1",
+      "C. Interleukin-2",
+      "D. Interleukin-3",
+      "E. Interleukin-4",
+      "F. Interleukin-5",
+      "G. Interleukin-6"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "IFN-gamma promotes TH1 responses and inhibits IgE.",
+      "B": "IL-1 is a pro-inflammatory cytokine from macrophages.",
+      "C": "IL-2 is a T-cell growth factor.",
+      "D": "IL-3 is a hematopoietic growth factor.",
+      "E": "Interleukin-4 (IL-4) is the primary cytokine, produced mainly by TH2 cells, that drives B lymphocyte isotype switching to IgE production. It is crucial for the development of allergic responses (Type I hypersensitivity).",
+      "F": "IL-5 promotes eosinophil development and IgA switching.",
+      "G": "IL-6 is involved in inflammation and B cell differentiation but not the primary driver of IgE switching."
+    }
+  },
+  {
+    "question": "A 56-year-old homosexual man with a CD4 count of 30/mm^3 is admitted with Pneumocystis jiroveci pneumonia. His HIV Western blot is positive for antibodies to gp41 and gp120, but negative for anti-p24, anti-p17, and anti-p7/p9. Given his advanced immunosuppression (AIDS) with severely depleted T-helper cells, antibodies detected against the evolving HIV envelope antigens (gp41, gp120) are most likely predominantly of which isotype?",
+    "options": ["A. IgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "answer": "E",
+    "explanations": {
+      "A": "Requires T-cell help for isotype switching.",
+      "B": "Primarily a B-cell receptor; low serum levels.",
+      "C": "Requires T-cell help for isotype switching.",
+      "D": "Requires T-cell help for isotype switching and memory responses. T-cell help is severely deficient in advanced AIDS.",
+      "E": "In advanced AIDS with severe CD4+ T-cell depletion, the ability to mount T-dependent antibody responses, including isotype switching to IgG, IgA, or IgE, and affinity maturation/memory, is severely compromised. The immune system may revert to making primary, T-independent-like responses. Continuously evolving viral antigens (like the envelope glycoproteins gp120/gp41 due to genetic drift) may elicit repeated primary responses, characterized mainly by the production of IgM antibodies."
+    }
+  },
+  {
+    "question": "A 37-year-old herpetologist receives horse-derived antivenin for a cobra bite (his third such bite). Two weeks later, he develops generalized edema, malaise, weakness, and renal failure. This constellation suggests serum sickness. What is the underlying immunologic mechanism?",
+    "options": [
+      "A. Direct nephrotoxicity from residual cobra venom",
+      "B. Delayed-type hypersensitivity (Type IV) to horse proteins",
+      "C. Direct antibody binding to the glomerular basement membrane (Type II)",
+      "D. IgE-mediated anaphylaxis (Type I) to horse proteins",
+      "E. Systemic deposition of immune complexes (horse protein antigen - human IgG/IgM antibody) activating complement (Type III)"
+    ],
+    "answer": "E",
+    "explanations": {
+      "A": "Unlikely, as antivenin should neutralize the venom, and onset is delayed.",
+      "B": "Delayed hypersensitivity typically causes localized reactions (like skin rash) or specific organ damage (like contact dermatitis), not systemic vasculitis and renal failure with this timing.",
+      "C": "Type II hypersensitivity involves antibodies targeting specific tissues (like Goodpasture targeting GBM); serum sickness involves circulating complexes.",
+      "D": "IgE-mediated reactions are immediate (minutes to hours), causing anaphylaxis, not delayed systemic symptoms like serum sickness.",
+      "E": "Serum sickness is a classic example of Type III hypersensitivity. Administration of foreign proteins (like horse antibodies in antivenin) elicits an antibody response (IgG/IgM) in the recipient. Around 7-14 days later, as antibody levels rise, circulating immune complexes form. These complexes deposit in small blood vessels (e.g., in kidneys, joints, skin), activate complement, attract neutrophils, and cause vasculitis, leading to symptoms like fever, rash, arthralgia, glomerulonephritis (proteinuria, renal failure), and edema."
+    }
+  },
+  {
+    "question": "A 1-month-old girl presents with erythema of the umbilicus (omphalitis) and delayed separation of the umbilical cord (> 2 weeks). She is susceptible to recurrent bacterial and fungal infections. Which flow cytometric test is most appropriate to confirm the likely diagnosis of Leukocyte Adhesion Deficiency Type 1 (LAD-1)?",
+    "options": [
+      "A. Examination of nucleated blood cells for large inclusions (Chédiak-Higashi)",
+      "B. Flow cytometric dihydrorhodamine (DHR) test (CGD)",
+      "C. Flow cytometric measurement of CD18 expression on leukocytes",
+      "D. Histochemical analysis for deficiency of neutrophil myeloperoxidase",
+      "E. Total hemolytic complement (CH50) assessment"
+    ],
+    "answer": "C",
+    "explanations": {
+      "A": "Large inclusions are characteristic of Chédiak-Higashi syndrome.",
+      "B": "The DHR test assesses NADPH oxidase function, diagnosing Chronic Granulomatous Disease (CGD).",
+      "C": "Leukocyte Adhesion Deficiency Type 1 (LAD-1) is caused by defective expression of the CD18 molecule, the common β2 integrin subunit necessary for leukocyte adhesion to endothelium. Flow cytometry can directly measure the presence and amount of CD18 on the surface of the patient's neutrophils or lymphocytes, providing a definitive diagnosis.",
+      "D": "Myeloperoxidase deficiency is usually asymptomatic.",
+      "E": "CH50 assesses the overall classical complement pathway; deficiencies usually lead to autoimmune disease or susceptibility to Neisseria."
+    }
+  },
+  {
+    "question": "A 5-year-old boy presents with failure to thrive and severe atopic allergies. Labs show normal IgM, elevated IgG and IgE, but absent IgA. This pattern suggests selective IgA deficiency. He would have the most difficulty eliminating which pathogen that primarily resides on and infects mucosal surfaces without deep invasion?",
+    "options": [
+      "A. Clostridium tetani",
+      "B. Giardia lamblia",
+      "C. Measles virus",
+      "D. Salmonella enterica subsp. typhi",
+      "E. Streptococcus pyogenes"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Tetanus requires systemic IgG anti-toxin.",
+      "B": "Selective IgA deficiency primarily impairs mucosal immunity. Giardia lamblia is an intestinal protozoan parasite that lives in the lumen of the small intestine and attaches to the mucosal surface but does not typically invade tissues. Secretory IgA is the primary defense mechanism against Giardia attachment and colonization. Its absence makes individuals highly susceptible to chronic or recurrent giardiasis.",
+      "C": "Measles causes systemic infection; cell-mediated immunity and systemic IgG are crucial.",
+      "D": "Salmonella typhi causes systemic enteric fever; cell-mediated immunity and IgG are important.",
+      "E": "Streptococcus pyogenes can cause mucosal (pharyngitis) or invasive disease; systemic IgG is important for controlling invasive infection."
+    }
+  },
+  {
+    "question": "An RhD-negative mother delivers her first child, who is RhD-positive (father is homozygous RhD-positive). The mother does not receive RhoGAM post-delivery. Her second child, born 18 months later, is anemic, jaundiced, and has hepatosplenomegaly. This Hemolytic Disease of the Newborn (HDN) is an example of which type of hypersensitivity?",
+    "options": [
+      "A. Atopic disease (Type I)",
+      "B. Cytotoxic disease (Type II)",
+      "C. Delayed hypersensitivity (Type IV)",
+      "D. Immediate hypersensitivity (Type I)",
+      "E. Immune complex disease (Type III)"
+    ],
+    "answer": "B",
+    "explanations": {
+      "A": "Atopy involves IgE.",
+      "B": "During the first delivery, the RhD-negative mother was sensitized to the RhD antigen on the baby's red blood cells (RBCs) that entered her circulation. She produced anti-RhD IgG antibodies. In the second pregnancy with an RhD-positive fetus, these maternal IgG antibodies crossed the placenta and bound to the fetal RhD+ RBCs. This binding leads to the destruction of fetal RBCs by phagocytes in the fetal spleen and liver (extravascular hemolysis) and potentially complement activation. This antibody-mediated destruction of cells is a classic Type II cytotoxic hypersensitivity reaction.",
+      "C": "Delayed hypersensitivity involves T cells.",
+      "D": "Immediate hypersensitivity involves IgE.",
+      "E": "Immune complex disease involves deposition of antigen-antibody complexes."
+    }
+  },
+  {
+    "question": "A family has a history of increased susceptibility to extracellular bacteria and elevated serum IgM and IgG. Laboratory studies on an affected 12-year-old boy show near absence of complement component C4. This deficiency will most directly inhibit which process?",
+    "options": [
+      "A. Completion of the classical pathway leading to C3 activation",
+      "B. Formation of C3b for opsonization via the alternative pathway",
+      "C. Formation of C5 convertase via the alternative pathway",
+      "D. Formation of C5a for chemotaxis via the alternative pathway",
+      "E. Formation of the membrane attack complex via the alternative pathway"
+    ],
+    "answer": "A",
+    "explanations": {
+      "A": "C4 is an essential component of the classical complement pathway. It is cleaved by activated C1s into C4a and C4b. C4b then combines with C2a (formed by C1s cleavage of C2) to form the classical pathway C3 convertase (C4b2a). Without C4, this C3 convertase cannot be formed, and the classical pathway cannot proceed to cleave and activate C3.",
+      "B": "The alternative pathway can still generate C3b via its own C3 convertase (C3bBb), independent of C4.",
+      "C": "The alternative pathway C5 convertase (C3bBbC3b) can form independently of C4.",
+      "D": "C5a generation requires C5 cleavage, which can occur via the alternative pathway C5 convertase, independent of C4.",
+      "E": "Formation of the membrane attack complex (C5b-9) requires C5 cleavage, which can occur via the alternative pathway, independent of C4."
+    }
+  },
+  {
+    "question": "During an investigational study. a group of experimental animals is inoculated with bovine serum albumin (BSA) three times, 7 days apart. over a 3-week period. The last injection of BSA is mixed with keyhole limpet hemocyanin (KLH). Seven days after the last injection, animal sera are analyzed for the presence of antibodies to BSA and KLH by radial immunodiffusion. Which of the following antibodies is most likely to be present in elevated titers?",
+    "options": [
+      "A. IgG against BSA",
+      "B. IgG against BSA and IgM against KLH",
+      "C. IgG against BSA and KLH",
+      "D. IgG and IgM against BSA",
+      "E. IgM against BSA",
+      "F. IgM against BSA and IgG against KLH"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Three weeks and three injections after the beginning of the experiment, the animals will have undergone a full primary immune response fo the BSA, along with isotype-switching of those antibodies from IgM to IgG. The response to KLH at 7 days after its first injection will be a primary immune response, with anti-KLH IgM predominating. IgM is always the first antibody produced in response to any antigen, and IgG is the most common secondary immune response antibody unless a mucosal surface is involved, in which case IgA might predominate in the secondary and all subsequent responses. IgG against BSA (choice A) will certainly be present in these animals due to the multiple repeated inoculations over a 3-week period, but the animals will also be making a primary immune response (IgM) to the first injection of KLH. IgG against BSA and KLH (choice C) is not correct, since 7 days after the first injection of KLH a primary immune response will just be beginning. It is not possible for the isotype switch of anti-KLH antibodies to have occurred at this time. However, IgG against BSA will be found. IgG and IgM against BSA (choice D) is a possible but incomplete answer. There should be low-level production of IgM against BSA in these animals. but since affinity maturation improves the binding strength of populations of antibodies during the burst of clonal proliferation and subsequent natural selection. it is unlikely that these antibodies will have high titers in the serum compared with those of the high-affinity IgG molecules. Furthermore, this answer does not acknowledge that a primary response against KLH would be happening in these animals at the same time. IgM against BSA (choice E) is not correct because after 3 weeks and three inoculations, the animals should have finished their primary immune response (IgM) and be well into their secondary response (IgG). IgM against BSA and IgG against KLH (choice F) is not correct and is the opposite of what would be expected. IgM is the primary immune response antibody and IgG is the secondary immune response antibody. BSA in these animals should be a secondary response (even a tertiary response) and KLH should be a primary response."
+  },
+  {
+    "question": "A 2-day-old newborn with dysmorphic facies develops a seizure. Laboratory studies of serum show glucose of 90 mg/dL, sodium of 140 mEg/L. potassium of 4.2 mEq/L, and calcium of 3.9 mg/dL. Over the next several months, the boy is admitted to the hospital twice for Candida infections and once for a viral exanthem. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Congenital rubella syndrome",
+      "B. Cytomegalovirus in utero infection",
+      "C. Trisomy 13",
+      "D. Trisomy 18",
+      "E. Velocardiofacial syndrome"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. DiGeorge syndrome, or velocardiofacial syndrome is due fo malformation of epithelial elements of the third and fourth pharyngeal pouches, leading to thymic aplasia or severe hypoplasia and sometimes absence of the parathyroids. Clinically, the condition is classified as a selective T-cell deficiency, but varying degrees of deficiency of antibody production may also be seen. Affected infants are susceptible to fungal and viral infections, and may exhibit tetany due to severe hypocalcemia. Congenital rubella syndrome (choice A) is associated with patent ductus arteriosus, pulmonary stenosis, microcephaly. cataracts, and deafness. Cytomegalovirus in utero infection (choice B) is associated with hepatosplenomegaly, thrombocytic purpura, and damage to the central nervous system and retina. Trisomy 13 (choice C) , or Patau syndrome, is associated with microphthalmia, microcephaly, polydactyly, cardiac defects, renal defects, umbilical hernia, and rocker-bottom feet. Trisomy 18 (choice D) , or Edwards syndrome, is associated with mental retardation, low-set ears, micrognathia. short neck. overlapping fingers, heart defects, kidney defects, limited hip abduction, and rocker-bottom feet."
+  },
+  {
+    "question": "A 60-year-old man with a history of alcoholism is brought to the emergency department after being found behind the neighborhood bar at 4 AM. in freezing weather. He is lethargic and has shaking chills. His temperature is 39.2°C (102.5°F), pulse is 106/min, respirations are 12/min and labored, and blood pressure is 108/62 mm Hg. Physical examination shows pallor and cold extremities. and diffuse rales are heard on auscultation of the chest. His sputum is blood-tinged and contains numerous gram-positive, alpha-hemolytic cocci. Treatment with penicillin is begun and his condition improves over the next few days. Which of the following immune effector mechanisms is most important in completely clearing this infection?",
+    "options": [
+      "A. ADCC (antibody-dependent cell-mediated cytotoxicity)",
+      "B. Cytotoxic T-cell lymphocytes",
+      "C. LAK cells",
+      "D. Natural Killer cells",
+      "E. opsonization"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. The patient has typical pneumonia caused by Streptococcus pneumoniae - One of the most efficient mechanisms for eliminating extracellular pathogenic bacteria is by opsonization and phagocytosis by phagocytes. The IgG and IgM antibodies produced in response to the organism react with the capsular structure, stimulating the activation of the classical pathway of the complement system. This pathway produces large amounts of C3b that coat the organism, enhancing the speed and efficiency of phagocytosis. ADCC (antibody-dependent cell cytotoxic cells) (choice A) are cells that find altered self cells that have been coated with antibody, and kill them. NK cells do not destroy antibody-coated bacteria, only altered self cells that are coated with antibody. Cytotoxic T lymphocytes (choice B) destroy host cells that have antigen epitopes presented in association with class | major histocompatibility complex (MHC) molecules. An example would be a virus-epitope from a virus-infected cell presented by class | molecules on the surface of the cell. LAK cells (choice C) are natural killer (NK) cells that have been activated by IL-2. They are considered to be superactivated NK cells. NK cells kill altered self cells such as tumor cells or virus-infected cells. NK cells (choice D) are cells of the innate immune system that destroy virus-infected cells or tumor cells. This does not involve antibody and it does not involve extracellular pathogens."
+  },
+  {
+    "question": "A 56-year-old woman is diagnosed with metastatic melanoma. Treatment is begun with an in vitro culture of peripheral leukocytes in the presence of TH1 cytokines, followed by reinfusion into the circulation. After 2 years of remission, the patient returns to the physician for a follow-up examination. A CT scan of the chest shows renewed tumor growth in both lungs. Treatment with the previous therapy is repeated. however, it has no effect on tumor size. Which of the following has most likely been lost from the surface of the tumor cells?",
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. HLAA B. and C",
+      "E. HLA DP, DQ, and DR"
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. Tumor-specific killer cells could describe either cytotoxic T lymphocytes (CTLs) or natural killer (NK) cells. Of the two, only the CTLs would lose their activity if a surface molecule was lost, namely major histocompatibility complex (MHC) class | antigens. NK cells would actually be stimulated by the loss of MHC class |, so they could not be the cells to which the question refers. Tumor antigens may be present in the groove of the class | MHC molecule of transformed cells. These are presented to cytotoxic CD8+ T cells, which recognize the MHC class I/peptide complex on the cell surface and kill the tumor cell. Loss of this molecule would therefore prevent the tumor cell from being killed. The MHC class | molecule is described as a two-chain structure, with one of the chains (beta-2 microglobulin) holding the other chain (alpha chain) in its needed configuration on the cell surface. In the human, class | MHC molecules are HLA-A, HLA-B, and HLA-C. The T-cell signal transduction molecule, or CD3 (choice A) is a marker on all T cells. It is not involved in antigen recognition. This molecule would not be on the surface of tumor cells unless the malignant cells themselves were T lymphocytes. The co-receptor for MHC class II molecules, or CD4 (choice B) , would not be on the surface of this tumor cell. but it would be on the surface of a helper T lymphocyte. The co-receptor for MHC class | molecules, or CD8 (choice C) would not be on the surface of this tumor cell, but it would be on the surface of a cytotoxic T lymphocyte. HLA DP, DQ, and DR are the MHC class II molecules in humans (choice E). These are not involved in killing of tumor cell targets. They present peptide fragments (derived from intracellular killing of extracellular organisms by macrophages) to CD4+ (helper) T lymphocytes."
+  },
+  {
+    "question": "During an investigational study, blood from a healthy volunteer is analyzed by flow cytometry. The relative proportion of all cells bearing surface immunoglobulin in the circulation is evaluated. Which of the following cell surface markers should be used to identify the B cells in this blood sample?",
+    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD19", "E. CD56", "F. IgM"],
+    "answer": "D",
+    "explanation": "The correct answer is D. The best markers for identification of B cells are CD19, CD20, and CD21. The CD21 molecule is a receptor for Epstein-Barr virus (EBV). The CD3 marker (choice A) is present on all T cells. This is the marker that is used to identify total T cell count in a blood sample. CD3 is the signal transduction molecule on T cells. The CD4 marker (choice B) is used to identify T-helper (TH) cells. These are the cells that recognize exogenous peptides presented on major histocompatibility complex (MHC) class II molecules by macrophages. CD4+ TH cells are also involved in cell-mediated delayed hypersensitivity, production of cytokines for stimulation of antibody production by B cells, and stimulation of macrophages. The CD8 marker (choice C) is used to identify cytotoxic T cells. These are the cells that recognize viral epitopes attached to the MHC class | molecules of a virus-infected cell. The CD56 marker (choice E) is used to identify natural Killer (NK) cells. These cells are important in innate host defense, specializing in killing virus-infected cells and tumor cells by secreting granzymes and perforins. IgM (choice F) is present on mature naive B lymphocytes along with IgD, but would not be present on any memory cells. Therefore, to receive an idea of the proportion of all immunoglobulin-bearing cells in the circulation, IgM determination would not be the best choice."
+  },
+  {
+    "question": "A 36-year-old man is brought to the emergency department because of severe skin lesions as a result of exposure to poison ivy. He says that he has experienced this numerous times in the past. One year later, he participates in a clinical immunologic study. A flow cytometric measurement of T cells shows values within the normal range. An increased serum concentration of which of the following cytokines is most likely to decrease the likelihood of a contact dermatitis in this patient?",
+    "options": [
+      "A. Gamma interferon",
+      "B. IL-2",
+      "C. IL-5",
+      "D. IL-8",
+      "E. IL-10"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. IL-10 is produced by T-helper 2 (TH2) cells and inhibits T-helper 1 (TH1) cells. Since the cytokines from TH1 cells stimulate cell-mediated immunity and delayed hypersensitivity, an increased level of IL-10 would decrease the likelihood of contact dermatitis, which is a type IV hypersensitivity reaction. Other cytokines from TH2 cells stimulate B cells to produce antibody. Gamma-interferon (choice A) from TH1 cells inhibits TH2 cells. It also activates natural killer (NK) cells and activates macrophages. This cytokine would make a contact dermatitis worse, not better. IL-2 (choice B) stimulates the TH1 subset, CD8 T cytotoxic cells, and activates NK cells. It causes cloning of the cells of cell-mediated immunity, and thus would make a contact dermatitis worse. IL-5 (choice C) is secreted by TH2 cells and promotes B-cell proliferation, IgA synthesis in the submucosa, and eosinophil production in the bone marrow. It does not have a direct effect on TH1 function. IL-8 (choice D) is produced by macrophages and is chemotactic for neutrophils. This cytokine is most important in stimulating an inflammatory reaction and in attraction of neutrophils to the site."
+  },
+  {
+    "question": "A 4-year-old boy is brought to the physician because of a large, painful boil on his left knee. He has a history of repeated infections with Candida, Staphylococcus. and Klebsiella since the age of 14 months. Flow cytometry of peripheral blood leukocytes reveals a decreased neutrophil oxidative index. Cultures of the fluid from the boil grow Staphylococcus aureus . Which of the following intracellular defense mechanisms is most likely absent in this patient?",
+    "options": [
+      "A. Defensins",
+      "B. Hydrogen peroxide",
+      "C. Hypochlorite",
+      "D. Myeloperoxidase",
+      "E. NADPH oxidase"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This child has chronic granulomatous disease (CGD), which is a genetic defect in one or more of the subunits of NADPH oxidase. Activation of this membrane-bound oxidase is the critical first step in the generation of toxic oxygen radicals within the phagolysosome. One of the products of this reaction, hydrogen peroxide, serves as the substrate for the second most important killing mechanism: myeloperoxidase acting to produce toxic halide radicals. Patients with CGD are prone to persistent infections with catalase-positive bacteria and fungi, because these organisms destroy the hydrogen peroxide that they produce metabolically, so neither of the oxygen-dependent mechanisms can function in intracellular killing during these infections. Defensins (choice A) are part of the oxygen-independent mechanisms of phagocytic killing. These make up the largest number of different antimicrobial mechanisms used by phagocytes, but there are no known disease states that result from such deficiencies. Hydrogen peroxide (choice B) is the substrate for the myeloperoxidase enzyme system. It is produced inside the cell by the activation of NADPH oxidase, but it is also produced by aerobic microorganisms as a byproduct of their metabolism. Hypochlorite (choice C) is a toxic product arising in the myeloperoxidase arm of the intracellular killing pathway when myeloperoxidase acts on hydrogen peroxide to produce toxic halide radicals. Myeloperoxidase (choice D) is an enzyme present in neutrophils that acts on hydrogen peroxide to produce toxic halide radicals such as hypochlorite."
+  },
+  {
+    "question": "A 33-year-old woman comes to the physician because of an oral ulcer. She also has fatigue, myalgia. and joint pain. Laboratory studies show leukopenia and a high titer of antinuclear antibody. Urinalysis shows proteinuria. Serum analysis by an indirect fluorescent antibody test shows a speckled staining pattern due to anti-Sm. Which of the following is most likely to additionally be present in this patient?",
+    "options": [
+      "A. Antibodies to centromeres",
+      "B. Antibodies to the glomerular basement membrane",
+      "C. Antibodies to SS-A ribonucleoprotein",
+      "D. complement-mediated lysis of blood vessels in the face",
+      "E. Epstein-Barr virus infection"
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. Systemic lupus erythematosus (SLE) is a prototype connective-tissue disease. The diagnosis requires that four out of 11 possible criteria be met: malar rash, discoid rash, photosensitivity, oral ulcers, arthritis, serositis, renal disorder, neurologic disorder, hematologic disorder, immunologic disorder, and antinuclear antibody (ANA). This patient also has anti-Sm, which is pathognomonic for SLE but is found in only 30% of the affected patients. Anti-nuclear antibodies (ANAs) are present in 95 to 100% of SLE cases; anti-double stranded DNA is found in 70% of cases. The vasculitis and rash of SLE are associated with immune complex deposition in the small-diameter blood vessels, followed by complement-mediated lysis. Antibodies to centromeres (choice A) are found in 90% of patients with limited scleroderma or CREST (calcinosis, Raynaud syndrome, esophageal dysmotility, scleroderma, telangiectasias). They would be found in less than 5% of patients with SLE. Antibodies to the glomerular basement membrane (choice B) are found in Goodpasture syndrome. This causes the linear disposition of immunoglobulin, and often C3, along the glomerular basement membrane. It results in glomerulonephritis, pulmonary hemorrhage, and occasionally idiopathic pulmonary hemosiderosis. Antibodies to SS-A ribonucleoproteins (choice C) are found in Sjogren syndrome, which is characterized by keratoconjunctivitis sicca and xerostomia. The secondary form of this disease may be associated with rheumatoid arthritis, SLE, polymyositis, scleroderma vasculitis, mixed connective tissue disease, or thyroiditis. Antibodies to core proteins of small nuclear ribonucleoprotein particles (Smith antigen) are found in 20 to 30% of SLE patients, and antibodies against SS-A ribonucleoproteins are found in 30 to 50% of patients with SLE. Epstein-Barr virus infection (choice E) has been suggested as being linked to the development of chronic fatigue syndrome (CFS). This condition, which is of unknown etiology, involves severe mental and physical exhaustion that is not relieved by rest and may be worsened by even trivial exertion. The symptoms must be present for at least 6 months and must be idiopathic. Other signs that are not included in all diagnostic criteria may be found, including muscle weakness, cognitive dysfunction, hypersensitivity, orthostatic intolerance, digestive disturbances, depression, poor immune response, and cardiac and respiratory problems."
+  },
+  {
+    "question": "A 35-year-old woman comes to the physician because of relapsing and remitting neurologic symptoms including paresthesias visual symptoms, and mild motor symptoms for the past 3 years. An MRI of the brain is shown. An increased concentration of which the following is most likely to be important in the pathogenesis of the lesions shown in the MRI?",
+    "options": [
+      "A. Immunoglobulin G",
+      "B. Immunoglobulin M",
+      "C. Interferon-gamma",
+      "D. Interleukin-10",
+      "E. Transforming growth factor-beta"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. The symptoms and MRI shown are typical of multiple sclerosis, which is a demyelinating disease of autoimmune pathology. Multiple sclerosis is characterized microscopically by plaques with a central loss of oligodendrocytes and myelin but with relative preservation of axons. The plagues are surrounded by a peripheral rim of lymphocytes and increased astrocytes. The disease appears to be initiated by CD4+ TH1 lymphocytes that react against self myelin antigens and secrete cytokines such as interferon-gamma to activate macrophages. The activated macrophages are responsible for the demyelination. The disease is therefore classified as an example of a type IV hypersensitivity disease. Immunoglobulin G (choice A) may be present near multiple sclerosis plagues but its role in demyelination is unclear. IgG may be involved in type II and type III hypersensitivities, where antibodies bind to either fixed (type II) or circulating (type III) antigens to activate complement and start inflammation. In myasthenia gravis, for example, antibodies against the acetylcholine receptor in the neuromuscular junction cause abnormal function of the motor end plate and eventual inflammatory destruction of the area. Immunoglobulin M (choice B) could be found near multiple sclerosis plagues but it is not believed to play a role in the disease. IgM production is a cause of some type III hypersensitivities, such as rheumatoid arthritis, where circulating complexes of IgM against one’s own IgG (rheumatoid factor) begin to block the small-diameter blood vessels and activate complement, ultimately resulting in inflammatory damage. Interleukin-10 (choice D) is a product of TH2 lymphocytes that inhibits the cell-mediated immune response. It is unlikely to be produced near the location of an active TH1 response such as a multiple sclerosis plague. Interleukin-10 could be produced in type II or type III hypersensitivities when antibody production is stimulated, but is not likely to be produced in a type IV hypersensitivity, which is due to activation of TH1 cells. Transforming growth factor-beta (choice E) is a product of TH2 cells that encourages B-cell isotype-switching, and is not likely to be produced near the plagues of multiple sclerosis. This cytokine could potentially be produced in cases of hypersensitivities involving antibodies (types I, II, and III) but would not be present in cell-mediated hypersensitivities such as this one."
+  },
+  {
+    "question": "During infection with HIV, which of the following best describes how CDE+ cells that are generated against the virus distinguish between an infected antigen-presenting cell (APC) and a normal one?",
+    "options": [
+      "A. Infected APCs have viral peptides in class | MHC molecules",
+      "B. Infected APCs have viral peptides in class || MHC molecules",
+      "C. Normal APCs have normal peptides in class || MHC molecules",
+      "D. Normal APCs have viral peptides in class | MHC molecules",
+      "E. Normal APCs have viral peptides in class || MHC molecules"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. Cytotoxic T cells (CD8+ cells) recognize the target they intend to kill by binding their T-cell receptor to the major histocompatibility complex (MHC) class | molecule of the target cell. Cells infected with intracellular pathogens will have peptides in the groove of MHC class | on their surface, reflecting the fact that abnormal proteins are being produced internally. If an antigen-presenting cell (APC) has ingested a cell that has died of virus infection, the viral peptides will be presented in the context of the class II MHC molecule, and this will serve as the stimulatory signal for T-helper (TH) cells to begin producing stimulatory cytokines. Thus, APCs will bear viral peptides in the context of class II MHC, whereas the infected target cell can be identified by finding viral peptides in the groove of the class | MHC. If there were not separate mechanisms for MHC molecules involved in cell-cell cooperation versus cytotoxic killing, CD8+ cells would kill the APCs necessary for 'turning on' the TH response. Infected APCs having viral peptides in class II MHC molecules (choice B) is not correct. If APCs were both infected and acting as antigen presenters, they could have viral peptides in the context of both classes of MHC molecules, but the cytotoxic T lymphocyte (CTL) identifies its target via class I/peptide combinations. Normal APCs having normal peptides in class II MHC molecules (choice C) is not correct. Uninfected APCs will have the groove of class II MHC molecules loaded with peptides from materials they have digested previously. Materials presented in the class II groove are not targets for cytotoxic killing by T cells. Normal APCs having viral peptides in class | MHC molecules (choice D) is not correct. Only infected APCs will have viral peptides in the class | MHC groove. Normal APCs having viral peptides in class II MHC molecules (choice E) is true, but this will not serve as the signal for CTL targeting. Any uninfected APC that has digested a virus-infected cell may express viral peptides in the class II molecule, but this serves as the stimulus for TH cells, not CTLs, to become activated."
+  },
+  {
+    "question": "A 5-year-old boy is brought to the emergency department because of a severe reaction to a bee sting. His right hand and arm are very swollen and itchy. Which of the following substances is most likely responsible for this patient's symptoms?",
+    "options": [
+      "A. Anaphylatoxins",
+      "B. Eosinophil chemotactic factor-A",
+      "C. Histamine",
+      "D. Interleukin-4",
+      "E. Interleukin-8"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. This child is suffering from the results of mast cell degranulation in response to histamine. Histamine, heparin, and eosinophil-chemotactic factor-A are found in preformed mast cell granules. These granules are released in response to physical injury, heat, cold, type | hypersensitivity reactions, C3a and C5a anaphylatoxins, proteins released from leukocytes, substance P, and melitin found in bee venom. In the present case, the direct degranulation of mast cells by melitin and subsequent release of histamine is the most direct cause of the boy's symptoms. Histamine is the principal mediator of the immediate transient phase of increased permeability of venules in acute inflammation, an effect mediated by H1 histamine receptors. Anaphylatoxins (choice A), another name for the complement components C3a and C5a, are substances produced in areas of acute inflammation that cause mast cell degranulation. Although they would contribute to these symptoms, they are not likely to be the most direct cause in the present case. Eosinophil chemotactic factor-A (choice B) is actually multiple substances that are preformed in mast cells and would be released in the area of this bee sting. They are not the most direct cause of this boy's symptoms. The attraction of eosinophils into areas of mast cell degranulation is important in cases in which the pathogen is a helminth, since eosinophils contain major basic protein, which is damaging to the cuticles of most helminths. Interleukin (IL)-4 (choice D) is produced by TH2 cells and is involved in causing isotype-switching in B lymphocytes to the production of IgE. Although IgE is an important cause of mast cell degranulation in type | hypersensitivities, it would be produced in the sensitization phase of a type | hypersensitivity, not in the actual symptomatic phase. IL-8 (choice E) is a product of macrophages and can cause mast cell degranulation, but it is not likely to be the most direct cause in this case."
+  },
+  {
+    "question": "A 28-year-old man is brought into court for nonpayment of child support. His ex-wife states that he is the father of her child, although he denies it. The court orders genetic tests, including one for genetic immunoglobulin identification of the mother, father, and child. Which of the following immunoglobulin markers is likely to be most useful in this paternity case?",
+    "options": ["A. Allotype", "B. Idiotype", "C. Isotype", "D. Subisotype"],
+    "answer": "A",
+    "explanation": "The correct answer is A. Allotypes are genetically inherited markers (amino acid sequence differences) that occur within the constant domains of both heavy and light chains of immunoglobulin molecules. They reflect the paternity of the individual, and are similar in concept to the ABO blood group alloantigens: they do not affect the function of the cell that bears them, but simply reflect patterns of inheritance. These are distinctive markers that, when present, can be helpful in paternity cases. If this man had these markers and the child had the same markers, then this would be presumptive evidence that the man is the child's biologic father. Other genetic tests would also performed in this case, because if the mother and father happened to have the same markers, then the findings could be nonconclusive. Idiotypes (choice B) are the antigen-recognition portions of the immunoglobulin molecule that are unique for specific antigens to which we have been exposed. Since every antibody molecule has a different idiotype (antigenic specificity) unless it has been made by a clone of cells, these would not be useful in determining paternity. The isotypes (choice C) are the five major classes of immunoglobulin: IgG, IgA, IgM, IgD, and IgE. They are distinct from one another based on amino acid sequences in the constant domains of both heavy and light chains. Isotypes would not be helpful for a paternity case. Subisotypes (choice D) are subclasses within the isotypes of antibodies. IgG has four subisotypes and IgA has two subisotypes. They are distinguished on the basis of amino acid sequences in the constant domains of heavy chains and would not be useful in determining paternity."
+  },
+  {
+    "question": "A 54-year-old Hispanic man comes to the physician because of skin lesions. Physical examination shows several disfiguring lesions on the face. and there is loss of cutaneous sensation for light touch, pain, and temperature. Histologic examination of the lesions shows multinucleated giant cells. Which of the following is most likely to be found on the surface of these cells?",
+    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD20", "F. CD56"],
+    "answer": "D",
+    "explanation": "The correct answer is D. The disease in question is leprosy, or Hansen disease. Mycobacterium leprae has a predilection for the skin and cutaneous nerves, thereby producing the symptoms of depigmentation and anesthetic cutaneous lesions. This loss of peripheral nerve function leads to many of the disfiguring features of the disease: because the patients do not have normal pain sensation, they sustain repeated injuries. In addition, the organism attacks cartilage and causes granuloma formation in the skin, leading to some of the facial damage. The multinucleated giant cells that form in leprosy are modified macrophages or epithelioid cells. They possess CD14, the endotoxin receptor on their cell surface as well as CD16, the Fc receptor for the Fc tail of immunoglobulin G. CD3 (choice A) is the signal transduction complex molecule in T lymphocytes. Although T cells would be found in the granulomatous lesions of tuberculoid leprosy, these are not the cells that become multinucleated giant cells in these areas. CD4 (choice B) is the specific marker on the surface of T-helper lymphocytes. It would not be found on the multinucleated giant cells found in leprosy. CD8 (choice C) is the specific marker on the surface of cytotoxic T lymphocytes. These are not the cells that fuse together in the lesions of leprosy. CD20 (choice E) is part of the signal transduction complex in B lymphocytes. It would not be found on the surface of modified macrophages. CD56 (choice F) is one of two markers used to identify natural killer (NK) cells in tissues. The other marker on NK cells is CD16, the Fc receptor, by which NK cells carry out antibody-dependent, cell-mediated cytotoxicity. NK cells do not fuse together to form multinucleated giant cells in leprosy."
+  },
+  {
+    "question": "A newborn who is born at 39 weeks' gestation is delivered by a woman whose family has a history of birth defects. Chromosomal analysis of fetal cells fails to show any abnormalities. Immediately at birth, cells are extracted from the umbilical cord and sent for flow cytometric analysis. The analysis shows a population of cells that are both CD4+ and CD8+. These cells are most likely to be which of the following?",
+    "options": [
+      "A. Helper T cells",
+      "B. Immature B cells",
+      "C. Immature T cells",
+      "D. Plasma cells",
+      "E. Suppressor T cells"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. CD4 and CD8 are both markers for T cells, and mature T cells express one or the other but not both. However, some of the immature T cells in the thymus (which can 'leak' into the baby's blood in small numbers) coexpress these markers before the cells have 'committed' to being either helper T (TH) or cytotoxic T cells. In adults, significant numbers of cells coexpressing CD4 and CD8 usually implies the existence of a non-Hodgkin lymphoma with a cell population similar to immature T cells. Normally, T-cell precursors entering the thymus are double-positive for CD4 and CD8. During thymic selection, cells that recognize major histocompatibility complex (MHC) class II become CD4-positive only and differentiate into TH lymphocytes, whereas cells that recognize MHC class | become CD8-positive only and differentiate into cytotoxic T lymphocytes. Helper T cells (choice A) are CD4+ and CD8-. Suppressor T cells (choice E) are CD4- and CD8+. Immature B cells (choice B) and plasma cells (choice D) are both CD4- and CD8-, since these are T-cell markers."
+  },
+  {
+    "question": "A 4-year-old boy is brought to the physician because of a sore throat, cough, and nasal congestion. His mother says that he has suffered from recurrent bacterial infections since he was 6 months old. Laboratory and genetic studies show that this patient has an inherited defect in one of the genes encoding a component of NADPH oxidase. A defect of which of the following processes is most likely responsible for the deficient leukocyte defense against microbes in this patient?",
+    "options": [
+      "A. Adhesion and transmigration",
+      "B. Chemotaxis",
+      "C. Generation of H2O2",
+      "D. Production of HOCI",
+      "E. Transfer of lysosomal enzymes to phagosomes"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. Phagocytosis is followed by rapid activation of oxygen-dependent enzymatic reactions referred to as the oxidative burst, which leads to generation of reactive oxygen radicals capable of killing bacteria. NADPH oxidase plays a fundamental role in the oxidative burst. NADPH oxidase is a multiprotein complex that oxidizes NADPH, producing superoxide anions (·O2−) from molecular oxygen. Superoxide anions then convert to H2O2 by spontaneous dismutation. Hydrogen peroxide serves as the substrate for myeloperoxidase, which then acts to produce toxic halide radicals. This child has chronic granulomatous disease, a group of congenital disorders characterized by defective bacterial killing and chronic predisposition to infections with catalase-positive microbes. Patients with CGD are prone to persistent infections with catalase-positive bacteria and fungi, because these organisms destroy the hydrogen peroxide that they produce metabolically, so neither of the oxygen-dependent mechanisms can function in intracellular killing during these infections. Other conditions due to defective leukocyte functions include genetic deficiencies in leukocyte adhesion molecules (leukocyte adhesion deficiencies 1 and 2; LAD1 and LAD2), which impair leukocyte adhesion and transmigration (choice A), leading to recurrent infections and defective wound healing. LAD1 is due to genetic alterations in the beta chain of the integrin. LAD2 is due to absence of sialyl-Lewis X, a carbohydrate that binds selectins expressed on activated endothelium. Chemotaxis (choice B) is impaired in a number of acquired conditions, including diabetes mellitus, malignancy, thermal injury, and sepsis. Myeloperoxidase (MPO) deficiency is a genetic condition characterized by absence of MPO and deficient production of HOCI (choice D). Myeloperoxidase converts H2O2 to HOCI in the presence of Cl−. HOCI is one of the most powerful bactericidal agents, killing bacteria by halogenation and oxidation of macromolecules. Patients with MPO deficiency tend not to be symptomatic unless they have a simultaneous inability to generate NADPH oxidase. Chediak-Higashi syndrome is an autosomal recessive disease characterized by a deficiency in the transfer of lysosomal enzymes into phagosomes (choice E). This defect also affects melanocytes, nerve cells, and platelets, resulting in a peculiar constellation of clinical features, i.e., susceptibility to infections, albinism, nerve deficits, and a bleeding diathesis."
+  },
+  {
+    "question": "A 56-year-old homeless man is brought to the emergency department after being found unconscious on the street. One hour after arrival, he dies despite appropriate lifesaving measures. An autopsy shows small, scattered nodules within the apex of the right lung. Histologic examination shows these nodules to be composed of collections of large epithelioid macrophages and multinucleated giant cells, surrounded by lymphocytes and fibroblasts. Caseating necrosis is seen in some of these lesions. and acid-fast bacilli are seen with appropriate staining. Which of the following mediators is most likely responsible for the development of epithelioid macrophages and multinucleated giant cells in this patient?",
+    "options": [
+      "A. Interferon-gamma",
+      "B. Interleukin-1",
+      "C. Interleukin-2",
+      "D. Nitric oxide",
+      "E. Tumor necrosis factor-alpha"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. The patient had tuberculosis, and the lesions described here are granulomas, more specifically, they are caseating granulomas due to mycobacterial infection. Granulomatous inflammation is a specialized, immune-mediated form of chronic inflammation resulting from complex interactions between the cells involved in cell-mediated immunity, including TH1 lymphocytes and macrophages. The ultimate effect is the development of activated macrophages, which acquire an epithelial-like appearance (epithelioid macrophages) and may fuse to form multinucleated giant cells. This process begins with the uptake of foreign antigens by macrophages, which process and present them to helper T lymphocytes. T lymphocytes activate macrophages through interferon (IFN)-gamma and they become epithelioid and multinucleated giant cells. Epithelioid macrophages secrete interleukin-1 (choice B) and tumor necrosis factor (TNF)-alpha (choice E), which increase leukocyte recruitment locally and mediate the systemic acute-phase responses (e.g., fever, malaise). Macrophages release a large number of inflammatory mediators that are responsible for tissue damage, necrosis of parenchymal cells, and subsequent reparative fibrosis. However, the question asks which mediator causes the production of epithelioid macrophages, not which cytokines epithelioid macrophages produce. Interleukin-2 (choice C) is a product of TH cells, which stimulate cell proliferation. Macrophages are end-cells that are incapable of proliferation, thus they would not be affected by IL-2 production. Macrophages also produce nitric oxide (NO) (choice D), which plays an important role in microbial killing but may also result in tissue damage through generation of NO-related free radicals. Again, the question asks which mediator causes the production of epithelioid macrophages, not which products epithelioid macrophages produce."
+  },
+  {
+    "question": "A 24-year-old man is found to be HIV-positive after a sexual encounter with a prostitute. He states that he did not have any symptoms during the period immediately after the encounter. During the asymptomatic phase of this infection, the virus is found in association with which of the following?",
+    "options": [
+      "A. B lymphocytes",
+      "B. Follicular dendritic cells",
+      "C. Ganglion cells",
+      "D. Oligodendrocytes",
+      "E. Peripheral nerves"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Follicular dendritic cells in the germinal centers of lymph nodes are important reservoirs of HIV. Although some follicular dendritic cells are infected with HIV, most viral particles are found on the surface of their dendritic processes. Follicular dendritic cells have receptors to the Fc portion of immunoglobulins that serve to trap HIV virions coated with anti-HIV antibodies. These coated HIV particles retain the ability to infect CD4+ T cells as they traverse the dendritic cells. B lymphocytes (choice A) have a surface marker (CD21 protein, a complement receptor) to which an Epstein-Barr envelope glycoprotein can bind. The virus associates with the host DNA, producing a latent infection. These cells may undergo polyclonal activation and proliferation, resulting in lymphadenopathy and splenomegaly. Herpes simplex virus (HSV) type 1 primarily affects the mouth and lips, causing 'cold sores'. It resides in the trigeminal ganglion and remains latent until reactivated. HSV type 2 primarily infects the genitals. Both types can infect the ganglion cells (choice C) in the CNS, causing a fatal encephalitis. Oligodendrocytes (choice D) are centrally affected by two viruses: JC virus (a polyomavirus) and measles virus. JC virus causes progressive multifocal leukoencephalopathy (PML). Measles virus produces a persistent, nonproductive infection of the CNS, leading to subacute sclerosing panencephalitis (SSPE). Peripheral nerves (choice E) are affected by HIV virus in the AIDS-associated distal sensory polyneuropathy. This disease is characterized by subacute onset of proximal muscle weakness, sometimes with pain, and elevated levels of creatine kinase. The muscles and nerves are infiltrated with mononuclear cells, including HIV-positive macrophages."
+  },
+  {
+    "question": "A 27-year-old woman is brought to the physician because of a pruritic, linear, vesicular rash on her leg. The rash developed 2 days after she returned from a hiking trip. She says that it began as a swollen. erythematous streak that developed into extremely itchy blisters and that she has experienced similar episodes in the past. Which of the following mechanisms is most likely responsible for the development of this rash in this patient?",
+    "options": [
+      "A. Antigen-antibody complexes formed in the circulation and deposited in the tissue",
+      "B. Cytotoxic antibodies against cell surface antigens",
+      "C. IgE antibody-mediated basophil degranulation",
+      "D. Release of histamine from mast cells",
+      "E. Release of interferon-gamma from activated TH1 cells"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This woman most likely has been exposed to poison ivy, which caused a contact, type IV cell-mediated sensitivity response to urishiol, an oil found in poison ivy. Contact with this oil leads to a reaction that appears as a linear, streak-like rash in sensitized individuals. Redness, swelling, and pruritic blisters occur at the sites of contact. Sensitivity usually develops after the first contact with poison ivy, and the reaction described typically occurs after subsequent exposures. Antigenic activation of TH1 lymphocytes causes the production of interferon-gamma, which stimulates macrophages and cytotoxic T lymphocytes to destroy the oil-coated cells. This reaction does not require the formation of antibodies. Antigen-antibody complexes formed in the circulation and deposited in the tissue (choice A) underlie type III hypersensitivity reactions. Diseases mediated by this type of hypersensitivity include systemic lupus erythematosus and poststreptococcal glomerulonephritis. Cytotoxic antibodies against cell surface antigens (choice B) produce type II hypersensitivity reactions. Diseases mediated by this type of hypersensitivity include autoimmune hemolytic anemia, pemphigoid, pemphigus, and Goodpasture disease. IgE antibody-mediated basophil degranulation (choice C) and the release of histamine from mast cells (choice D) are the mechanisms responsible for type | immediate hypersensitivity reactions. IgE antibodies are formed in response to exposure to a specific antigen. Re-exposure to that antigen results in the cross-linking of the IgE molecules on the surface of mast cells and basophils, and subsequent degranulation to release mediators that cause the classic manifestations of type | hypersensitivity reactions. Examples are hives, hay fever, and anaphylactic reactions."
+  },
+  {
+    "question": "A 35-year-old man comes to the physician because of recurrent infections. He has a history of infections with Streptococcus pneumoniae , Klebsiella pneumoniae , and Pseudomonas aeruginosa that have occurred over the past 6 months. Laboratory studies show total immunoglobulin levels greater than 900 mg/dL and decreased C3 levels. To which of the following does this patient have an increased susceptibility?",
+    "options": [
+      "A. Human immunodeficiency virus-1",
+      "B. Measles virus",
+      "C. Mycobacterium avium-intracellulare",
+      "D. Type lll hypersensitivity",
+      "E. Type IV hypersensitivity"
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. Individuals with C3 deficiency have an increased susceptibility to immune complex diseases (type III hypersensitivity). The most important functions of C3 are removing immune complexes from the bloodstream and enhancing opsonization. Type III hypersensitivity reactions result from immune complexes of self or foreign antigens bound to an antibody; these will activate complement, leading to tissue damage. Examples of type III hypersensitivity reactions include rheumatoid arthritis, systemic lupus erythematosus, and poststreptococcal glomerulonephritis. Human immunodeficiency virus-1 (choice A), which is the cause of acquired immunodeficiency syndrome (AIDS), is an intracellular pathogen that depends on the activation of TH1 cells and their cytokines for a protective immune response. A patient with C3 deficiency would not be expected to be any more susceptible to an intracellular pathogen such as this one than the population at large would be. Measles (choice B) is caused by rubeola virus, which is an intracellular pathogen and would not be affected by deficiencies in complement. Mycobacterium avium-intracellulare (choice C) is an intracellular bacterium that infects phagocytic cells. It is controlled by a cell-mediated response, not a complement-mediated response. Type IV hypersensitivity (choice E) is a disease that depends on the action of TH1 cells, macrophages, and cytotoxic T lymphocytes. It does not depend on the presence of antibody and complement."
+  },
+  {
+    "question": "A 7-year-old girl is brought to the physician because of a sore and inflamed left foot after stepping on a nail. During the early stages of infection, leukocytes leave the circulation to enter the damaged tissues following a concentration gradient. Which of the following molecules are most important in this process?",
+    "options": [
+      "A. C5a and IL-8",
+      "B. IL-1 and tumor necrosis factor",
+      "C. LTC4 and LTD4",
+      "D. PGI2 and PGD2",
+      "E. Thromboxane and platelet-activating factor"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. The most important chemotactic factors for neutrophils are the complement factor C5a and the interleukin IL-8. The cytokines IL-1 and TNF (choice B) are products of activated macrophages and endothelial cells, among others. They have multiple, often similar actions, including stimulation of production of many acute-phase reactants, stimulations of fibroblasts, and stimulation of endothelial expression of adhesion molecules. Leukotrienes LTC4 and LTD4 (choice C) cause increased vascular permeability. Prostaglandins PGI2 and PGD2 (choice D) mediate vasodilation and pain. Thromboxane and Platelet activating factor (choice E) promote vasoconstriction and platelet aggregation."
+  },
+  {
+    "question": "An 18-year-old man is brought to the emergency department by his parents because of a severe headache and a high fever. The patient is incoherent. Physical examination shows nuchal rigidity. Examination of cerebrospinal fluid (CSF) shows gram-negative diplococci. A review of the patient's records shows that he has had five previous episodes of infection with this pathogen, the earliest being at age 6 years. Which of the following is most likely impaired in this patient?",
+    "options": [
+      "A. B cells",
+      "B. Complement factors",
+      "C. Eosinophils",
+      "D. Neutrophils",
+      "E. T cells"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. A wide variety of defects related to complement can occur and can produce immunodeficiency. The pattern of recurrent Neisseria (gram-negative diplococcus) infections described here is typical of deficiency of complement factors C6, C7, or C8. Other complement deficiencies produce the following patterns: Deficiency of C1q produces a combined immunodeficiency with a systemic lupus erythematosus (SLE)-like syndrome. Deficiency of C1rs, C1s, C4, or C2 produces an SLE-like syndrome and glomerulonephritis. Deficiencies of C3 or C3b produce a tendency to pyogenic infections. No disease has yet been associated with C9 deficiency. B-cell deficiencies (choice A) occur in a number of conditions and tend, in general, to be associated with an increased susceptibility to extracellular organisms. Eosinophil deficiency (choice C) is not a usual cause of immunodeficiency, but it would impair the normal protective response against parasites. Neutrophil abnormalities (choice D) are associated with increased susceptibility to extracellular microorganisms. T-cell deficiencies (choice E) may present as severe combined immunodeficiencies or with infections with opportunistic organisms such as Candida, Pneumocystis, or Cytomegalovirus."
+  },
+  {
+    "question": "A 45-year-old man comes to the physician because of headaches, nausea. and vomiting for the past week. He has a history of dilated cardiomyopathy and underwent a heart transplant 1 year ago. An MRI scan of the head is shown. Which of the following is most likely deficient in this patient?",
+    "options": [
+      "A. Complement",
+      "B. Immunoglobulin A",
+      "C. Immunoglobulin E",
+      "D. Immunoglobulin G",
+      "E. T-helper 1 cells",
+      "F. T-helper 2 cells"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This man, immunosuppressed to prevent rejection of his transplanted heart, has developed cerebral toxoplasmosis as evidenced by the multiple ring-enhancing lesions seen on MRI. This is a common occurrence in the immunocompromised, since Toxoplasma gondii is so common worldwide. It is estimated that up to 70% of the population of the United States is seropositive, so reactivation of cysts held in latency by a normal immune response becomes commonplace as the immune response declines. Toxoplasma is an intracellular protozoan parasite in the human. Cats act as the definitive host of the parasite and shed infectious forms in their feces. Intracellular pathogens are best controlled by cell-mediated immune responses. These responses are orchestrated by T helper-1 (TH1) cells. The effector mechanisms include cytotoxic T lymphocytes, natural killer cells, macrophages and cells capable of mounting antibody-dependent cell-mediated cytotoxicity (ADCC). Complement (choice A) is a set of serum proteins that act to opsonize or lyse microbes in a cascading fashion to culminate in the production of a membrane attack complex that will lyse whatever particle has started the cascade. Complement acts primarily against extracellular agents, as it is not active against intracellular microbes. Immunoglobulin A (choice B) is the immunoglobulin found on the mucosal surfaces. Although Toxoplasma organisms are ingested across a mucosal surface, within the human, they exist as intracellular cysts. Intracellular organisms are not affected by the presence of IgA. IgE (choice C) is an immunoglobulin that can mediate ADCC against parasites, but it is elicited against helminth parasites and not intracellular protozoa such as Toxoplasma. IgG (choice D) is the most abundant antibody in the serum, but antibodies do not play a role in protection against intracellular organisms. TH2 cells (choice F) are important in humoral immunity, but do not usually play important roles against intracellular pathogens."
+  },
+  {
+    "question": "A 12-year-old girl is brought to the physician because of a skin abscess. Cultures of the discharge from the abscess grow Staphylococcus aureus . The patient's mother says that over the past year, the girl has had several similar abscesses as well as two episodes of aspergillosis. Which of the following best explains this patient's repeated infections?",
+    "options": [
+      "A. Defective chemotactic response",
+      "B. Defective NADPH oxidase",
+      "C. Deficiency of C5",
+      "D. IgA deficiency",
+      "E. Thymic hypoplasia"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. A history of recurrent infection with Staphylococcus aureus and Aspergillus sp. suggests a diagnosis of chronic granulomatous disease (CGD), which is caused by a deficiency of NADPH oxidase inside phagocytic cells. In the absence of NADPH oxidase, phagocytes cannot generate toxic oxygen metabolites in the phagolysosome, and patients become susceptible to catalase-positive infections, particularly those caused by S aureus, Aspergillus sp., Nocardia, Salmonella, and Candida. The reason these patients have difficulties with catalase-positive microbes is that catalase production will destroy any hydrogen peroxide created during the metabolism of aerobic bacteria. Hydrogen peroxide is the substrate for myeloperoxidase (the second oxygen-dependent intracellular killing mechanism). Catalase-mediated destruction of hydrogen peroxide in a CGD patient will therefore eliminate the function of both oxygen-dependent mechanisms. In about 2/3 of patients the inheritance is X-linked and so the disease usually affects males, but the remainder of cases are autosomal recessive and can occur in females. Defective chemotactic responses (choice A) are seen in diseases such as alcoholism and diabetes mellitus. Defective chemotaxis would lead to increased susceptibility to a broad range of pathogens, and not just the catalase-positive ones listed in this case. Deficiency of C5 (choice C), a complement component, would make patients prone to infection by gram-negative bacteria, especially Neisseria species. IgA deficiency (choice D) represents the most common primary immunodeficiency and would present with an increased predisposition to autoimmune diseases, infections, and atopy. Thymic hypoplasia (choice E) is caused by defective development of the third and fourth pharyngeal pouches, leading to decreased T-cell levels and making patients more prone to viral and fungal infections. Patients may also exhibit hypocalcemia and other signs of parathyroid insufficiency."
+  },
+  {
+    "question": "A 39-year-old man develops scrotal inflammation, itching, localized scrotal swelling, and tenderness of his inguinal lymph nodes 4 months after returning from a trip to Africa. A blood smear is positive for microfilariae. Which of the following immune mechanisms does the body use against the most likely causal organism?",
+    "options": [
+      "A. Antibodies binding to cells or tissues and causing death of the cells or tissues",
+      "B. Antibodies binding to cells or tissues and changing the function of the tissue",
+      "C. IgE-mediated degranulation of mast cells and basophils",
+      "D. Immune complex deposition in tissues",
+      "E. T cell-mediated activation of macrophages"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. This patient is infected with a filarial parasite such as Wuchereria or Brugia. Filarial parasites have a complex life cycle, beginning with transmission by mosquitoes or other arthropods. The adult worms elicit an inflammatory reaction in the lymphatics, eventually leading to lymphatic obstruction and edema. Microfilariae produced by the adults circulate in the bloodstream until they are ingested by the arthropod vector and develop over 1 to 2 weeks into new infective larvae. The body reacts to tissue parasites, such as filarial worms, by coating them with a thin layer of IgE molecules, which triggers eosinophil-mediated cytotoxicity and the release of vasoactive and spasmogenic substances from mast cells and basophils (local anaphylaxis, a form of type | hypersensitivity). Antibodies binding to cells or tissues and causing death of the cells or tissues (choice A) is a cytotoxic type II hypersensitivity reaction. Transfusion reactions due to mismatched blood are an example. Antibodies binding to cells or tissues and changing the function of the tissue (choice B) is a type II non-cytotoxic hypersensitivity reaction. Graves disease and myasthenia gravis are examples. Immune complex deposition in tissues (choice D) is an example of a type III hypersensitivity. It usually takes the form of vasculitis secondary to deposition of circulating antigen-antibody complexes. The Arthus reaction is a specific variant of these reactions in which local vasculitis leads to tissue injury and necrosis, often in the skin. T cell activation of macrophages (choice E) is a delayed type IV hypersensitivity reaction. The reaction is common with facultative intracellular pathogens such as Mycobacterium tuberculosis and Listeria monocytogenes."
+  },
+  {
+    "question": "A 24-year-old woman who is a veterinary student comes to the physician because of itching. burning eyes, and sinus irritation. An intradermal test for response to allergens is performed and shows moderate hypersensitivity to cat and dog dander. The physician explains that desensitization therapy can potentially help control these symptoms. In this type of therapy. which of the following will most likely prevent the allergen from reacting with a specific IgE molecule present on mast cell membranes?",
+    "options": [
+      "A. Antihistamine",
+      "B. Blocking antibody",
+      "C. Cromelyn sodium",
+      "D. Epinephrine",
+      "E. Theophylline"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Blocking antibody is generally an IgG antibody against the allergen. It is induced in the allergic patient by administering small amounts of allergen over a period of time. When the person is again exposed to the allergen, the IgG reacts with the allergen before it can reach the IgE-coated mast cell. Antihistamines (choice A) would block histamine receptors but would not react with the allergen before it could reach the IgE-coated mast cell. Cromolyn sodium (choice C) is a drug that stabilizes mast cell membranes, thus inhibiting degranulation, but would have no effect on allergen binding to IgE on mast cells. Epinephrine (choice D) is the mainstay of therapy in severe cases of immediate hypersensitivity (anaphylaxis). It increases intracellular cyclic AMP (cAMP), thus decreasing mast cell degranulation, and causes smooth-muscle dilation in the airways. Epinephrine would have no effect on the binding of the allergen to IgE on mast cells. cAMP is degraded in cells by the enzyme phosphodiesterase. Theophylline (choice E) inhibits this enzyme, thereby increasing mast cell cAMP levels and making degranulation less likely without affecting the binding of the allergen to IgE on mast cells."
+  },
+  {
+    "question": "A 24-year-old man comes to the physician because of itching on his arms and face. Physical examination shows well circumscribed wheals with raised. erythematous borders and blanched centers. Which of the following forms of hypersensitivity is this patient most likely exhibiting?",
+    "options": [
+      "A. Antibody-dependent, cell-mediated cytotoxicity",
+      "B. Type | hypersensitivity",
+      "C. Type Il hypersensitivity",
+      "D. Type lll hypersensitivity",
+      "E. Type IV hypersensitivity"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Urticaria (hives), which this patient has, is a good example of a local anaphylactic reaction, which is classified as a type | hypersensitivity reaction. Type | hypersensitivity reactions involve preformed IgE antibody bound to mast cells or basophils, which then release vasoactive and spasmogenic substances when they react with the allergen. Antibody-dependent, cell-mediated cytotoxicity (choice A) occurs when antibodies bound to the Fc receptors of various cells (monocytes, macrophages, natural killer cells, neutrophils, and eosinophils) target cells, tissues, or pathogens for destruction. It is not involved in the production of urticaria. Type II hypersensitivity (choice C) is caused by autoantibodies against cells or tissues. When these antibodies activate complement or promote phagocytosis, the tissue is damaged. Type III hypersensitivity (choice D) is caused by immune complex deposition in the small diameter blood vessels and the subsequent activation of complement and destruction of the vasculature. The tuberculin (PPD) reaction, used to test for tuberculosis exposure, is an example of delayed-type, or type IV, hypersensitivity (choice E). This response involves TH1 cells and the effector cells of cell-mediated immunity and requires 48 to 72 hours after a second and subsequent exposure to elicit maximum expression."
+  },
+  {
+    "question": "A 44-year-old woman comes to the physician because of difficulty swallowing, calcifying subcutaneous lesions. and diminished circulation to the hands. Physical examination shows markedly thickened, shiny skin on the fingers and hands. Which of the following autoantibodies is most likely to be present in this patient?",
+    "options": [
+      "A. Anticentromere antibody",
+      "B. Antihistone antibody",
+      "C. Anti-SS-A",
+      "D. Anti-SS-B",
+      "E. Rheumatoid factor"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. The symptoms described in the question are classic for CREST syndrome. This condition is an example of localized scleroderma with slow progression to life-threatening complications. CREST syndrome is the combination of calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia. Anticentromere antibodies are reported in a high percentage of patients who have CREST syndrome, but only in a small percentage of pure scleroderma patients. Centromeres are the portion of the chromosome where spindle fibers attach during cell division. Antihistone antibody (choice B) is a marker for drug-induced lupus erythematosus. Drugs that can induce systemic lupus erythematosus are hydralazine, isoniazid, and procainamide. Anti-SS-A (choice C) is a marker for Sjogren syndrome, which is characterized by dry eyes and dry mouth. Anti-SS-B (choice D) is an autoantibody directed against ribonucleoproteins and is a marker for Sjogren syndrome. Rheumatoid factor (RF) (choice E) is generally an IgM autoantibody directed against the Fc portion of IgG. RF is found in 80% of patients who have rheumatoid arthritis and may also be found in low titers in patients who have chronic infections, other autoimmune diseases such as systemic lupus erythematosus and Sjogren syndrome, or chronic pulmonary, hepatic, or renal diseases."
+  },
+  {
+    "question": "A 40-year-old man is brought to the emergency department because of hemoptysis. Urinalysis shows microhematuria and red blood cell casts. A needle biopsy specimen of the kidney, examined with an indirect fluorescent antibody test. shows linear deposits along the glomerular basement membrane. Which of the following antibodies is most likely present in this patient's serum?",
+    "options": [
+      "A. Anti-double stranded DNA",
+      "B. Antiphospholipid",
+      "C. Anti-lgG Fc",
+      "D. Anti-smooth muscle",
+      "E. Anti-type IV collagen"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This patient is suffering from Goodpasture syndrome, which results from autoantibodies to type IV collagen. This results in antibodies binding to the basement membranes in the kidney and lungs, resulting in nephritis and pulmonary hemorrhage. This is an example of a type II cytotoxic hypersensitivity reaction. Anti-double stranded DNA (choice A), Anti-Sm, and ANA could be used as markers for systemic lupus erythematosus (SLE). ANA markers are the most sensitive markers for SLE, whereas anti-double stranded DNA and anti-Sm are more specific markers for SLE. Anti-double stranded DNA levels correlate with disease activity and kidney involvement in some patients who have SLE. Lupus is a type III (immune complex) hypersensitivity that may cause vascular damage from complement-mediated lysis anywhere there are small diameter blood vessels. SLE is more common in females than males and would be likely to have the additional manifestations of rash and arthritis. Antiphospholipid antibodies (choice B) are associated with clinical symptoms such as deep venous thrombosis, arterial occlusive events, and repetitive fetal loss. Anti-IgG Fc (choice C), also known as rheumatoid factor) is a marker for rheumatoid arthritis. Anti-smooth muscle antibodies (choice D) are seen in patients who have autoimmune hepatitis."
+  },
+  {
+    "question": "A 67-year-old woman with a history of ocular melanoma comes to the physician because of abdominal pain. Physical examination shows mild tenderness in the right upper abdominal quadrant. A CT scan of the abdomen shows multiple metastatic hepatic nodules. The patient had previously been treated with aggressive radiation and chemotherapy. Therapy is now begun using an in vitro treatment of her peripheral blood leukocytes. Which of the following cytokines will have the most beneficial anti-cancer effect in this patient?",
+    "options": [
+      "A. IL-1",
+      "B. IL-2",
+      "C. IL-3",
+      "D. IL-4",
+      "E. IL-5",
+      "F. IL-6"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Interleukin (IL)-2, which is produced by T-helper (TH) cells, causes activation and cloning of many categories of lymphocytes and has been used to treat various types of cancer. In this case, it would be expected to increase numbers of cytotoxic T lymphocytes and natural Killer cells, both of which may have benefit in the battle against malignant cells. IL-1 (choice A) is endogenous pyrogen. It is a product of activated macrophages and causes fever by affecting the hypothalamic temperature set-point. It would not cause a beneficial effect on cytotoxic cells if used in an in vitro culture. IL-3 (choice C) is a cytokine that enhances the production of myeloid cells in the bone marrow. It would not cause a beneficial effect on cytotoxic cells if used in an in vitro culture. IL-4 (choice D) is a product of TH2 cells that stimulates isotype-switching to IgE in B lymphocytes. It would not cause a beneficial effect on cytotoxic cells if used in an in vitro culture. IL-5 (choice E) is a product of TH2 cells that stimulates isotype-switching to IgA in B lymphocytes. It would not cause a beneficial effect on cytotoxic cells if used in an in vitro culture. IL-6 (choice F) is a second endogenous pyrogen. It is a product of activated macrophages, and plays a role in the production of the acute phase response of systemic inflammation."
+  },
+  {
+    "question": "A 70-year-old man who is a resident in a nursing home develops a fever of 39°C (102.2°F) and shortness of breath. He also has a cough productive of brown-sireaked sputum. Gram stain of sputum shows gram-positive diplococci. The patient's chest x-ray is shown. Which of the following cells will likely be most numerous in the abnormal-appearing area of this patient's lung?",
+    "options": [
+      "A. B lymphocytes",
+      "B. Eosinophils",
+      "C. Macrophages",
+      "D. neutrophils",
+      "E. T lymphocytes"
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. This man has the symptoms of a 'typical' pneumonia caused by Streptococcus pneumoniae. The chest x-ray shows consolidation of the right lower lobe. Typical pneumonia is characterized by high fever, lobar consolidation, and productive sputum. These symptoms are a result of the primary responding immune cell, the neutrophil, which enters the area, releases pyrogenic products (fever), causes innocent bystander damage to the lung (sputum), and creates abscesses (lobar consolidation). Most agents causing typical pneumonia are extracellular organisms, which possess molecules that are chemotactic for neutrophils (f-Met peptides, peptidoglycan, teichoic acids). B lymphocytes (choice A) are most frequently found in the secondary lymphoid organs (lymph nodes and spleen). They are not primarily associated with the pathology of typical pneumonia, although antibodies and complement will eventually assist in neutrophil phagocytosis of the causal organism. Eosinophils (choice B) predominate in lesions that are either parasitic or allergic in nature. Since neither of these is the case here, they would not be expected to predominate in these lesions. Macrophages (choice C) are called into areas of infection by the cytokines produced by T lymphocytes. Macrophages and T lymphocytes are responsible for the pathology in atypical pneumonias but not in the pathology of typical pneumonia, which usually does not persist long enough for the neutrophil population to be replaced by macrophages. T lymphocytes (choice E) are stimulated by presentation of antigens on the surface of antigen-presenting cells. They are thus primarily stimulated by intracellular pathogens, whose antigens are presented in the groove of the MHC class II molecule of various phagocytic cells. This reaction is responsible for the production of alveolar septa swollen with mononuclear cells, which is the primary manifestation of an atypical pneumonia."
+  },
+  {
+    "question": "A 28-year-old woman comes to the physician because of fever. chills, sweating. headache, and body aches. She states that she recently returned from a trip to Malaysia and that the symptoms have occurred every other day. despite acetaminophen and over-the-counter flu medications. Treatment with chloroquine is begun. Which of the following immune cell types is most likely able to clear the causal organism in the erythrocytic stage?",
+    "options": [
+      "A. Neutrophil",
+      "B. NK cells",
+      "C. Tc cells",
+      "D. TH1",
+      "E. TH2"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. The patient has malaria, which is caused by four species of intraerythrocytic protozoa belonging to the genus Plasmodium. The erythrocytic stage of malaria would have to be cleared by natural killer (NK) cells due to the lack of MHC molecules on red blood cells (RBCs). The most important protective mechanism in malarial infections is antibody, complement, opsonization and lysis in the spleen, but if a cell-mediated mechanism were to be effective, it would have to be the NK cell, which targets altered cells that do not express MHC class | molecules. Neutrophils (choice A) are cells that cause abscess formation against extracellular microbes. They would not be useful against pathogens with intraerythrocytic locations. Tc cells (choice C) are cytotoxic T lymphocytes that recognize MHC class I on cells infected with intracellular pathogens. They depend on recognition of MHC class I molecules on infected cells, and therefore are unable to recognize erythrocytes, which lack these molecules. TH1 cells (choice D) help promote cell-mediated immune responses that are important in the protection from intracellular pathogens. TH1 cells produce the cytokines that stimulate cytotoxic T lymphocytes, NK cells, macrophages, and the cells of antibody-mediated cellular cytotoxicity (ADCC). TH1 cells are not themselves responsible for clearing intracellular pathogens, however, and the question asks which cell would be able to clear the infection. TH2 cells (choice E) help promote the production of antibodies by B cells. TH2 cells themselves do not clear intracellular infections, although antibodies, complement, opsonization and phagocytosis play an important role in removal of infected erythrocytes from the spleen in malaria."
+  },
+  {
+    "question": "A study is conducted fo evaluate the effect of cytokine administration on the progression of multi-drug resistant tuberculosis in HIV-positive patients. A variety of cytokines produced by recombinant DNA are aerosolized and administered twice daily to a group of 20 individuals. Treatment progress is monitored by chest x-ray and sputum culture. Which of the following cytokines is likely to have the most beneficial effect on macrophage intracellular killing of the mycobacteria?",
+    "options": [
+      "A. Interferon-alpha",
+      "B. Interferon-beta",
+      "C. Interferon-gamma",
+      "D. Interleukin-2",
+      "E. Tumor necrosis factor-alpha"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. Mycobacterium tuberculosis is an intracellular pathogen that lives inside macrophages. The protective immune response to this organism depends on the stimulation of more efficient intracellular killing in phagocytic cells by the cytokines of T helper-1 (TH1) cells. Interferon (IFN)-gamma is a product of TH1 cells that acts on macrophages to enhance their microbicidal activities. IFN-alpha (choice A) is a product of leukocytes that inhibits viral replication. It is unlikely to have an effect on an intracellular bacterial infection. IFN-beta (choice B) is a product of fibroblasts that inhibits viral replication. It is unlikely to have an effect on an intracellular bacterial infection. Interleukin (IL)-2 (choice D) is a product of TH1 cells that causes proliferation (cloning) of other lymphocytes. Because the macrophage is an end cell, incapable of further replication, it would not be affected by IL-2 administration. Tumor necrosis factor (TNF)-alpha (choice E), a product of macrophages and natural killer (NK) cells, is cytotoxic for tumor cells, induces cytokine production, and causes the cachexia of chronic inflammation. It is unlikely to have a beneficial result on a bacterial infection of macrophages."
+  },
+  {
+    "question": "A 68-year-old man comes to the physician because of fatigue and night sweats. Physical examination shows generalized lymphadenopathy and hepatosplenomegaly. Laboratory studies show: Leukocyte count 13,5300/mm³, Hemaglobin 12.5 g/dL, Hematocrit 38%, Platelet count 120,000/mm³. A peripheral blood smear shows numerous smudge cells. Which of the following marker(s) is/are most likely present on the abnormal cells?",
+    "options": [
+      "A. CD3",
+      "B. CD8",
+      "C. CD14",
+      "D. CD16 and CD56",
+      "E. CD19 and CD20"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This patient most likely has chronic lymphocytic leukemia (CLL), which usually occurs in people over 50 years of age. The symptoms (which may or may not be present) and the physical findings are classic for this disorder. The peripheral smear usually shows an increased number of small, round lymphocytes, with occasional 'smudge cells' (fragile cells disrupted in the process of making a smear). The neoplastic cells have an immunophenotype somewhat like B cells, with IgM, or IgM and IgD, on their surfaces. In addition, both the tumor cells and normal B cells have CD19 and CD20 markers that aid in their identification on flow cytometry. In CLL, the tumor cells may additionally have CD5, a T-cell marker present on a small minority of normal B cells. The CD3 (choice A) marker is present on all T cells. The CD8 (choice B) marker is present on cytotoxic T lymphocytes. The CD14 (choice C) marker is used to identify macrophages. The CD16 and CD56 (choice D) markers are present on natural killer (NK) cells."
+  },
+  {
+    "question": "A 3-year-old boy is brought to the emergency department because of a skin rash and epistaxis. A review of his records shows that he has had several severe sinopulmonary infections and that his maternal uncle died of bleeding complications following a cholecystectomy. Which of the following additional findings are most likely to be seen in this patient?",
+    "options": [
+      "A. A CD4/CD8 ratio of 1.5:1",
+      "B. Cerebellar ataxia",
+      "C. Elevated platelet count and high serum IgG. IgA. and IgE levels",
+      "D. Low platelet count and low serum IgG levels",
+      "E. Low platelet count and low serum IgM levels"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This clinical scenario is typical for Wiskott-Aldrich syndrome. This is a X-linked recessive disorder presenting with the triad of thrombocytopenia, eczema, and recurrent sinopulmonary infections. Serum IgM levels are low, IgG levels are nearly normal, and IgA, and IgE levels are increased. Patients have a defective response to polysaccharide antigens, which is due to a cytoskeletal defect in T cells that inhibits their binding to B cells. A CD4/CD8 ratio of 1.5:1 (choice A) is the pattern seen in AIDS due to selective tropism of the CD4+ T-helper cell population. Cerebellar ataxia (choice B) is part of the ataxia-telangiectasia syndrome. The ataxia develops between age 2 and 5 years. The defect is associated with a DNA repair enzyme deficiency. Elevated platelet count and increased serum levels of IgG, IgA, and IgE (choice C) are not associated with a particular syndrome. Polyclonal gammopathies result in an increase in immunoglobulin of more than one class. This benign alteration is frequently seen in viral or bacterial infections. Thrombocythemia may be associated with a myeloproliferative syndrome or with a secondary reactive process. Low platelet count and low serum IgG (choice D) are not associated with any particular disorder."
+  },
+  {
+    "question": "An 18-year-old man who underwent a tonsilloadenoidectomy 2 days ago is brought to the emergency department because of a high fever, hypotension, and a diffuse desquamating erythematous rash over the palms of his hands. Which of the following TH1-produced cytokines is most likely to be increased in this patient's serum?",
+    "options": [
+      "A. IFN-gamma",
+      "B. IL-1",
+      "C. IL-4",
+      "D. IL-5",
+      "E. TNF-alpha"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. This patient is suffering from toxic shock syndrome, which resulted from growth of Staphylococcus aureus in the surgical packing associated with his tonsilloadenoidectomy. S aureus produces an exotoxin, TSST-1, which acts as a superantigen, crosslinking the T-cell receptors and major histocompatibility complex (MHC) class II antigens of unrelated T lymphocytes and macrophages (in the absence of antigen recognition), causing their polyclonal stimulation and the production of dangerous amounts of their cytokines. The cytokines that are overproduced during superantigen pathogenesis are interleukin (IL)-1, IL-6, and tumor necrosis factor (TNF)-alpha (from macrophages), and IL-2 and interferon (IFN)-gamma (from TH1 lymphocytes). IL-1 (choice B) is a product of activated macrophages, not TH1 cells, and would be elevated in toxic shock syndrome. This cytokine is also known as endogenous pyrogen and plays a major role in the development of the fever in these cases. IL-4 (choice C) is a product of TH2 lymphocytes that stimulates the differentiation of B lymphocytes in the humoral immune response. It would not be produced in large amounts in superantigen pathogenesis. IL-5 (choice D) is a product of activated macrophages and TH2 lymphocytes and would be elevated in toxic shock syndrome. This cytokine is a second pyrogen and also mediates the acute phase response. TNF-alpha (choice E) is a product of activated macrophages, not TH1 cells, and would be elevated in toxic shock syndrome. This cytokine is pyrogenic and plays a role in cancer cachexia."
+  },
+  {
+    "question": "During an investigational study. a specific antibody to complement component C3b is developed. Intravenous administration of the antibody prevents the biologic effects of C3b. Which of the following immunologic functions is most likely to be inhibited by the administration of this antibody to a patient?",
+    "options": [
+      "A. Antibody formation",
+      "B. NK cell function",
+      "C. Opsonization",
+      "D. Tc-cell activation",
+      "E. TH-cell activation"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. C3b acts as an opsonin, along with IgG, to facilitate phagocytosis. It is also critically involved in the removal of immune complexes from the blood. Phagocytes have Fc receptors (CD16), which allow them to clear immune complexes from the serum, and immune complexes also activate the complement cascade. C3b is generated in excess during the activation of the classical complement cascade. Antibody formation (choice A) would not be affected by an antibody to C3b. Antibodies are formed by B cells in the bone marrow and secreted by plasma cells in the periphery. C3b has nothing to do with this process. Natural killer (NK) cell function (choice B) is increased by TH1 cytokines, but would not be affected by C3b. Tc-cell activation (choice D) occurs via stimulation with TH1 cytokines, but not C3b. TH-cell activation (choice E) occurs via macrophage presentation of MHC class II molecules loaded with foreign peptides, followed by stimulation with interleukins 1 and 6 and tumor necrosis factor-alpha. It is not altered by C3b."
+  },
+  {
+    "question": "A 42-year-old man who recently emigrated from Nigeria is brought to the emergency department because of weight loss, night sweats. sputum production, and occasional hemoptysis for the past few months. A protein injected into the skin of the forearm shows a 15-mm indurated swelling 48 hours later. Which of the following immune effector mechanisms has most likely occurred?",
+    "options": [
+      "A. An Arthus reaction",
+      "B. Mast cell degranulation",
+      "C. Neutrophil diapedesis",
+      "D. TH1 cells have attracted macrophages",
+      "E. TH2 cells have activated B cells"
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. The tuberculin skin test is a delayed-type hypersensitivity test. This type IV hypersensitivity is a cell-mediated immune response involving CD4 T helper-1 (TH1) lymphocytes activating and attracting macrophages into the area. The most important cytokine stimulating this response is interferon-gamma, produced by TH1 cells to activate macrophages. This individual is tuberculin test-positive, and should now have cultures and a chest x-ray to confirm an active case of TB. An Arthus reaction (choice A) has not occurred. The Arthus reaction is an example of a type III (immune complex) hypersensitivity involving antibody, antigen, and complement activation. Mycobacterium tuberculosis is a facultative intracellular pathogen, and therefore requires cell-mediated, not antibody-mediated, immunity. Mast cell degranulation (choice B) has not occurred. Mast cells are involved in type | hypersensitivities, along with IgE. Antibodies are not involved in the etiology of type IV hypersensitivity. Neutrophil diapedesis (choice C) has not occurred. Although neutrophils are always the first responders to any injury, by 48 hours they would no longer be the predominant cell in this area. It is not the case that TH2 cells have activated B cells (choice E) because TH2 cells and B cells are involved in the production of the humoral immune response, and the tuberculin response is the classic demonstration of the function of the cell-mediated arm of the immune response."
+  },
+  {
+    "question": "A 15-year-old boy who recently immigrated from Africa is brought to the physician by his parents because of a fever and weight loss. Physical examination shows hepatosplenomegaly and generalized lymphadenopathy. Laboratory studies show a hemoglobin of 12.2 g/dL, hematocrit of 35%. and platelets of 125,000/mm³. A peripheral blood smear shows amastigotes in monocytes. Which of the following cytokines is most important in containing this infection?",
+    "options": [
+      "A. IFN-gamma",
+      "B. IL-2",
+      "C. IL-4",
+      "D. IL-10",
+      "E. TNF-alpha"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. The finding of amastigotes inside monocytes and macrophages in the circulation, lymph nodes, spleen, and bone marrow suggests a diagnosis of visceral leishmaniasis. Leishmania donovani is a protozoan parasite that survives inside macrophages. Therefore, the most effective immune response is cell-mediated, with stimulation of macrophage-killing mechanisms. The most important cytokines to stimulate macrophage microbicidal activity are those produced by TH1 cells, especially interferon (IFN)-gamma. Interleukin (IL)-2 (choice B) is a product of TH1 cells that causes the proliferation (cloning) of other lymphocytes. Because the macrophage is an end cell, incapable of further replication, it would not be affected by IL-2 administration. IL-4 (choice C) is a product of TH2 cells that causes the differentiation of B lymphocytes. It acts antagonistically to TH1 cells, which would mediate the protective response needed in this patient. IL-10 (choice D) is a product of TH2 cells that causes the differentiation of B lymphocytes. It inhibits TH1 cells, which would assist in the protective response needed in this patient. Tumor necrosis factor (TNF)-alpha (choice E) is a product of macrophages and natural killer (NK) cells that is cytotoxic for tumor cells, induces cytokine production, and causes the cachexia of chronic inflammation. It is unlikely to have a beneficial result on the microbicidal activity of macrophages."
+  },
+  {
+    "question": "A 5-year-old child is brought to a physician for the evaluation of a potential genetic deficiency. The parents say that she has had numerous infections and has failed to make a protective immune response after vaccination with the DTaP or MMR vaccines. Flow cytometry of a blood sample shows normal numbers of CD19+, CD16+, and CD8+ cells but a near-total absence of CD4+ cells. Which of the following molecules is most likely absent from this patient's cells?",
+    "options": [
+      "A. Gamma-delta T-cell receptor",
+      "B. Intercellular adhesion molecule-1",
+      "C. Killer inhibitory receptor",
+      "D. MHC class |",
+      "E. MHC class Il"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This child has major histocompatibility complex (MHC) class II deficiency, which causes a defect in the development of CD4+ cells in the thymus. Because there is no MHC class II, helper cells cannot be selected. However, cytotoxic cells (CD8+), which recognize MHC class | molecules, are normally produced. This condition is also known as type II bare lymphocyte syndrome, and because helper T cells are required for virtually all immune responses, it will affect the patient's ability to respond to both extra- and intracellular pathogens. The gamma-delta T-cell receptor (choice A) is present on a small proportion of T cells that do not undergo thymic selection. Their function in the body is not known, but they would not be affected by the absence of the class II MHC. Intercellular adhesion molecule-1 (choice B), found on the surface of antigen-presenting cells (APCs) in the body, reacts with LFA-1 on T cells for the purpose of cell-to-cell adhesion. Its absence would not affect the development of cells in the thymus. The killer inhibitory receptor (choice C) is one of two receptors found on the surface of natural killer (NK) cells. It inhibits the killing of an attached cell if it is bound to MHC class |. Because this child has normal levels of CD16+ (NK) cells, it is unlikely she has a deficiency of this receptor. MHC class | (choice D) is the molecule that presents peptides that have been produced intracellularly to CD8+ cytotoxic cells. If this molecule had been absent, the patient would have exhibited susceptibility to intracellular pathogens, and not both intra- and extracellular pathogens as described in this case."
+  },
+  {
+    "question": "A 7-month-old boy is brought to the physician because of a yeast infection of the diaper area that does not respond fo therapy. A review of his records shows that he has had multiple acute pyogenic infections. A leukocyte differential count shows: 70 neutrophils. 20 lymphocytes. and 10 monocytes. Circulating lymphocytes are all CD-19 positive. Which of the following is the most common cause of this patient's condition?",
+    "options": [
+      "A. Adenosine deaminase deficiency",
+      "B. Defective CD40L molecule",
+      "C. Defective IL-2 receptor",
+      "D. Inability to produce MHC-II molecules",
+      "E. Nonsense mutation of rag genes"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. Severe combined immunodeficiency (SCID) is associated with deficiencies in both B and T cells due to a defect in differentiation of an early stem cell. Over 50% of cases are caused by a gene defect on the X chromosome, resulting in a defective gamma-chain of receptors for IL-2, IL-4, IL-7, IL-9, IL-11, IL-15 and IL-21. Because of defective signaling from the IL-7 receptor, there is profound decrease in T cell numbers. B cell numbers may be near normal, but antibody synthesis is impaired in the absence of T helper cells. NK cell activity may also be diminished because of the absence of the IL-15 receptor. Adenosine deaminase deficiency (choice A) is an autosomal recessive disease characterized by a deficiency of adenosine deaminase, which results in accumulation of metabolites that are toxic to both B and T stem cells in the bone marrow. Children with severe infections usually die within the first 2 years of life unless they receive bone marrow transplants. This deficiency produces a SCID, but it is much more rare than deficiencies of IL-2 receptors. A defective CD40L molecule (choice B) causes hyper-IgM syndrome. This makes it impossible for B lymphocytes to receive the signal to switch isotypes, and they are therefore 'stuck' making IgM alone. It is not classified as a SCID. Inability to produce major histocompatibility complex (MHC)II (choice D) causes bare lymphocyte syndrome, which causes patients to be unable to produce CD4 cells. It results in a type of SCID since T-helper (TH) cells are necessary for the function of all immune responses, but is much less common than SCID due to IL-2 receptor deficiency. Nonsense mutation of rag genes (choice E) results in a SCID, because without the ability to perform VDJ recombinations, lymphocytes cannot express surface receptors for antigen, and in that case, lymphocyte precursors are induced to undergo apoptosis in the bone marrow. Recombination activating genes (rag genes) are responsible for the VDJ rearrangements that allow lymphocytes to create the idiotype of their antigen receptors. These are extremely rare conditions."
+  },
+  {
+    "question": "A 14-year-old girl is brought to the emergency department because of dyspnea. tachycardia, and diaphoresis following a bee sting. Which of the following is the first immunoglobulin produced in response to this antigen?",
+    "options": ["A. lgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "answer": "E",
+    "explanation": "The correct answer is E. The first immunoglobulin produced in response to any immunogen is always IgM. This is because of the sequential transcription of the DNA coding for the immunoglobulin isotype genes. The first constant domain that is encoded downstream in the DNA from the idiotype coding is that for IgM and then IgD. These two isotypes are produced and expressed concomitantly. It is not possible for any other immunoglobulin to be made first. The symptoms that this patient is having are the result of a type | hypersensitivity reaction, but in these reactions the IgE antibody is preformed and already bound to mast cell receptors. IgE is not made during the hypersensitivity reaction itself. IgA (choice A), IgE (choice C) and IgG (choice D) can only be produced as a secondary response, i.e., one that follows the primary IgM response. The DNA coding for the IgD (choice B) heavy chain follows that of IgM in the lymphocyte germ-line DNA. Mature, naive B lymphocytes express both IgM and IgD on their surfaces because of alternative RNA splicing, but the complete IgM molecule is always produced first."
+  },
+  {
+    "question": "A 46-year-old woman comes to the physician because of a feeling that she has \"sand in her eyes\" and difficulty swallowing foods such as crackers and toast. Examination of tissue obtained on biopsy of an enlarged salivary gland shows lymphocytic infiltration. Which of the following tests will most likely yield positive results in this patient?",
+    "options": [
+      "A. Anticentromere antibody",
+      "B. Anti-double stranded DNA antibody",
+      "C. Anti-glomerular basement membrane antibody",
+      "D. Anti-Scl-70 antibody",
+      "E. Anti-SS-A antibody"
+    ],
+    "answer": "E",
+    "explanation": "The correct answer is E. This patient has Sjogren syndrome, which is an autoimmune disease characterized by lymphocytic infiltration of exocrine glands resulting in dry mouth (xerostomia) and dry eyes (keratoconjunctivitis sicca). Patients have an increased risk of malignant lymphoma. Autoantibodies produced include anti-Ro (SS-A), anti-La (SSB), antinuclear antibodies, and rheumatoid factor. Anticentromere antibodies (choice A) are a very specific marker for CREST syndrome. Anti-Smith antibody and anti-double stranded DNA antibody (choice B) are associated with systemic lupus erythematosus. Anti-glomerular basement membrane antibodies (choice C) are seen in Goodpasture syndrome. Anti-Scl-70 antibodies (choice D) are seen in patients with scleroderma."
+  },
+  {
+    "question": "A 4-year-old boy is brought to the physician because of several \"boils\" on his arm. His mother states that on several previous occasions the boy has had similar lesions that were treated successfully with antibiotics. He does not have a history of eczema or childhood illnesses such as measles or chickenpox and he is up-to-date on all immunizations. Laboratory studies show a normal complete blood count, and normal immunoglobulin levels. B- and T-cell counts. and complement levels. The nitroblue tetrazolium test is negative. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Cytoskeletal defect",
+      "B. Defect of IL-2 receptor",
+      "C. Defect of NADPH oxidase",
+      "D. Defect of tyrosine kinase",
+      "E. Thymic aplasia"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. The fact that the boy has had several different infections with pyogenic bacteria requiring antibiotics suggests an inability of phagocytes to kill bacteria. The nitroblue tetrazolium test (NBT) for reactive oxygen intermediates was negative, indicating that the boy suffers from chronic granulomatous disease (CGD). CGD is most often due to a defect in NADPH oxidase, which is necessary for leukocyte hydrogen peroxide production. It leads to an inability to kill bacteria and fungi that are catalase-positive. A cytoskeletal defect (choice A) is the underlying lesion in Wiskott-Aldrich syndrome, which causes a triad of symptoms including eczema, thrombocytopenia, and immunodeficiency. A defect of IL-2 receptors (choice B) is the most common cause of severe combined immunodeficiency disease (SCID). Patients with SCIDs have an inability to mount any immune response, and are therefore susceptible to infections of all types. A patient with SCID would not have the normal immunoglobulin levels and T- and B-cell counts given here. A defect of tyrosine kinase (choice D) is the cause of Bruton agammaglobulinemia. It would cause a blockage of maturation of B lymphocytes, so B-cell numbers in the blood would be depressed and serum immunoglobulin levels would be minimal. These patients are susceptible to extracellular pathogens but have normal abilities to mount delayed-hypersensitivity reactions and responses to intracellular pathogens. Thymic aplasia (choice E) is observed in DiGeorge syndrome as an embryonic failure of formation of the third and fourth pharyngeal pouches. In such a case, there would be depressed numbers of T cells in the peripheral blood. This is referred to as velocardiofacial syndrome to reflect the fact that such individuals have hypocalcemic tetany (due to malformed parathyroids), malformation of the mouth and face (cleft palate and vertical elongation of the mouth), and cardiac abnormalities (persistent truncus arteriosus)."
+  },
+  {
+    "question": "A multigravid 38-year-old woman comes to the physician because of concern about her pregnancy. A review of her records shows that she is Rh-negative and her husband is Rh-positive. Both of her children are also Rh-negative. She has had two spontaneous abortions; she carried a third pregnancy to term but the child was diagnosed with erythroblastosis fetalis and died at birth. Which of the following tests will most likely show the presence of circulating anti-Rh antibody in this patient?",
+    "options": [
+      "A. Direct Coombs test to measure IgG anti-Rh antibody",
+      "B. Direct Coombs test to measure IgM anti-Rh antibody",
+      "C. Indirect Coombs test to measure IgG anti-Rh antibody",
+      "D. Indirect Coombs test to measure IgM anti-Rh antibody",
+      "E. Ouchterlony test to measure precipitating IgG anti-Rh antibody"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. The indirect Coombs test is the test of choice to detect the presence of IgG anti-Rh antibody circulating in the mother's blood. Serum is collected from the mother and mixed with Rh-positive red blood cells. If the mother is making the antibody, it will bind to the Rh-positive cells, and when Coombs serum (anti-human IgG) is then added, the erythrocytes will then agglutinate. The direct Coombs test (choice A) is used to diagnose a child at risk for development of hemolytic disease of the newborn. A sample of the child's blood is mixed with Coombs serum (anti-human IgG) and if there is agglutination, it means that the child's erythrocytes have already been coated by maternal anti-Rh antibodies. These antibodies are IgG antibodies that can cross the placenta, and not IgM antibodies (choice B) that would not be able to cause this problem. An indirect Coombs test to measure IgM anti-Rh antibody (choice D) is not available, and would not be useful, since IgM does not cross the placenta and would therefore not cause hemolytic disease of the newborn. An assay for the presence of IgM against erythrocyte antigens would be an agglutination reaction, and not a Coombs test, which requires finding antibodies that have already coated erythrocytes. The Ouchterlony test (choice E), or double-diffusion reaction, is basically used to determine if two antigens are identical, non-identical, or related. It is not the direct Coombs test for hemolytic disease of the newborn (the object is to find the presence of maternal antibodies, not antigens, on the child or in the mother)."
+  },
+  {
+    "question": "A 47-year-old man comes to the physician because of oliguria and hematuria. He has also had nasal congestion, epistaxis, occasional cough, and hemoptysis. Physical examination shows mucosal ulceration and nasal septal perforation, but no polyps are seen. Laboratory studies show a serum BUN level of 22 mg/dL and creatinine level of 2.0 mg/dL. Lung biopsy shows necrosis, vasculitis, and granulomatous inflammation. Which of the following serum markers is most likely to be present in this patient?",
+    "options": [
+      "A. Anticentromere antibody",
+      "B. Anti-Ro",
+      "C. Anti-SS-B",
+      "D. c-ANCA",
+      "E. p-ANCA"
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. This patient has Wegener granulomatosis, which is characterized by renal involvement, severe upper respiratory tract symptoms, and pulmonary involvement. Other organ systems may also be involved. The renal syndrome is a crescentic, rapidly progressive glomerulonephritis leading to renal failure. The upper respiratory tract findings include sinus pain and drainage, and purulent or bloody nasal discharge with or without nasal ulcerations. Nasal septal perforation may follow. Pulmonary involvement may be clinically silent, with only infiltrates present on x-ray, or it may present as cough and hemoptysis. ANCA stands for antineutrophil cytoplasmic antibody, and c-ANCA refers to antibody that localizes staining to the cytoplasm of neutrophils. The most common target antigen is proteinase 3 (PR-3). c-ANCA is a marker for Wegener granulomatosis, present in a high percentage of patients. Anticentromere antibody (choice A) is associated with approximately 90% of patients who have CREST syndrome (calcinosis, Raynaud phenomenon, esophageal motility syndrome, sclerodactyly, telangiectasia), which is also called limited systemic sclerosis. Anti-Ro (choice B) is also called anti-SS-A and is associated with Sjogren syndrome (70-95%). Anti-SS-B (choice C) is associated with Sjogren syndrome (60-90%). p-ANCA (choice E) refers to antineutrophil cytoplasmic antibodies that localize in a perinuclear fashion. These are usually directed against myeloperoxidase in the cell. p-ANCA antibodies can sometimes be seen in Wegener granulomatosis, but are more characteristic of Churg-Strauss syndrome, a medium to small vessel vasculitis associated with asthma and eosinophilia. It causes eosinophil-rich inflammation involving the respiratory tract and necrotizing vasculitis affecting medium to small sized vessels."
+  },
+  {
+    "question": "A 24-year-old woman comes to the physician because of a 3-day history of fever and cough productive of reddish-brown sputum. She had a splenectomy 1 year ago. A chest x-ray shows consolidation of the right lower lobe. Blood cultures grow α-hemolytic. gram-positive diplococci. Immunity to the most likely causal organism is based on which of the following?",
+    "options": [
+      "A. Alternative complement pathway",
+      "B. Antibodies to a capsule",
+      "C. Neutrophils",
+      "D. NK cells",
+      "E. Tc cells"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. This patient has pneumococcal pneumonia, which must be considered in any patient with chills, fever, chest pain, and cough productive of purulent, rust-colored sputum. Streptococcus pneumoniae is an α-hemolytic, gram-positive coccus that grows in short chains. It can easily be distinguished from other α-hemolytic streptococci because it is exquisitely sensitive to bile and bile-like compounds, such as Optochin. It is the most common cause of community-acquired pneumonia and the most common cause of community-acquired meningitis in adults older than 30 years. The only recognized virulence factor of S. pneumoniae is its carbohydrate capsule (which contains acidic polysaccharides). Antibody to a specific capsule type is necessary to overcome infection. More than 80 capsule types have been recognized. The 23 types that most commonly cause disease are contained in a vaccine that is recommended for high-risk groups, including the elderly and those undergoing splenectomy. Increased susceptibility is also found in patients with Hodgkin disease, chronic lymphocytic leukemia, and myeloma. The vaccine should still be given to patients with these conditions, but it is less protective because of diminished patient ability to mount an antibody response. The alternative complement pathway (choice A) is important in clearing Neisseria infections. Individuals with deficiencies in C5 through C8 are at increased risk of disease from Neisseria. Neutrophils (choice C) will be found in the sputum of patients with pneumococcal pneumonia, but they do not provide immunity. They are attracted to the area by N-formyl methionine peptides found in the bacteria, but have difficulty engulfing the organism due to the antiphagocytic nature of the capsule. T cells and NK cells (choices D and E) are predominantly used for the clearance of intracellular pathogens, and pneumococcal pneumonia is an extracellular pathogen."
+  },
+  {
+    "question": "A 41-year-old woman comes to the physician for a pre-employment physical examination. She says that as a child she experienced two episodes of fever, headache, and sore joints following severe sore throats. Physical examination shows no abnormalities. Which of the following sequelae of her childhood illness is most likely to develop in this patient as she grows older?",
+    "options": [
+      "A. Arthritis",
+      "B. Fibrinous pericarditis",
+      "C. Mitral valve disease",
+      "D. Myocarditis",
+      "E. Neurologic disease"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C. After an initial attack of rheumatic fever, an affected individual is at increased risk for developing recurrent rheumatic disease after each pharyngeal infection by beta-hemolytic streptococci. Any one of the manifestations of rheumatic disease can recur, but will usually resolve. The damage to the heart valves caused by rheumatic fever can lead to fibrous scarring and deformity, producing valvular dysfunction (particularly mitral stenosis) that may lead to heart failure in late adulthood. This is an example of a type II hypersensitivity reaction in which tissue-specific autoantibodies cause damage to host tissues. The inflammatory response associated with type II hypersensitivities is usually localized rather than systemic. The arthritis (choice A) produced by rheumatic fever is transitory and resolves after the attack has run its course. There are no long-term complications of the arthritis. Fibrinous pericarditis (choice B), like almost any fibrinous inflammatory response, is an acute process. Although the patient may develop some scarring of the pericardium, this is generally not sufficient to produce long-lasting consequences. Myocardial involvement (choice D) by rheumatic fever is typically seen as Aschoff bodies, collections of fibrinoid necrosis, lymphocytes, plasma cells, and histiocytes within the myocardium. When the event resolves, the Aschoff bodies will be replaced by discrete fibrous scars. No appreciable myocardial dysfunction ensues. Sydenham chorea, the neurologic manifestation of rheumatic fever, leaves no lasting neurologic effects (choice E)."
+  },
+  {
+    "question": "A 33-year-old woman is brought to the emergency department because of a deep puncture wound in her right hand. A shard of glass is removed from the patient's hand, and the wound is appropriately cleaned and treated at the time of the accident. Twelve hours later, the wound becomes inflamed and swollen despite appropriate therapy. Which of the following molecules plays an important role in producing chemotaxis of white blood cells into this area?",
+    "options": ["A. C3b", "B. C5a", "C. IgM", "D. IL-2", "E. Lysozyme"],
+    "answer": "B",
+    "explanation": "The correct answer is B. In active inflammation, the complement system has been activated and C5a is being produced. C5a is a strong chemoattractant to neutrophils and other phagocytic cells. Other chemotactic factors for neutrophils include IL-8, fibrinopeptides, leukotriene B4, and formyl methionyl peptides from bacteria. C3b (choice A) acts as an opsonin for microorganisms. When the organism is coated with C3b, it is more easily phagocytized. C3b is formed via the classical and alternative complement pathways, but it is not chemotactic for neutrophils. IgM (choice C) is the large antibody produced in the primary immune response. It is not chemotactic for neutrophils. IL-2 (choice D) is a growth-promoting interleukin that stimulates the proliferation of natural killer cells, and T-cytotoxic cells, and T-helper lymphocytes, but it is not chemotactic for neutrophils. Lysozyme (choice E) is a natural antibacterial present in tears, mucus, vaginal secretions, and other body fluids. It is active against the peptidoglycan of bacterial cell walls, splitting the backbone structure of the peptidoglycan (N-acetylglucosamine and N-acetyl muramic acid polymers). It is not chemotactic for neutrophils."
+  },
+  {
+    "question": "A 15-month-old boy is brought to the emergency department because of sore throat, rhinorrhea. fever, and productive cough. A review of his records shows that this is the seventh time over the last 6 months that the child has been brought to the emergency department because of an illness. Prior visits have been because of infections involving the skin, ear, and respiratory tract. Laboratory studies show extremely low levels of serum IgG and an absence of CD19+ cells. Which of the following genes is likely mutated or deficient in this patient?",
+    "options": [
+      "A. Adenosine deaminase",
+      "B. Bruton tyrosine kinase",
+      "C. CD18",
+      "D. CD40L",
+      "E. NADPH oxidase"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Bruton x-linked agammaglobulinemia is the only one of the humoral immune deficiencies in which there are no peripheral B cells (no CD19+ cells). The mutation is in the Bruton tyrosine kinase gene (Btk) that is required for pre-B cells to develop to immature B cells in the bone marrow. Adenosine deaminase deficiency (choice A) is the deficiency in one form of severe combined immunodeficiency disease. CD18 (choice C) is deficient in leukocyte adhesion deficiency, leading to failure of diapedesis, in which leukocytes are unable to extravasate to an area of inflammation due to lack of the common beta chain of integrin molecules. CD40L (choice D) is missing in hyper-IgM syndrome, in which IgM-producing B cells cannot receive the signal to isotype-switch to production of IgA, IgG, and IgE. The actual deficiency is in TH cells that are deficient in expression of CD40L. NADPH oxidase (choice E) is the enzyme that is deficient in chronic granulomatous disease, which will then result in an inability to generate toxic oxygen metabolites inside phagocytic cells. This would cause increased susceptibility to catalase-positive organisms, but would not result in diminished numbers of circulating B lymphocytes or reduced immunoglobulin levels."
+  },
+  {
+    "question": "A 2-year-old boy is brought to the physician by his mother because of frequent upper respiratory tract infections. His mother says that he was delivered at 39 weeks' gestation and that the pregnancy was uneventful. A review of his records shows that he is up-to-date on all his immunizations. He has had three hospitalizations in the past year for pneumonia. Laboratory studies will most likely show a deficiency of which of the following immunoglobulins in this patient?",
+    "options": [
+      "A. A dimeric immunoglobulin",
+      "B. A pentameric immunoglobulin",
+      "C. An immunoglobulin that binds to mast cells",
+      "D. An immunoglobulin that is an antigen receptor on mature naive B lymphocytes",
+      "E. An immunoglobulin that mediates antibody-dependent, cell-mediated cytotoxicity"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. Selective IgA deficiency (<5 mg/dL) is the most common of all the primary immunodeficiency diseases. The incidence reported in the United States has ranged from 1:250 to 1:1,000. Recurrent bacterial and viral infections of the respiratory tract can be attributed to a lack of secretory IgA (sIgA), the predominant immunoglobulin of the mucosal immune system. IgA is a dimer held together by a single J chain, and a secretory component is added by mucosal cells as it is transported into the lumen of the organ system. Children typically do not begin to develop severe signs of this deficiency until their second year of life because maternally acquired IgG (across the placenta) and IgA (in breast milk) protect the child for the first year of life. A pentameric immunoglobulin (choice B) describes serum IgM. This is the most important immunoglobulin of the primary immune response, but it is not important in protection against mucosal surface pathogens. An immunoglobulin that binds to mast cells (choice C) describes IgE. It is involved in the mediation of type | hypersensitivity responses and anti-parasite responses. An immunoglobulin that is an antigen receptor on mature naive B lymphocytes (choice D) describes IgD. Its only known function is as an antigen receptor on the surface of mature naive B lymphocytes. An immunoglobulin that mediates antibody-dependent, cell-mediated cytotoxicity (choice E) describes IgG. The binding of the Fc region of IgG molecules to natural killer cells, neutrophils, and macrophages can cause destruction of cells targeted by the antibody."
+  },
+  {
+    "question": "A 13-year-old boy is brought to the physician because of fever of recent onset and pain and swelling of his knees and ankles. He had an upper respiratory infection 2 weeks ago, for which he received acetaminophen. His temperature is 38°C (100.4°F), pulse is 110/min, respirations are 22/min. and blood pressure is 115/76 mm Hg. Physical examination shows erythematous skin macules with a clear center, arthritis, and small subcutaneous nodules on the dorsal aspect of the arms. A systolic murmur in the mid-precordial area is heard on auscultation of the chest. Which of the following is the most likely immunopathogenetic mechanism responsible for this condition?",
+    "options": [
+      "A. Type | hypersensitivity",
+      "B. Type Il hypersensitivity",
+      "C. Type lll hypersensitivity",
+      "D. Type IV hypersensitivity"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. The clinical manifestations fulfill the diagnostic criteria for rheumatic disease, a condition characterized by pancarditis (endocarditis, myocarditis, and pericarditis), arthritis, subcutaneous nodules, chorea, and erythema marginatum. A history of pharyngitis, otitis, or other streptococcal infections preceding the onset of the disease by 2-3 weeks is usually elicited. The triggering etiologic agent is group A Streptococcus, which incites production of antistreptococcal antibodies that cross-react with antigens of heart, skin, and nervous tissues. The antibodies bind fixed antigens and trigger an acute inflammatory response that eventually resolves with permanent scarring. This type of hypersensitivity response, in which autoantibodies bind antigens on cells or tissues, is classified as type II. Other examples of type II hypersensitivity-mediated diseases include Graves disease (the autoantibodies stimulate hormone production by binding thyroid-stimulating hormone [TSH] receptors) and myasthenia gravis (the autoantibodies interfere with cholinergic neuromuscular transmission by binding nicotinic receptors). Type | hypersensitivity (choice A) is mediated by IgE. Antigens bind IgE on the surface of mast cells and trigger the release of inflammatory mediators such as histamine and heparin, and then activation of the arachidonic acid cascade causes production of prostaglandins and leukotrienes. Asthma and urticaria are classic examples of this immune mechanism. Type III hypersensitivity (choice C) is mediated by soluble immune complexes, i.e., antigen-antibody complexes. Diseases such as systemic lupus erythematosus, rheumatoid arthritis, and various types of vasculitis are due to this mechanism. Type IV hypersensitivity (choice D) is mediated by T lymphocytes and often results in formation of granulomas. Granulomatous inflammation caused by Mycobacteria is an example of a type IV cell-mediated reaction."
+  },
+  {
+    "question": "A 47-year-old man with a history of polycystic kidney disease is awaiting a renal transplant. A living donor is found who matches the patient at A, B, and DR loci. Which of the following best describes this type of transplant?",
+    "options": [
+      "A. Allogeneic graft",
+      "B. Autograft",
+      "C. Isograft",
+      "D. Syngeneic graft",
+      "E. xenograft"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. A transplant between two members of the same species who are not genetically identical is an allogeneic graft. This is the most commonly performed graft in today's medicine. An autograft (choice B) is a graft from one location to another on the same individual. This is the only type of graft that will not experience rejection, even without immunosuppressive drugs. This type of transplantation is performed in coronary bypass surgery and in skin grafting following burns. Isografts and syngeneic grafts (choices C and D) are grafts between monozygotic twins. Typically, this procedure in the human is called an isograft; in other species it is called a syngeneic graft. Even monozygotic twins have genetic distinctions that arise during gestation and development, so some level of immunosuppression is still required following this form of engraftment. A xenograft (choice E) is a transplant between members of different species. Pig heart valves are often used in humans in this way."
+  }
+]
