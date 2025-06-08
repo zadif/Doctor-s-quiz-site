@@ -6,7 +6,7 @@ dotenv.config();
 
 const uri =
   process.env.MONGODB_URI ||
-  `mongodb+srv://zadifmustafa93:${process.env.MONGODB_PASSWORD}@cluster0.868uesb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
+  `mongodb+srv://zadifmustafa93:${process.env.MONGODB_PASSWORD}@doctorsdb.kxr9scf.mongodb.net/?retryWrites=true&w=majority&appName=doctorsDB`;
 
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
@@ -25,7 +25,9 @@ async function testConnection() {
   try {
     await client.connect();
     await client.db("admin").command({ ping: 1 });
-    console.log("Pinged your deployment. You successfully connected to MongoDB!");
+    console.log(
+      "Pinged your deployment. You successfully connected to MongoDB!"
+    );
     return true;
   } catch (error) {
     console.error("MongoDB connection error:", error);
@@ -61,14 +63,14 @@ export const userOperations = {
           quizzes: [],
           totalQuizzes: 0,
           averageScore: 0,
-          bestScore: 0
+          bestScore: 0,
         },
         preferences: {
           darkMode: false,
-          notifications: true
-        }
+          notifications: true,
+        },
       };
-      
+
       const result = await collection.insertOne(user);
       return { success: true, userId: result.insertedId };
     } catch (error) {
@@ -119,11 +121,11 @@ export const userOperations = {
       const collection = await getCollection();
       const result = await collection.updateOne(
         { _id: new ObjectId(userId) },
-        { 
-          $set: { 
-            ...updateData, 
-            updatedAt: new Date() 
-          } 
+        {
+          $set: {
+            ...updateData,
+            updatedAt: new Date(),
+          },
         }
       );
       return { success: true, modifiedCount: result.modifiedCount };
@@ -138,7 +140,7 @@ export const userOperations = {
     try {
       const collection = await getCollection();
       const user = await this.findUserById(userId);
-      
+
       if (!user) {
         return { success: false, error: "User not found" };
       }
@@ -146,21 +148,23 @@ export const userOperations = {
       const updatedStats = {
         ...user.quizStats,
         quizzes: [...(user.quizStats?.quizzes || []), quizData],
-        totalQuizzes: (user.quizStats?.totalQuizzes || 0) + 1
+        totalQuizzes: (user.quizStats?.totalQuizzes || 0) + 1,
       };
 
       // Calculate new average and best score
-      const scores = updatedStats.quizzes.map(quiz => quiz.score);
-      updatedStats.averageScore = Math.round(scores.reduce((a, b) => a + b, 0) / scores.length);
+      const scores = updatedStats.quizzes.map((quiz) => quiz.score);
+      updatedStats.averageScore = Math.round(
+        scores.reduce((a, b) => a + b, 0) / scores.length
+      );
       updatedStats.bestScore = Math.max(...scores);
 
       const result = await collection.updateOne(
         { _id: new ObjectId(userId) },
-        { 
-          $set: { 
+        {
+          $set: {
             quizStats: updatedStats,
-            updatedAt: new Date() 
-          } 
+            updatedAt: new Date(),
+          },
         }
       );
 
@@ -177,11 +181,11 @@ export const userOperations = {
       const collection = await getCollection();
       const result = await collection.updateOne(
         { _id: new ObjectId(userId) },
-        { 
-          $set: { 
+        {
+          $set: {
             preferences: preferences,
-            updatedAt: new Date() 
-          } 
+            updatedAt: new Date(),
+          },
         }
       );
       return { success: true, modifiedCount: result.modifiedCount };
@@ -201,18 +205,18 @@ export const userOperations = {
       console.error("Error deleting user:", error);
       return { success: false, error: error.message };
     }
-  }
+  },
 };
 
 // Initialize database and create indexes
 export async function initializeDatabase() {
   try {
     const collection = await getCollection();
-    
+
     // Create indexes for better performance
     await collection.createIndex({ email: 1 }, { unique: true });
     await collection.createIndex({ googleId: 1 }, { sparse: true });
-    
+
     console.log("Database initialized successfully");
     return true;
   } catch (error) {
