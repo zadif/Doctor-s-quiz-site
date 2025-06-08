@@ -794,6 +794,7 @@ body.dark-mode footer {
 
   .quiz-container {
     margin: 0.5rem;
+    padding: 10px;
   }
 
   .hero-section {
@@ -844,12 +845,33 @@ body.dark-mode footer {
   .stats-container {
     padding: 10px;
   }
+
+  /* Navbar improvements for mobile */
+  .navbar-collapse {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  .navbar-nav .nav-link,
+  .navbar .btn {
+    margin-bottom: 0.5rem;
+    width: 100%;
+    text-align: center;
+  }
+
+  .dropdown-menu {
+    width: 100%;
+    text-align: center;
+  }
 }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
   .quiz-container {
     margin: 1rem;
+    padding: 15px;
   }
 
   .hero-section {
@@ -898,6 +920,7 @@ body.dark-mode footer {
 @media (min-width: 768px) and (max-width: 991.98px) {
   .quiz-container {
     margin: 1rem;
+    padding: 20px;
   }
 
   .hero-section {
@@ -946,6 +969,7 @@ body.dark-mode footer {
 @media (min-width: 992px) and (max-width: 1199.98px) {
   .quiz-container {
     margin: 2rem;
+    padding: 25px;
   }
 
   .hero-section {
@@ -990,6 +1014,7 @@ body.dark-mode footer {
   .quiz-container {
     max-width: 1200px;
     margin: 2rem auto;
+    padding: 30px;
   }
 
   .hero-section {
@@ -1264,6 +1289,37 @@ body.dark-mode .navbar {
 .navbar-dark .navbar-nav .nav-link.active {
   color: white;
   font-weight: 600;
+}
+
+/* Dropdown styles for user menu */
+.dropdown-menu {
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin-top: 0.5rem;
+}
+
+body.dark-mode .dropdown-menu {
+  background-color: #2a2a2a;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.dropdown-item {
+  padding: 0.75rem 1rem;
+  transition: background-color 0.2s ease;
+}
+
+.dropdown-item:hover {
+  background-color: #f8f9fa;
+}
+
+body.dark-mode .dropdown-item {
+  color: #e0e0e0;
+}
+
+body.dark-mode .dropdown-item:hover {
+  background-color: #3a3a3a;
+  color: #fff;
 }
 
 /* Remove blue outline on button focus */
@@ -1624,4 +1680,100 @@ body.dark-mode footer a.text-white {
 }
 .stats-heading .dark-mode {
   color: #e0e0e0 !important;
+}
+
+/* Mobile-first responsive improvements */
+@media (max-width: 480px) {
+  .container {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+
+  .quiz-container {
+    padding: 0.5rem;
+    margin: 0.25rem;
+  }
+
+  .card {
+    border-radius: 10px;
+  }
+
+  .option-btn {
+    font-size: 0.85rem;
+    padding: 0.6rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .category-icon-large {
+    width: 60px;
+    height: 60px;
+  }
+
+  .auth-card {
+    margin: 0.25rem;
+    padding: 1rem;
+  }
+
+  .navbar-collapse {
+    margin-top: 0.25rem;
+    padding: 0.75rem;
+  }
+}
+
+/* Landscape orientation adjustments */
+@media (max-height: 500px) and (orientation: landscape) {
+  .hero-section {
+    padding: 1rem 0;
+  }
+
+  .quiz-container {
+    padding: 0.5rem;
+  }
+
+  .category-icon-large {
+    width: 50px;
+    height: 50px;
+  }
+
+  .auth-card {
+    padding: 0.75rem;
+  }
+
+  .auth-logo {
+    width: 50px;
+    height: 50px;
+    font-size: 1.25rem;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .btn {
+    border-width: 2px;
+  }
+
+  .card {
+    border-width: 2px;
+  }
+
+  .option-btn {
+    border-width: 2px;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .option-btn:hover:not(.disabled) {
+    transform: none;
+  }
+
+  .category-card:hover {
+    transform: none;
+  }
 }

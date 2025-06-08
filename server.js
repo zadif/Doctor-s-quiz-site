@@ -5,12 +5,17 @@ import ejsLayouts from "express-ejs-layouts";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import dotenv from "dotenv";
 import fs from "fs/promises";
+import session from "express-session";
+import MongoStore from "connect-mongo";
+import passport from "./config/passport.js";
+import authRoutes from "./routes/auth.js";
+import { initializeDatabase, testConnection } from "./mongo.js";
 
 dotenv.config();
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 // Initialize Gemini AI
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
@@ -21,6 +26,7 @@ const quizCategories = [
   // Define any remaining categories here
   // Biology has been completely removed
 ];
+
 // Function to scan the data directory for custom question files
 async function getCustomDataFiles() {
   try {
@@ -53,12 +59,64 @@ async function getCustomDataFiles() {
   }
 }
 
+// Flash messages middleware
+app.use((req, res, next) => {
+  req.flash = (type, message) => {
+    if (!req.session.flash) req.session.flash = {};
+    if (!req.session.flash[type]) req.session.flash[type] = [];
+    req.session.flash[type].push(message);
+  };
+  next();
+});
+
+app.use((req, res, next) => {
+  res.locals.flash = (type) => {
+    if (!req.session.flash || !req.session.flash[type]) return [];
+    const messages = req.session.flash[type];
+    delete req.session.flash[type];
+    return messages;
+  };
+  next();
+});
+
 // Setup middleware
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Session configuration
+app.use(session({
+  secret: process.env.SESSION_SECRET || 'your-secret-key-change-this-in-production',
+  resave: false,
+  saveUninitialized: false,
+  store: MongoStore.create({
+    mongoUrl: process.env.MONGODB_URI || `mongodb+srv://zadifmustafa93:${process.env.MONGODB_PASSWORD}@cluster0.868uesb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`,
+    dbName: 'doctorsDB'
+  }),
+  cookie: {
+    secure: process.env.NODE_ENV === 'production',
+    httpOnly: true,
+    maxAge: 24 * 60 * 60 * 1000 // 24 hours
+  }
+}));
+
+// Passport middleware
+app.use(passport.initialize());
+app.use(passport.session());
+
+// Make user available in all templates
+app.use((req, res, next) => {
+  res.locals.user = req.user || null;
+  res.locals.isAuthenticated = req.isAuthenticated();
+  next();
+});
+
 app.set("view engine", "ejs");
 app.set("views", join(__dirname, "views"));
 app.use(ejsLayouts);
 app.use(express.static("public"));
+
+// Auth routes
+app.use('/auth', authRoutes);
 
 // Routes
 app.get("/", async (req, res) => {
@@ -69,11 +127,15 @@ app.get("/", async (req, res) => {
     title: "QuizMaster - Test Your Knowledge",
     categories: quizCategories,
     customCategories: customCategories,
+    layout: false
   });
 });
 
 app.get("/stats", (req, res) => {
-  res.render("stats", { title: "Statistics" });
+  res.render("stats", { 
+    title: "Statistics",
+    layout: false
+  });
 });
 
 app.get("/quiz/:category", async (req, res) => {
@@ -98,6 +160,7 @@ app.get("/quiz/:category", async (req, res) => {
       title: `${categoryDetails.title} Quiz`,
       questions: questions,
       category: categoryDetails,
+      layout: false
     });
   }
 });
@@ -160,6 +223,7 @@ app.get("/quiz/custom/:filename", async (req, res) => {
       title: `${categoryDetails.title} Quiz`,
       questions: processedQuestions,
       category: categoryDetails,
+      layout: false
     });
   } catch (error) {
     console.error(`Error loading custom quiz ${filename}:`, error);
@@ -188,14 +252,49 @@ app.get("/additional-quizzes", async (req, res) => {
   res.render("additional-quizzes", {
     title: "Additional Quizzes - QuizMaster",
     customCategories: customCategories,
+    layout: false
   });
 });
-
 
 app.get("/health", (req, res) => {
   res.status(200).send("OK");
 });
 
-app.listen(port, () => {
-  console.log(`Quiz app listening at http://localhost:${port}`);
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).render('error', { 
+    title: 'Error',
+    message: 'Something went wrong!',
+    layout: false
+  });
 });
+
+// 404 handler
+app.use((req, res) => {
+  res.status(404).render('404', { layout: false });
+});
+
+// Initialize database and start server
+async function startServer() {
+  try {
+    // Test database connection
+    const dbConnected = await testConnection();
+    if (dbConnected) {
+      // Initialize database (create indexes)
+      await initializeDatabase();
+      console.log("Database initialized successfully");
+    } else {
+      console.warn("Database connection failed, but server will continue");
+    }
+
+    app.listen(port, () => {
+      console.log(`Quiz app listening at http://localhost:${port}`);
+    });
+  } catch (error) {
+    console.error("Failed to start server:", error);
+    process.exit(1);
+  }
+}
+
+startServer();

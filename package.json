@@ -13,11 +13,19 @@
   "description": "",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^5.1.0",
     "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "express-ejs-layouts": "^2.5.1",
-    "nodemon": "^3.1.10"
+    "express-session": "^1.18.0",
+    "express-validator": "^7.0.1",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.1.10",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0"
   },
   "type": "module"
 }

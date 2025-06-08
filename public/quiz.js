@@ -195,15 +195,22 @@ function nextQuestion() {
       const stats = JSON.parse(
         localStorage.getItem("quizStats") || '{"quizzes":[], "totalQuizzes":0}'
       );
-      stats.quizzes.push({
+      const quizData = {
         date: new Date(),
         category: document.querySelector(".category-header h2").textContent,
         score: finalScore,
         totalQuestions: totalQuestions,
         correctAnswers: score,
-      });
+      };
+      
+      stats.quizzes.push(quizData);
       stats.totalQuizzes++;
       localStorage.setItem("quizStats", JSON.stringify(stats));
+
+      // Sync to server if user is authenticated
+      if (window.userSync && window.userSync.isAuthenticated) {
+        window.userSync.forcSync();
+      }
 
       carousel.next();
       document.getElementById("nextBtn").style.display = "none";
