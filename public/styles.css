@@ -572,24 +572,32 @@ body.dark-mode .explanation-toggle:hover {
   transform: scale(1.1);
 }
 
-/* Draggable Chat Sidebar */
+/* Mobile Chat Sidebar - FIXED */
 .chat-sidebar {
   position: fixed;
-  right: -400px;
+  right: -100%;
   top: 0;
-  width: 400px;
-  min-width: 300px;
-  max-width: 90vw;
+  width: 100%;
   height: 100vh;
   background: var(--card-bg);
   box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
-  transition: right 0.3s ease, width 0.3s ease;
+  transition: right 0.3s ease;
   display: flex;
   flex-direction: column;
   z-index: 1001;
   cursor: default;
   overflow: hidden;
   color: var(--text-color);
+}
+
+/* Desktop Chat Sidebar */
+@media (min-width: 768px) {
+  .chat-sidebar {
+    right: -400px;
+    width: 400px;
+    min-width: 300px;
+    max-width: 90vw;
+  }
 }
 
 .chat-sidebar.resizing {
@@ -604,6 +612,14 @@ body.dark-mode .explanation-toggle:hover {
   height: 100%;
   cursor: ew-resize;
   background-color: transparent;
+  display: none;
+}
+
+/* Show resize handle only on desktop */
+@media (min-width: 768px) {
+  .resize-handle {
+    display: block;
+  }
 }
 
 body.dark-mode .chat-sidebar {
@@ -619,17 +635,23 @@ body.dark-mode .chat-sidebar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--primary-color); /* Change header color */
+  background-color: var(--primary-color);
+  padding: 1rem;
+  color: white;
 }
 
 body.dark-mode .chat-header {
-  background-color: #444444; /* Change header color in dark mode */
+  background-color: #444444;
 }
 
 .chat-header .btn-close {
   cursor: pointer;
   opacity: 0.8;
   transition: opacity 0.2s ease;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.2rem;
 }
 
 .chat-header .btn-close:hover {
@@ -662,6 +684,13 @@ body.dark-mode .chat-header {
 
 .chat-input {
   background: var(--card-bg);
+  padding: 1rem;
+  border-top: 1px solid #dee2e6;
+}
+
+body.dark-mode .chat-input {
+  background-color: var(--card-bg);
+  border-top-color: #444;
 }
 
 body.dark-mode .chat-input .btn-primary {
@@ -687,6 +716,12 @@ body.dark-mode .chat-input .btn-primary {
 
 .chat-input .form-control:focus {
   border-color: var(--primary-color);
+}
+
+body.dark-mode .chat-input .form-control {
+  background-color: #2a2a2a;
+  border-color: #444;
+  color: #e0e0e0;
 }
 
 body.dark-mode .chat-input .form-control:hover,
@@ -734,11 +769,6 @@ body.dark-mode footer {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-  .chat-sidebar {
-    width: 100%;
-    right: -100%;
-  }
-
   .quiz-container {
     margin: 1rem;
   }
@@ -787,11 +817,6 @@ body.dark-mode footer {
 
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-  .chat-sidebar {
-    width: 100%;
-    right: -100%;
-  }
-
   .quiz-container {
     margin: 0.5rem;
     padding: 10px;
@@ -1074,11 +1099,6 @@ body.dark-mode footer {
   margin-bottom: 8px;
 }
 
-.chat-sidebar {
-  width: 100%;
-  right: -100%;
-}
-
 .chat-button {
   width: 50px;
   height: 50px;
@@ -1101,11 +1121,6 @@ body.dark-mode footer {
     font-size: 1rem;
     padding: 12px 15px;
   }
-
-  .chat-sidebar {
-    width: 320px;
-    right: -320px;
-  }
 }
 
 /* Medium devices (tablets) */
@@ -1123,11 +1138,6 @@ body.dark-mode footer {
   .option-btn {
     font-size: 1.1rem;
     padding: 15px 20px;
-  }
-
-  .chat-sidebar {
-    width: 350px;
-    right: -350px;
   }
 }
 
@@ -1775,5 +1785,215 @@ body.dark-mode footer a.text-white {
 
   .category-card:hover {
     transform: none;
+  }
+}
+
+/* Subscription Modal Styles */
+.subscription-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  padding: 1rem;
+}
+
+.subscription-content {
+  background: var(--card-bg);
+  border-radius: 20px;
+  padding: 2rem;
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+  color: var(--text-color);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.subscription-content h3 {
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.subscription-features {
+  text-align: left;
+  margin: 1.5rem 0;
+}
+
+.subscription-features li {
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+}
+
+.subscription-features i {
+  color: #28a745;
+  margin-right: 0.5rem;
+}
+
+.payment-options {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  justify-content: center;
+}
+
+.payment-btn {
+  flex: 1;
+  padding: 1rem;
+  border: 2px solid #007bff;
+  border-radius: 10px;
+  background: transparent;
+  color: #007bff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.payment-btn:hover {
+  background: #007bff;
+  color: white;
+}
+
+.payment-btn.selected {
+  background: #007bff;
+  color: white;
+}
+
+body.dark-mode .subscription-content {
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+body.dark-mode .payment-btn {
+  border-color: #0d6efd;
+  color: #0d6efd;
+}
+
+body.dark-mode .payment-btn:hover,
+body.dark-mode .payment-btn.selected {
+  background: #0d6efd;
+  color: white;
+}
+
+/* Quiz Limit Warning */
+.quiz-limit-warning {
+  background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+  color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.quiz-limit-warning h5 {
+  margin-bottom: 0.5rem;
+}
+
+.quiz-limit-warning p {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+/* Premium Badge */
+.premium-badge {
+  background: linear-gradient(135deg, #ffd700, #ffb347);
+  color: #333;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 0.5rem;
+}
+
+/* Disabled Quiz Card */
+.quiz-disabled {
+  opacity: 0.6;
+  pointer-events: none;
+  position: relative;
+}
+
+.quiz-disabled::after {
+  content: "🔒 Premium Only";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-weight: bold;
+  z-index: 10;
+}
+
+/* Quit Quiz Modal */
+.quit-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  padding: 1rem;
+}
+
+.quit-content {
+  background: var(--card-bg);
+  border-radius: 15px;
+  padding: 2rem;
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+  color: var(--text-color);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.quit-content h4 {
+  color: #dc3545;
+  margin-bottom: 1rem;
+}
+
+.quit-content p {
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.quit-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+body.dark-mode .quit-content {
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+/* Mobile responsiveness for modals */
+@media (max-width: 576px) {
+  .subscription-content,
+  .quit-content {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
+
+  .payment-options {
+    flex-direction: column;
+  }
+
+  .quit-buttons {
+    flex-direction: column;
+  }
+
+  .quit-buttons .btn {
+    width: 100%;
   }
 }

@@ -59,6 +59,13 @@ export const userOperations = {
         ...userData,
         createdAt: new Date(),
         updatedAt: new Date(),
+        subscription: {
+          isPremium: false,
+          subscriptionDate: null,
+          expiryDate: null,
+          quizzesCompleted: 0,
+          maxQuizzes: 3, // Free users can take 3 quizzes
+        },
         quizStats: {
           quizzes: [],
           totalQuizzes: 0,
@@ -135,7 +142,7 @@ export const userOperations = {
     }
   },
 
-  // Update user quiz stats
+  // Update user quiz stats and check subscription limits
   async updateQuizStats(userId, quizData) {
     try {
       const collection = await getCollection();
@@ -143,6 +150,11 @@ export const userOperations = {
 
       if (!user) {
         return { success: false, error: "User not found" };
+      }
+
+      // Check if user has exceeded quiz limit
+      if (!user.subscription.isPremium && user.subscription.quizzesCompleted >= user.subscription.maxQuizzes) {
+        return { success: false, error: "Quiz limit exceeded. Please upgrade to premium." };
       }
 
       const updatedStats = {
@@ -158,20 +170,100 @@ export const userOperations = {
       );
       updatedStats.bestScore = Math.max(...scores);
 
+      // Update subscription quiz count
+      const updatedSubscription = {
+        ...user.subscription,
+        quizzesCompleted: user.subscription.quizzesCompleted + 1,
+      };
+
       const result = await collection.updateOne(
         { _id: new ObjectId(userId) },
         {
           $set: {
             quizStats: updatedStats,
+            subscription: updatedSubscription,
             updatedAt: new Date(),
           },
         }
       );
 
-      return { success: true, stats: updatedStats };
+      return { success: true, stats: updatedStats, subscription: updatedSubscription };
     } catch (error) {
       console.error("Error updating quiz stats:", error);
       return { success: false, error: error.message };
+    }
+  },
+
+  // Update subscription status
+  async updateSubscription(userId, subscriptionData) {
+    try {
+      const collection = await getCollection();
+      const user = await this.findUserById(userId);
+
+      if (!user) {
+        return { success: false, error: "User not found" };
+      }
+
+      const subscriptionDate = new Date();
+      const expiryDate = new Date();
+      expiryDate.setMonth(expiryDate.getMonth() + 1); // 1 month subscription
+
+      const updatedSubscription = {
+        isPremium: true,
+        subscriptionDate: subscriptionDate,
+        expiryDate: expiryDate,
+        quizzesCompleted: user.subscription.quizzesCompleted || 0,
+        maxQuizzes: -1, // Unlimited for premium users
+        paymentMethod: subscriptionData.paymentMethod,
+        paymentId: subscriptionData.paymentId,
+        amount: subscriptionData.amount,
+      };
+
+      const result = await collection.updateOne(
+        { _id: new ObjectId(userId) },
+        {
+          $set: {
+            subscription: updatedSubscription,
+            updatedAt: new Date(),
+          },
+        }
+      );
+
+      return { success: true, subscription: updatedSubscription };
+    } catch (error) {
+      console.error("Error updating subscription:", error);
+      return { success: false, error: error.message };
+    }
+  },
+
+  // Check if subscription is expired
+  async checkSubscriptionExpiry(userId) {
+    try {
+      const user = await this.findUserById(userId);
+      
+      if (!user || !user.subscription.isPremium) {
+        return { isExpired: false, isPremium: false };
+      }
+
+      const now = new Date();
+      const expiryDate = new Date(user.subscription.expiryDate);
+      
+      if (now > expiryDate) {
+        // Subscription expired, downgrade to free
+        await this.updateUser(userId, {
+          subscription: {
+            ...user.subscription,
+            isPremium: false,
+            maxQuizzes: 3,
+          }
+        });
+        return { isExpired: true, isPremium: false };
+      }
+
+      return { isExpired: false, isPremium: true };
+    } catch (error) {
+      console.error("Error checking subscription expiry:", error);
+      return { isExpired: false, isPremium: false };
     }
   },
 
@@ -191,6 +283,26 @@ export const userOperations = {
       return { success: true, modifiedCount: result.modifiedCount };
     } catch (error) {
       console.error("Error updating preferences:", error);
+      return { success: false, error: error.message };
+    }
+  },
+
+  // Save incomplete quiz progress
+  async saveQuizProgress(userId, progressData) {
+    try {
+      const collection = await getCollection();
+      const result = await collection.updateOne(
+        { _id: new ObjectId(userId) },
+        {
+          $set: {
+            currentQuizProgress: progressData,
+            updatedAt: new Date(),
+          },
+        }
+      );
+      return { success: true };
+    } catch (error) {
+      console.error("Error saving quiz progress:", error);
       return { success: false, error: error.message };
     }
   },
@@ -216,6 +328,7 @@ export async function initializeDatabase() {
     // Create indexes for better performance
     await collection.createIndex({ email: 1 }, { unique: true });
     await collection.createIndex({ googleId: 1 }, { sparse: true });
+    await collection.createIndex({ "subscription.expiryDate": 1 });
 
     console.log("Database initialized successfully");
     return true;
