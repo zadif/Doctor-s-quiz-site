@@ -294,8 +294,10 @@ async function startServer() {
       console.warn("Database connection failed, but server will continue");
     }
 
-    app.listen(port, () => {
-      console.log(`Quiz app listening at http://localhost:${port}`);
+    const PORT = process.env.PORT || 3000;
+
+    app.listen(PORT, "0.0.0.0", () => {
+      console.log(`Quiz app listening at http://0.0.0.0:${PORT}`);
     });
   } catch (error) {
     console.error("Failed to start server:", error);
