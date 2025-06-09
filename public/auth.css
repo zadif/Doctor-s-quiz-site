@@ -151,16 +151,8 @@
   transition: color 0.3s ease;
 }
 
-.password-toggle:hover {
-  color: #667eea;
-}
-
 .dark-mode .password-toggle {
   color: #b0b0b0;
-}
-
-.dark-mode .password-toggle:hover {
-  color: #667eea;
 }
 
 .password-requirements {
@@ -191,8 +183,8 @@
 
 .btn-primary.auth-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
-  background: linear-gradient(135deg, #5a6fd8, #6a4190);
+  box-shadow: 0 6px 20px rgba(94, 120, 236, 0.4);
+  background: linear-gradient(135deg, #5a6fd8);
 }
 
 .btn-google.auth-btn {
@@ -419,7 +411,7 @@
   }
 
   .password-toggle:active {
-    color: #667eea;
+    color: #4964dc;
   }
 }
 
