@@ -28,6 +28,7 @@ router.get("/login", requireGuest, (req, res) => {
     title: "Login - QuizMaster",
     error: req.flash("error"),
     success: req.flash("success"),
+    layout: false,
   });
 });
 
@@ -45,13 +46,13 @@ router.post(
   ],
   async (req, res, next) => {
     const errors = validationResult(req);
-
     if (!errors.isEmpty()) {
       return res.render("auth/login", {
         title: "Login - QuizMaster",
         error: errors.array()[0].msg,
         success: null,
         email: req.body.email,
+        layout: false,
       });
     }
 
@@ -59,13 +60,13 @@ router.post(
       if (err) {
         return next(err);
       }
-
       if (!user) {
         return res.render("auth/login", {
           title: "Login - QuizMaster",
           error: info.message,
           success: null,
           email: req.body.email,
+          layout: false,
         });
       }
 
@@ -87,6 +88,7 @@ router.get("/signup", requireGuest, (req, res) => {
     title: "Sign Up - QuizMaster",
     error: req.flash("error"),
     success: req.flash("success"),
+    layout: false,
   });
 });
 
@@ -126,6 +128,7 @@ router.post(
         success: null,
         name: req.body.name,
         email: req.body.email,
+        layout: false,
       });
     }
 
@@ -141,6 +144,7 @@ router.post(
           success: null,
           name: name,
           email: email,
+          layout: false,
         });
       }
 
@@ -166,6 +170,7 @@ router.post(
           success: null,
           name: name,
           email: email,
+          layout: false,
         });
       }
     } catch (error) {
@@ -176,6 +181,7 @@ router.post(
         success: null,
         name: req.body.name,
         email: req.body.email,
+        layout: false,
       });
     }
   }
