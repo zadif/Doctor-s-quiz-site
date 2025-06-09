@@ -33,9 +33,15 @@
           <div class="dropdown">
             <button class="btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown">
               <i class="fas fa-user me-2"></i><%= user.name %>
+              <% if (user.subscription && user.subscription.isPremium) { %>
+                <span class="premium-badge ms-1">Premium</span>
+              <% } %>
             </button>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/profile"><i class="fas fa-user me-2"></i>Profile</a></li>
+              <% if (!user.subscription || !user.subscription.isPremium) { %>
+              <li><a class="dropdown-item" href="#" onclick="showSubscriptionModal()"><i class="fas fa-crown me-2"></i>Upgrade to Premium</a></li>
+              <% } %>
               <li><hr class="dropdown-divider"></li>
               <li>
                 <form action="/auth/logout" method="POST" class="d-inline">
