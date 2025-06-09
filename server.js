@@ -84,20 +84,26 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Session configuration
-app.use(session({
-  secret: process.env.SESSION_SECRET || 'your-secret-key-change-this-in-production',
-  resave: false,
-  saveUninitialized: false,
-  store: MongoStore.create({
-    mongoUrl: process.env.MONGODB_URI || `mongodb+srv://zadifmustafa93:${process.env.MONGODB_PASSWORD}@cluster0.868uesb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`,
-    dbName: 'doctorsDB'
-  }),
-  cookie: {
-    secure: process.env.NODE_ENV === 'production',
-    httpOnly: true,
-    maxAge: 24 * 60 * 60 * 1000 // 24 hours
-  }
-}));
+app.use(
+  session({
+    secret:
+      process.env.SESSION_SECRET || "your-secret-key-change-this-in-production",
+    resave: false,
+    saveUninitialized: false,
+    store: MongoStore.create({
+      mongoUrl:
+        process.env.MONGODB_URI ||
+        `mongodb+srv://zadifmustafa93:${process.env.MONGODB_PASSWORD}@doctorsdb.kxr9scf.mongodb.net/?retryWrites=true&w=majority&appName=doctorsDB`,
+      dbName: "doctorsDB",
+      touchAfter: 24 * 3600, // lazy session update
+    }),
+    cookie: {
+      secure: process.env.NODE_ENV === "production",
+      httpOnly: true,
+      maxAge: 24 * 60 * 60 * 1000, // 24 hours
+    },
+  })
+);
 
 // Passport middleware
 app.use(passport.initialize());
@@ -116,7 +122,7 @@ app.use(ejsLayouts);
 app.use(express.static("public"));
 
 // Auth routes
-app.use('/auth', authRoutes);
+app.use("/auth", authRoutes);
 
 // Routes
 app.get("/", async (req, res) => {
@@ -127,14 +133,14 @@ app.get("/", async (req, res) => {
     title: "QuizMaster - Test Your Knowledge",
     categories: quizCategories,
     customCategories: customCategories,
-    layout: false
+    layout: false,
   });
 });
 
 app.get("/stats", (req, res) => {
-  res.render("stats", { 
+  res.render("stats", {
     title: "Statistics",
-    layout: false
+    layout: false,
   });
 });
 
@@ -160,7 +166,7 @@ app.get("/quiz/:category", async (req, res) => {
       title: `${categoryDetails.title} Quiz`,
       questions: questions,
       category: categoryDetails,
-      layout: false
+      layout: false,
     });
   }
 });
@@ -223,7 +229,7 @@ app.get("/quiz/custom/:filename", async (req, res) => {
       title: `${categoryDetails.title} Quiz`,
       questions: processedQuestions,
       category: categoryDetails,
-      layout: false
+      layout: false,
     });
   } catch (error) {
     console.error(`Error loading custom quiz ${filename}:`, error);
@@ -252,7 +258,7 @@ app.get("/additional-quizzes", async (req, res) => {
   res.render("additional-quizzes", {
     title: "Additional Quizzes - QuizMaster",
     customCategories: customCategories,
-    layout: false
+    layout: false,
   });
 });
 
@@ -263,16 +269,16 @@ app.get("/health", (req, res) => {
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);
-  res.status(500).render('error', { 
-    title: 'Error',
-    message: 'Something went wrong!',
-    layout: false
+  res.status(500).render("error", {
+    title: "Error",
+    message: "Something went wrong!",
+    layout: false,
   });
 });
 
 // 404 handler
 app.use((req, res) => {
-  res.status(404).render('404', { layout: false });
+  res.status(404).render("404", { layout: false });
 });
 
 // Initialize database and start server
