@@ -295,7 +295,9 @@ async function startServer() {
     }
 
     const PORT = process.env.PORT || 3000;
-
+    if (process.env.PORT) {
+      console.log(`Using PORT from environment: ${PORT}`);
+    }
     app.listen(PORT, "0.0.0.0", () => {
       console.log(`Quiz app listening at http://0.0.0.0:${PORT}`);
     });
