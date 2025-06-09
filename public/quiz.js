@@ -4,7 +4,6 @@ const CURRENT_SCORE_KEY = "currentScore";
 
 let currentQuestionIndex = 0;
 let score = 0;
-let userSubscription = null;
 const carousel = new bootstrap.Carousel(
   document.getElementById("quiz-carousel"),
   {
@@ -12,234 +11,6 @@ const carousel = new bootstrap.Carousel(
     wrap: false,
   }
 );
-
-// Check user subscription status
-async function checkSubscriptionStatus() {
-  try {
-    const response = await fetch("/auth/subscription-status");
-    if (response.ok) {
-      const data = await response.json();
-      userSubscription = data.subscription;
-      return data.subscription;
-    }
-  } catch (error) {
-    console.error("Error checking subscription:", error);
-  }
-  return null;
-}
-
-// Show subscription modal
-function showSubscriptionModal() {
-  const modal = document.createElement("div");
-  modal.className = "subscription-modal";
-  modal.innerHTML = `
-    <div class="subscription-content">
-      <h3><i class="fas fa-crown me-2"></i>Upgrade to Premium</h3>
-      <p>Unlock unlimited quizzes and AI support!</p>
-      
-      <ul class="subscription-features">
-        <li><i class="fas fa-check"></i> Unlimited quiz access</li>
-        <li><i class="fas fa-check"></i> AI chat support</li>
-        <li><i class="fas fa-check"></i> Detailed progress tracking</li>
-        <li><i class="fas fa-check"></i> Priority customer support</li>
-        <li><i class="fas fa-check"></i> Monthly subscription - PKR 1000</li>
-      </ul>
-
-      <div class="payment-options">
-        <button class="payment-btn" data-method="jazzcash">
-          <i class="fas fa-mobile-alt me-2"></i>JazzCash
-        </button>
-        <button class="payment-btn" data-method="easypaisa">
-          <i class="fas fa-mobile-alt me-2"></i>EasyPaisa
-        </button>
-      </div>
-
-      <div class="phone-input" style="display: none;">
-        <input type="tel" id="phoneNumber" class="form-control mb-3" 
-               placeholder="Enter your phone number (03XXXXXXXXX)" 
-               pattern="^(\\+92|0)?3[0-9]{9}$">
-      </div>
-
-      <div class="d-flex gap-2 justify-content-center">
-        <button class="btn btn-primary" id="proceedPayment" style="display: none;">
-          <i class="fas fa-credit-card me-2"></i>Pay PKR 1000
-        </button>
-        <button class="btn btn-secondary" onclick="closeSubscriptionModal()">
-          <i class="fas fa-times me-2"></i>Cancel
-        </button>
-      </div>
-    </div>
-  `;
-  
-  document.body.appendChild(modal);
-  document.body.classList.add("modal-open");
-
-  // Handle payment method selection
-  const paymentBtns = modal.querySelectorAll(".payment-btn");
-  const phoneInput = modal.querySelector(".phone-input");
-  const proceedBtn = modal.querySelector("#proceedPayment");
-  let selectedMethod = null;
-
-  paymentBtns.forEach(btn => {
-    btn.addEventListener("click", () => {
-      paymentBtns.forEach(b => b.classList.remove("selected"));
-      btn.classList.add("selected");
-      selectedMethod = btn.dataset.method;
-      phoneInput.style.display = "block";
-      proceedBtn.style.display = "inline-block";
-    });
-  });
-
-  // Handle payment processing
-  proceedBtn.addEventListener("click", async () => {
-    const phoneNumber = modal.querySelector("#phoneNumber").value;
-    
-    if (!phoneNumber || !phoneNumber.match(/^(\+92|0)?3[0-9]{9}$/)) {
-      alert("Please enter a valid Pakistani phone number");
-      return;
-    }
-
-    proceedBtn.disabled = true;
-    proceedBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Processing...';
-
-    try {
-      const response = await fetch("/auth/subscribe", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          paymentMethod: selectedMethod,
-          phoneNumber: phoneNumber,
-        }),
-      });
-
-      const data = await response.json();
-
-      if (data.success) {
-        closeSubscriptionModal();
-        alert("🎉 Subscription activated successfully! You now have unlimited access to all quizzes and AI support.");
-        // Refresh subscription status
-        await checkSubscriptionStatus();
-        // Reload page to update UI
-        window.location.reload();
-      } else {
-        alert("Payment failed: " + data.error);
-        proceedBtn.disabled = false;
-        proceedBtn.innerHTML = '<i class="fas fa-credit-card me-2"></i>Pay PKR 1000';
-      }
-    } catch (error) {
-      console.error("Payment error:", error);
-      alert("Payment processing failed. Please try again.");
-      proceedBtn.disabled = false;
-      proceedBtn.innerHTML = '<i class="fas fa-credit-card me-2"></i>Pay PKR 1000';
-    }
-  });
-}
-
-function closeSubscriptionModal() {
-  const modal = document.querySelector(".subscription-modal");
-  if (modal) {
-    modal.remove();
-    document.body.classList.remove("modal-open");
-  }
-}
-
-// Show quit confirmation modal
-function showQuitModal() {
-  const isAuthenticated = window.userSync && window.userSync.isAuthenticated;
-  
-  const modal = document.createElement("div");
-  modal.className = "quit-modal";
-  modal.innerHTML = `
-    <div class="quit-content">
-      <h4><i class="fas fa-exclamation-triangle me-2"></i>Quit Quiz?</h4>
-      <p>Are you sure you want to quit this quiz?</p>
-      ${!isAuthenticated ? 
-        '<p class="text-warning"><i class="fas fa-info-circle me-2"></i>Your progress will not be saved. Sign up or login to save your progress!</p>' : 
-        '<p class="text-info"><i class="fas fa-save me-2"></i>Your progress will be saved.</p>'
-      }
-      <div class="quit-buttons">
-        <button class="btn btn-danger" onclick="confirmQuit()">
-          <i class="fas fa-check me-2"></i>Yes, Quit
-        </button>
-        <button class="btn btn-secondary" onclick="closeQuitModal()">
-          <i class="fas fa-times me-2"></i>Continue Quiz
-        </button>
-      </div>
-    </div>
-  `;
-  
-  document.body.appendChild(modal);
-  document.body.classList.add("modal-open");
-}
-
-function closeQuitModal() {
-  const modal = document.querySelector(".quit-modal");
-  if (modal) {
-    modal.remove();
-    document.body.classList.remove("modal-open");
-  }
-}
-
-async function confirmQuit() {
-  const isAuthenticated = window.userSync && window.userSync.isAuthenticated;
-  
-  if (isAuthenticated) {
-    // Save progress for authenticated users
-    try {
-      await fetch("/auth/save-progress", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          quizData: {
-            category: document.querySelector(".category-header h2")?.textContent || "Unknown",
-            currentQuestion: currentQuestionIndex,
-            score: score,
-            totalQuestions: document.querySelectorAll(".carousel-item").length - 1,
-          },
-          currentQuestion: currentQuestionIndex,
-          score: score,
-        }),
-      });
-    } catch (error) {
-      console.error("Error saving progress:", error);
-    }
-  }
-  
-  // Clear local storage
-  localStorage.removeItem(PROGRESS_KEY);
-  localStorage.removeItem(CURRENT_SCORE_KEY);
-  
-  closeQuitModal();
-  
-  // Redirect to home
-  window.location.href = "/";
-}
-
-// Override browser back button and page refresh
-window.addEventListener("beforeunload", function (e) {
-  if (currentQuestionIndex > 0) {
-    e.preventDefault();
-    e.returnValue = "";
-    return "";
-  }
-});
-
-// Handle browser back button
-window.addEventListener("popstate", function (e) {
-  if (currentQuestionIndex > 0) {
-    e.preventDefault();
-    showQuitModal();
-    // Push state back to prevent actual navigation
-    history.pushState(null, null, window.location.pathname);
-  }
-});
-
-// Push initial state to handle back button
-history.pushState(null, null, window.location.pathname);
 
 // Initialize progress from local storage
 function initializeProgress() {
@@ -266,9 +37,9 @@ function showProgressModal(savedProgress, savedScore) {
         </div>
     `;
   document.body.appendChild(modal);
-  document.body.classList.add("modal-open");
-  document.querySelector(".chat-sidebar").classList.remove("open");
-  document.querySelector(".chat-sidebar").style.display = "none";
+  document.body.classList.add("modal-open"); // Add blur effect
+  document.querySelector(".chat-sidebar").classList.remove("open"); // Ensure chat box appears closed
+  document.querySelector(".chat-sidebar").style.display = "none"; // Hide chat box
 }
 
 function continueProgress(savedProgress, savedScore) {
@@ -289,8 +60,8 @@ function closeProgressModal() {
   const modal = document.querySelector(".progress-modal");
   if (modal) {
     modal.remove();
-    document.body.classList.remove("modal-open");
-    document.querySelector(".chat-sidebar").style.display = "";
+    document.body.classList.remove("modal-open"); // Remove blur effect
+    document.querySelector(".chat-sidebar").style.display = ""; // Reset chat box display
   }
 }
 
@@ -621,21 +392,6 @@ function updateReviewNavigation() {
 
 // Chat functions - updating the toggle and close functionality
 function toggleChat() {
-  // Check if user is authenticated and has premium access
-  const isAuthenticated = window.userSync && window.userSync.isAuthenticated;
-  
-  if (!isAuthenticated) {
-    alert("🔒 AI support is for premium users only. Please sign up or login and upgrade to premium!");
-    return;
-  }
-
-  // Check subscription status
-  if (userSubscription && !userSubscription.isPremium) {
-    alert("🔒 AI support is for premium users only. Please upgrade to premium!");
-    showSubscriptionModal();
-    return;
-  }
-
   const chatSidebar = document.querySelector(".chat-sidebar");
   if (chatSidebar) {
     const isOpen = chatSidebar.classList.contains("open");
@@ -737,6 +493,9 @@ function initResizeHandle() {
   }
 }
 
+// Remove old drag functions since we no longer need them
+// dragStart and dragEnd functions can be removed
+
 async function sendMessage() {
   const input = document.getElementById("chatInput");
   const message = input.value.trim();
@@ -808,12 +567,9 @@ if (typeof initializeDarkMode !== "function") {
 }
 
 // Initialize
-document.addEventListener("DOMContentLoaded", async () => {
+document.addEventListener("DOMContentLoaded", () => {
   initializeProgress();
   initializeDarkMode();
-  
-  // Check subscription status
-  await checkSubscriptionStatus();
 
   // Add event listener for chat toggle to initialize resize handle
   const chatBtn = document.querySelector(".chat-button");
@@ -835,20 +591,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 });
 
 function copyQuestionToChat(question) {
-  // Check if user has premium access first
-  const isAuthenticated = window.userSync && window.userSync.isAuthenticated;
-  
-  if (!isAuthenticated) {
-    alert("🔒 AI support is for premium users only. Please sign up or login and upgrade to premium!");
-    return;
-  }
-
-  if (userSubscription && !userSubscription.isPremium) {
-    alert("🔒 AI support is for premium users only. Please upgrade to premium!");
-    showSubscriptionModal();
-    return;
-  }
-
   const chatInput = document.getElementById("chatInput");
   chatInput.value = question;
 

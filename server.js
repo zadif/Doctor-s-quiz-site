@@ -8,8 +8,8 @@ import fs from "fs/promises";
 import session from "express-session";
 import MongoStore from "connect-mongo";
 import passport from "./config/passport.js";
-import authRoutes, { requireAuth, checkSubscription } from "./routes/auth.js";
-import { initializeDatabase, testConnection, userOperations } from "./mongo.js";
+import authRoutes from "./routes/auth.js";
+import { initializeDatabase, testConnection } from "./mongo.js";
 
 dotenv.config();
 
@@ -66,47 +66,6 @@ async function getCustomDataFiles() {
   } catch (error) {
     console.error("Error scanning data directory:", error);
     return [];
-  }
-}
-
-// Middleware to check quiz access limits
-async function checkQuizAccess(req, res, next) {
-  if (!req.isAuthenticated()) {
-    // For non-authenticated users, allow access but track in session
-    if (!req.session.quizzesCompleted) {
-      req.session.quizzesCompleted = 0;
-    }
-    
-    if (req.session.quizzesCompleted >= 3) {
-      return res.render("quiz-limit", {
-        title: "Quiz Limit Reached",
-        layout: false,
-        message: "You have reached the limit of 3 free quizzes. Please sign up to continue!",
-        isAuthenticated: false,
-      });
-    }
-    
-    return next();
-  }
-
-  try {
-    const user = await userOperations.findUserById(req.user._id);
-    const subscriptionStatus = await userOperations.checkSubscriptionExpiry(req.user._id);
-    
-    if (!subscriptionStatus.isPremium && user.subscription.quizzesCompleted >= user.subscription.maxQuizzes) {
-      return res.render("quiz-limit", {
-        title: "Quiz Limit Reached",
-        layout: false,
-        message: "You have reached your quiz limit. Upgrade to premium for unlimited access!",
-        isAuthenticated: true,
-        user: req.user,
-      });
-    }
-    
-    next();
-  } catch (error) {
-    console.error("Error checking quiz access:", error);
-    next();
   }
 }
 
@@ -180,27 +139,10 @@ app.get("/", async (req, res) => {
   // Get custom data files and add them to categories
   const customCategories = await getCustomDataFiles();
 
-  // Check user subscription status if authenticated
-  let userSubscription = null;
-  if (req.isAuthenticated()) {
-    try {
-      const user = await userOperations.findUserById(req.user._id);
-      const subscriptionStatus = await userOperations.checkSubscriptionExpiry(req.user._id);
-      userSubscription = {
-        isPremium: subscriptionStatus.isPremium,
-        quizzesCompleted: user.subscription.quizzesCompleted || 0,
-        maxQuizzes: subscriptionStatus.isPremium ? -1 : user.subscription.maxQuizzes || 3,
-      };
-    } catch (error) {
-      console.error("Error getting subscription status:", error);
-    }
-  }
-
   res.render("landing", {
     title: "QuizMaster - Test Your Knowledge",
     categories: quizCategories,
     customCategories: customCategories,
-    userSubscription: userSubscription,
     layout: false,
   });
 });
@@ -212,8 +154,11 @@ app.get("/stats", (req, res) => {
   });
 });
 
-app.get("/quiz/:category", checkQuizAccess, async (req, res) => {
+app.get("/quiz/:category", async (req, res) => {
   const category = req.params.category;
+
+  // Previously had biology-specific handling here
+  // That code has been removed
 
   // Handle custom quizzes
   if (category.startsWith("custom-")) {
@@ -237,7 +182,7 @@ app.get("/quiz/:category", checkQuizAccess, async (req, res) => {
 });
 
 // Add a route for custom quizzes
-app.get("/quiz/custom/:filename", checkQuizAccess, async (req, res) => {
+app.get("/quiz/custom/:filename", async (req, res) => {
   const filename = req.params.filename;
 
   try {
@@ -290,14 +235,6 @@ app.get("/quiz/custom/:filename", checkQuizAccess, async (req, res) => {
       id: `custom-${filename}`,
     };
 
-    // Increment quiz count for non-authenticated users
-    if (!req.isAuthenticated()) {
-      if (!req.session.quizzesCompleted) {
-        req.session.quizzesCompleted = 0;
-      }
-      req.session.quizzesCompleted++;
-    }
-
     res.render("quiz", {
       title: `${categoryDetails.title} Quiz`,
       questions: processedQuestions,
@@ -310,19 +247,9 @@ app.get("/quiz/custom/:filename", checkQuizAccess, async (req, res) => {
   }
 });
 
-// Chat endpoint - only for premium users
-app.post("/chat", requireAuth, checkSubscription, async (req, res) => {
+// Chat endpoint
+app.post("/chat", async (req, res) => {
   try {
-    // Check if user has premium access
-    const user = await userOperations.findUserById(req.user._id);
-    const subscriptionStatus = await userOperations.checkSubscriptionExpiry(req.user._id);
-    
-    if (!subscriptionStatus.isPremium) {
-      return res.status(403).json({ 
-        error: "AI support is only available for premium users. Please upgrade your subscription." 
-      });
-    }
-
     const { message } = req.body;
     const result = await model.generateContent(message);
     const response = await result.response;
@@ -338,45 +265,10 @@ app.get("/additional-quizzes", async (req, res) => {
   // Get custom data files
   const customCategories = await getCustomDataFiles();
 
-  // Check user subscription status if authenticated
-  let userSubscription = null;
-  if (req.isAuthenticated()) {
-    try {
-      const user = await userOperations.findUserById(req.user._id);
-      const subscriptionStatus = await userOperations.checkSubscriptionExpiry(req.user._id);
-      userSubscription = {
-        isPremium: subscriptionStatus.isPremium,
-        quizzesCompleted: user.subscription.quizzesCompleted || 0,
-        maxQuizzes: subscriptionStatus.isPremium ? -1 : user.subscription.maxQuizzes || 3,
-      };
-    } catch (error) {
-      console.error("Error getting subscription status:", error);
-    }
-  } else {
-    // For non-authenticated users
-    userSubscription = {
-      isPremium: false,
-      quizzesCompleted: req.session.quizzesCompleted || 0,
-      maxQuizzes: 3,
-    };
-  }
-
   res.render("additional-quizzes", {
     title: "Additional Quizzes - QuizMaster",
     customCategories: customCategories,
-    userSubscription: userSubscription,
     layout: false,
-  });
-});
-
-// Quiz limit page
-app.get("/quiz-limit", (req, res) => {
-  res.render("quiz-limit", {
-    title: "Quiz Limit Reached",
-    layout: false,
-    message: "You have reached your quiz limit. Please upgrade to continue!",
-    isAuthenticated: req.isAuthenticated(),
-    user: req.user,
   });
 });
 

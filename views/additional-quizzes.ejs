@@ -51,32 +51,11 @@
       </div>
     </section>
 
-    <!-- Subscription Status Alert -->
-    <% if (userSubscription && !userSubscription.isPremium) { %>
-    <div class="container mt-4">
-      <div class="quiz-limit-warning">
-        <h5><i class="fas fa-exclamation-triangle me-2"></i>Free Plan Limit</h5>
-        <p>
-          You have completed <%= userSubscription.quizzesCompleted %> out of <%= userSubscription.maxQuizzes %> free quizzes.
-          <% if (userSubscription.quizzesCompleted >= userSubscription.maxQuizzes) { %>
-            <strong>Upgrade to premium for unlimited access!</strong>
-          <% } %>
-        </p>
-        <% if (userSubscription.quizzesCompleted >= userSubscription.maxQuizzes) { %>
-        <button class="btn btn-warning btn-sm" onclick="showSubscriptionModal()">
-          <i class="fas fa-crown me-2"></i>Upgrade Now
-        </button>
-        <% } %>
-      </div>
-    </div>
-    <% } %>
-
     <!-- Custom Quizzes Section -->
     <section class="py-5">
       <div class="container">
         <div class="row mb-4">
           <div class="col-lg-8 mx-auto text-center">
-            
             <h2 class="mb-3">Custom Question Banks</h2>
             <p class="lead">
               Take quizzes from additional question collections
@@ -93,13 +72,9 @@
 
         <div class="row">
           <% if (customCategories && customCategories.length > 0) { %> <%
-          customCategories.forEach((category, index) => { 
-            const isDisabled = userSubscription && !userSubscription.isPremium && 
-                              userSubscription.quizzesCompleted >= userSubscription.maxQuizzes;
-            const isPremiumOnly = index >= 3 && userSubscription && !userSubscription.isPremium;
-          %>
+          customCategories.forEach(category => { %>
           <div class="col-md-6 col-lg-4 mb-4">
-            <div class="card category-card h-100 <%= isDisabled || isPremiumOnly ? 'quiz-disabled' : '' %>">
+            <div class="card category-card h-100">
               <div class="card-body text-center">
                 <div class="d-flex justify-content-center mb-3">
                   <div
@@ -110,30 +85,15 @@
                     ></i>
                   </div>
                 </div>
-                <h5 class="card-title">
-                  <%= category.title %>
-                  <% if (isPremiumOnly) { %>
-                    <span class="premium-badge">Premium</span>
-                  <% } %>
-                </h5>
+                <h5 class="card-title"><%= category.title %></h5>
                 <p class="card-text">
                   <%= category.description || 'Custom quiz questions' %>
                 </p>
-                <% if (isDisabled) { %>
-                  <button class="btn btn-warning" onclick="showSubscriptionModal()">
-                    <i class="fas fa-crown me-2"></i>Upgrade to Access
-                  </button>
-                <% } else if (isPremiumOnly) { %>
-                  <button class="btn btn-warning" onclick="showSubscriptionModal()">
-                    <i class="fas fa-lock me-2"></i>Premium Only
-                  </button>
-                <% } else { %>
-                  <a
-                    href="/quiz/custom/<%= category.filename.replace('.json', '') %>"
-                    class="btn btn-primary"
-                    >Start Quiz</a
-                  >
-                <% } %>
+                <a
+                  href="/quiz/custom/<%= category.filename.replace('.json', '') %>"
+                  class="btn btn-primary"
+                  >Start Quiz</a
+                >
               </div>
             </div>
           </div>
@@ -168,6 +128,5 @@
     <script src="/dark-mode.js"></script>
     <script src="/user-sync.js"></script>
     <script src="/additional-quizzes.js"></script>
-    <script src="/quiz.js"></script>
   </body>
 </html>
