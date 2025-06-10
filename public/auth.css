@@ -178,13 +178,13 @@
 .btn-primary.auth-btn {
   background: #007bff;
   color: white;
-  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+  box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
 }
 
 .btn-primary.auth-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(94, 120, 236, 0.4);
-  background: linear-gradient(135deg, #5a6fd8);
+  box-shadow: 0 6px 20px rgba(0, 123, 255, 0.4);
+  background: linear-gradient(135deg, #0062cc, #0069d9);
 }
 
 .btn-google.auth-btn {
