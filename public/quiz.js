@@ -665,8 +665,8 @@ function confirmQuitQuiz() {
     // Save to localStorage first
     localStorage.setItem("incompleteQuiz", JSON.stringify(progressData));
 
-    // Try to sync to server
-    window.userSync.saveQuizProgress(progressData);
+    // Try to sync to server using the existing forcSync method
+    window.userSync.forcSync();
   }
 
   // Clear current progress
