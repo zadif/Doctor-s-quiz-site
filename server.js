@@ -9,6 +9,12 @@ import session from "express-session";
 import MongoStore from "connect-mongo";
 import passport from "./config/passport.js";
 import authRoutes from "./routes/auth.js";
+import subscriptionRoutes from "./routes/subscription.js";
+import {
+  checkSubscription,
+  checkQuizAccess,
+  checkAIAccess,
+} from "./middleware/subscription.js";
 import { initializeDatabase, testConnection } from "./mongo.js";
 
 dotenv.config();
@@ -134,8 +140,11 @@ app.use(express.static("public"));
 // Auth routes
 app.use("/auth", authRoutes);
 
+// Subscription routes
+app.use("/subscription", subscriptionRoutes);
+
 // Routes
-app.get("/", async (req, res) => {
+app.get("/", checkSubscription, async (req, res) => {
   // Get custom data files and add them to categories
   const customCategories = await getCustomDataFiles();
 
@@ -154,101 +163,111 @@ app.get("/stats", (req, res) => {
   });
 });
 
-app.get("/quiz/:category", async (req, res) => {
-  const category = req.params.category;
+app.get(
+  "/quiz/:category",
+  checkSubscription,
+  checkQuizAccess,
+  async (req, res) => {
+    const category = req.params.category;
 
-  // Previously had biology-specific handling here
-  // That code has been removed
+    // Previously had biology-specific handling here
+    // That code has been removed
 
-  // Handle custom quizzes
-  if (category.startsWith("custom-")) {
-    // ...existing custom quiz handling...
-  } else {
-    // For other categories
-    const questions = []; // Get questions from other sources
-    const categoryDetails = quizCategories.find((cat) => cat.id === category);
+    // Handle custom quizzes
+    if (category.startsWith("custom-")) {
+      // ...existing custom quiz handling...
+    } else {
+      // For other categories
+      const questions = []; // Get questions from other sources
+      const categoryDetails = quizCategories.find((cat) => cat.id === category);
 
-    if (!categoryDetails) {
-      return res.redirect("/");
+      if (!categoryDetails) {
+        return res.redirect("/");
+      }
+
+      return res.render("quiz", {
+        title: `${categoryDetails.title} Quiz`,
+        questions: questions,
+        category: categoryDetails,
+        layout: false,
+      });
     }
-
-    return res.render("quiz", {
-      title: `${categoryDetails.title} Quiz`,
-      questions: questions,
-      category: categoryDetails,
-      layout: false,
-    });
   }
-});
+);
 
 // Add a route for custom quizzes
-app.get("/quiz/custom/:filename", async (req, res) => {
-  const filename = req.params.filename;
+app.get(
+  "/quiz/custom/:filename",
+  checkSubscription,
+  checkQuizAccess,
+  async (req, res) => {
+    const filename = req.params.filename;
 
-  try {
-    // Load custom questions from file
-    const filePath = join(__dirname, "data", `${filename}.json`);
-    const fileExists = await fs
-      .access(filePath)
-      .then(() => true)
-      .catch(() => false);
+    try {
+      // Load custom questions from file
+      const filePath = join(__dirname, "data", `${filename}.json`);
+      const fileExists = await fs
+        .access(filePath)
+        .then(() => true)
+        .catch(() => false);
 
-    if (!fileExists) {
-      return res.redirect("/");
+      if (!fileExists) {
+        return res.redirect("/");
+      }
+
+      const data = await fs.readFile(filePath, "utf8");
+      const questions = JSON.parse(data);
+
+      // Process the questions - assuming a format similar to other questions
+      const processedQuestions = questions.map((q) => {
+        // If the question has options array
+        if (Array.isArray(q.options)) {
+          return {
+            question: q.question,
+            options: q.options,
+            correctAnswer:
+              typeof q.correctAnswer === "number"
+                ? q.correctAnswer
+                : q.answer
+                ? q.answer.charCodeAt(0) - "A".charCodeAt(0)
+                : 0,
+            explanation: q.explanation || "No explanation provided.",
+          };
+        }
+        // If the question has A, B, C, D format
+        else if (q.A && q.B) {
+          return {
+            question: q.question,
+            options: [q.A, q.B, q.C || "", q.D || ""],
+            correctAnswer: ["A", "B", "C", "D"].indexOf(q.answer),
+            explanation: q.explanation || `The correct answer is ${q.answer}.`,
+          };
+        }
+        // Default format
+        return q;
+      });
+
+      const categoryDetails = {
+        title: filename.replace(/-/g, " ").replace(/_/g, " "),
+        icon: "fa-file-alt",
+        id: `custom-${filename}`,
+      };
+
+      res.render("quiz", {
+        title: `${categoryDetails.title} Quiz`,
+        questions: processedQuestions,
+        category: categoryDetails,
+        layout: false,
+      });
+    } catch (error) {
+      console.error(`Error loading custom quiz ${filename}:`, error);
+      res.redirect("/");
     }
-
-    const data = await fs.readFile(filePath, "utf8");
-    const questions = JSON.parse(data);
-
-    // Process the questions - assuming a format similar to other questions
-    const processedQuestions = questions.map((q) => {
-      // If the question has options array
-      if (Array.isArray(q.options)) {
-        return {
-          question: q.question,
-          options: q.options,
-          correctAnswer:
-            typeof q.correctAnswer === "number"
-              ? q.correctAnswer
-              : q.answer
-              ? q.answer.charCodeAt(0) - "A".charCodeAt(0)
-              : 0,
-          explanation: q.explanation || "No explanation provided.",
-        };
-      }
-      // If the question has A, B, C, D format
-      else if (q.A && q.B) {
-        return {
-          question: q.question,
-          options: [q.A, q.B, q.C || "", q.D || ""],
-          correctAnswer: ["A", "B", "C", "D"].indexOf(q.answer),
-          explanation: q.explanation || `The correct answer is ${q.answer}.`,
-        };
-      }
-      // Default format
-      return q;
-    });
-
-    const categoryDetails = {
-      title: filename.replace(/-/g, " ").replace(/_/g, " "),
-      icon: "fa-file-alt",
-      id: `custom-${filename}`,
-    };
-
-    res.render("quiz", {
-      title: `${categoryDetails.title} Quiz`,
-      questions: processedQuestions,
-      category: categoryDetails,
-      layout: false,
-    });
-  } catch (error) {
-    console.error(`Error loading custom quiz ${filename}:`, error);
-    res.redirect("/");
   }
-});
+);
 
 // Chat endpoint
-app.post("/chat", async (req, res) => {
+app.post("/chat", checkAIAccess, async (req, res) => {
   try {
     const { message } = req.body;
     const result = await model.generateContent(message);
@@ -260,8 +279,26 @@ app.post("/chat", async (req, res) => {
   }
 });
 
+// API route to check AI access for premium users
+app.get("/api/check-ai-access", checkAIAccess, (req, res) => {
+  res.json({ hasAccess: true });
+});
+
+// API route for AI chat (with premium check)
+app.post("/api/ai-chat", checkAIAccess, async (req, res) => {
+  try {
+    const { message } = req.body;
+    const result = await model.generateContent(message);
+    const response = await result.response;
+    res.json({ response: response.text() });
+  } catch (error) {
+    console.error("AI chat error:", error);
+    res.status(500).json({ error: "Failed to get AI response" });
+  }
+});
+
 // New route for additional quizzes
-app.get("/additional-quizzes", async (req, res) => {
+app.get("/additional-quizzes", checkSubscription, async (req, res) => {
   // Get custom data files
   const customCategories = await getCustomDataFiles();
 

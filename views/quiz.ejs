@@ -7,13 +7,19 @@
       content="width=device-width, maximum-scale=1.0, user-scalable=no"
     />
     <title><%= title %></title>
-    
+
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
     <!-- Include navbar -->
@@ -21,15 +27,25 @@
 
     <div class="quiz-container">
       <div class="category-header text-center mb-4">
-        <div class="category-icon-large bg-primary mb-3">
-          <i class="fas <%= category.icon %> fa-4x"></i>
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <button
+            class="btn btn-outline-danger"
+            onclick="showQuitConfirmation()"
+          >
+            <i class="fas fa-times me-2"></i>Quit Quiz
+          </button>
+          <div class="category-icon-large bg-primary">
+            <i class="fas <%= category.icon %> fa-4x"></i>
+          </div>
+          <div style="width: 100px"></div>
         </div>
         <h2 class="mb-3"><%= category.title %> Quiz</h2>
       </div>
 
       <div class="progress-container text-center mb-4">
         <h4>
-          Question <span id="currentQuestion">1</span> of <%= questions.length %>
+          Question <span id="currentQuestion">1</span> of <%= questions.length
+          %>
         </h4>
         <div class="progress">
           <div
@@ -170,12 +186,106 @@
           <div class="resize-handle"></div>
         </div>
       </div>
-
       <!-- Mobile-friendly chat button -->
       <div class="chat-widget-mobile d-sm-none">
         <button class="chat-button" onclick="toggleChat()">
           <i class="fas fa-comment-dots"></i>
         </button>
+      </div>
+
+      <!-- Mobile Chat Modal -->
+      <div
+        class="modal fade"
+        id="mobileChatModal"
+        tabindex="-1"
+        aria-labelledby="mobileChatModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog modal-fullscreen-sm-down">
+          <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+              <h5 class="modal-title" id="mobileChatModalLabel">
+                AI Assistant
+              </h5>
+              <button
+                type="button"
+                class="btn-close btn-close-white"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body p-0">
+              <div
+                class="chat-messages mobile-chat-messages"
+                id="mobileChatMessages"
+              ></div>
+            </div>
+            <div class="modal-footer">
+              <div class="input-group">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="mobileChatInput"
+                  placeholder="Ask a question..."
+                  onkeydown="if (event.key === 'Enter') sendMobileMessage()"
+                />
+                <button class="btn btn-primary" onclick="sendMobileMessage()">
+                  <i class="fas fa-paper-plane"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quit Quiz Confirmation Modal -->
+      <div
+        class="modal fade"
+        id="quitQuizModal"
+        tabindex="-1"
+        aria-labelledby="quitQuizModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="quitQuizModalLabel">Confirm Quit</h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <p>Are you sure you want to quit this quiz?</p>
+              <% if (!locals.isAuthenticated) { %>
+              <div class="alert alert-warning">
+                <i class="fas fa-exclamation-triangle me-2"></i>
+                Your progress will not be saved.
+                <a href="/auth/signup">Sign up</a> or
+                <a href="/auth/login">login</a> to save progress.
+              </div>
+              <% } %>
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Continue Quiz
+              </button>
+              <button
+                type="button"
+                class="btn btn-danger"
+                onclick="confirmQuitQuiz()"
+              >
+                Yes, Quit Quiz
+              </button>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 

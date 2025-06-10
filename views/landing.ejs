@@ -21,6 +21,9 @@
     <!-- Include navbar -->
     <%- include('partials/navbar') %>
 
+    <!-- Subscription Notice -->
+    <%- include('partials/subscription-notice') %>
+
     <!-- Hero Section with Image -->
     <section class="hero-section">
       <div class="container">
@@ -32,14 +35,14 @@
               understanding with intelligent explanations.
             </p>
             <% if (!isAuthenticated) { %>
-              <div class="mt-4">
-                <a href="/auth/signup" class="btn btn-light btn-lg me-3">
-                  <i class="fas fa-user-plus me-2"></i>Get Started
-                </a>
-                <a href="/auth/login" class="btn btn-outline-light btn-lg">
-                  <i class="fas fa-sign-in-alt me-2"></i>Sign In
-                </a>
-              </div>
+            <div class="mt-4">
+              <a href="/auth/signup" class="btn btn-light btn-lg me-3">
+                <i class="fas fa-user-plus me-2"></i>Get Started
+              </a>
+              <a href="/auth/login" class="btn btn-outline-light btn-lg">
+                <i class="fas fa-sign-in-alt me-2"></i>Sign In
+              </a>
+            </div>
             <% } %>
           </div>
           <div class="col-md-6 hero-image">

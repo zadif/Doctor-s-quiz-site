@@ -153,9 +153,14 @@ body.dark-mode footer a {
   color: #e0e0e0;
 }
 
-/* Blur effect for background when modal is open */
-.modal-open .quiz-container {
+/* Blur effect for background when specific modals are open */
+.modal-open.blur-background .quiz-container:not(.no-blur) {
   filter: blur(5px);
+}
+
+/* Never apply blur to mobile chat modal */
+body.modal-open:has(#mobileChatModal.show) .quiz-container {
+  filter: none !important; /* Use !important to override all other blur effects */
 }
 
 body.dark-mode .explanation-modal {
@@ -164,7 +169,7 @@ body.dark-mode .explanation-modal {
 }
 
 /* Ensure chat box appears closed when blur effect is applied */
-.modal-open .chat-sidebar {
+.modal-open.blur-background .chat-sidebar {
   right: -400px;
   display: none; /* Ensure chat box is hidden */
 }
@@ -671,15 +676,42 @@ body.dark-mode .chat-header {
   max-width: 80%;
 }
 
+.message .message-content {
+  word-wrap: break-word;
+}
+
+.message .message-time {
+  font-size: 0.7rem;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: right;
+  margin-top: 5px;
+}
+
 .user-message {
   background: var(--primary-color);
   color: white;
   margin-left: auto;
 }
 
+.user-message .message-time {
+  color: rgba(255, 255, 255, 0.7);
+}
+
 .ai-message {
   background: var(--chat-bg);
   color: #333;
+  margin-right: auto;
+}
+
+/* Styling for the thinking indicator */
+.ai-message.loading {
+  background: rgba(200, 200, 200, 0.3);
+  color: #555;
+}
+
+body.dark-mode .ai-message.loading {
+  background: rgba(60, 60, 60, 0.3);
+  color: #bbb;
 }
 
 .chat-input {
@@ -696,6 +728,125 @@ body.dark-mode .chat-input {
 body.dark-mode .chat-input .btn-primary {
   background-color: var(--text-color);
   color: var(--bg-color);
+}
+
+/* Mobile Chat Widget */
+.chat-widget-mobile {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.chat-widget-mobile .chat-button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.chat-widget-mobile .chat-button:hover {
+  transform: scale(1.1);
+}
+
+/* Mobile Chat Modal Styles */
+.mobile-chat-messages {
+  background: var(--chat-bg);
+  padding: 1rem;
+  height: calc(100vh - 170px) !important; /* Adjust height for better display */
+  overflow-y: auto;
+}
+
+.mobile-chat-messages .message {
+  margin-bottom: 15px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.mobile-chat-messages .message .message-time {
+  font-size: 0.7rem;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: right;
+  margin-top: 5px;
+}
+
+.mobile-chat-messages .user-message {
+  background: var(--primary-color);
+  color: white;
+  margin-left: auto;
+  text-align: right;
+}
+
+.mobile-chat-messages .user-message .message-time {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.mobile-chat-messages .ai-message {
+  background: #e9ecef;
+  color: #333;
+  margin-right: auto;
+}
+
+/* Styling for the thinking indicator in mobile */
+.mobile-chat-messages .ai-message.loading {
+  background: rgba(200, 200, 200, 0.3);
+  color: #555;
+}
+
+body.dark-mode .mobile-chat-messages {
+  background-color: #2a2a2a;
+}
+
+body.dark-mode .mobile-chat-messages .ai-message {
+  background-color: #444;
+  color: #e0e0e0;
+}
+
+/* Quit Quiz Modal Styles */
+.modal-header {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.modal-footer {
+  border-top: 1px solid #dee2e6;
+}
+
+/* Mobile Chat Modal Styles */
+#mobileChatModal .modal-content {
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+#mobileChatModal .modal-body {
+  background-color: var(--chat-bg);
+}
+
+body.dark-mode .modal-content {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+}
+
+/* Premium Alert Styles */
+.alert.position-fixed {
+  animation: slideInRight 0.3s ease;
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
 }
 
 /* Chat Input */
@@ -1267,9 +1418,15 @@ body.dark-mode footer a {
   color: #e0e0e0;
 }
 
-/* Blur effect for background when modal is open */
-.modal-open .quiz-container {
+/* Blur effect for specific modals only, excluding the quit and chat modals */
+.modal-open .quiz-container:not(.no-blur) {
   filter: blur(5px);
+}
+
+/* Disable blur effect for quit confirmation modal and mobile chat modal */
+.modal-backdrop + .modal-open .quiz-container,
+body.modal-open:has(#mobileChatModal.show) .quiz-container {
+  filter: none;
 }
 
 body.dark-mode .category-header {
@@ -1995,5 +2152,28 @@ body.dark-mode .quit-content {
 
   .quit-buttons .btn {
     width: 100%;
+  }
+}
+
+/* Fix for mobile chat modal to avoid white blocks */
+#mobileChatModal .modal-dialog {
+  margin: 0;
+  max-width: 100%;
+  height: 100%;
+}
+
+#mobileChatModal .modal-dialog.modal-fullscreen-sm-down {
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  #mobileChatModal .modal-dialog {
+    height: 100vh;
+  }
+
+  #mobileChatModal .modal-content {
+    height: 100vh;
+    border-radius: 0;
+    border: none;
   }
 }

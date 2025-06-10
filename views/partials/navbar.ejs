@@ -24,18 +24,21 @@
       >
         <a href="/additional-quizzes" class="btn btn-outline-light">
           <i class="fas fa-book me-2"></i>Categories
-        </a>
-        <a href="/stats" class="btn btn-outline-light">
+        </a>        <a href="/stats" class="btn btn-outline-light">
           <i class="fas fa-chart-line me-2"></i>Statistics
         </a>
         
         <% if (isAuthenticated) { %>
+          <a href="/subscription" class="btn <%= locals.isPremium ? 'btn-warning' : 'btn-outline-light' %>">
+            <i class="fas <%= locals.isPremium ? 'fa-crown' : 'fa-star' %> me-2"></i>
+            <%= locals.isPremium ? 'Premium' : 'Upgrade' %>
+          </a>
           <div class="dropdown">
             <button class="btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown">
               <i class="fas fa-user me-2"></i><%= user.name %>
-            </button>
-            <ul class="dropdown-menu">
+            </button>            <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/profile"><i class="fas fa-user me-2"></i>Profile</a></li>
+              <li><a class="dropdown-item" href="/subscription"><i class="fas <%= locals.isPremium ? 'fa-crown' : 'fa-star' %> me-2"></i><%= locals.isPremium ? 'Subscription Status' : 'Upgrade to Premium' %></a></li>
               <li><hr class="dropdown-divider"></li>
               <li>
                 <form action="/auth/logout" method="POST" class="d-inline">

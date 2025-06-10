@@ -65,6 +65,8 @@ export const userOperations = {
           expiryDate: null,
           quizzesCompleted: 0,
           maxQuizzes: 3, // Free users can take 3 quizzes
+          quizzesAccessed: [], // Track which quizzes were accessed
+          paymentHistory: [], // Store payment records
         },
         quizStats: {
           quizzes: [],
@@ -153,8 +155,14 @@ export const userOperations = {
       }
 
       // Check if user has exceeded quiz limit
-      if (!user.subscription.isPremium && user.subscription.quizzesCompleted >= user.subscription.maxQuizzes) {
-        return { success: false, error: "Quiz limit exceeded. Please upgrade to premium." };
+      if (
+        !user.subscription.isPremium &&
+        user.subscription.quizzesCompleted >= user.subscription.maxQuizzes
+      ) {
+        return {
+          success: false,
+          error: "Quiz limit exceeded. Please upgrade to premium.",
+        };
       }
 
       const updatedStats = {
@@ -187,7 +195,11 @@ export const userOperations = {
         }
       );
 
-      return { success: true, stats: updatedStats, subscription: updatedSubscription };
+      return {
+        success: true,
+        stats: updatedStats,
+        subscription: updatedSubscription,
+      };
     } catch (error) {
       console.error("Error updating quiz stats:", error);
       return { success: false, error: error.message };
@@ -203,7 +215,6 @@ export const userOperations = {
       if (!user) {
         return { success: false, error: "User not found" };
       }
-
       const subscriptionDate = new Date();
       const expiryDate = new Date();
       expiryDate.setMonth(expiryDate.getMonth() + 1); // 1 month subscription
@@ -214,9 +225,19 @@ export const userOperations = {
         expiryDate: expiryDate,
         quizzesCompleted: user.subscription.quizzesCompleted || 0,
         maxQuizzes: -1, // Unlimited for premium users
-        paymentMethod: subscriptionData.paymentMethod,
-        paymentId: subscriptionData.paymentId,
-        amount: subscriptionData.amount,
+        quizzesAccessed: user.subscription.quizzesAccessed || [],
+        paymentHistory: [
+          ...(user.subscription.paymentHistory || []),
+          {
+            paymentId: subscriptionData.paymentId,
+            paymentMethod: subscriptionData.paymentMethod,
+            amount: subscriptionData.amount,
+            phoneNumber: subscriptionData.phoneNumber,
+            transactionId: subscriptionData.transactionId,
+            date: subscriptionDate,
+            status: "completed",
+          },
+        ],
       };
 
       const result = await collection.updateOne(
@@ -240,14 +261,14 @@ export const userOperations = {
   async checkSubscriptionExpiry(userId) {
     try {
       const user = await this.findUserById(userId);
-      
+
       if (!user || !user.subscription.isPremium) {
         return { isExpired: false, isPremium: false };
       }
 
       const now = new Date();
       const expiryDate = new Date(user.subscription.expiryDate);
-      
+
       if (now > expiryDate) {
         // Subscription expired, downgrade to free
         await this.updateUser(userId, {
@@ -255,7 +276,7 @@ export const userOperations = {
             ...user.subscription,
             isPremium: false,
             maxQuizzes: 3,
-          }
+          },
         });
         return { isExpired: true, isPremium: false };
       }
@@ -286,7 +307,6 @@ export const userOperations = {
       return { success: false, error: error.message };
     }
   },
-
   // Save incomplete quiz progress
   async saveQuizProgress(userId, progressData) {
     try {
@@ -303,6 +323,113 @@ export const userOperations = {
       return { success: true };
     } catch (error) {
       console.error("Error saving quiz progress:", error);
+      return { success: false, error: error.message };
+    }
+  },
+
+  // Check if user can access a specific quiz
+  async canAccessQuiz(userId, quizId) {
+    try {
+      const user = await this.findUserById(userId);
+
+      if (!user) {
+        return { canAccess: false, reason: "User not found" };
+      }
+
+      // Check subscription expiry first
+      const expiryCheck = await this.checkSubscriptionExpiry(userId);
+
+      // Premium users with valid subscription can access all quizzes
+      if (expiryCheck.isPremium && !expiryCheck.isExpired) {
+        return { canAccess: true, reason: "premium" };
+      }
+
+      // Check if quiz was already accessed
+      const accessedQuizzes = user.subscription.quizzesAccessed || [];
+      if (accessedQuizzes.includes(quizId)) {
+        return { canAccess: true, reason: "alreadyAccessed" };
+      }
+
+      // Check if user has reached free quiz limit
+      if (accessedQuizzes.length >= 3) {
+        return { canAccess: false, reason: "limitExceeded" };
+      }
+
+      // User can access this quiz (within free limit)
+      return { canAccess: true, reason: "withinLimit" };
+    } catch (error) {
+      console.error("Error checking quiz access:", error);
+      return { canAccess: false, reason: "error" };
+    }
+  },
+
+  // Record quiz access
+  async recordQuizAccess(userId, quizId) {
+    try {
+      const collection = await getCollection();
+      const user = await this.findUserById(userId);
+
+      if (!user) {
+        return { success: false, error: "User not found" };
+      }
+
+      const accessedQuizzes = user.subscription.quizzesAccessed || [];
+
+      // Don't record if already accessed
+      if (accessedQuizzes.includes(quizId)) {
+        return { success: true, message: "Quiz already accessed" };
+      }
+
+      // Add to accessed quizzes
+      const updatedQuizzes = [...accessedQuizzes, quizId];
+
+      const result = await collection.updateOne(
+        { _id: new ObjectId(userId) },
+        {
+          $set: {
+            "subscription.quizzesAccessed": updatedQuizzes,
+            updatedAt: new Date(),
+          },
+        }
+      );
+
+      return { success: true, accessedQuizzes: updatedQuizzes };
+    } catch (error) {
+      console.error("Error recording quiz access:", error);
+      return { success: false, error: error.message };
+    }
+  },
+
+  // Cancel subscription
+  async cancelSubscription(userId) {
+    try {
+      const collection = await getCollection();
+      const user = await this.findUserById(userId);
+
+      if (!user) {
+        return { success: false, error: "User not found" };
+      }
+
+      const updatedSubscription = {
+        ...user.subscription,
+        isPremium: false,
+        expiryDate: null,
+        maxQuizzes: 3,
+      };
+
+      const result = await collection.updateOne(
+        { _id: new ObjectId(userId) },
+        {
+          $set: {
+            subscription: updatedSubscription,
+            updatedAt: new Date(),
+          },
+        }
+      );
+
+      return { success: true, subscription: updatedSubscription };
+    } catch (error) {
+      console.error("Error cancelling subscription:", error);
       return { success: false, error: error.message };
     }
   },
