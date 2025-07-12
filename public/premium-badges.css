@@ -1,0 +1,122 @@
+/* Global rule to override any Bootstrap or framework styles that might affect premium badge */
+.premium-badge *,
+.premium-badge span,
+.premium-badge i,
+.premium-text {
+  color: #000000 !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+  font-weight: bold !important;
+}
+
+/* Crown icon specific styling */
+.premium-badge i.fa-crown,
+.premium-badge svg.fa-crown,
+.dark-mode .premium-badge i.fa-crown,
+.dark-mode .premium-badge svg.fa-crown {
+  color: #000000 !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+  fill: #000000 !important; /* For SVG rendering */
+}
+
+/* Handle SVG path elements for Font Awesome icons */
+.premium-badge svg.fa-crown path,
+.dark-mode .premium-badge svg.fa-crown path {
+  fill: #000000 !important;
+}
+
+/* Premium badge container */
+.premium-badge-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  z-index: 5;
+}
+
+/* Premium badge styles */
+.premium-badge {
+  background: #ffcc00;
+  color: #000000;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font-size: 1.3rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  border: none;
+  min-width: 80%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Premium text style */
+.premium-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #000000;
+}
+
+/* Disabled card styles */
+.category-card.disabled {
+  opacity: 0.9;
+  position: relative;
+  transition: none;
+  overflow: hidden;
+}
+
+.category-card.disabled:hover {
+  transform: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.category-card.disabled::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(2px);
+  z-index: 1;
+  border-radius: inherit;
+}
+
+.category-card.disabled .btn {
+  pointer-events: none;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+/* Dark mode support */
+.dark-mode .premium-badge {
+  /* Using same styling as light mode but with more vivid yellow */
+  background: #ffdd00 !important;
+  color: #000000 !important;
+  box-shadow: 0 4px 15px rgba(255, 221, 0, 0.4);
+}
+
+.dark-mode .premium-text,
+.dark-mode .premium-badge span,
+.dark-mode .premium-badge-container .premium-badge span,
+.dark-mode .premium-badge .premium-text {
+  /* Force black text color with maximum specificity */
+  color: #000000 !important;
+  opacity: 1 !important;
+}
+
+/* Only adjust the card background in dark mode for better contrast */
+.dark-mode .category-card.disabled::before {
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(1px);
+}

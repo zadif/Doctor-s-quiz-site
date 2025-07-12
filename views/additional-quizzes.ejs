@@ -28,6 +28,7 @@
     />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/premium-badges.css" />
   </head>
   <body>
     <!-- Dark mode initialization overlay -->
@@ -48,6 +49,14 @@
               Explore specialized and custom quizzes designed to challenge your
               knowledge across various domains.
             </p>
+            <% if (!isPremium) { %>
+            <div class="alert alert-info">
+              <i class="fas fa-info-circle me-2"></i> Free users can access only
+              the first 3 quizzes.
+              <a href="/subscription" class="alert-link">Upgrade to Premium</a>
+              for unlimited access.
+            </div>
+            <% } %>
           </div>
         </div>
       </div>
@@ -74,9 +83,22 @@
 
         <div class="row">
           <% if (customCategories && customCategories.length > 0) { %> <%
-          customCategories.forEach(category => { %>
+          customCategories.forEach((category, index) => { %>
           <div class="col-md-6 col-lg-4 mb-4">
-            <div class="card category-card h-100">
+            <div
+              class="card category-card h-100 <%= (!isPremium && index >= 3) ? 'disabled' : '' %>"
+            >
+              <% if (!isPremium && index >= 3) { %>
+              <a href="/subscription" class="premium-badge-container">
+                <div class="premium-badge">
+                  <i
+                    class="fas fa-crown me-2"
+                    style="color: #000 !important"
+                  ></i
+                  ><span class="premium-text">Premium Only</span>
+                </div>
+              </a>
+              <% } %>
               <div class="card-body text-center">
                 <div class="d-flex justify-content-center mb-3">
                   <div
@@ -91,11 +113,17 @@
                 <p class="card-text">
                   <%= category.description || 'Custom quiz questions' %>
                 </p>
+                <% if (isPremium || index < 3) { %>
                 <a
                   href="/quiz/custom/<%= category.filename.replace('.json', '') %>"
                   class="btn btn-primary"
                   >Start Quiz</a
                 >
+                <% } else { %>
+                <a href="/subscription" class="btn btn-primary"
+                  >Upgrade to Premium</a
+                >
+                <% } %>
               </div>
             </div>
           </div>
