@@ -1,0 +1,347 @@
+/* Subscription Pages - Common Styles */
+:root {
+  --subscription-gradient-start: #f6d365;
+  --subscription-gradient-end: #fda085;
+  --subscription-shadow: rgba(0, 0, 0, 0.1);
+  --subscription-shadow-hover: rgba(0, 0, 0, 0.15);
+}
+
+/* Common layout styles */
+.card-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.secure-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+  color: #6c757d;
+}
+
+.secure-badge i {
+  margin-right: 0.5rem;
+  color: #28a745;
+}
+
+/* Subscription Index Page Styles */
+.premium-badge {
+  display: inline-block;
+  background: linear-gradient(
+    135deg,
+    var(--subscription-gradient-start) 0%,
+    var(--subscription-gradient-end) 100%
+  );
+  color: #333;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.subscription-card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px var(--subscription-shadow);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.subscription-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px var(--subscription-shadow-hover);
+}
+
+.subscription-card .card-header {
+  background: var(--primary-color);
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+  border-bottom: none;
+}
+
+.subscription-card.premium .card-header {
+  background: linear-gradient(
+    135deg,
+    var(--subscription-gradient-start) 0%,
+    var(--subscription-gradient-end) 100%
+  );
+}
+
+.subscription-card .price {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.subscription-card .period {
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+.subscription-card .card-body {
+  padding: 2rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.feature-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+  flex-grow: 1;
+}
+
+.feature-list li {
+  padding: 0.5rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.feature-list .fa-check {
+  color: #28a745;
+  margin-right: 0.75rem;
+}
+
+.feature-list .fa-times {
+  color: #dc3545;
+  margin-right: 0.75rem;
+}
+
+.subscription-btn {
+  margin-top: auto;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+}
+
+.progress-container {
+  margin: 2rem 0;
+}
+
+.progress-container .progress {
+  height: 10px;
+  border-radius: 10px;
+  margin-top: 0.5rem;
+}
+
+.advantages-list {
+  border-left: 3px solid var(--primary-color);
+  padding-left: 1.5rem;
+  list-style: none;
+  margin: 2rem 0;
+}
+
+.advantages-list li {
+  margin-bottom: 1rem;
+}
+
+.advantages-list strong {
+  color: var(--primary-color);
+  margin-right: 0.5rem;
+}
+
+.payment-methods {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.payment-method {
+  width: 60px;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.6;
+  transition: all 0.3s ease;
+}
+
+.payment-method:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+/* Checkout Page Styles */
+.checkout-container {
+  max-width: 700px;
+  margin: 2rem auto;
+}
+
+.checkout-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.checkout-card {
+  border-radius: 15px;
+  box-shadow: 0 10px 30px var(--subscription-shadow);
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.checkout-summary {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.checkout-form {
+  padding: 2rem;
+}
+
+.payment-header {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.payment-methods {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.payment-method-option {
+  flex: 1;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.payment-method-option:hover {
+  border-color: var(--primary-color);
+  background-color: #f8f9fa;
+}
+
+.payment-method-option.selected {
+  border-color: var(--primary-color);
+  background-color: rgba(13, 110, 253, 0.1);
+}
+
+.payment-method-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.payment-instructions {
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+}
+
+/* Dark Mode Styles */
+html.dark-mode .subscription-container {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+html.dark-mode .subscription-card {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+html.dark-mode .checkout-summary,
+html.dark-mode .free-tier-list,
+html.dark-mode .premium-tier-list {
+  background-color: #262626;
+  color: #e0e0e0;
+}
+
+html.dark-mode .list-group-item {
+  background-color: #262626;
+  color: #e0e0e0;
+  border-color: #333;
+}
+
+html.dark-mode .card-body,
+html.dark-mode .card-footer {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+html.dark-mode .table {
+  color: #e0e0e0;
+}
+
+html.dark-mode .table th,
+html.dark-mode .table td {
+  border-color: #333;
+}
+
+html.dark-mode .checkout-container {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+html.dark-mode .checkout-card {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+html.dark-mode .checkout-summary {
+  background-color: #262626;
+  color: #e0e0e0;
+  border-color: #333;
+}
+
+html.dark-mode .form-control,
+html.dark-mode .form-select {
+  background-color: #333;
+  color: #e0e0e0;
+  border-color: #444;
+}
+
+html.dark-mode .form-control:focus,
+html.dark-mode .form-select:focus {
+  background-color: #333;
+  color: #e0e0e0;
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
+}
+
+html.dark-mode .payment-header {
+  border-color: #333;
+}
+
+html.dark-mode .form-label {
+  color: #e0e0e0;
+}
+
+html.dark-mode .form-check-label {
+  color: #e0e0e0;
+}
+
+html.dark-mode .payment-method-option {
+  border-color: #444;
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+html.dark-mode .payment-method-option:hover {
+  border-color: var(--primary-color);
+  background-color: #262626;
+}
+
+html.dark-mode .payment-method-option.selected {
+  border-color: var(--primary-color);
+  background-color: rgba(0, 123, 255, 0.2);
+}
+
+html.dark-mode .payment-instructions {
+  background-color: #262626;
+  color: #e0e0e0;
+}

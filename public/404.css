@@ -1,5 +1,20 @@
 @import url("https://fonts.googleapis.com/css?family=Fira+Sans");
 /*Variables*/
+:root {
+  --error-background-start: #0c0e10;
+  --error-background-end: #446182;
+  --error-text-color: #f5f6fa;
+  --error-ground-color: #0c0e10;
+}
+
+/* Dark mode variables */
+html.dark-mode {
+  --error-background-start: #121212;
+  --error-background-end: #333333;
+  --error-text-color: #e0e0e0;
+  --error-ground-color: #1e1e1e;
+}
+
 .left-section .inner-content {
   position: absolute;
   top: 50%;
@@ -18,7 +33,7 @@ body {
 
 body {
   font-family: "Fira Sans", sans-serif;
-  color: #f5f6fa;
+  color: var(--error-text-color);
 }
 
 .background {
@@ -27,14 +42,17 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(#0c0e10, #446182);
+  background: linear-gradient(
+    var(--error-background-start),
+    var(--error-background-end)
+  );
 }
 .background .ground {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 25vh;
-  background: #0c0e10;
+  background: var(--error-ground-color);
 }
 @media (max-width: 770px) {
   .background .ground {
