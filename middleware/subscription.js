@@ -2,9 +2,12 @@ import { userOperations } from "../mongo.js";
 
 // Middleware to check if user can access premium content
 export const checkSubscription = async (req, res, next) => {
-  // If not authenticated, redirect to login
+  // If not authenticated, simply continue without subscription info
+  // This allows non-authenticated users to view the home page
   if (!req.isAuthenticated()) {
-    return res.redirect("/auth/login");
+    res.locals.isPremium = false;
+    res.locals.accessedQuizzes = [];
+    return next();
   }
 
   try {
@@ -25,9 +28,11 @@ export const checkSubscription = async (req, res, next) => {
 
 // Middleware to check if user can access a specific quiz
 export const checkQuizAccess = async (req, res, next) => {
-  // If not authenticated, redirect to login
+  // If not authenticated, show quiz with limited functionality
   if (!req.isAuthenticated()) {
-    return res.redirect("/auth/login");
+    res.locals.isPremium = false;
+    res.locals.accessedQuizzes = [];
+    return next();
   }
 
   const quizId = req.params.category || req.params.filename;
@@ -69,9 +74,12 @@ export const checkQuizAccess = async (req, res, next) => {
 
 // Middleware to check AI chat access (premium only)
 export const checkAIAccess = async (req, res, next) => {
-  // If not authenticated, redirect to login
+  // If not authenticated, return a message prompting to login but don't redirect
   if (!req.isAuthenticated()) {
-    return res.status(401).json({ error: "Please login to access AI chat" });
+    return res.status(401).json({
+      error: "Please login to access AI chat",
+      requiresAuth: true,
+    });
   }
 
   try {

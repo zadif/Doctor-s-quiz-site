@@ -651,27 +651,59 @@ function showQuitConfirmation() {
   quitModal.show();
 }
 
-function confirmQuitQuiz() {
+async function confirmQuitQuiz() {
+  // Show loading overlay
+  showLoadingOverlay("Saving your progress...");
+
   // Save progress if user is authenticated
   if (window.userSync && window.userSync.isAuthenticated) {
+    // Get category from the header
+    const categoryText = document.querySelector(
+      ".category-header h2"
+    ).textContent;
+    const categoryName = categoryText.replace(" Quiz", "").trim();
+
+    // Get the current question text
+    const currentQuestion = getCurrentQuestionText(); // Get total number of questions from the DOM
+    const totalQuestions = getTotalQuestionCount();
+
     const progressData = {
-      category: document.querySelector(".category-header h2").textContent,
+      category: categoryName,
       currentQuestion: currentQuestionIndex,
+      questionText: currentQuestion,
       score: score,
+      totalQuestions: totalQuestions,
       timestamp: new Date(),
-      status: "quit",
+      status: "cancelled",
+      percentageCompleted:
+        totalQuestions > 0
+          ? Math.round((currentQuestionIndex / totalQuestions) * 100)
+          : 0,
     };
 
     // Save to localStorage first
     localStorage.setItem("incompleteQuiz", JSON.stringify(progressData));
 
-    // Try to sync to server using the existing forcSync method
-    window.userSync.forcSync();
+    // Save the quiz status to quizStats as well to track history
+    saveQuizStatus(progressData);
+
+    try {
+      // Send direct API call to ensure the cancelled quiz is saved properly
+      await saveQuizCancellation(progressData);
+
+      // Try to sync to server using the existing forcSync method
+      await window.userSync.forcSync();
+    } catch (error) {
+      console.error("Failed to save quiz cancellation:", error);
+    }
   }
 
   // Clear current progress
   localStorage.removeItem(PROGRESS_KEY);
   localStorage.removeItem(CURRENT_SCORE_KEY);
+
+  // Hide loading overlay
+  hideLoadingOverlay();
 
   // Redirect to homepage
   window.location.href = "/";
@@ -743,12 +775,80 @@ function addMessageToMobileChat(sender, message) {
   const chatMessages = document.getElementById("mobileChatMessages");
   const messageDiv = document.createElement("div");
   messageDiv.className = `message ${sender}-message`;
+
+  // Only add copy button for AI messages, not user messages
+  const copyButton =
+    sender === "ai"
+      ? `<button class="copy-button" onclick="copyToClipboard(this)" aria-label="Copy to clipboard">
+      <i class="fas fa-copy"></i>
+    </button>`
+      : "";
+
   messageDiv.innerHTML = `
-    <div class="message-content">${message}</div>
+    <div class="message-content">
+      ${message}
+      ${copyButton}
+    </div>
     <div class="message-time">${new Date().toLocaleTimeString()}</div>
   `;
   chatMessages.appendChild(messageDiv);
   chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+// Function to copy AI message content to clipboard
+function copyToClipboard(button) {
+  // Get the message content container (parent of the button)
+  const messageContent = button.closest(".message-content");
+
+  // Create a temporary textarea to hold the text
+  const textarea = document.createElement("textarea");
+
+  // Get just the text content without the button HTML
+  const contentWithoutButton = messageContent.innerHTML
+    .replace(/<button.*?<\/button>/g, "") // Remove button HTML
+    .trim();
+
+  // Set the textarea value to the cleaned content
+  textarea.value = messageContent.textContent.trim();
+
+  // Make the textarea invisible
+  textarea.style.position = "absolute";
+  textarea.style.left = "-9999px";
+
+  // Add to DOM, select all text, and copy
+  document.body.appendChild(textarea);
+  textarea.select();
+
+  try {
+    // Execute copy command
+    const successful = document.execCommand("copy");
+
+    // Show feedback by temporarily changing button icon
+    if (successful) {
+      const icon = button.querySelector("i");
+      const originalClass = icon.className;
+
+      // Change to checkmark
+      icon.className = "fas fa-check";
+
+      // Create and show a tooltip
+      const tooltip = document.createElement("div");
+      tooltip.className = "copy-tooltip";
+      tooltip.textContent = "Copied!";
+      button.appendChild(tooltip);
+
+      // Reset icon and remove tooltip after delay
+      setTimeout(() => {
+        icon.className = originalClass;
+        tooltip.remove();
+      }, 1500);
+    }
+  } catch (err) {
+    console.error("Failed to copy text: ", err);
+  }
+
+  // Clean up
+  document.body.removeChild(textarea);
 }
 
 // AI Access Control
@@ -863,10 +963,146 @@ function addMessageToChat(sender, message) {
   const chatMessages = document.getElementById("chatMessages");
   const messageDiv = document.createElement("div");
   messageDiv.className = `message ${sender}-message`;
+
+  // Only add copy button for AI messages, not user messages
+  const copyButton =
+    sender === "ai"
+      ? `<button class="copy-button" onclick="copyToClipboard(this)" aria-label="Copy to clipboard">
+      <i class="fas fa-copy"></i>
+    </button>`
+      : "";
+
   messageDiv.innerHTML = `
-    <div class="message-content">${message}</div>
+    <div class="message-content">
+      ${message}
+      ${copyButton}
+    </div>
     <div class="message-time">${new Date().toLocaleTimeString()}</div>
   `;
   chatMessages.appendChild(messageDiv);
   chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+function getCurrentQuestionText() {
+  // Get the active carousel item
+  const activeItem = document.querySelector(".carousel-item.active");
+  if (!activeItem) return "";
+
+  // Get the question text from the active item
+  const questionElement = activeItem.querySelector(".card-title");
+  return questionElement ? questionElement.textContent.trim() : "";
+}
+
+function saveQuizStatus(progressData) {
+  // Get existing quiz stats or create new ones
+  let quizStats = JSON.parse(
+    localStorage.getItem("quizStats") || '{"quizzes":[], "totalQuizzes":0}'
+  );
+
+  // Add new quiz attempt with cancelled status
+  quizStats.quizzes.push({
+    id: Date.now(),
+    category: progressData.category,
+    status: "cancelled",
+    score: progressData.score,
+    totalQuestions: progressData.totalQuestions,
+    completedQuestions: progressData.currentQuestion,
+    percentageCompleted: progressData.percentageCompleted,
+    date: new Date().toISOString(),
+    lastQuestion: progressData.questionText,
+  });
+
+  // Update total quizzes
+  quizStats.totalQuizzes = quizStats.quizzes.length;
+
+  // Save back to localStorage
+  localStorage.setItem("quizStats", JSON.stringify(quizStats));
+}
+
+function getTotalQuestionCount() {
+  // First try to get it from the progress container text which shows "Question X of Y"
+  const progressText = document.querySelector(".progress-container h4");
+  if (progressText) {
+    const match = progressText.textContent.match(/of\s+(\d+)/i);
+    if (match && match[1]) {
+      return parseInt(match[1], 10);
+    }
+  }
+
+  // Second, try counting carousel items (excluding the results slide)
+  const carouselItems = document.querySelectorAll(".carousel-item");
+  if (carouselItems.length > 0) {
+    // Subtract 1 for the results slide if it exists
+    const lastItem = carouselItems[carouselItems.length - 1];
+    const isResultsSlide =
+      lastItem.querySelector(".card-body.text-center") !== null;
+    return isResultsSlide ? carouselItems.length - 1 : carouselItems.length;
+  }
+
+  // As a fallback, return a default
+  return currentQuestionIndex + 1; // Assume we're at least on the current question
+}
+
+// Function to make a direct API call to save the quiz cancellation
+async function saveQuizCancellation(progressData) {
+  const response = await fetch("/api/save-quiz-cancellation", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      quizData: {
+        category: progressData.category,
+        currentQuestion: progressData.currentQuestion,
+        totalQuestions: progressData.totalQuestions,
+        score: progressData.score,
+        status: "cancelled",
+        percentageCompleted: progressData.percentageCompleted,
+        timestamp: new Date().toISOString(),
+        lastQuestion: progressData.questionText,
+      },
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error("Failed to save quiz cancellation");
+  }
+
+  return await response.json();
+}
+
+// Function to show loading overlay
+function showLoadingOverlay(message = "Loading...") {
+  // Check if overlay already exists
+  let overlay = document.querySelector(".loading-overlay");
+
+  if (!overlay) {
+    overlay = document.createElement("div");
+    overlay.className = "loading-overlay";
+
+    const spinner = document.createElement("div");
+    spinner.className = "loading-spinner";
+
+    const messageElement = document.createElement("p");
+    messageElement.className = "loading-message";
+
+    overlay.appendChild(spinner);
+    overlay.appendChild(messageElement);
+    document.body.appendChild(overlay);
+  }
+
+  // Update message
+  const messageElement = overlay.querySelector(".loading-message");
+  messageElement.textContent = message;
+
+  // Show overlay
+  overlay.style.display = "flex";
+}
+
+// Function to hide loading overlay
+function hideLoadingOverlay() {
+  const overlay = document.querySelector(".loading-overlay");
+  if (overlay) {
+    overlay.style.display = "none";
+  }
 }
