@@ -32,7 +32,6 @@ app.use((req, res, next) => {
   }
   next();
 });
-
 // Initialize Gemini AI
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
@@ -98,6 +97,7 @@ app.use((req, res, next) => {
 // Setup middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.set("trust proxy", 1);
 
 // Session configuration
 app.use(
