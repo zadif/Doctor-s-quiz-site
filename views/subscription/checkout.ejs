@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%= title %></title>
 
+    <!-- Apply dark mode immediately if enabled -->
+    <script src="/dark-mode.js"></script>
+
     <!-- Bootstrap CSS -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
@@ -47,6 +50,72 @@
       }
       .form-group {
         margin-bottom: 1.5rem;
+      }
+
+      /* Dark Mode Styles for Checkout Page */
+      html.dark-mode .checkout-container {
+        background-color: #121212;
+        color: #e0e0e0;
+      }
+
+      html.dark-mode .checkout-card {
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+      }
+
+      html.dark-mode .checkout-summary {
+        background-color: #262626;
+        color: #e0e0e0;
+        border-color: #333;
+      }
+
+      html.dark-mode .form-control,
+      html.dark-mode .form-select {
+        background-color: #333;
+        color: #e0e0e0;
+        border-color: #444;
+      }
+
+      html.dark-mode .form-control:focus,
+      html.dark-mode .form-select:focus {
+        background-color: #333;
+        color: #e0e0e0;
+        border-color: #007bff;
+        box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
+      }
+
+      html.dark-mode .payment-header {
+        border-color: #333;
+      }
+
+      html.dark-mode .form-label {
+        color: #e0e0e0;
+      }
+
+      html.dark-mode .form-check-label {
+        color: #e0e0e0;
+      }
+
+      html.dark-mode .payment-method-option {
+        border-color: #444;
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+      }
+
+      html.dark-mode .payment-method-option:hover {
+        border-color: var(--primary-color);
+        background-color: #262626;
+      }
+
+      html.dark-mode .payment-method-option.selected {
+        border-color: var(--primary-color);
+        background-color: rgba(0, 123, 255, 0.2);
+      }
+
+      html.dark-mode .payment-instructions {
+        background-color: #262626;
+        color: #e0e0e0;
       }
       .payment-methods {
         display: flex;
@@ -286,6 +355,9 @@
         // Show selected form
         document.getElementById(method + "-form").style.display = "block";
       }
+
+      // Initialize dark mode when page loads
+      document.addEventListener("DOMContentLoaded", initializeDarkMode);
     </script>
   </body>
 </html>
