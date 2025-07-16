@@ -1427,11 +1427,6 @@ function getTotalQuestionCount() {
 
 // Function to make a direct API call to save the quiz cancellation
 async function saveQuizCancellation(progressData) {
-  console.log(
-    "Saving quiz cancellation with marked answers:",
-    userMarkedAnswers
-  );
-
   const response = await fetch("/api/save-quiz-cancellation", {
     method: "POST",
     headers: {
@@ -1440,7 +1435,7 @@ async function saveQuizCancellation(progressData) {
     body: JSON.stringify({
       quizData: {
         category: progressData.category,
-        questions: quizData.questions || [],
+        questions: [],
         currentQuestion: progressData.currentQuestion,
         totalQuestions: progressData.totalQuestions,
         score: progressData.score,

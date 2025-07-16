@@ -153,10 +153,6 @@ app.post("/api/save-quiz-cancellation", requireAuth, async (req, res) => {
   try {
     const { quizData, markedAnswers } = req.body;
 
-    console.log("Saving quiz cancellation for:", req.user._id);
-    console.log("Quiz data:", quizData?.category);
-    console.log("Marked answers count:", markedAnswers?.length || 0);
-
     if (!quizData) {
       return res
         .status(400)
@@ -173,8 +169,6 @@ app.post("/api/save-quiz-cancellation", requireAuth, async (req, res) => {
       markedAnswers: markedAnswers || [],
       lastQuestion: quizData.currentQuestion || 0,
     });
-
-    console.log("Progress save result:", progressResult);
 
     res.json({ success: true });
   } catch (error) {
