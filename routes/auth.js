@@ -25,23 +25,25 @@ const requireGuest = (req, res, next) => {
 // Middleware to check subscription status
 export const checkSubscription = async (req, res, next) => {
   if (!req.isAuthenticated()) {
-    return res.status(401).json({ 
-      success: false, 
+    return res.status(401).json({
+      success: false,
       error: "Authentication required",
-      requiresAuth: true 
+      requiresAuth: true,
     });
   }
 
   try {
-    const subscriptionStatus = await userOperations.checkSubscriptionExpiry(req.user._id);
+    const subscriptionStatus = await userOperations.checkSubscriptionExpiry(
+      req.user._id
+    );
     req.user.subscriptionStatus = subscriptionStatus;
-    
+
     // If subscription expired, update user object
     if (subscriptionStatus.isExpired) {
       req.user.subscription.isPremium = false;
       req.user.subscription.maxQuizzes = 3;
     }
-    
+
     next();
   } catch (error) {
     console.error("Error checking subscription:", error);
@@ -288,8 +290,10 @@ router.get("/user-data", requireAuth, async (req, res) => {
     const user = await userOperations.findUserById(req.user._id);
     if (user) {
       // Check subscription expiry
-      const subscriptionStatus = await userOperations.checkSubscriptionExpiry(user._id);
-      
+      const subscriptionStatus = await userOperations.checkSubscriptionExpiry(
+        user._id
+      );
+
       res.json({
         success: true,
         data: {
@@ -318,20 +322,26 @@ router.get("/subscription-status", requireAuth, async (req, res) => {
       return res.status(404).json({ success: false, error: "User not found" });
     }
 
-    const subscriptionStatus = await userOperations.checkSubscriptionExpiry(user._id);
-    
+    const subscriptionStatus = await userOperations.checkSubscriptionExpiry(
+      user._id
+    );
+
     res.json({
       success: true,
       subscription: {
         isPremium: subscriptionStatus.isPremium,
         quizzesCompleted: user.subscription.quizzesCompleted || 0,
-        maxQuizzes: subscriptionStatus.isPremium ? -1 : user.subscription.maxQuizzes || 3,
+        maxQuizzes: subscriptionStatus.isPremium
+          ? -1
+          : user.subscription.maxQuizzes || 3,
         expiryDate: user.subscription.expiryDate,
       },
     });
   } catch (error) {
     console.error("Get subscription status error:", error);
-    res.status(500).json({ success: false, error: "Failed to get subscription status" });
+    res
+      .status(500)
+      .json({ success: false, error: "Failed to get subscription status" });
   }
 });
 
@@ -339,28 +349,30 @@ router.get("/subscription-status", requireAuth, async (req, res) => {
 router.post("/subscribe", requireAuth, async (req, res) => {
   try {
     const { paymentMethod, phoneNumber } = req.body;
-    
+
     // Validate payment method
     if (!paymentMethod || !["jazzcash", "easypaisa"].includes(paymentMethod)) {
-      return res.status(400).json({ 
-        success: false, 
-        error: "Invalid payment method" 
+      return res.status(400).json({
+        success: false,
+        error: "Invalid payment method",
       });
     }
 
     // Validate phone number (basic Pakistani number validation)
     const phoneRegex = /^(\+92|0)?3[0-9]{9}$/;
     if (!phoneNumber || !phoneRegex.test(phoneNumber)) {
-      return res.status(400).json({ 
-        success: false, 
-        error: "Invalid Pakistani phone number" 
+      return res.status(400).json({
+        success: false,
+        error: "Invalid Pakistani phone number",
       });
     }
 
     // For demo purposes, we'll simulate payment processing
     // In production, you would integrate with actual payment gateways
-    const paymentId = `PAY_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
-    
+    const paymentId = `PAY_${Date.now()}_${Math.random()
+      .toString(36)
+      .substr(2, 9)}`;
+
     // Update user subscription
     const result = await userOperations.updateSubscription(req.user._id, {
       paymentMethod: paymentMethod,
@@ -384,9 +396,9 @@ router.post("/subscribe", requireAuth, async (req, res) => {
     }
   } catch (error) {
     console.error("Subscription error:", error);
-    res.status(500).json({ 
-      success: false, 
-      error: "Failed to process subscription" 
+    res.status(500).json({
+      success: false,
+      error: "Failed to process subscription",
     });
   }
 });
@@ -394,21 +406,34 @@ router.post("/subscribe", requireAuth, async (req, res) => {
 // API route to save quiz progress for authenticated users
 router.post("/save-progress", requireAuth, async (req, res) => {
   try {
-    const { quizData, currentQuestion, score } = req.body;
-    
-    const progressData = {
-      quizData,
+    const { quizData, currentQuestion, score, markedAnswers } = req.body;
+
+    console.log("Auth save-progress: Received request with data:", {
+      quizTitle: quizData?.category || "Unknown Quiz",
       currentQuestion,
-      score,
-      timestamp: new Date(),
+      markedAnswersCount: markedAnswers?.length || 0,
+    });
+
+    // Format data for new quizHistory array implementation
+    const progressData = {
+      title: quizData?.category || "Unknown Quiz",
+      questions: quizData?.questions || [],
+      markedAnswers: markedAnswers || [],
+      lastQuestion: currentQuestion || 0,
     };
 
-    const result = await userOperations.saveQuizProgress(req.user._id, progressData);
-    
+    const result = await userOperations.saveQuizProgress(
+      req.user._id,
+      progressData
+    );
+    console.log("Auth save-progress: Save result:", result);
+
     if (result.success) {
       res.json({ success: true });
     } else {
-      res.status(500).json({ success: false, error: "Failed to save progress" });
+      res
+        .status(500)
+        .json({ success: false, error: "Failed to save progress" });
     }
   } catch (error) {
     console.error("Save progress error:", error);

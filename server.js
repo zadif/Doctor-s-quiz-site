@@ -10,12 +10,14 @@ import MongoStore from "connect-mongo";
 import passport from "./config/passport.js";
 import authRoutes from "./routes/auth.js";
 import subscriptionRoutes from "./routes/subscription.js";
+import quizProgressRoutes from "./routes/quiz-progress.js";
+import { requireAuth } from "./routes/auth.js";
 import {
   checkSubscription,
   checkQuizAccess,
   checkAIAccess,
 } from "./middleware/subscription.js";
-import { initializeDatabase, testConnection } from "./mongo.js";
+import { initializeDatabase, testConnection, userOperations } from "./mongo.js";
 
 dotenv.config();
 
@@ -142,6 +144,46 @@ app.use("/auth", authRoutes);
 
 // Subscription routes
 app.use("/subscription", subscriptionRoutes);
+
+// Quiz progress routes
+app.use("/quiz-progress", quizProgressRoutes);
+
+// API route for saving quiz cancellations
+app.post("/api/save-quiz-cancellation", requireAuth, async (req, res) => {
+  try {
+    const { quizData, markedAnswers } = req.body;
+
+    console.log("Saving quiz cancellation for:", req.user._id);
+    console.log("Quiz data:", quizData?.category);
+    console.log("Marked answers count:", markedAnswers?.length || 0);
+
+    if (!quizData) {
+      return res
+        .status(400)
+        .json({ success: false, error: "Quiz data is required" });
+    }
+
+    // Save to both stats and quizHistory
+    await userOperations.updateQuizStats(req.user._id, quizData);
+
+    // Save to quizHistory array (most important for progress tracking)
+    const progressResult = await userOperations.saveQuizProgress(req.user._id, {
+      title: quizData.category || "Unknown Quiz",
+      questions: quizData.questions || [],
+      markedAnswers: markedAnswers || [],
+      lastQuestion: quizData.currentQuestion || 0,
+    });
+
+    console.log("Progress save result:", progressResult);
+
+    res.json({ success: true });
+  } catch (error) {
+    console.error("Error saving quiz cancellation:", error);
+    res
+      .status(500)
+      .json({ success: false, error: "Failed to save quiz cancellation" });
+  }
+});
 
 // Routes
 app.get("/", checkSubscription, async (req, res) => {

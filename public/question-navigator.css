@@ -1,0 +1,32 @@
+.question-navigator {
+  margin-bottom: 15px;
+}
+
+.question-navigator input {
+  width: 70px;
+}
+
+.option-letter {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+/* Improve the quit modal buttons */
+.modal-footer {
+  justify-content: space-between;
+}
+
+/* Saved state styling */
+.option-btn.selected {
+  border-width: 2px;
+}
+
+.option-btn.correct {
+  background-color: rgba(40, 167, 69, 0.2);
+  border-color: #28a745;
+}
+
+.option-btn.incorrect {
+  background-color: rgba(220, 53, 69, 0.2);
+  border-color: #dc3545;
+}

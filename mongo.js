@@ -51,6 +51,158 @@ async function getCollection() {
 
 // User operations
 export const userOperations = {
+  // Quiz progress operations
+  async saveQuizProgress(userId, quizData) {
+    try {
+      const { title, questions, markedAnswers, lastQuestion } = quizData;
+
+      const collection = await getCollection();
+      const user = await this.findUserById(userId);
+
+      if (!user) {
+        console.error(`[DB] User not found: ${userId}`);
+        return { success: false, error: "User not found" };
+      }
+
+      // Check if this quiz exists in user's history
+      const quizHistoryIndex =
+        user.quizHistory?.findIndex((q) => q.title === title) ?? -1;
+
+      let updatedQuizHistory = user.quizHistory || [];
+
+      if (quizHistoryIndex >= 0) {
+        // Update existing quiz progress
+
+        updatedQuizHistory[quizHistoryIndex] = {
+          title,
+          questions,
+          markedAnswers,
+          lastQuestion,
+          updatedAt: new Date(),
+          // Preserve creation date
+          createdAt:
+            updatedQuizHistory[quizHistoryIndex].createdAt || new Date(),
+        };
+      } else {
+        // Add new quiz progress
+        updatedQuizHistory.push({
+          title,
+          questions,
+          markedAnswers,
+          lastQuestion,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        });
+      }
+
+      const result = await collection.updateOne(
+        { _id: new ObjectId(userId) },
+        {
+          $set: {
+            quizHistory: updatedQuizHistory,
+            updatedAt: new Date(),
+          },
+        }
+      );
+
+      return {
+        success: true,
+        modifiedCount: result.modifiedCount,
+        quizHistory: updatedQuizHistory,
+        updated: quizHistoryIndex >= 0,
+        added: quizHistoryIndex < 0,
+      };
+    } catch (error) {
+      console.error("Error saving quiz progress:", error);
+      return { success: false, error: error.message };
+    }
+  },
+
+  async getQuizProgress(userId, title) {
+    try {
+      const user = await this.findUserById(userId);
+
+      if (!user) {
+        console.log(`[DB] User not found: ${userId}`);
+        return { success: false, hasProgress: false, error: "User not found" };
+      }
+
+      if (!user.quizHistory) {
+        console.log(`[DB] No quiz history for user ${userId}`);
+        return { success: true, hasProgress: false };
+      }
+
+      // Check all titles in quiz history for debugging
+      if (user.quizHistory.length > 0) {
+        user.quizHistory.forEach((q, i) => {
+          // Also check if the title might have " Quiz" suffix
+          if (title.endsWith(" Quiz")) {
+            const titleWithoutSuffix = title.replace(" Quiz", "");
+          }
+        });
+      }
+
+      // First try exact match
+      let quizProgress = user.quizHistory.find((q) => q.title === title);
+
+      // If not found and title ends with " Quiz", try without the suffix
+      if (!quizProgress && title.endsWith(" Quiz")) {
+        const titleWithoutSuffix = title.replace(" Quiz", "");
+
+        quizProgress = user.quizHistory.find(
+          (q) => q.title === titleWithoutSuffix
+        );
+      }
+
+      if (quizProgress) {
+        return {
+          success: true,
+          hasProgress: true,
+          progress: quizProgress,
+        };
+      } else {
+        return { success: true, hasProgress: false };
+      }
+    } catch (error) {
+      console.error("Error getting quiz progress:", error);
+      return { success: false, error: error.message };
+    }
+  },
+
+  async removeQuizProgress(userId, title) {
+    try {
+      const collection = await getCollection();
+      const user = await this.findUserById(userId);
+
+      if (!user || !user.quizHistory) {
+        return { success: false, error: "User or quiz history not found" };
+      }
+
+      const updatedQuizHistory = user.quizHistory.filter(
+        (q) => q.title !== title
+      );
+
+      const result = await collection.updateOne(
+        { _id: new ObjectId(userId) },
+        {
+          $set: {
+            quizHistory: updatedQuizHistory,
+            updatedAt: new Date(),
+          },
+        }
+      );
+
+      return {
+        success: true,
+        modifiedCount: result.modifiedCount,
+        quizHistory: updatedQuizHistory,
+      };
+    } catch (error) {
+      console.error("Error removing quiz progress:", error);
+      return { success: false, error: error.message };
+    }
+  },
+
   // Create a new user
   async createUser(userData) {
     try {
@@ -74,6 +226,7 @@ export const userOperations = {
           averageScore: 0,
           bestScore: 0,
         },
+        quizHistory: [], // Array to store quiz progress
         preferences: {
           darkMode: false,
           notifications: true,
@@ -308,23 +461,20 @@ export const userOperations = {
     }
   },
   // Save incomplete quiz progress
-  async saveQuizProgress(userId, progressData) {
-    try {
-      const collection = await getCollection();
-      const result = await collection.updateOne(
-        { _id: new ObjectId(userId) },
-        {
-          $set: {
-            currentQuizProgress: progressData,
-            updatedAt: new Date(),
-          },
-        }
-      );
-      return { success: true };
-    } catch (error) {
-      console.error("Error saving quiz progress:", error);
-      return { success: false, error: error.message };
-    }
+  // Use the first implementation for saveQuizProgress instead of this one
+  // This redirects to the implementation that uses quizHistory array
+  async saveQuizProgressLegacy(userId, progressData) {
+    console.log(
+      "Legacy quiz progress function called - redirecting to new implementation"
+    );
+
+    // Convert legacy format to new format
+    return this.saveQuizProgress(userId, {
+      title: progressData.category || "Unknown Quiz",
+      questions: [],
+      markedAnswers: [],
+      lastQuestion: progressData.currentQuestion || 0,
+    });
   },
 
   // Check if user can access a specific quiz

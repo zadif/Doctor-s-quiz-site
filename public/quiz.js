@@ -1,9 +1,7 @@
-// Local Storage Keys
-const PROGRESS_KEY = "quizProgress";
-const CURRENT_SCORE_KEY = "currentScore";
-
+// Progress tracking for authenticated users
 let currentQuestionIndex = 0;
 let score = 0;
+let userMarkedAnswers = []; // Store user's answers for each question
 const carousel = new bootstrap.Carousel(
   document.getElementById("quiz-carousel"),
   {
@@ -12,56 +10,343 @@ const carousel = new bootstrap.Carousel(
   }
 );
 
-// Initialize progress from local storage
-function initializeProgress() {
-  const savedProgress = localStorage.getItem(PROGRESS_KEY);
-  const savedScore = localStorage.getItem(CURRENT_SCORE_KEY);
-
-  if (savedProgress) {
-    showProgressModal(parseInt(savedProgress), parseInt(savedScore));
+// Track user's marked answers
+function trackAnswer(questionIndex, answerIndex) {
+  // Create or update the marked answer for this question
+  if (userMarkedAnswers[questionIndex] === undefined) {
+    userMarkedAnswers[questionIndex] = answerIndex;
+  } else {
+    userMarkedAnswers[questionIndex] = answerIndex;
   }
 }
 
-function showProgressModal(savedProgress, savedScore) {
+// Initialize progress for authenticated users
+async function initializeProgress() {
+  // Use a promise to ensure we only proceed when auth is definitely ready
+  return new Promise((resolve) => {
+    // If we have auth monitoring, use it
+    if (window.authEvents) {
+      window.authEvents.onAuthReady(async (isAuthenticated) => {
+        await checkQuizProgress(isAuthenticated);
+        resolve();
+      });
+    } else {
+      // Fallback to direct check
+      console.log(
+        "Direct authentication status check:",
+        window.userSync?.isAuthenticated
+      );
+      checkQuizProgress(window.userSync?.isAuthenticated).then(resolve);
+    }
+  });
+}
+
+// Separated the progress checking logic for better clarity
+async function checkQuizProgress(isAuthenticated) {
+  // Only check progress for authenticated users
+  if (isAuthenticated) {
+    try {
+      // Get the quiz title from the header
+      let quizTitle = document.querySelector(".category-header h2").textContent;
+
+      // Try different variations of the title
+      // First try the exact title as it appears in the header
+
+      // Try to fetch with the original title
+      let response = await fetch(
+        `/quiz-progress/${encodeURIComponent(quizTitle)}`
+      );
+      let data = await response.json();
+
+      // Then always try without " Quiz" suffix if it exists
+      if (quizTitle.endsWith(" Quiz")) {
+        const titleWithoutSuffix = quizTitle.replace(" Quiz", "");
+
+        const responseWithoutSuffix = await fetch(
+          `/quiz-progress/${encodeURIComponent(titleWithoutSuffix)}`
+        );
+        const dataWithoutSuffix = await responseWithoutSuffix.json();
+
+        // If we found progress with the suffix-less version, use that data
+        if (dataWithoutSuffix.success && dataWithoutSuffix.hasProgress) {
+          data = dataWithoutSuffix;
+        }
+      }
+
+      if (data.success && data.hasProgress) {
+        showProgressModal(data.progress);
+      }
+    } catch (error) {
+      console.error("Error fetching quiz progress:", error);
+    }
+  } else {
+    console.log("User not authenticated or userSync not available");
+  }
+}
+
+function showProgressModal(progressData) {
+  // Create overlay first
+  const overlay = document.createElement("div");
+  overlay.className = "modal-overlay";
+  overlay.style.position = "fixed";
+  overlay.style.top = "0";
+  overlay.style.left = "0";
+  overlay.style.right = "0";
+  overlay.style.bottom = "0";
+  overlay.style.backgroundColor = "rgba(0, 0, 0, 0.5)";
+  overlay.style.zIndex = "999";
+  document.body.appendChild(overlay);
+
+  // Then create modal
   const modal = document.createElement("div");
   modal.className = "progress-modal";
   modal.innerHTML = `
         <h3>Previous Progress Found</h3>
+        <p>You were on question ${progressData.lastQuestion + 1}</p>
         <div class="progress-options">
-            <button class="btn btn-primary" onclick="continueProgress(${savedProgress}, ${savedScore})">
+            <button class="btn btn-primary" onclick="continueProgress(${JSON.stringify(
+              progressData
+            ).replace(/"/g, "&quot;")})">
                 Continue
             </button>
-            <button class="btn btn-outline-primary" onclick="startNew()">
+            <button class="btn btn-outline-primary" onclick="startNew('${
+              progressData.title
+            }')">
                 Start New
             </button>
         </div>
     `;
   document.body.appendChild(modal);
   document.body.classList.add("modal-open"); // Add blur effect
-  document.querySelector(".chat-sidebar").classList.remove("open"); // Ensure chat box appears closed
-  document.querySelector(".chat-sidebar").style.display = "none"; // Hide chat box
+
+  try {
+    document.querySelector(".chat-sidebar").classList.remove("open"); // Ensure chat box appears closed
+    document.querySelector(".chat-sidebar").style.display = "none"; // Hide chat box
+  } catch (error) {
+    console.log(
+      "Chat sidebar elements not found, skipping chat sidebar modifications"
+    );
+  }
 }
 
-function continueProgress(savedProgress, savedScore) {
-  currentQuestionIndex = savedProgress;
-  score = savedScore;
+function continueProgress(progressData) {
+  // Set the current question index
+  currentQuestionIndex = progressData.lastQuestion;
   carousel.to(currentQuestionIndex);
+
+  // Pre-mark answers for questions the user has already answered
+  userMarkedAnswers = progressData.markedAnswers || [];
+
+  // Reset score to properly count correct answers
+  score = 0;
+
+  // Mark questions visually - improved approach to ensure all answers are marked
+  if (userMarkedAnswers && userMarkedAnswers.length > 0) {
+    // First get all carousel items for efficient processing
+    const allCarouselItems = document.querySelectorAll(
+      ".carousel-item:not(.intro-slide)"
+    );
+
+    // Process each saved answer
+    userMarkedAnswers.forEach((answerIndex, questionIndex) => {
+      if (answerIndex !== undefined && answerIndex !== null) {
+        // Find the carousel item for this question - now we handle items without data-question-index
+        // First try to find by data-question-index (preferred way)
+        let carouselItem = Array.from(allCarouselItems).find(
+          (item) =>
+            item.getAttribute("data-question-index") ===
+            questionIndex.toString()
+        );
+
+        // If we couldn't find by data-question-index, try using array index
+        // This is a fallback in case the data attributes aren't set properly
+        if (!carouselItem && questionIndex < allCarouselItems.length) {
+          carouselItem = allCarouselItems[questionIndex];
+        }
+
+        if (!carouselItem) {
+          return;
+        }
+
+        const options = carouselItem.querySelectorAll(".option-btn");
+        if (!options || options.length === 0) {
+          return;
+        }
+
+        if (options[answerIndex]) {
+          // Simulate the user's click
+          const isCorrect = options[answerIndex].dataset.correct === "true";
+          if (isCorrect) score++;
+
+          // Apply appropriate styles - first mark user's selection
+          options[answerIndex].classList.add("selected");
+
+          if (isCorrect) {
+            options[answerIndex].classList.add("correct");
+          } else {
+            options[answerIndex].classList.add("incorrect");
+
+            // Find and highlight the correct answer
+            let correctOptionFound = false;
+            options.forEach((opt) => {
+              if (opt.dataset.correct === "true") {
+                opt.classList.add("correct");
+                correctOptionFound = true;
+              }
+            });
+          }
+
+          // Disable all options for this question
+          options.forEach((opt) => opt.classList.add("disabled"));
+        }
+      }
+    });
+  }
+  // Make sure all carousel items have data-question-index attributes
+  ensureQuestionIndices();
+
+  // Set up navigation buttons correctly based on current question index
+  setupNavigationButtons();
+
   updateProgress();
   closeProgressModal();
 }
 
-function startNew() {
-  localStorage.removeItem(PROGRESS_KEY);
-  localStorage.removeItem(CURRENT_SCORE_KEY);
+// Function to ensure all question slides have data-question-index attributes
+function ensureQuestionIndices() {
+  const carouselItems = document.querySelectorAll(
+    ".carousel-item:not(.intro-slide)"
+  );
+
+  carouselItems.forEach((item, index) => {
+    // Only set if not already set
+    if (!item.hasAttribute("data-question-index")) {
+      item.setAttribute("data-question-index", index.toString());
+    }
+  });
+
+  // After setting indices, verify if there are options that need correct/incorrect styling
+  verifyAnswerStyling();
+}
+
+// Helper function to verify that all answer options have proper styling
+function verifyAnswerStyling() {
+  // Get all selected answers
+  const selectedOptions = document.querySelectorAll(".option-btn.selected");
+
+  selectedOptions.forEach((selectedOption) => {
+    const optionContainer = selectedOption.parentElement;
+    const allOptions = optionContainer.querySelectorAll(".option-btn");
+    const isCorrect = selectedOption.dataset.correct === "true";
+
+    // If it's already styled correctly, skip
+    if (
+      (isCorrect && selectedOption.classList.contains("correct")) ||
+      (!isCorrect && selectedOption.classList.contains("incorrect"))
+    ) {
+      return;
+    }
+
+    // Apply styling
+    if (isCorrect) {
+      selectedOption.classList.add("correct");
+    } else {
+      selectedOption.classList.add("incorrect");
+
+      // Find and highlight correct answer
+      allOptions.forEach((opt) => {
+        if (opt.dataset.correct === "true") {
+          opt.classList.add("correct");
+        }
+      });
+    }
+
+    // Make sure all options are disabled
+    allOptions.forEach((opt) => opt.classList.add("disabled"));
+  });
+}
+
+// Function to properly set up navigation buttons based on current question index
+function setupNavigationButtons() {
+  // Get references to buttons
+  const nextBtn = document.getElementById("nextBtn");
+  const prevBtn = document.getElementById("prevBtn");
+
+  if (!nextBtn || !prevBtn) {
+    return;
+  }
+
+  const totalQuestions = document.querySelectorAll(
+    ".carousel-item:not(.intro-slide)"
+  ).length;
+
+  // Previous button should be visible if not on the first question
+  if (currentQuestionIndex > 0) {
+    prevBtn.style.display = "block";
+  } else {
+    prevBtn.style.display = "none";
+  }
+
+  // Next button should be enabled if an answer is selected for the current question
+  // or if we're restoring progress for questions that were already answered
+  const currentQuestionAnswered =
+    userMarkedAnswers[currentQuestionIndex] !== undefined;
+
+  if (currentQuestionAnswered) {
+    nextBtn.disabled = false;
+  } else {
+    nextBtn.disabled = true;
+  }
+}
+
+function startNew(quizTitle) {
+  // For authenticated users, remove the saved progress from the server
+  if (window.userSync && window.userSync.isAuthenticated && quizTitle) {
+    // Standardize the quiz title format - remove " Quiz" suffix if it exists
+    if (quizTitle.endsWith(" Quiz")) {
+      quizTitle = quizTitle.replace(" Quiz", "");
+    }
+
+    fetch(`/quiz-progress/${encodeURIComponent(quizTitle)}`, {
+      method: "DELETE",
+    }).catch((error) => {
+      console.error("Error removing quiz progress:", error);
+    });
+  }
+
+  // Reset quiz state
+  currentQuestionIndex = 0;
+  score = 0;
+  userMarkedAnswers = [];
+  carousel.to(0);
+
+  // Reset all question options
+  document.querySelectorAll(".option-btn").forEach((option) => {
+    option.classList.remove("selected", "correct", "incorrect", "disabled");
+  });
+
+  updateProgress();
   closeProgressModal();
 }
 
 function closeProgressModal() {
   const modal = document.querySelector(".progress-modal");
+  const overlay = document.querySelector(".modal-overlay");
+
   if (modal) {
     modal.remove();
-    document.body.classList.remove("modal-open"); // Remove blur effect
+  }
+
+  if (overlay) {
+    overlay.remove();
+  }
+
+  document.body.classList.remove("modal-open"); // Remove blur effect
+
+  try {
     document.querySelector(".chat-sidebar").style.display = ""; // Reset chat box display
+  } catch (error) {
+    console.log("Chat sidebar not found when closing modal");
   }
 }
 
@@ -74,9 +359,53 @@ function updateProgress() {
     ((currentQuestionIndex + 1) / totalQuestions) * 100
   }%`;
 
-  // Save progress
-  localStorage.setItem(PROGRESS_KEY, currentQuestionIndex);
-  localStorage.setItem(CURRENT_SCORE_KEY, score);
+  // Progress is now only saved when quitting, not on every interaction
+  // This dramatically reduces database load when many users are active
+}
+
+// Helper function to get current question index
+function getCurrentQuestionIndex() {
+  return currentQuestionIndex;
+}
+
+// Save quiz progress to server for authenticated users
+async function saveQuizProgress() {
+  // Only save progress for authenticated users
+  if (window.userSync && window.userSync.isAuthenticated) {
+    try {
+      // Get the quiz title
+      let quizTitle = document.querySelector(".category-header h2").textContent;
+
+      // Standardize the quiz title format - remove " Quiz" suffix if it exists
+      if (quizTitle.endsWith(" Quiz")) {
+        quizTitle = quizTitle.replace(" Quiz", "");
+      }
+
+      // Get array of question indices that have been answered
+      const answeredQuestions = userMarkedAnswers
+        .map((answer, index) => (answer !== undefined ? index : null))
+        .filter((index) => index !== null);
+
+      // Save progress to server
+      const response = await fetch("/quiz-progress/save", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          title: quizTitle,
+          questions: answeredQuestions,
+          markedAnswers: userMarkedAnswers,
+          lastQuestion: currentQuestionIndex,
+        }),
+      });
+
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error("Error saving quiz progress:", error);
+    }
+  }
 }
 
 function showExplanation(explanation) {
@@ -100,6 +429,23 @@ function closeExplanation() {
 }
 
 function checkAnswer(button, isCorrect) {
+  const options = button.parentElement.querySelectorAll(".option-btn");
+  markSelectedAnswer(button, isCorrect);
+
+  // Track this answer for progress saving
+  const questionIndex = getCurrentQuestionIndex();
+  const answerIndex = Array.from(options).indexOf(button);
+  trackAnswer(questionIndex, answerIndex);
+
+  // Enable the Next button now that an answer has been selected
+  document.getElementById("nextBtn").disabled = false;
+
+  // No longer saving progress on every answer to reduce server load
+  // Progress will only be saved when quitting
+}
+
+// Function to mark an answer as selected - extracted for reuse
+function markSelectedAnswer(button, isCorrect) {
   const options = button.parentElement.querySelectorAll(".option-btn");
   options.forEach((opt) => opt.classList.add("disabled"));
 
@@ -210,14 +556,21 @@ function nextQuestion() {
       // Sync to server if user is authenticated
       if (window.userSync && window.userSync.isAuthenticated) {
         window.userSync.forcSync();
+
+        // Remove quiz progress once the quiz is complete
+        const quizTitle = document.querySelector(
+          ".category-header h2"
+        ).textContent;
+        fetch(`/quiz-progress/${encodeURIComponent(quizTitle)}`, {
+          method: "DELETE",
+        }).catch((error) => {
+          console.error("Error removing quiz progress:", error);
+        });
       }
 
       carousel.next();
       document.getElementById("nextBtn").style.display = "none";
       document.getElementById("prevBtn").style.display = "none";
-      // Clear progress on completion
-      localStorage.removeItem(PROGRESS_KEY);
-      localStorage.removeItem(CURRENT_SCORE_KEY);
     }
   }
 }
@@ -263,9 +616,7 @@ function restartQuiz() {
   document.getElementById("nextBtn").disabled = true;
   document.getElementById("prevBtn").style.display = "none";
 
-  // Clear progress
-  localStorage.removeItem(PROGRESS_KEY);
-  localStorage.removeItem(CURRENT_SCORE_KEY);
+  // Progress clearing code removed as we no longer save progress
 
   window.incorrectQuestions = null;
   window.currentReviewIndex = null;
@@ -563,8 +914,37 @@ if (typeof initializeDarkMode !== "function") {
 
 // Initialize
 document.addEventListener("DOMContentLoaded", () => {
-  initializeProgress();
+  // Log the quiz title at load time
+  const quizTitleElement = document.querySelector(".category-header h2");
+
+  // Initialize dark mode regardless of authentication
   initializeDarkMode();
+
+  // Ensure all carousel items have their question indices set
+  ensureQuestionIndices();
+
+  // Set up event listener for carousel slide events
+  const quizCarousel = document.getElementById("quiz-carousel");
+  if (quizCarousel) {
+    quizCarousel.addEventListener("slide.bs.carousel", function (event) {
+      // Update currentQuestionIndex based on the target slide
+      // The event.to property contains the index of the target slide
+      currentQuestionIndex = event.to;
+
+      // Set up navigation buttons for the new question
+      setTimeout(() => {
+        setupNavigationButtons();
+      }, 100); // Small delay to ensure carousel has completed the transition
+    });
+  }
+
+  // Initialize progress checking - will use auth monitoring if available
+  initializeProgress().then(() => {
+    // Call ensureQuestionIndices again after progress is loaded
+    ensureQuestionIndices();
+    // Set up navigation buttons after progress is loaded
+    setupNavigationButtons();
+  });
 
   // Add event listener for chat toggle to initialize resize handle
   const chatBtn = document.querySelector(".chat-button");
@@ -574,6 +954,7 @@ document.addEventListener("DOMContentLoaded", () => {
       setTimeout(initResizeHandle, 100);
     });
   }
+  initializeDarkMode();
 
   // Add event listener for close button
   const closeBtn = document.querySelector(".chat-header .btn-close");
@@ -681,26 +1062,27 @@ async function confirmQuitQuiz() {
           : 0,
     };
 
-    // Save to localStorage first
-    localStorage.setItem("incompleteQuiz", JSON.stringify(progressData));
-
-    // Save the quiz status to quizStats as well to track history
-    saveQuizStatus(progressData);
-
     try {
+      // First save the quiz progress to the user's quizHistory in MongoDB
+      // This is critical for resuming the quiz later
+      const saveResult = await saveQuizProgress();
+
+      // Save the quiz status to quizStats as well to track history
+      saveQuizStatus(progressData);
+
       // Send direct API call to ensure the cancelled quiz is saved properly
-      await saveQuizCancellation(progressData);
+      const cancellationResult = await saveQuizCancellation(progressData);
 
       // Try to sync to server using the existing forcSync method
-      await window.userSync.forcSync();
+      if (window.userSync && window.userSync.forcSync) {
+        await window.userSync.forcSync();
+      }
     } catch (error) {
       console.error("Failed to save quiz cancellation:", error);
     }
   }
 
-  // Clear current progress
-  localStorage.removeItem(PROGRESS_KEY);
-  localStorage.removeItem(CURRENT_SCORE_KEY);
+  // Progress clearing code removed as we no longer save progress
 
   // Hide loading overlay
   hideLoadingOverlay();
@@ -1045,6 +1427,11 @@ function getTotalQuestionCount() {
 
 // Function to make a direct API call to save the quiz cancellation
 async function saveQuizCancellation(progressData) {
+  console.log(
+    "Saving quiz cancellation with marked answers:",
+    userMarkedAnswers
+  );
+
   const response = await fetch("/api/save-quiz-cancellation", {
     method: "POST",
     headers: {
@@ -1053,6 +1440,7 @@ async function saveQuizCancellation(progressData) {
     body: JSON.stringify({
       quizData: {
         category: progressData.category,
+        questions: quizData.questions || [],
         currentQuestion: progressData.currentQuestion,
         totalQuestions: progressData.totalQuestions,
         score: progressData.score,
@@ -1061,6 +1449,7 @@ async function saveQuizCancellation(progressData) {
         timestamp: new Date().toISOString(),
         lastQuestion: progressData.questionText,
       },
+      markedAnswers: userMarkedAnswers,
     }),
   });
 
