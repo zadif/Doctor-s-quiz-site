@@ -134,11 +134,13 @@ router.post(
       .normalizeEmail()
       .withMessage("Please enter a valid email"),
     body("password")
-      .isLength({ min: 6 })
-      .withMessage("Password must be at least 6 characters long")
-      .matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)/)
+      .isLength({ min: 8, max: 128 })
+      .withMessage("Password must be between 8 and 128 characters long")
+      .matches(
+        /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]/
+      )
       .withMessage(
-        "Password must contain at least one uppercase letter, one lowercase letter, and one number"
+        "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character"
       ),
     body("confirmPassword").custom((value, { req }) => {
       if (value !== req.body.password) {

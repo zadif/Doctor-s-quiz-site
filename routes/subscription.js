@@ -20,8 +20,10 @@ router.get("/", requireAuth, async (req, res) => {
       isPremium,
       accessedQuizzes,
       remainingQuizzes: remainingQuizzes > 0 ? remainingQuizzes : 0,
-      error: req.query.error,
-      success: req.query.success,
+      error: req.sanitizedQuery ? req.sanitizedQuery.error : req.query.error,
+      success: req.sanitizedQuery
+        ? req.sanitizedQuery.success
+        : req.query.success,
       layout: false,
     });
   } catch (error) {

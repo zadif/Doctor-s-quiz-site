@@ -4,9 +4,14 @@ import dotenv from "dotenv";
 // Load environment variables
 dotenv.config();
 
-const uri =
-  process.env.MONGODB_URI ||
-  `mongodb+srv://zadifmustafa93:${process.env.MONGODB_PASSWORD}@doctorsdb.kxr9scf.mongodb.net/?retryWrites=true&w=majority&appName=doctorsDB`;
+// SECURITY FIX: Remove hardcoded credentials from code
+const uri = process.env.MONGODB_URI;
+if (!uri) {
+  console.error(
+    "ERROR: MongoDB URI not set! Please set MONGODB_URI environment variable"
+  );
+  // Don't exit process to allow server to start in development mode with warnings
+}
 
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {

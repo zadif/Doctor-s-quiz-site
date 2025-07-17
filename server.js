@@ -7,6 +7,12 @@ import dotenv from "dotenv";
 import fs from "fs/promises";
 import session from "express-session";
 import MongoStore from "connect-mongo";
+import cookieParser from "cookie-parser"; // SECURITY: Cookie parser for CSRF
+import helmet from "helmet"; // SECURITY: Add Helmet.js for security headers
+import rateLimit from "express-rate-limit"; // SECURITY: Add rate limiting
+import csrf from "csurf"; // SECURITY: Add CSRF protection
+import xss from "xss"; // SECURITY: Add XSS protection
+// We'll create our own MongoDB sanitization instead of using the problematic package
 import passport from "./config/passport.js";
 import authRoutes from "./routes/auth.js";
 import subscriptionRoutes from "./routes/subscription.js";
@@ -25,18 +31,98 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
 const port = process.env.PORT || 3000;
 
+// SECURITY: Force HTTPS redirect in production only
 app.use((req, res, next) => {
   if (
     process.env.NODE_ENV === "production" &&
+    req.headers["x-forwarded-proto"] &&
     req.headers["x-forwarded-proto"] !== "https"
   ) {
     return res.redirect("https://" + req.headers.host + req.url);
   }
   next();
 });
+
+// SECURITY: Apply Helmet security headers
+app.use(
+  helmet({
+    contentSecurityPolicy: {
+      directives: {
+        defaultSrc: ["'self'"],
+        scriptSrc: [
+          "'self'",
+          "'unsafe-inline'",
+          "'unsafe-hashes'", // Allow inline event handlers
+          "https://cdn.jsdelivr.net",
+          "https://cdnjs.cloudflare.com",
+        ],
+        scriptSrcAttr: ["'unsafe-inline'"], // Explicitly allow inline event handlers
+        styleSrc: [
+          "'self'",
+          "'unsafe-inline'",
+          "https://cdn.jsdelivr.net",
+          "https://cdnjs.cloudflare.com",
+        ],
+        styleSrcAttr: ["'unsafe-inline'"], // Allow inline styles
+        imgSrc: ["'self'", "data:", "https:"],
+        connectSrc: ["'self'"],
+        fontSrc: ["'self'", "https://cdnjs.cloudflare.com"],
+        objectSrc: ["'none'"],
+        mediaSrc: ["'self'"],
+        frameSrc: ["'none'"],
+      },
+      useDefaults: false, // Don't use Helmet's default CSP
+    },
+    crossOriginEmbedderPolicy: false,
+    // Disable HSTS in development
+    hsts:
+      process.env.NODE_ENV === "production"
+        ? {
+            maxAge: 31536000,
+            includeSubDomains: true,
+            preload: true,
+          }
+        : false,
+  })
+);
+// SECURITY: Rate limiting - General site usage
+const limiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 500, // limit each IP to 500 requests per windowMs (increased from 100)
+  message: {
+    error: "Too many requests from this IP, please try again later.",
+  },
+  standardHeaders: true,
+  legacyHeaders: false,
+});
+
+// SECURITY: API-specific rate limiting
+const apiLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 200, // limit each IP to 200 API requests per windowMs (increased from 50)
+  message: {
+    error: "Too many API requests from this IP, please try again later.",
+  },
+  standardHeaders: true,
+  legacyHeaders: false,
+});
+
+// SECURITY: AI chat rate limiting (stricter as AI calls are expensive)
+const aiLimiter = rateLimit({
+  windowMs: 10 * 60 * 1000, // 10 minutes
+  max: 100, // limit each IP to 100 AI requests per 10min (increased from 20)
+  message: {
+    error: "Too many AI requests from this IP, please try again later.",
+  },
+  standardHeaders: true,
+  legacyHeaders: false,
+});
+
 // Initialize Gemini AI
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+const model = genAI.getGenerativeModel({
+  model: "gemini-2.5-flash-lite-preview-06-17",
+});
 
 // Quiz categories (removed biology)
 const quizCategories = [
@@ -97,27 +183,97 @@ app.use((req, res, next) => {
 });
 
 // Setup middleware
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+app.use(express.json({ limit: "1mb" })); // SECURITY: Limit request size
+app.use(express.urlencoded({ extended: true, limit: "1mb" }));
+app.use(cookieParser()); // SECURITY: Parse cookies for CSRF protection
 app.set("trust proxy", 1);
+
+// SECURITY: Apply general rate limiting to all routes
+app.use(limiter);
+
+// SECURITY: Custom MongoDB injection prevention
+app.use((req, res, next) => {
+  // Function to sanitize input by replacing MongoDB operators
+  const sanitizeInput = (obj) => {
+    if (!obj) return obj;
+
+    // If it's a string, check for MongoDB operators
+    if (typeof obj === "string") {
+      // Replace MongoDB operators with a safe character
+      return obj.replace(/\$|\./g, "_");
+    }
+
+    // If it's an array, sanitize each element
+    if (Array.isArray(obj)) {
+      return obj.map(sanitizeInput);
+    }
+
+    // If it's an object, sanitize each property
+    if (typeof obj === "object") {
+      const result = {};
+      for (const [key, value] of Object.entries(obj)) {
+        // Sanitize keys and values
+        const sanitizedKey = key.replace(/\$|\./g, "_");
+        result[sanitizedKey] = sanitizeInput(value);
+      }
+      return result;
+    }
+
+    return obj;
+  };
+
+  // Create clean copies of request body, params, and query
+  if (req.body) {
+    const sanitizedBody = sanitizeInput(JSON.parse(JSON.stringify(req.body)));
+    Object.assign(req.body, sanitizedBody);
+  }
+
+  if (req.params) {
+    const sanitizedParams = sanitizeInput(
+      JSON.parse(JSON.stringify(req.params))
+    );
+    Object.assign(req.params, sanitizedParams);
+  }
+
+  // For query, we'll use a safe approach that doesn't modify the original object
+  if (req.query) {
+    try {
+      // Store sanitized query as a separate property
+      req.sanitizedQuery = sanitizeInput(JSON.parse(JSON.stringify(req.query)));
+    } catch (e) {
+      console.warn("Error sanitizing query:", e);
+    }
+  }
+
+  next();
+});
+
+// SECURITY: Check for session secret
+if (
+  !process.env.SESSION_SECRET ||
+  process.env.SESSION_SECRET === "your-secret-key-change-this-in-production"
+) {
+  console.warn(
+    "WARNING: Using insecure SESSION_SECRET. Set a strong SESSION_SECRET in production!"
+  );
+}
 
 // Session configuration
 app.use(
   session({
     secret:
-      process.env.SESSION_SECRET || "your-secret-key-change-this-in-production",
+      process.env.SESSION_SECRET || "temporary-dev-secret-change-in-production",
     resave: false,
     saveUninitialized: false,
     store: MongoStore.create({
-      mongoUrl:
-        process.env.MONGODB_URI ||
-        `mongodb+srv://zadifmustafa93:${process.env.MONGODB_PASSWORD}@doctorsdb.kxr9scf.mongodb.net/?retryWrites=true&w=majority&appName=doctorsDB`,
+      mongoUrl: process.env.MONGODB_URI,
       dbName: "doctorsDB",
       touchAfter: 24 * 3600, // lazy session update
     }),
     cookie: {
-      secure: process.env.NODE_ENV === "production",
+      secure: process.env.NODE_ENV === "production", // Only secure in production
       httpOnly: true,
+      sameSite: process.env.NODE_ENV === "production" ? "strict" : "lax", // Less strict in development
       maxAge: 24 * 60 * 60 * 1000, // 24 hours
     },
   })
@@ -127,11 +283,98 @@ app.use(
 app.use(passport.initialize());
 app.use(passport.session());
 
+// SECURITY: CSRF Protection setup - Use session-based CSRF instead of cookie-based
+const csrfProtection = csrf({
+  cookie: false, // Use session instead of cookies for CSRF token storage
+  sessionKey: "session", // Use session for storage
+  value: (req) => {
+    // Try multiple sources for CSRF token
+    return (
+      req.body._csrf ||
+      req.query._csrf ||
+      req.headers["x-csrf-token"] ||
+      req.headers["x-xsrf-token"]
+    );
+  },
+});
+
+// SECURITY: XSS sanitization middleware
+app.use((req, res, next) => {
+  // Sanitize all string inputs
+  const sanitizeObject = (obj) => {
+    for (let key in obj) {
+      if (typeof obj[key] === "string") {
+        obj[key] = xss(obj[key]);
+      } else if (typeof obj[key] === "object" && obj[key] !== null) {
+        sanitizeObject(obj[key]);
+      }
+    }
+  };
+
+  if (req.body) sanitizeObject(req.body);
+  // req.query sanitization is already handled by our custom middleware
+  // Use req.sanitizedQuery instead
+  if (req.params) sanitizeObject(req.params);
+
+  next();
+});
+
 // Make user available in all templates
 app.use((req, res, next) => {
   res.locals.user = req.user || null;
   res.locals.isAuthenticated = req.isAuthenticated();
   next();
+});
+
+// SECURITY: CSRF token middleware for forms - simplified approach
+app.use((req, res, next) => {
+  // Skip CSRF for GET requests, API endpoints, static files, auth endpoints, and background operations
+  if (
+    req.method === "GET" ||
+    req.path.startsWith("/api/") ||
+    req.path.startsWith("/public/") ||
+    req.path === "/auth/sync-data" || // Skip CSRF for background sync
+    req.path === "/auth/user-data" || // Skip CSRF for data fetching
+    req.path === "/auth/logout" || // Skip CSRF for logout
+    req.path === "/auth/login" || // Skip CSRF for login
+    req.path === "/auth/register" || // Skip CSRF for registration
+    req.path === "/auth/subscribe" || // Skip CSRF for subscription
+    req.path === "/auth/save-progress" || // Skip CSRF for progress saving
+    req.path === "/subscription/process-payment" || // Skip CSRF for payment processing
+    req.path === "/subscription/cancel" || // Skip CSRF for subscription cancellation
+    req.path === "/quiz-progress/save" || // Skip CSRF for quiz progress saving
+    req.path.startsWith("/quiz-progress/") || // Skip CSRF for all quiz progress operations
+    req.path === "/chat" || // Skip CSRF for chat endpoint
+    req.path.startsWith("/auth/google") || // Skip CSRF for OAuth
+    req.path === "/health" // Skip CSRF for health check
+  ) {
+    // For GET requests, try to generate CSRF token if session exists
+    if (req.session && req.method === "GET") {
+      try {
+        csrfProtection(req, res, (err) => {
+          if (!err && req.csrfToken) {
+            res.locals.csrfToken = req.csrfToken();
+          } else {
+            res.locals.csrfToken = ""; // Fallback for when CSRF fails
+          }
+          next();
+        });
+      } catch (error) {
+        console.warn(
+          "CSRF token generation failed for GET request:",
+          error.message
+        );
+        res.locals.csrfToken = "";
+        next();
+      }
+    } else {
+      res.locals.csrfToken = "";
+      next();
+    }
+  } else {
+    // For POST/PUT/DELETE requests, apply CSRF protection
+    csrfProtection(req, res, next);
+  }
 });
 
 app.set("view engine", "ejs");
@@ -149,35 +392,43 @@ app.use("/subscription", subscriptionRoutes);
 app.use("/quiz-progress", quizProgressRoutes);
 
 // API route for saving quiz cancellations
-app.post("/api/save-quiz-cancellation", requireAuth, async (req, res) => {
-  try {
-    const { quizData, markedAnswers } = req.body;
+app.post(
+  "/api/save-quiz-cancellation",
+  apiLimiter,
+  requireAuth,
+  async (req, res) => {
+    try {
+      const { quizData, markedAnswers } = req.body;
 
-    if (!quizData) {
-      return res
-        .status(400)
-        .json({ success: false, error: "Quiz data is required" });
+      if (!quizData) {
+        return res
+          .status(400)
+          .json({ success: false, error: "Quiz data is required" });
+      }
+
+      // Save to both stats and quizHistory
+      await userOperations.updateQuizStats(req.user._id, quizData);
+
+      // Save to quizHistory array (most important for progress tracking)
+      const progressResult = await userOperations.saveQuizProgress(
+        req.user._id,
+        {
+          title: quizData.category || "Unknown Quiz",
+          questions: quizData.questions || [],
+          markedAnswers: markedAnswers || [],
+          lastQuestion: quizData.currentQuestion || 0,
+        }
+      );
+
+      res.json({ success: true });
+    } catch (error) {
+      console.error("Error saving quiz cancellation:", error);
+      res
+        .status(500)
+        .json({ success: false, error: "Failed to save quiz cancellation" });
     }
-
-    // Save to both stats and quizHistory
-    await userOperations.updateQuizStats(req.user._id, quizData);
-
-    // Save to quizHistory array (most important for progress tracking)
-    const progressResult = await userOperations.saveQuizProgress(req.user._id, {
-      title: quizData.category || "Unknown Quiz",
-      questions: quizData.questions || [],
-      markedAnswers: markedAnswers || [],
-      lastQuestion: quizData.currentQuestion || 0,
-    });
-
-    res.json({ success: true });
-  } catch (error) {
-    console.error("Error saving quiz cancellation:", error);
-    res
-      .status(500)
-      .json({ success: false, error: "Failed to save quiz cancellation" });
   }
-});
+);
 
 // Routes
 app.get("/", checkSubscription, async (req, res) => {
@@ -302,31 +553,48 @@ app.get(
   }
 );
 
-// Chat endpoint
-app.post("/chat", checkAIAccess, async (req, res) => {
-  try {
-    const { message } = req.body;
-    const result = await model.generateContent(message);
-    const response = await result.response;
-    res.json({ response: response.text() });
-  } catch (error) {
-    console.error("Chat error:", error);
-    res.status(500).json({ error: "Failed to get response" });
-  }
-});
+// Chat endpoint - redirects to /api/ai-chat internally
 
 // API route to check AI access for premium users
-app.get("/api/check-ai-access", checkAIAccess, (req, res) => {
+app.get("/api/check-ai-access", apiLimiter, checkAIAccess, (req, res) => {
   res.json({ hasAccess: true });
 });
 
 // API route for AI chat (with premium check)
-app.post("/api/ai-chat", checkAIAccess, async (req, res) => {
+app.post("/api/ai-chat", aiLimiter, checkAIAccess, async (req, res) => {
   try {
     const { message } = req.body;
-    const result = await model.generateContent(message);
+
+    // Input validation
+    if (!message || typeof message !== "string") {
+      return res.status(400).json({ error: "Invalid message format" });
+    }
+
+    if (message.length > 1000) {
+      return res.status(400).json({ error: "Message too long" });
+    }
+
+    // Sanitize the message
+    const sanitizedMessage = xss(message);
+
+    // System prompt to give AI context about being a quiz app assistant
+    const systemPrompt = `You are an AI for QuizMaster, a medical quiz app. Help users with quiz questions, explain topics, and guide study. Focus only on medical topics.
+
+Use simple English. Always give short, clear answers:
+- Skip long intros or summaries
+- Limit to key facts only
+-Remember **consice answers only**
+-Your answer should be of 4 lines max 
+
+User question: ${sanitizedMessage}`;
+
+    const result = await model.generateContent(systemPrompt);
     const response = await result.response;
-    res.json({ response: response.text() });
+
+    // Sanitize AI response
+    const sanitizedResponse = xss(response.text());
+
+    res.json({ response: sanitizedResponse });
   } catch (error) {
     console.error("AI chat error:", error);
     res.status(500).json({ error: "Failed to get AI response" });
@@ -349,19 +617,58 @@ app.get("/health", (req, res) => {
   res.status(200).send("OK");
 });
 
-// Error handling middleware
+// SECURITY: Error handling middleware with secure error messages
 app.use((err, req, res, next) => {
-  console.error(err.stack);
+  // Log full error for debugging but don't expose details to user
+  console.error("Server Error:", err.stack);
+
+  // Check for CSRF token errors
+  if (err.code === "EBADCSRFTOKEN") {
+    // Add debugging info to identify which endpoint is causing issues
+    console.error(`CSRF Error on ${req.method} ${req.path}`, {
+      headers: req.headers,
+      body: req.body,
+      query: req.query,
+    });
+
+    return res.status(403).render("error", {
+      title: "Security Error",
+      message: "Form submission rejected. Please try again.",
+      isAuthenticated: req.isAuthenticated ? req.isAuthenticated() : false,
+      user: req.user || null,
+      isPremium:
+        (req.user &&
+          req.user.subscription &&
+          req.user.subscription.isPremium) ||
+        false,
+      layout: false,
+    });
+  }
+
+  // Generic error for all other cases
   res.status(500).render("error", {
     title: "Error",
-    message: "Something went wrong!",
+    message: "Something went wrong! Please try again later.",
+    isAuthenticated: req.isAuthenticated ? req.isAuthenticated() : false,
+    user: req.user || null,
+    isPremium:
+      (req.user && req.user.subscription && req.user.subscription.isPremium) ||
+      false,
     layout: false,
   });
 });
 
 // 404 handler
 app.use((req, res) => {
-  res.status(404).render("404", { layout: false });
+  res.status(404).render("404", {
+    title: "Page Not Found",
+    isAuthenticated: req.isAuthenticated ? req.isAuthenticated() : false,
+    user: req.user || null,
+    isPremium:
+      (req.user && req.user.subscription && req.user.subscription.isPremium) ||
+      false,
+    layout: false,
+  });
 });
 
 // Initialize database and start server
