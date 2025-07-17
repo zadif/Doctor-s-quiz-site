@@ -396,7 +396,7 @@ app.post(
   requireAuth,
   async (req, res) => {
     try {
-      const { quizData, markedAnswers } = req.body;
+      const { quizData } = req.body;
 
       if (!quizData) {
         return res
@@ -413,7 +413,7 @@ app.post(
         {
           title: quizData.category || "Unknown Quiz",
           questions: quizData.questions || [],
-          markedAnswers: markedAnswers || [],
+          answers: quizData.answers || [],
           lastQuestion: quizData.currentQuestion || 0,
         }
       );

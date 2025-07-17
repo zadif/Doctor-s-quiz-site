@@ -245,8 +245,21 @@ function continueProgress(progressData) {
   currentQuestionIndex = progressData.lastQuestion;
   carousel.to(currentQuestionIndex);
 
-  // Pre-mark answers for questions the user has already answered
-  userMarkedAnswers = progressData.markedAnswers || [];
+  // Convert parallel arrays back to sparse array format for userMarkedAnswers
+  userMarkedAnswers = [];
+
+  if (progressData.questions && progressData.answers) {
+    // Handle new parallel arrays format
+    progressData.questions.forEach((questionIndex, i) => {
+      const answerIndex = progressData.answers[i];
+      if (answerIndex !== undefined) {
+        userMarkedAnswers[questionIndex] = answerIndex;
+      }
+    });
+  } else if (progressData.markedAnswers) {
+    // Fallback for legacy format
+    userMarkedAnswers = progressData.markedAnswers || [];
+  }
 
   // Reset score to properly count correct answers
   score = 0;
@@ -492,10 +505,16 @@ async function saveQuizProgress() {
         quizTitle = quizTitle.replace(" Quiz", "");
       }
 
-      // Get array of question indices that have been answered
-      const answeredQuestions = userMarkedAnswers
-        .map((answer, index) => (answer !== undefined ? index : null))
-        .filter((index) => index !== null);
+      // Create parallel arrays: questions array with question indices, answers array with corresponding answers
+      const questions = [];
+      const answers = [];
+
+      userMarkedAnswers.forEach((answer, questionIndex) => {
+        if (answer !== undefined) {
+          questions.push(questionIndex);
+          answers.push(answer);
+        }
+      });
 
       // Save progress to server
       const response = await fetch("/quiz-progress/save", {
@@ -505,8 +524,8 @@ async function saveQuizProgress() {
         },
         body: JSON.stringify({
           title: quizTitle,
-          questions: answeredQuestions,
-          markedAnswers: userMarkedAnswers,
+          questions: questions,
+          answers: answers,
           lastQuestion: currentQuestionIndex,
         }),
       });
@@ -1581,6 +1600,17 @@ function getTotalQuestionCount() {
 
 // Function to make a direct API call to save the quiz cancellation
 async function saveQuizCancellation(progressData) {
+  // Create parallel arrays from userMarkedAnswers
+  const questions = [];
+  const answers = [];
+
+  userMarkedAnswers.forEach((answer, questionIndex) => {
+    if (answer !== undefined) {
+      questions.push(questionIndex);
+      answers.push(answer);
+    }
+  });
+
   const response = await fetch("/api/save-quiz-cancellation", {
     method: "POST",
     headers: {
@@ -1589,7 +1619,8 @@ async function saveQuizCancellation(progressData) {
     body: JSON.stringify({
       quizData: {
         category: progressData.category,
-        questions: [],
+        questions: questions,
+        answers: answers,
         currentQuestion: progressData.currentQuestion,
         totalQuestions: progressData.totalQuestions,
         score: progressData.score,
@@ -1598,7 +1629,6 @@ async function saveQuizCancellation(progressData) {
         timestamp: new Date().toISOString(),
         lastQuestion: progressData.questionText,
       },
-      markedAnswers: userMarkedAnswers,
     }),
   });
 

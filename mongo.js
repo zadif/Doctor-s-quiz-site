@@ -59,7 +59,7 @@ export const userOperations = {
   // Quiz progress operations
   async saveQuizProgress(userId, quizData) {
     try {
-      const { title, questions, markedAnswers, lastQuestion } = quizData;
+      const { title, questions, answers, lastQuestion } = quizData;
 
       const collection = await getCollection();
       const user = await this.findUserById(userId);
@@ -77,11 +77,10 @@ export const userOperations = {
 
       if (quizHistoryIndex >= 0) {
         // Update existing quiz progress
-
         updatedQuizHistory[quizHistoryIndex] = {
           title,
-          questions,
-          markedAnswers,
+          questions: questions || [],
+          answers: answers || [],
           lastQuestion,
           updatedAt: new Date(),
           // Preserve creation date
@@ -92,8 +91,8 @@ export const userOperations = {
         // Add new quiz progress
         updatedQuizHistory.push({
           title,
-          questions,
-          markedAnswers,
+          questions: questions || [],
+          answers: answers || [],
           lastQuestion,
           createdAt: new Date(),
           updatedAt: new Date(),
