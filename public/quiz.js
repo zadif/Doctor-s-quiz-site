@@ -964,6 +964,16 @@ document.addEventListener("DOMContentLoaded", () => {
       closeChat();
     });
   }
+
+  // Add event listeners for copy buttons
+  const copyBtns = document.querySelectorAll(".copy-btn");
+  copyBtns.forEach((btn) => {
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      const question = this.getAttribute("data-question");
+      copyQuestionToChat(question);
+    });
+  });
 });
 
 function copyQuestionToChat(question) {

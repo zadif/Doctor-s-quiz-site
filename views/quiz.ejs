@@ -68,7 +68,7 @@
                   <h5 class="card-title"><%= question.question %></h5>
                   <button
                     class="btn btn-sm btn-outline-primary copy-btn"
-                    onclick="copyQuestionToChat('<%= question.question %>')"
+                    data-question="<%= question.question %>"
                   >
                     <i class="fas fa-comment-dots"></i>
                   </button>

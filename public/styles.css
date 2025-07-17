@@ -650,13 +650,17 @@ body.dark-mode .chat-header {
 }
 
 .chat-header .btn-close {
-  cursor: pointer;
-  opacity: 0.8;
-  transition: opacity 0.2s ease;
-  background: none;
-  border: none;
   color: white;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 8px;
+  line-height: 1;
+  border-radius: 4px;
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .chat-header .btn-close:hover {
@@ -762,6 +766,10 @@ body.dark-mode .chat-input .btn-primary {
   overflow-y: auto;
 }
 
+body.dark-mode .mobile-chat-messages {
+  background-color: #2a2a2a;
+}
+
 .mobile-chat-messages .message {
   margin-bottom: 15px;
   padding: 10px 15px;
@@ -826,6 +834,16 @@ body.dark-mode .mobile-chat-messages .ai-message {
 
 #mobileChatModal .modal-body {
   background-color: var(--chat-bg);
+  flex: none !important; /* Override Bootstrap's flex: 1 1 auto */
+  padding: 0 !important; /* Remove padding to eliminate white space */
+}
+
+#mobileChatModal .modal-header.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+body.dark-mode #mobileChatModal .modal-header.bg-primary {
+  background-color: #444444 !important;
 }
 
 body.dark-mode .modal-content {
@@ -999,8 +1017,12 @@ body.dark-mode footer {
   }
 
   .category-icon-large {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .category-icon-large i {
+    font-size: 1.5rem !important;
   }
 
   .option-btn {
