@@ -136,13 +136,8 @@ async function getCustomDataFiles() {
     const dataPath = join(__dirname, "data");
     const files = await fs.readdir(dataPath);
 
-    // Filter for JSON files, excluding known files
-    const customFiles = files.filter(
-      (file) =>
-        file.endsWith(".json") &&
-        file !== "450singlebest.json" &&
-        file !== "sample-biology.json"
-    );
+    // Filter for JSON files only (include ALL JSON files)
+    const customFiles = files.filter((file) => file.endsWith(".json"));
 
     // Create category objects for each custom file
     return customFiles.map((file) => ({
@@ -150,7 +145,10 @@ async function getCustomDataFiles() {
       title: `${file
         .replace(".json", "")
         .replace(/-/g, " ")
-        .replace(/_/g, " ")}`,
+        .replace(/_/g, " ")
+        .split(" ")
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(" ")}`,
       description: "Custom quiz questions",
       icon: "fa-file-alt",
       color: "info",

@@ -1644,3 +1644,118 @@ function hideLoadingOverlay() {
     overlay.style.display = "none";
   }
 }
+
+// Go to Question Function
+function goToQuestion() {
+  const input = document.getElementById("questionNumberInput");
+  const questionNumber = parseInt(input.value);
+
+  if (!questionNumber) {
+    showGoToQuestionError("Please enter a question number");
+    return;
+  }
+
+  const totalQuestions = document.querySelectorAll(".carousel-item").length - 1; // Subtract 1 for results slide
+
+  if (questionNumber < 1 || questionNumber > totalQuestions) {
+    showGoToQuestionError(
+      `Please enter a number between 1 and ${totalQuestions}`
+    );
+    return;
+  }
+
+  // Convert to 0-based index
+  const questionIndex = questionNumber - 1;
+
+  // Update current question index
+  currentQuestionIndex = questionIndex;
+
+  // Navigate to the question
+  carousel.to(questionIndex);
+
+  // Update progress
+  updateProgress();
+
+  // Set up navigation buttons
+  setupNavigationButtons();
+
+  // Clear the input
+  input.value = "";
+
+  // Show success feedback
+  showGoToQuestionSuccess(`Navigated to question ${questionNumber}`);
+
+  // Scroll to the quiz if on mobile
+  if (window.innerWidth <= 768) {
+    document.getElementById("quiz-carousel").scrollIntoView({
+      behavior: "smooth",
+      block: "center",
+    });
+  }
+}
+
+function showGoToQuestionError(message) {
+  const input = document.getElementById("questionNumberInput");
+
+  // Add error styling
+  input.classList.add("is-invalid");
+
+  // Create or update error message
+  let errorDiv =
+    input.parentElement.parentElement.querySelector(".error-message");
+  if (!errorDiv) {
+    errorDiv = document.createElement("div");
+    errorDiv.className = "error-message text-danger small mt-1 text-center";
+    input.parentElement.parentElement.appendChild(errorDiv);
+  }
+
+  errorDiv.innerHTML = `<i class="fas fa-exclamation-triangle me-1"></i>${message}`;
+
+  // Remove error styling after 3 seconds
+  setTimeout(() => {
+    input.classList.remove("is-invalid");
+    if (errorDiv) {
+      errorDiv.remove();
+    }
+  }, 3000);
+
+  // Focus back on input
+  input.focus();
+}
+
+function showGoToQuestionSuccess(message) {
+  // Create success toast
+  const toast = document.createElement("div");
+  toast.className = "toast-success position-fixed";
+  toast.style.cssText = `
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-weight: 500;
+    box-shadow: 0 4px 15px rgba(40, 167, 69, 0.3);
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+  `;
+  toast.innerHTML = `<i class="fas fa-check-circle me-2"></i>${message}`;
+
+  document.body.appendChild(toast);
+
+  // Animate in
+  setTimeout(() => {
+    toast.style.transform = "translateX(0)";
+  }, 100);
+
+  // Animate out and remove
+  setTimeout(() => {
+    toast.style.transform = "translateX(100%)";
+    setTimeout(() => {
+      if (toast.parentNode) {
+        toast.remove();
+      }
+    }, 300);
+  }, 2000);
+}
