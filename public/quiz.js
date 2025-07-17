@@ -10,6 +10,117 @@ const carousel = new bootstrap.Carousel(
   }
 );
 
+// Chat Memory Functions
+const CHAT_STORAGE_KEY = "quizChatMessages";
+
+// Clear any existing chat history on page load (cleanup from previous sessions)
+function clearChatHistory() {
+  try {
+    localStorage.removeItem(CHAT_STORAGE_KEY);
+  } catch (error) {
+    console.warn("Failed to clear chat history:", error);
+  }
+}
+
+// Save chat message to localStorage
+function saveChatMessage(userMessage, aiResponse) {
+  try {
+    let chatHistory = getChatHistory();
+    chatHistory.push({
+      user: userMessage,
+      ai: aiResponse,
+    });
+    localStorage.setItem(CHAT_STORAGE_KEY, JSON.stringify(chatHistory));
+  } catch (error) {
+    console.warn("Failed to save chat message:", error);
+  }
+}
+
+// Get chat history from localStorage
+function getChatHistory() {
+  try {
+    const stored = localStorage.getItem(CHAT_STORAGE_KEY);
+    return stored ? JSON.parse(stored) : [];
+  } catch (error) {
+    console.warn("Failed to get chat history:", error);
+    return [];
+  }
+}
+
+// Load and display chat history
+function loadChatHistory() {
+  const history = getChatHistory();
+  const desktopMessages = document.getElementById("chatMessages");
+  const mobileMessages = document.getElementById("mobileChatMessages");
+
+  // Clear existing messages
+  if (desktopMessages) desktopMessages.innerHTML = "";
+  if (mobileMessages) mobileMessages.innerHTML = "";
+
+  // Display each saved message
+  history.forEach((msg) => {
+    if (msg.user && msg.ai) {
+      displayMessage(msg.user, "user");
+      displayMessage(msg.ai, "ai");
+    }
+  });
+}
+
+// Display message in both desktop and mobile chat
+function displayMessage(message, sender) {
+  try {
+    // Add to desktop chat
+    const desktopMessages = document.getElementById("chatMessages");
+    if (desktopMessages) {
+      const messageDiv = document.createElement("div");
+      messageDiv.className = `message ${sender}-message`;
+
+      const copyButton =
+        sender === "ai"
+          ? `<button class="copy-button" onclick="copyToClipboard(this)" aria-label="Copy to clipboard">
+             <i class="fas fa-copy"></i>
+           </button>`
+          : "";
+
+      messageDiv.innerHTML = `
+        <div class="message-content">
+          ${message}
+          ${copyButton}
+        </div>
+        <div class="message-time">${new Date().toLocaleTimeString()}</div>
+      `;
+      desktopMessages.appendChild(messageDiv);
+      desktopMessages.scrollTop = desktopMessages.scrollHeight;
+    }
+
+    // Add to mobile chat
+    const mobileMessages = document.getElementById("mobileChatMessages");
+    if (mobileMessages) {
+      const messageDiv = document.createElement("div");
+      messageDiv.className = `message ${sender}-message`;
+
+      const copyButton =
+        sender === "ai"
+          ? `<button class="copy-button" onclick="copyToClipboard(this)" aria-label="Copy to clipboard">
+             <i class="fas fa-copy"></i>
+           </button>`
+          : "";
+
+      messageDiv.innerHTML = `
+        <div class="message-content">
+          ${message}
+          ${copyButton}
+        </div>
+        <div class="message-time">${new Date().toLocaleTimeString()}</div>
+      `;
+      mobileMessages.appendChild(messageDiv);
+      mobileMessages.scrollTop = mobileMessages.scrollHeight;
+    }
+  } catch (error) {
+    console.warn("Failed to display message:", error);
+  }
+}
+
 // Track user's marked answers
 function trackAnswer(questionIndex, answerIndex) {
   // Create or update the marked answer for this question
@@ -603,6 +714,9 @@ function restartQuiz() {
   currentQuestionIndex = 0;
   score = 0;
 
+  // Clear chat history when restarting quiz
+  clearChatHistory();
+
   // Reset all buttons
   document.querySelectorAll(".option-btn").forEach((btn) => {
     btn.classList.remove("correct", "incorrect", "disabled");
@@ -750,10 +864,25 @@ function toggleChat() {
     if (isOpen) {
       closeChat();
     } else {
+      // Load chat history when opening chat
+      loadChatHistory();
+
       chatSidebar.classList.add("open");
       // Initialize resize handle after opening
       setTimeout(initResizeHandle, 100);
     }
+  }
+
+  // Handle mobile chat modal
+  const isMobile = window.innerWidth < 576;
+  if (isMobile) {
+    // Load chat history for mobile too
+    loadChatHistory();
+
+    const mobileModal = new bootstrap.Modal(
+      document.getElementById("mobileChatModal")
+    );
+    mobileModal.show();
   }
 }
 
@@ -914,6 +1043,9 @@ if (typeof initializeDarkMode !== "function") {
 
 // Initialize
 document.addEventListener("DOMContentLoaded", () => {
+  // Clear any existing chat history on page load (safety cleanup)
+  clearChatHistory();
+
   // Log the quiz title at load time
   const quizTitleElement = document.querySelector(".category-header h2");
 
@@ -1093,6 +1225,9 @@ async function confirmQuitQuiz() {
   }
 
   // Progress clearing code removed as we no longer save progress
+
+  // Clear chat history when quitting quiz
+  clearChatHistory();
 
   // Hide loading overlay
   hideLoadingOverlay();
@@ -1282,7 +1417,7 @@ function showPremiumRequiredMessage() {
   }, 5000);
 }
 
-// Update existing sendToAI function to handle mobile
+// Update existing sendToAI function to handle mobile and chat history
 function sendToAI(message, chatType = "desktop") {
   const chatMessages =
     chatType === "mobile"
@@ -1300,14 +1435,20 @@ function sendToAI(message, chatType = "desktop") {
   chatMessages.appendChild(loadingDiv);
   chatMessages.scrollTop = chatMessages.scrollHeight;
 
-  // Send request to AI endpoint
+  // Get chat history for context
+  const chatHistory = getChatHistory();
+
+  // Send request to AI endpoint with chat history
   fetch("/api/ai-chat", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
     },
     credentials: "include",
-    body: JSON.stringify({ message: message }),
+    body: JSON.stringify({
+      message: message,
+      chatHistory: chatHistory,
+    }),
   })
     .then((response) => {
       if (!response.ok) {
@@ -1328,6 +1469,9 @@ function sendToAI(message, chatType = "desktop") {
       } else {
         addMessageToChat("ai", data.response);
       }
+
+      // Save the conversation to localStorage
+      saveChatMessage(message, data.response);
     })
     .catch((error) => {
       // Remove loading message

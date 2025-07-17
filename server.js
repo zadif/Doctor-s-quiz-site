@@ -563,7 +563,7 @@ app.get("/api/check-ai-access", apiLimiter, checkAIAccess, (req, res) => {
 // API route for AI chat (with premium check)
 app.post("/api/ai-chat", aiLimiter, checkAIAccess, async (req, res) => {
   try {
-    const { message } = req.body;
+    const { message, chatHistory } = req.body;
 
     // Input validation
     if (!message || typeof message !== "string") {
@@ -577,18 +577,63 @@ app.post("/api/ai-chat", aiLimiter, checkAIAccess, async (req, res) => {
     // Sanitize the message
     const sanitizedMessage = xss(message);
 
-    // System prompt to give AI context about being a quiz app assistant
+    // System prompt for the AI
     const systemPrompt = `You are an AI for QuizMaster, a medical quiz app. Help users with quiz questions, explain topics, and guide study. Focus only on medical topics.
 
 Use simple English. Always give short, clear answers:
 - Skip long intros or summaries
 - Limit to key facts only
--Remember **consice answers only**
--Your answer should be of 4 lines max 
+- Remember **concise answers only**
+- Your answer should be of 4 lines max`;
 
-User question: ${sanitizedMessage}`;
+    // Prepare chat history for the AI
+    const history = [];
 
-    const result = await model.generateContent(systemPrompt);
+    // Add system message first
+    history.push({
+      role: "user",
+      parts: [{ text: systemPrompt }],
+    });
+    history.push({
+      role: "model",
+      parts: [
+        {
+          text: "I understand. I'm your QuizMaster AI assistant, ready to help with medical quiz questions and topics with concise, clear answers.",
+        },
+      ],
+    });
+
+    // Add previous chat history if provided
+    if (chatHistory && Array.isArray(chatHistory)) {
+      chatHistory.forEach((msg) => {
+        if (msg.user && msg.ai) {
+          // Sanitize historical messages
+          const sanitizedUser = xss(msg.user);
+          const sanitizedAI = xss(msg.ai);
+
+          history.push({
+            role: "user",
+            parts: [{ text: sanitizedUser }],
+          });
+          history.push({
+            role: "model",
+            parts: [{ text: sanitizedAI }],
+          });
+        }
+      });
+    }
+
+    // Start chat with history
+    const chat = model.startChat({
+      history: history,
+      generationConfig: {
+        maxOutputTokens: 200, // Keep responses short
+        temperature: 0.7,
+      },
+    });
+
+    // Send the new message
+    const result = await chat.sendMessage(sanitizedMessage);
     const response = await result.response;
 
     // Sanitize AI response
