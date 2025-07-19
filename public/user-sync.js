@@ -21,7 +21,42 @@ class UserSync {
 
       // Override localStorage methods to sync with server
       this.overrideLocalStorage();
+
+      // Set up activity tracking to prevent zombie syncing
+      this.setupActivityTracking();
     }
+  }
+
+  // Set up user activity tracking
+  setupActivityTracking() {
+    const events = [
+      "mousedown",
+      "mousemove",
+      "keypress",
+      "scroll",
+      "touchstart",
+      "click",
+    ];
+
+    // Throttle activity tracking to avoid excessive calls
+    let activityThrottle = false;
+    const trackActivity = () => {
+      if (!activityThrottle) {
+        this.trackUserActivity();
+        activityThrottle = true;
+        setTimeout(() => {
+          activityThrottle = false;
+        }, 30000); // Throttle for 30 seconds
+      }
+    };
+
+    // Add event listeners for user activity
+    events.forEach((event) => {
+      document.addEventListener(event, trackActivity, { passive: true });
+    });
+
+    // Track initial activity
+    this.trackUserActivity();
   }
 
   async checkAuthStatus() {
@@ -124,18 +159,44 @@ class UserSync {
   }
 
   startPeriodicSync() {
-    // Smart periodic sync: only sync if there are pending changes
-    // This dramatically reduces unnecessary API calls
+    // Only start periodic sync if user is actually active on the page
+    // Check if page is visible and user has made changes
     this.syncInterval = setInterval(() => {
-      // Only sync if user has been active and there are pending changes
-      if (this.hasPendingChanges && !this.isSyncing) {
-        console.log("Periodic sync: Changes detected, syncing...");
+      // Multiple conditions to prevent zombie syncing:
+      // 1. Must have pending changes
+      // 2. Page must be visible (not hidden/minimized)
+      // 3. User must not be idle
+      if (
+        this.hasPendingChanges &&
+        !this.isSyncing &&
+        !document.hidden &&
+        this.isUserActive()
+      ) {
+        console.log("Periodic sync: Active user with changes, syncing...");
         this.syncToServer();
         this.hasPendingChanges = false;
       } else {
-        console.log("Periodic sync: No changes, skipping sync");
+        console.log("Periodic sync: Skipping - inactive user or no changes");
       }
     }, 5 * 60 * 1000); // 5 minutes = 300,000ms
+  }
+
+  // Track user activity to prevent syncing for inactive users
+  isUserActive() {
+    // If no last activity recorded, assume active
+    if (!this.lastActivity) {
+      this.lastActivity = Date.now();
+      return true;
+    }
+
+    // Consider user inactive after 10 minutes of no interaction
+    const tenMinutes = 10 * 60 * 1000;
+    return Date.now() - this.lastActivity < tenMinutes;
+  }
+
+  // Track user activity
+  trackUserActivity() {
+    this.lastActivity = Date.now();
   }
 
   stopPeriodicSync() {
