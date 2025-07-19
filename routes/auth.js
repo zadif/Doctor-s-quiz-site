@@ -218,18 +218,41 @@ router.post(
   }
 );
 
-// Google OAuth routes
-router.get(
-  "/google",
-  passport.authenticate("google", { scope: ["profile", "email"] })
-);
+// Google OAuth routes with automatic mobile detection
+router.get("/google", (req, res, next) => {
+  // Store mobile flag in session for redirect handling
+  if (req.isMobile) {
+    req.session.isMobile = true;
+  }
+
+  passport.authenticate("google", {
+    scope: ["profile", "email"],
+    prompt: req.isMobile ? "select_account" : undefined, // Force account selection for mobile
+  })(req, res, next);
+});
+
+// Keep mobile route for backward compatibility but redirect to main route
+router.get("/google/mobile", (req, res) => {
+  res.redirect("/auth/google");
+});
 
 router.get(
   "/google/callback",
-  passport.authenticate("google", { failureRedirect: "/auth/login" }),
+  passport.authenticate("google", {
+    failureRedirect: "/auth/login?error=auth_failed",
+  }),
   (req, res) => {
+    const isMobile = req.session.isMobile;
+    delete req.session.isMobile; // Clean up
+
     req.flash("success", "Welcome to QuizMaster!");
-    res.redirect("/");
+
+    if (isMobile) {
+      // Mobile-specific redirect with verification parameter
+      res.redirect("/?mobile_login=success");
+    } else {
+      res.redirect("/");
+    }
   }
 );
 

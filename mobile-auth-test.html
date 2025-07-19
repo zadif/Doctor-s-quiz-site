@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mobile Auth Test</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      .test-section {
+        margin: 20px 0;
+        padding: 15px;
+        border: 1px solid #ddd;
+      }
+      .success {
+        color: green;
+      }
+      .error {
+        color: red;
+      }
+      .info {
+        color: blue;
+      }
+      button {
+        padding: 10px;
+        margin: 5px;
+      }
+      pre {
+        background: #f5f5f5;
+        padding: 10px;
+        overflow-x: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Mobile Authentication Test Page</h1>
+    <p>Use this page to test mobile authentication functionality.</p>
+
+    <div class="test-section">
+      <h3>1. Session Verification Test</h3>
+      <button onclick="testSessionVerification()">Test Session Status</button>
+      <div id="session-result"></div>
+    </div>
+
+    <div class="test-section">
+      <h3>2. Mobile Detection Test</h3>
+      <button onclick="testMobileDetection()">Test Mobile Detection</button>
+      <div id="mobile-result"></div>
+    </div>
+
+    <div class="test-section">
+      <h3>3. Authentication Flow Test</h3>
+      <button onclick="testAuthFlow()">Test Login Flow</button>
+      <a
+        href="/auth/google"
+        class="button"
+        style="
+          display: inline-block;
+          padding: 10px;
+          background: #4285f4;
+          color: white;
+          text-decoration: none;
+        "
+        >Google Login</a
+      >
+      <div id="auth-result"></div>
+    </div>
+
+    <div class="test-section">
+      <h3>4. Cookie Test</h3>
+      <button onclick="testCookies()">Test Cookies</button>
+      <div id="cookie-result"></div>
+    </div>
+
+    <div class="test-section">
+      <h3>5. User Data Test (Authenticated Only)</h3>
+      <button onclick="testUserData()">Test User Data</button>
+      <div id="userdata-result"></div>
+    </div>
+
+    <script>
+      // Test 1: Session Verification
+      async function testSessionVerification() {
+        const resultDiv = document.getElementById("session-result");
+        resultDiv.innerHTML = '<p class="info">Testing session...</p>';
+
+        try {
+          const response = await fetch("/api/verify-session", {
+            credentials: "include",
+          });
+          const data = await response.json();
+
+          resultDiv.innerHTML = `
+                    <p class="${data.authenticated ? "success" : "error"}">
+                        Authentication Status: ${
+                          data.authenticated
+                            ? "AUTHENTICATED"
+                            : "NOT AUTHENTICATED"
+                        }
+                    </p>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+        } catch (error) {
+          resultDiv.innerHTML = `<p class="error">Error: ${error.message}</p>`;
+        }
+      }
+
+      // Test 2: Mobile Detection
+      function testMobileDetection() {
+        const resultDiv = document.getElementById("mobile-result");
+        const userAgent = navigator.userAgent;
+        const isMobile =
+          window.innerWidth <= 768 ||
+          /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+            userAgent
+          );
+
+        resultDiv.innerHTML = `
+                <p class="info">Client-side mobile detection: ${
+                  isMobile ? "MOBILE" : "DESKTOP"
+                }</p>
+                <p class="info">Screen width: ${window.innerWidth}px</p>
+                <p class="info">User Agent: ${userAgent}</p>
+            `;
+      }
+
+      // Test 3: Authentication Flow
+      async function testAuthFlow() {
+        const resultDiv = document.getElementById("auth-result");
+        resultDiv.innerHTML =
+          '<p class="info">Testing authentication endpoints...</p>';
+
+        try {
+          // Test if login page is accessible
+          const loginResponse = await fetch("/auth/login");
+          const loginStatus = loginResponse.ok
+            ? "ACCESSIBLE"
+            : "NOT ACCESSIBLE";
+
+          // Test if signup page is accessible
+          const signupResponse = await fetch("/auth/signup");
+          const signupStatus = signupResponse.ok
+            ? "ACCESSIBLE"
+            : "NOT ACCESSIBLE";
+
+          resultDiv.innerHTML = `
+                    <p class="info">Login page: ${loginStatus}</p>
+                    <p class="info">Signup page: ${signupStatus}</p>
+                    <p class="info">Click the Google Login button above to test OAuth flow</p>
+                `;
+        } catch (error) {
+          resultDiv.innerHTML = `<p class="error">Error: ${error.message}</p>`;
+        }
+      }
+
+      // Test 4: Cookie Test
+      function testCookies() {
+        const resultDiv = document.getElementById("cookie-result");
+        const cookies = document.cookie;
+
+        resultDiv.innerHTML = `
+                <p class="info">Document cookies available: ${
+                  cookies ? "YES" : "NO"
+                }</p>
+                <pre>${cookies || "No cookies found"}</pre>
+                <p class="info">LocalStorage works: ${
+                  typeof Storage !== "undefined" ? "YES" : "NO"
+                }</p>
+                <p class="info">SessionStorage works: ${
+                  typeof sessionStorage !== "undefined" ? "YES" : "NO"
+                }</p>
+            `;
+      }
+
+      // Test 5: User Data (Authenticated Only)
+      async function testUserData() {
+        const resultDiv = document.getElementById("userdata-result");
+        resultDiv.innerHTML =
+          '<p class="info">Testing user data endpoints...</p>';
+
+        try {
+          const response = await fetch("/auth/user-data", {
+            credentials: "include",
+          });
+
+          if (response.ok) {
+            const data = await response.json();
+            resultDiv.innerHTML = `
+                        <p class="success">User data retrieved successfully!</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+          } else if (response.status === 401) {
+            resultDiv.innerHTML =
+              '<p class="error">Not authenticated - This is expected if not logged in</p>';
+          } else {
+            resultDiv.innerHTML = `<p class="error">Error: HTTP ${response.status}</p>`;
+          }
+        } catch (error) {
+          resultDiv.innerHTML = `<p class="error">Error: ${error.message}</p>`;
+        }
+      }
+
+      // Auto-run mobile detection on load
+      document.addEventListener("DOMContentLoaded", function () {
+        testMobileDetection();
+
+        // Check if we came from a successful mobile login
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get("mobile_login") === "success") {
+          document.getElementById("auth-result").innerHTML =
+            '<p class="success">Mobile login success detected! Testing session...</p>';
+          setTimeout(testSessionVerification, 1000);
+        }
+      });
+
+      // Helper function to run all tests
+      function runAllTests() {
+        testMobileDetection();
+        testSessionVerification();
+        testAuthFlow();
+        testCookies();
+        testUserData();
+      }
+    </script>
+
+    <div class="test-section">
+      <h3>Quick Actions</h3>
+      <button onclick="runAllTests()">Run All Tests</button>
+      <button onclick="window.location.href='/auth/login'">Go to Login</button>
+      <button onclick="window.location.href='/auth/signup'">
+        Go to Signup
+      </button>
+      <button onclick="window.location.href='/?debug=1'">
+        Enable Debug Mode
+      </button>
+    </div>
+  </body>
+</html>

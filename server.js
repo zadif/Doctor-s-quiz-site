@@ -189,7 +189,7 @@ app.set("trust proxy", 1);
 // SECURITY: Apply general rate limiting to all routes
 app.use(limiter);
 
-// SECURITY: Custom MongoDB injection prevention
+// Custom MongoDB injection prevention and session debugging
 app.use((req, res, next) => {
   // Function to sanitize input by replacing MongoDB operators
   const sanitizeInput = (obj) => {
@@ -256,7 +256,7 @@ if (
   );
 }
 
-// Session configuration
+// Session configuration with mobile-friendly settings
 app.use(
   session({
     secret:
@@ -269,10 +269,16 @@ app.use(
       touchAfter: 24 * 3600, // lazy session update
     }),
     cookie: {
-      secure: process.env.NODE_ENV === "production", // Only secure in production
+      secure:
+        process.env.NODE_ENV === "production" &&
+        process.env.FORCE_HTTPS === "true", // Only require HTTPS if explicitly set
       httpOnly: true,
-      sameSite: process.env.NODE_ENV === "production" ? "strict" : "lax", // Less strict in development
+      sameSite: "lax", // Changed to 'lax' for mobile compatibility in all environments
       maxAge: 24 * 60 * 60 * 1000, // 24 hours
+      domain:
+        process.env.NODE_ENV === "production"
+          ? process.env.COOKIE_DOMAIN
+          : undefined, // Allow setting domain for production
     },
   })
 );
@@ -317,43 +323,44 @@ app.use((req, res, next) => {
   next();
 });
 
-// Make user available in all templates
+// Make user available in all templates + mobile detection
 app.use((req, res, next) => {
+  // Mobile detection
+  const userAgent = req.headers["user-agent"] || "";
+  req.isMobile =
+    /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
+  req.isTablet = /iPad|Android.*Tablet/i.test(userAgent);
+
   res.locals.user = req.user || null;
   res.locals.isAuthenticated = req.isAuthenticated();
+  res.locals.isMobile = req.isMobile;
   next();
 });
 
-// SECURITY: CSRF token middleware for forms - simplified approach
+// SECURITY: CSRF token middleware for forms - Mobile-friendly approach
 app.use((req, res, next) => {
-  // Skip CSRF for GET requests, API endpoints, static files, auth endpoints, and background operations
+  // Skip CSRF for GET requests, API endpoints, static files, auth endpoints, and mobile devices
   if (
     req.method === "GET" ||
-    req.path.startsWith("/api/") ||
-    req.path.startsWith("/public/") ||
-    req.path === "/auth/sync-data" || // Skip CSRF for background sync
-    req.path === "/auth/user-data" || // Skip CSRF for data fetching
-    req.path === "/auth/logout" || // Skip CSRF for logout
-    req.path === "/auth/login" || // Skip CSRF for login
-    req.path === "/auth/register" || // Skip CSRF for registration
-    req.path === "/auth/subscribe" || // Skip CSRF for subscription
-    req.path === "/auth/save-progress" || // Skip CSRF for progress saving
-    req.path === "/subscription/process-payment" || // Skip CSRF for payment processing
-    req.path === "/subscription/cancel" || // Skip CSRF for subscription cancellation
-    req.path === "/quiz-progress/save" || // Skip CSRF for quiz progress saving
-    req.path.startsWith("/quiz-progress/") || // Skip CSRF for all quiz progress operations
-    req.path === "/chat" || // Skip CSRF for chat endpoint
-    req.path.startsWith("/auth/google") || // Skip CSRF for OAuth
-    req.path === "/health" // Skip CSRF for health check
+    req.url.startsWith("/api/") ||
+    req.url.startsWith("/auth/") ||
+    req.url.startsWith("/public/") ||
+    req.url.startsWith("/css/") ||
+    req.url.startsWith("/js/") ||
+    req.url.includes("beacon") ||
+    req.url.includes("sync") ||
+    req.path === "/chat" ||
+    req.path === "/health" ||
+    req.isMobile // Skip CSRF for mobile devices completely
   ) {
     // For GET requests, try to generate CSRF token if session exists
-    if (req.session && req.method === "GET") {
+    if (req.session && req.method === "GET" && !req.isMobile) {
       try {
         csrfProtection(req, res, (err) => {
           if (!err && req.csrfToken) {
             res.locals.csrfToken = req.csrfToken();
           } else {
-            res.locals.csrfToken = ""; // Fallback for when CSRF fails
+            res.locals.csrfToken = "";
           }
           next();
         });
@@ -370,7 +377,11 @@ app.use((req, res, next) => {
       next();
     }
   } else {
-    // For POST/PUT/DELETE requests, apply CSRF protection
+    // For POST/PUT/DELETE requests, apply CSRF protection only for non-mobile
+    if (req.isMobile) {
+      res.locals.csrfToken = "";
+      return next();
+    }
     csrfProtection(req, res, next);
   }
 });
@@ -379,6 +390,50 @@ app.set("view engine", "ejs");
 app.set("views", join(__dirname, "views"));
 app.use(ejsLayouts);
 app.use(express.static("public"));
+
+// Add session verification endpoint for mobile debugging (after Passport middleware)
+app.get("/api/verify-session", (req, res) => {
+  res.json({
+    authenticated: req.isAuthenticated(),
+    user: req.user
+      ? { id: req.user._id, email: req.user.email, name: req.user.name }
+      : null,
+    sessionID: req.sessionID,
+    cookies: req.headers.cookie ? "Present" : "None",
+    userAgent: req.headers["user-agent"],
+    isMobile: req.isMobile,
+    sessionData: {
+      exists: !!req.session,
+      passport: !!req.session.passport,
+    },
+  });
+});
+
+// Add mobile-specific login verification endpoint
+app.post("/api/mobile-login-verify", (req, res) => {
+  if (req.isAuthenticated()) {
+    res.json({
+      success: true,
+      user: {
+        id: req.user._id,
+        email: req.user.email,
+        name: req.user.name,
+      },
+      message: "Login verified successfully",
+    });
+  } else {
+    res.status(401).json({
+      success: false,
+      message: "Not authenticated",
+      debug: {
+        sessionExists: !!req.session,
+        sessionID: req.sessionID,
+        cookies: req.headers.cookie ? "Present" : "None",
+        userAgent: req.headers["user-agent"],
+      },
+    });
+  }
+});
 
 // Auth routes
 app.use("/auth", authRoutes);

@@ -151,6 +151,35 @@ function validateForm() {
   return isValid;
 }
 
+// Debug function for mobile authentication (only if debug parameter is present)
+function debugMobileAuth() {
+  fetch("/api/verify-session", {
+    credentials: "include",
+    method: "GET",
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      console.log("Session Debug:", data);
+      alert(JSON.stringify(data, null, 2));
+    })
+    .catch((error) => {
+      console.error("Debug error:", error);
+      alert("Debug error: " + error.message);
+    });
+}
+
+// Add debug button for testing (only if debug parameter is present)
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.location.search.includes("debug=1")) {
+    const debugButton = document.createElement("button");
+    debugButton.textContent = "Debug Auth";
+    debugButton.onclick = debugMobileAuth;
+    debugButton.style.cssText =
+      "position:fixed;top:10px;right:10px;z-index:9999;padding:5px 10px;background:#007bff;color:white;border:none;border-radius:4px;font-size:12px;";
+    document.body.appendChild(debugButton);
+  }
+});
+
 // Auto-dismiss alerts after 5 seconds
 document.addEventListener("DOMContentLoaded", function () {
   const alerts = document.querySelectorAll(".alert");

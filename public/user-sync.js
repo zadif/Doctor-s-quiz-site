@@ -26,9 +26,32 @@ class UserSync {
 
   async checkAuthStatus() {
     try {
-      const response = await fetch("/auth/user-data");
+      const response = await fetch("/auth/user-data", {
+        method: "GET",
+        credentials: "include", // Ensure cookies are included
+        headers: {
+          "Cache-Control": "no-cache",
+        },
+      });
+
+      // Enhanced mobile debugging
+      if (!response.ok) {
+        console.log("Auth check failed, verifying session...");
+        const verifyResponse = await fetch("/api/verify-session", {
+          credentials: "include",
+        });
+
+        if (verifyResponse.ok) {
+          const verifyData = await verifyResponse.json();
+          console.log("Session verification data:", verifyData);
+          return verifyData.authenticated;
+        }
+        return false; // Add explicit return for failed verification
+      }
+
       return response.ok;
     } catch (error) {
+      console.error("Auth status check error:", error);
       return false;
     }
   }
@@ -62,7 +85,7 @@ class UserSync {
         }
       }
     } catch (error) {
-      console.error("Failed to load user data:", error);
+      console.error("Failed to load user data:");
     }
   }
   async syncToServer() {
@@ -101,10 +124,18 @@ class UserSync {
   }
 
   startPeriodicSync() {
-    // Sync every 30 seconds
+    // Smart periodic sync: only sync if there are pending changes
+    // This dramatically reduces unnecessary API calls
     this.syncInterval = setInterval(() => {
-      this.syncToServer();
-    }, 30000);
+      // Only sync if user has been active and there are pending changes
+      if (this.hasPendingChanges && !this.isSyncing) {
+        console.log("Periodic sync: Changes detected, syncing...");
+        this.syncToServer();
+        this.hasPendingChanges = false;
+      } else {
+        console.log("Periodic sync: No changes, skipping sync");
+      }
+    }, 5 * 60 * 1000); // 5 minutes = 300,000ms
   }
 
   stopPeriodicSync() {
@@ -121,11 +152,15 @@ class UserSync {
 
       // Sync relevant data to server with rate limiting
       if ((key === "quizStats" || key === "darkMode") && !this.isSyncing) {
-        // Debounce sync calls
+        // Mark that we have pending changes
+        this.hasPendingChanges = true;
+
+        // Debounce sync calls - increased to 5 seconds for better batching
         clearTimeout(this.syncTimeout);
         this.syncTimeout = setTimeout(() => {
           this.syncToServer();
-        }, 2000); // Increased debounce time to 2 seconds
+          this.hasPendingChanges = false; // Reset flag after sync
+        }, 5000); // 5 seconds instead of 2
       }
     };
   }
@@ -171,3 +206,78 @@ window.addEventListener("beforeunload", () => {
     }
   }
 });
+
+// Enhanced mobile authentication checking
+async function checkMobileAuth() {
+  try {
+    const response = await fetch("/api/verify-session", {
+      method: "GET",
+      credentials: "include",
+      headers: {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-cache",
+      },
+    });
+
+    const data = await response.json();
+
+    if (data.authenticated && data.user) {
+      // Update global auth state
+      if (window.userSync) {
+        window.userSync.isAuthenticated = true;
+      }
+      return true;
+    } else {
+      return false;
+    }
+  } catch (error) {
+    console.error("Mobile auth check error:", error);
+    return false;
+  }
+}
+
+// Mobile authentication initialization
+function initMobileAuth() {
+  const isMobile =
+    window.innerWidth <= 768 ||
+    /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      navigator.userAgent
+    );
+
+  if (isMobile) {
+    // Check for mobile login success parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get("mobile_login") === "success") {
+      console.log("Mobile login success detected, verifying auth...");
+      setTimeout(() => {
+        checkMobileAuth().then((isAuthenticated) => {
+          if (isAuthenticated) {
+            // Clean up URL and reload user data
+            window.history.replaceState(
+              {},
+              document.title,
+              window.location.pathname
+            );
+            if (window.userSync) {
+              window.userSync.loadUserData();
+            }
+            // Trigger any auth-dependent UI updates
+            if (window.authEvents) {
+              window.authEvents.notifyAuthReady(true);
+            }
+          }
+        });
+      }, 500);
+    } else {
+      // Regular mobile auth check with delay
+      setTimeout(() => {
+        checkMobileAuth();
+      }, 1000);
+    }
+  }
+}
+
+// Initialize mobile auth on page load
+if (typeof document !== "undefined") {
+  document.addEventListener("DOMContentLoaded", initMobileAuth);
+}
