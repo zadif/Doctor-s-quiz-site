@@ -2,12 +2,30 @@ import express from "express";
 import { userOperations } from "../mongo.js";
 import { requireAuth } from "./auth.js";
 import { v4 as uuidv4 } from "uuid";
+import csrf from "csurf";
 
 const router = express.Router();
 
-// Subscription page
-router.get("/", requireAuth, async (req, res) => {
+// Initialize CSRF protection - moved to the top of the file
+const csrfProtection = csrf({
+  cookie: {
+    key: "_csrf",
+    path: "/",
+    httpOnly: true,
+    secure: process.env.NODE_ENV === "production",
+    maxAge: 3600, // 1 hour in seconds
+  },
+});
+
+// Subscription page with CSRF protection
+router.get("/", requireAuth, csrfProtection, async (req, res) => {
   try {
+    // Generate a fresh CSRF token for this subscription page
+    const token = req.csrfToken();
+    console.log(
+      "[Subscription] Generated new CSRF token for subscription page"
+    );
+
     const user = await userOperations.findUserById(req.user._id);
     const isPremium = user.subscription && user.subscription.isPremium;
     const accessedQuizzes = user.subscription
@@ -24,6 +42,7 @@ router.get("/", requireAuth, async (req, res) => {
       success: req.sanitizedQuery
         ? req.sanitizedQuery.success
         : req.query.success,
+      csrfToken: token, // Always include the CSRF token
       layout: false,
     });
   } catch (error) {
@@ -32,60 +51,97 @@ router.get("/", requireAuth, async (req, res) => {
   }
 });
 
-// Process payment page
-router.get("/checkout", requireAuth, (req, res) => {
-  res.render("subscription/checkout", {
-    title: "Checkout - QuizMaster",
-    layout: false,
-  });
-});
-
-// Process payment
-router.post("/process-payment", requireAuth, async (req, res) => {
+// Process payment page with explicit CSRF token generation
+router.get("/checkout", requireAuth, csrfProtection, (req, res) => {
   try {
-    const { paymentMethod, phoneNumber } = req.body;
+    // Generate a fresh CSRF token for this checkout page
+    const token = req.csrfToken();
+    console.log("[Checkout] Generated new CSRF token for checkout page");
 
-    // Validate phone number for Pakistani payment methods
-    if (
-      (paymentMethod === "jazzcash" || paymentMethod === "easypaisa") &&
-      !phoneNumber
-    ) {
-      return res.redirect("/subscription/checkout?error=phone_required");
-    }
-
-    // Generate transaction ID
-    const transactionId = uuidv4();
-    const paymentId = `PMT_${Date.now()}_${Math.random()
-      .toString(36)
-      .substr(2, 9)}`;
-
-    // Update the user's subscription status
-    const subscriptionData = {
-      paymentMethod: paymentMethod,
-      paymentId: paymentId,
-      transactionId: transactionId,
-      amount: 1000, // PKR 1000
-      phoneNumber: phoneNumber || null,
+    const renderOptions = {
+      title: "Checkout - QuizMaster",
+      layout: false,
+      csrfToken: token, // Always include the token
     };
 
-    const result = await userOperations.updateSubscription(
-      req.user._id,
-      subscriptionData
-    );
-
-    if (result.success) {
-      res.redirect("/subscription?success=payment_successful");
-    } else {
-      res.redirect("/subscription?error=payment_failed");
-    }
+    res.render("subscription/checkout", renderOptions);
   } catch (error) {
-    console.error("Error processing payment:", error);
-    res.redirect("/subscription?error=system_error");
+    console.error("[Checkout] Error generating CSRF token:", error);
+    // Fallback without token if something went wrong
+    res.render("subscription/checkout", {
+      title: "Checkout - QuizMaster",
+      layout: false,
+      csrfError: "Failed to generate security token. Please try again.",
+    });
   }
 });
 
-// Cancel subscription
-router.post("/cancel", requireAuth, async (req, res) => {
+// Process payment with explicit CSRF protection
+router.post(
+  "/process-payment",
+  requireAuth,
+  csrfProtection,
+  async (req, res) => {
+    try {
+      // Log debug info for CSRF troubleshooting
+      console.log("[Payment] Processing payment request");
+      console.log(
+        "[Payment] CSRF Token present:",
+        req.body._csrf ? "Yes" : "No"
+      );
+      console.log("[Payment] Payment method:", req.body.paymentMethod);
+
+      const { paymentMethod, phoneNumber } = req.body;
+
+      // Validate phone number for Pakistani payment methods
+      if (
+        (paymentMethod === "jazzcash" || paymentMethod === "easypaisa") &&
+        !phoneNumber
+      ) {
+        return res.redirect("/subscription/checkout?error=phone_required");
+      }
+
+      // Generate transaction ID
+      const transactionId = uuidv4();
+      const paymentId = `PMT_${Date.now()}_${Math.random()
+        .toString(36)
+        .substr(2, 9)}`;
+
+      // Update the user's subscription status
+      const subscriptionData = {
+        paymentMethod: paymentMethod,
+        paymentId: paymentId,
+        transactionId: transactionId,
+        amount: 1000, // PKR 1000
+        phoneNumber: phoneNumber || null,
+      };
+
+      const result = await userOperations.updateSubscription(
+        req.user._id,
+        subscriptionData
+      );
+
+      if (result.success) {
+        res.redirect("/subscription?success=payment_successful");
+      } else {
+        res.redirect("/subscription?error=payment_failed");
+      }
+    } catch (error) {
+      console.error("Error processing payment:", error);
+      res.redirect("/subscription?error=system_error");
+    }
+  }
+);
+
+// Cancel subscription with explicit CSRF protection
+router.post("/cancel", requireAuth, csrfProtection, async (req, res) => {
+  // Log debug info
+  console.log("[Subscription] Processing cancellation request");
+  console.log(
+    "[Subscription] CSRF Token present:",
+    req.body._csrf ? "Yes" : "No"
+  );
+
   try {
     const result = await userOperations.cancelSubscription(req.user._id);
 

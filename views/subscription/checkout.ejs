@@ -4,6 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%= title %></title>
+    
+    <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+    <meta name="csrf-token" content="<%= csrfToken %>" />
+    <% } else { %>
+    <!-- CSRF token is missing, this will cause form submission errors -->
+    <script>
+      console.error("CSRF token not available in the template");
+    </script>
+    <% } %>
 
     <!-- Apply dark mode immediately if enabled -->
     <script src="/dark-mode.js"></script>
@@ -109,6 +118,9 @@
                   />
                 </div>
                 <input type="hidden" name="paymentMethod" value="jazzcash" />
+                <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+                <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+                <% } %>
                 <button type="submit" class="btn btn-primary btn-lg w-100">
                   <i class="fas fa-mobile-alt me-2"></i>Pay PKR 1,000 with
                   JazzCash
@@ -144,6 +156,9 @@
                   />
                 </div>
                 <input type="hidden" name="paymentMethod" value="easypaisa" />
+                <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+                <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+                <% } %>
                 <button type="submit" class="btn btn-primary btn-lg w-100">
                   <i class="fas fa-credit-card me-2"></i>Pay PKR 1,000 with
                   EasyPaisa
@@ -169,10 +184,11 @@
                   After transfer, click "Confirm Payment" to activate your
                   subscription.
                 </p>
-              </div>
-
               <form action="/subscription/process-payment" method="POST">
                 <input type="hidden" name="paymentMethod" value="bank" />
+                <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+                <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+                <% } %>
                 <button type="submit" class="btn btn-primary btn-lg w-100">
                   <i class="fas fa-university me-2"></i>Confirm Bank Transfer
                 </button>
@@ -194,6 +210,8 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/csrf-utils.js"></script>
+    <script src="/form-protection.js"></script>
     <script>
       function selectPaymentMethod(element, method) {
         // Remove selected class from all options
@@ -213,8 +231,39 @@
         document.getElementById(method + "-form").style.display = "block";
       }
 
-      // Initialize dark mode when page loads
-      document.addEventListener("DOMContentLoaded", initializeDarkMode);
+      // Double-check CSRF tokens before form submission
+      document.addEventListener("submit", function(e) {
+        if (e.target.method === "post" || e.target.method === "POST") {
+          const csrfInput = e.target.querySelector('input[name="_csrf"]');
+          if (!csrfInput || !csrfInput.value) {
+            console.error("CSRF token missing in form submission!");
+            e.preventDefault();
+            
+            // Try to add token and resubmit
+            const token = getCsrfToken();
+            if (token) {
+              const input = document.createElement("input");
+              input.type = "hidden";
+              input.name = "_csrf";
+              input.value = token;
+              e.target.appendChild(input);
+              
+              // Log success and continue submission
+              console.log("CSRF token added to form before submission");
+              setTimeout(() => e.target.submit(), 50);
+            } else {
+              alert("Security token missing. Please refresh the page and try again.");
+            }
+          }
+        }
+      });
+
+      // Initialize dark mode and CSRF protection when page loads
+      document.addEventListener("DOMContentLoaded", function() {
+        initializeDarkMode();
+        // Make sure all forms have CSRF tokens
+        ensureFormCsrfTokens();
+      });
     </script>
   </body>
 </html>

@@ -1,8 +1,10 @@
-<% if (isAuthenticated && !locals.isPremium) { %>
+<% if (typeof isAuthenticated !== 'undefined' && isAuthenticated && typeof
+locals !== 'undefined' && !locals.isPremium) { %>
 <div class="subscription-notice" id="subscription-notice">
   <div class="container">
     <div class="notice-content">
-      <% if (locals.accessedQuizzes && locals.accessedQuizzes.length >= 3) { %>
+      <% if (typeof locals !== 'undefined' && locals.accessedQuizzes &&
+      locals.accessedQuizzes.length >= 3) { %>
       <p>
         <i class="fas fa-exclamation-circle me-2"></i>
         You've reached the free quiz limit.

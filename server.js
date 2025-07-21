@@ -287,18 +287,26 @@ app.use(
 app.use(passport.initialize());
 app.use(passport.session());
 
-// SECURITY: CSRF Protection setup - Use session-based CSRF instead of cookie-based
+// SECURITY: CSRF Protection setup - Use both cookie and session-based CSRF for better compatibility
 const csrfProtection = csrf({
-  cookie: false, // Use session instead of cookies for CSRF token storage
+  cookie: {
+    key: "_csrf",
+    path: "/",
+    httpOnly: true,
+    secure: process.env.NODE_ENV === "production",
+    maxAge: 3600, // 1 hour in seconds
+  },
   sessionKey: "session", // Use session for storage
   value: (req) => {
     // Try multiple sources for CSRF token
-    return (
+    const token =
       req.body._csrf ||
       req.query._csrf ||
       req.headers["x-csrf-token"] ||
-      req.headers["x-xsrf-token"]
-    );
+      req.headers["csrf-token"] ||
+      req.headers["x-xsrf-token"];
+
+    return token;
   },
 });
 
@@ -339,11 +347,23 @@ app.use((req, res, next) => {
 
 // SECURITY: CSRF token middleware for forms - Mobile-friendly approach
 app.use((req, res, next) => {
-  // Skip CSRF for GET requests, API endpoints, static files, auth endpoints, and mobile devices
+  // Define paths that should be CSRF protected even on GET requests (to ensure token availability)
+  const csrfGenerationPaths = [
+    "/subscription/checkout",
+    "/auth/login",
+    "/auth/signup",
+    "/profile",
+    "/subscription",
+  ];
+
+  const needsExplicitCsrf = csrfGenerationPaths.some((path) =>
+    req.path.startsWith(path)
+  );
+
+  // Skip CSRF for GET requests (unless explicitly needed), API endpoints, static files
   if (
-    req.method === "GET" ||
+    (req.method === "GET" && !needsExplicitCsrf) ||
     req.url.startsWith("/api/") ||
-    req.url.startsWith("/auth/") ||
     req.url.startsWith("/public/") ||
     req.url.startsWith("/css/") ||
     req.url.startsWith("/js/") ||
@@ -351,38 +371,58 @@ app.use((req, res, next) => {
     req.url.includes("sync") ||
     req.path === "/chat" ||
     req.path === "/health" ||
-    req.isMobile // Skip CSRF for mobile devices completely
+    (req.isMobile && !req.path.includes("/subscription")) // Only skip CSRF for mobile if not subscription
   ) {
-    // For GET requests, try to generate CSRF token if session exists
-    if (req.session && req.method === "GET" && !req.isMobile) {
+    // For GET requests that might need CSRF tokens for forms, generate them if session exists
+    if (req.session && (req.method === "GET" || needsExplicitCsrf)) {
       try {
         csrfProtection(req, res, (err) => {
           if (!err && req.csrfToken) {
             res.locals.csrfToken = req.csrfToken();
-          } else {
-            res.locals.csrfToken = "";
+            console.log(`[CSRF] Generated token for ${req.path}`);
+          } else if (err) {
+            console.warn(
+              `[CSRF] Error generating token for ${req.path}:`,
+              err.message
+            );
+            // Don't set res.locals.csrfToken to empty string - just leave it undefined
           }
           next();
         });
       } catch (error) {
         console.warn(
-          "CSRF token generation failed for GET request:",
+          `[CSRF] Exception generating token for ${req.path}:`,
           error.message
         );
-        res.locals.csrfToken = "";
+        // Don't set res.locals.csrfToken to empty string - just leave it undefined
         next();
       }
     } else {
-      res.locals.csrfToken = "";
+      // No need to set csrfToken to empty string - just leave it undefined
       next();
     }
   } else {
-    // For POST/PUT/DELETE requests, apply CSRF protection only for non-mobile
-    if (req.isMobile) {
-      res.locals.csrfToken = "";
+    // For POST/PUT/DELETE requests, apply CSRF protection
+    if (req.isMobile && !req.path.includes("/subscription")) {
+      // No need to set csrfToken to empty string for mobile paths - just leave it undefined
       return next();
     }
-    csrfProtection(req, res, next);
+
+    // Apply CSRF protection with proper error handling
+    csrfProtection(req, res, (err) => {
+      if (err) {
+        console.error(
+          `[CSRF] Validation failed for ${req.method} ${req.path}:`,
+          err.message
+        );
+        return res.status(403).render("error", {
+          title: "Security Error",
+          message: "Invalid security token. Please try again.",
+          layout: false,
+        });
+      }
+      next();
+    });
   }
 });
 
@@ -438,6 +478,25 @@ app.post("/api/mobile-login-verify", (req, res) => {
 // Auth routes
 app.use("/auth", authRoutes);
 
+// Custom logout route with CSRF protection explicitly applied
+app.post("/auth/logout", csrfProtection, (req, res, next) => {
+  // Log the CSRF token for debugging
+  console.log("[Logout] Processing logout request");
+  console.log("[Logout] CSRF Token present:", req.body._csrf ? "Yes" : "No");
+
+  // Handle logout
+  req.logout(function (err) {
+    if (err) {
+      console.error("[Logout] Error during logout:", err);
+      return next(err);
+    }
+    console.log("[Logout] User logged out successfully");
+    req.session.destroy(() => {
+      res.redirect("/");
+    });
+  });
+});
+
 // Subscription routes
 app.use("/subscription", subscriptionRoutes);
 
@@ -488,12 +547,29 @@ app.get("/", checkSubscription, async (req, res) => {
   // Get custom data files and add them to categories
   const customCategories = await getCustomDataFiles();
 
-  res.render("landing", {
+  // Prepare user data for templates to prevent undefined errors
+  const userData = {
     title: "QuizMaster - Test Your Knowledge",
     categories: quizCategories,
     customCategories: customCategories,
     layout: false,
-  });
+    isAuthenticated: req.isAuthenticated(),
+    user: req.user || { name: "Guest" },
+    locals: {
+      isPremium:
+        (req.user &&
+          req.user.subscription &&
+          req.user.subscription.isPremium) ||
+        false,
+      accessedQuizzes:
+        req.user && req.user.subscription
+          ? req.user.subscription.quizzesAccessed || []
+          : [],
+    },
+    csrfToken: res.locals.csrfToken || null,
+  };
+
+  res.render("landing", userData);
 });
 
 app.get("/stats", (req, res) => {
@@ -507,6 +583,7 @@ app.get(
   "/quiz/:category",
   checkSubscription,
   checkQuizAccess,
+  csrfProtection,
   async (req, res) => {
     const category = req.params.category;
 
@@ -525,21 +602,38 @@ app.get(
         return res.redirect("/");
       }
 
-      return res.render("quiz", {
-        title: `${categoryDetails.title} Quiz`,
-        questions: questions,
-        category: categoryDetails,
-        layout: false,
-      });
+      try {
+        // Generate a fresh CSRF token for this quiz page
+        const token = req.csrfToken();
+        console.log("[Quiz] Generated new CSRF token for quiz page");
+
+        return res.render("quiz", {
+          title: `${categoryDetails.title} Quiz`,
+          questions: questions,
+          category: categoryDetails,
+          csrfToken: token, // Add CSRF token
+          layout: false,
+        });
+      } catch (error) {
+        console.error("[Quiz] Error generating CSRF token:", error);
+        // Fall back to rendering without token
+        return res.render("quiz", {
+          title: `${categoryDetails.title} Quiz`,
+          questions: questions,
+          category: categoryDetails,
+          layout: false,
+        });
+      }
     }
   }
 );
 
-// Add a route for custom quizzes
+// Add a route for custom quizzes with CSRF protection
 app.get(
   "/quiz/custom/:filename",
   checkSubscription,
   checkQuizAccess,
+  csrfProtection,
   async (req, res) => {
     const filename = req.params.filename;
 
@@ -593,12 +687,28 @@ app.get(
         id: `custom-${filename}`,
       };
 
-      res.render("quiz", {
-        title: `${categoryDetails.title} Quiz`,
-        questions: processedQuestions,
-        category: categoryDetails,
-        layout: false,
-      });
+      try {
+        // Generate a fresh CSRF token for this custom quiz page
+        const token = req.csrfToken();
+        console.log("[Custom Quiz] Generated new CSRF token for quiz page");
+
+        res.render("quiz", {
+          title: `${categoryDetails.title} Quiz`,
+          questions: processedQuestions,
+          category: categoryDetails,
+          csrfToken: token, // Add CSRF token
+          layout: false,
+        });
+      } catch (error) {
+        console.error("[Custom Quiz] Error generating CSRF token:", error);
+        // Fall back to rendering without token
+        res.render("quiz", {
+          title: `${categoryDetails.title} Quiz`,
+          questions: processedQuestions,
+          category: categoryDetails,
+          layout: false,
+        });
+      }
     } catch (error) {
       console.error(`Error loading custom quiz ${filename}:`, error);
       res.redirect("/");
@@ -722,12 +832,8 @@ app.use((err, req, res, next) => {
 
   // Check for CSRF token errors
   if (err.code === "EBADCSRFTOKEN") {
-    // Add debugging info to identify which endpoint is causing issues
-    console.error(`CSRF Error on ${req.method} ${req.path}`, {
-      headers: req.headers,
-      body: req.body,
-      query: req.query,
-    });
+    // Log basic info about CSRF errors
+    console.error(`CSRF Error on ${req.method} ${req.path}`);
 
     return res.status(403).render("error", {
       title: "Security Error",

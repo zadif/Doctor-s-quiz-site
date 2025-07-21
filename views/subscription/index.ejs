@@ -4,8 +4,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%= title %></title>
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+    <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+    <meta name="csrf-token" content="<%= csrfToken %>" />
+    <% } %>
 
     <!-- Apply dark mode immediately if enabled -->
     <script src="/dark-mode.js"></script>
@@ -89,6 +93,9 @@
                 method="POST"
                 onsubmit="return confirm('Are you sure you want to cancel your premium subscription?');"
               >
+                <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+                <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+                <% } %>
                 <button type="submit" class="btn btn-outline-danger">
                   <i class="fas fa-times-circle me-2"></i>Cancel Subscription
                 </button>
@@ -252,10 +259,16 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/csrf-utils.js"></script>
+    <script src="/form-protection.js"></script>
 
     <script>
       // Initialize dark mode when page loads
-      document.addEventListener("DOMContentLoaded", initializeDarkMode);
+      document.addEventListener("DOMContentLoaded", function () {
+        initializeDarkMode();
+        // Make sure all forms have CSRF tokens
+        ensureFormCsrfTokens();
+      });
     </script>
   </body>
 </html>

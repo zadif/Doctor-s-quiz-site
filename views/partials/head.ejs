@@ -8,7 +8,7 @@
     // Apply dark mode immediately if enabled (no waiting for DOM)
     (function () {
       // Create a style element for critical dark mode styles
-      const style = document.createElement('style');
+      const style = document.createElement("style");
       style.textContent = `
         :root {
           --bg-color: #f8f9fa;
@@ -80,5 +80,11 @@
   />
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/styles.css" />
-</head> 
- 
+
+  <!-- CSRF Protection -->
+  <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+  <meta name="csrf-token" content="<%= csrfToken %>" />
+  <% } %>
+  <script src="/csrf-utils.js"></script>
+  <script src="/form-protection.js"></script>
+</head>

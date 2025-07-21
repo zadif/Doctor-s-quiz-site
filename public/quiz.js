@@ -516,17 +516,23 @@ async function saveQuizProgress() {
         }
       });
 
+      // Get CSRF token
+      const csrfToken = getCsrfToken ? getCsrfToken() : null;
+
       // Save progress to server
       const response = await fetch("/quiz-progress/save", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
+          "CSRF-Token": csrfToken || "", // Add CSRF token to headers
+          "X-CSRF-Token": csrfToken || "", // Add alternate format for better compatibility
         },
         body: JSON.stringify({
           title: quizTitle,
           questions: questions,
           answers: answers,
           lastQuestion: currentQuestionIndex,
+          _csrf: csrfToken, // Include in body too for extra compatibility
         }),
       });
 

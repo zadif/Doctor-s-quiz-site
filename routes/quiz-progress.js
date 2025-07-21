@@ -2,12 +2,31 @@ import express from "express";
 import { ObjectId } from "mongodb";
 import { userOperations } from "../mongo.js";
 import { requireAuth } from "./auth.js";
+import csrf from "csurf";
 
 const router = express.Router();
 
-// Save quiz progress for authenticated users
-router.post("/save", requireAuth, async (req, res) => {
+// Initialize CSRF protection
+const csrfProtection = csrf({
+  cookie: {
+    key: "_csrf",
+    path: "/",
+    httpOnly: true,
+    secure: process.env.NODE_ENV === "production",
+    maxAge: 3600, // 1 hour in seconds
+  },
+});
+
+// Save quiz progress for authenticated users with CSRF protection
+router.post("/save", requireAuth, csrfProtection, async (req, res) => {
   try {
+    // Log debug info for CSRF troubleshooting
+    console.log("[Quiz Progress] Processing save request");
+    console.log(
+      "[Quiz Progress] CSRF Token present:",
+      req.body._csrf ? "Yes" : "No"
+    );
+
     const { title, questions, markedAnswers, lastQuestion } = req.body;
     const userId = req.user._id;
 
@@ -66,9 +85,16 @@ router.get("/:title", requireAuth, async (req, res) => {
   }
 });
 
-// Remove quiz progress
-router.delete("/:title", requireAuth, async (req, res) => {
+// Remove quiz progress with CSRF protection
+router.delete("/:title", requireAuth, csrfProtection, async (req, res) => {
   try {
+    // Log debug info for CSRF troubleshooting
+    console.log("[Quiz Progress] Processing delete request");
+    console.log(
+      "[Quiz Progress] CSRF Token present:",
+      req.headers["csrf-token"] ? "Yes" : "No"
+    );
+
     const { title } = req.params;
     const userId = req.user._id;
 
