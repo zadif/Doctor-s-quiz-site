@@ -21,11 +21,6 @@ const csrfProtection = csrf({
 router.post("/save", requireAuth, csrfProtection, async (req, res) => {
   try {
     // Log debug info for CSRF troubleshooting
-    console.log("[Quiz Progress] Processing save request");
-    console.log(
-      "[Quiz Progress] CSRF Token present:",
-      req.body._csrf ? "Yes" : "No"
-    );
 
     const { title, questions, markedAnswers, lastQuestion } = req.body;
     const userId = req.user._id;
@@ -89,11 +84,6 @@ router.get("/:title", requireAuth, async (req, res) => {
 router.delete("/:title", requireAuth, csrfProtection, async (req, res) => {
   try {
     // Log debug info for CSRF troubleshooting
-    console.log("[Quiz Progress] Processing delete request");
-    console.log(
-      "[Quiz Progress] CSRF Token present:",
-      req.headers["csrf-token"] ? "Yes" : "No"
-    );
 
     const { title } = req.params;
     const userId = req.user._id;

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <%- include('partials/head', { title: typeof title !== 'undefined' ? title :
-  'QuizMaster', csrfToken: typeof csrfToken !== 'undefined' ? csrfToken : null
-  }) %>
+  'MediQuest', csrfToken: typeof csrfToken !== 'undefined' ? csrfToken : null })
+  %>
   <body class="main-page">
     <!-- Include navbar with explicit variable passing to prevent errors -->
     <%- include('partials/navbar', { isAuthenticated: typeof isAuthenticated !==
@@ -65,8 +65,7 @@
     <footer class="text-white py-4 mt-5">
       <div class="container text-center">
         <p class="mb-0">
-          &copy; <%= new Date().getFullYear() %> QuizMaster. All rights
-          reserved.
+          &copy; <%= new Date().getFullYear() %> MediQuest. All rights reserved.
         </p>
         <div class="mt-2">
           <a href="#" class="text-white mx-2"

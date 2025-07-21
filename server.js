@@ -379,7 +379,6 @@ app.use((req, res, next) => {
         csrfProtection(req, res, (err) => {
           if (!err && req.csrfToken) {
             res.locals.csrfToken = req.csrfToken();
-            console.log(`[CSRF] Generated token for ${req.path}`);
           } else if (err) {
             console.warn(
               `[CSRF] Error generating token for ${req.path}:`,
@@ -481,8 +480,6 @@ app.use("/auth", authRoutes);
 // Custom logout route with CSRF protection explicitly applied
 app.post("/auth/logout", csrfProtection, (req, res, next) => {
   // Log the CSRF token for debugging
-  console.log("[Logout] Processing logout request");
-  console.log("[Logout] CSRF Token present:", req.body._csrf ? "Yes" : "No");
 
   // Handle logout
   req.logout(function (err) {
@@ -549,7 +546,7 @@ app.get("/", checkSubscription, async (req, res) => {
 
   // Prepare user data for templates to prevent undefined errors
   const userData = {
-    title: "QuizMaster - Test Your Knowledge",
+    title: "MediQuest - Test Your Knowledge",
     categories: quizCategories,
     customCategories: customCategories,
     layout: false,
@@ -690,7 +687,6 @@ app.get(
       try {
         // Generate a fresh CSRF token for this custom quiz page
         const token = req.csrfToken();
-        console.log("[Custom Quiz] Generated new CSRF token for quiz page");
 
         res.render("quiz", {
           title: `${categoryDetails.title} Quiz`,
@@ -741,7 +737,7 @@ app.post("/api/ai-chat", aiLimiter, checkAIAccess, async (req, res) => {
     const sanitizedMessage = xss(message);
 
     // System prompt for the AI
-    const systemPrompt = `You are an AI for QuizMaster, a medical quiz app. Help users with quiz questions, explain topics, and guide study. Focus only on medical topics.
+    const systemPrompt = `You are an AI for MediQuest, a medical quiz app. Help users with quiz questions, explain topics, and guide study. Focus only on medical topics.
 
 Use simple English. Always give short, clear answers:
 - Skip long intros or summaries
@@ -761,7 +757,7 @@ Use simple English. Always give short, clear answers:
       role: "model",
       parts: [
         {
-          text: "I understand. I'm your QuizMaster AI assistant, ready to help with medical quiz questions and topics with concise, clear answers.",
+          text: "I understand. I'm your MediQuest AI assistant, ready to help with medical quiz questions and topics with concise, clear answers.",
         },
       ],
     });
@@ -815,7 +811,7 @@ app.get("/additional-quizzes", checkSubscription, async (req, res) => {
   const customCategories = await getCustomDataFiles();
 
   res.render("additional-quizzes", {
-    title: "Additional Quizzes - QuizMaster",
+    title: "Additional Quizzes - MediQuest",
     customCategories: customCategories,
     layout: false,
   });

@@ -22,9 +22,6 @@ router.get("/", requireAuth, csrfProtection, async (req, res) => {
   try {
     // Generate a fresh CSRF token for this subscription page
     const token = req.csrfToken();
-    console.log(
-      "[Subscription] Generated new CSRF token for subscription page"
-    );
 
     const user = await userOperations.findUserById(req.user._id);
     const isPremium = user.subscription && user.subscription.isPremium;
@@ -34,7 +31,7 @@ router.get("/", requireAuth, csrfProtection, async (req, res) => {
     const remainingQuizzes = 3 - accessedQuizzes.length;
 
     res.render("subscription/index", {
-      title: "Premium Subscription - QuizMaster",
+      title: "Premium Subscription - MediQuest",
       isPremium,
       accessedQuizzes,
       remainingQuizzes: remainingQuizzes > 0 ? remainingQuizzes : 0,
@@ -56,10 +53,9 @@ router.get("/checkout", requireAuth, csrfProtection, (req, res) => {
   try {
     // Generate a fresh CSRF token for this checkout page
     const token = req.csrfToken();
-    console.log("[Checkout] Generated new CSRF token for checkout page");
 
     const renderOptions = {
-      title: "Checkout - QuizMaster",
+      title: "Checkout - MediQuest",
       layout: false,
       csrfToken: token, // Always include the token
     };
@@ -69,7 +65,7 @@ router.get("/checkout", requireAuth, csrfProtection, (req, res) => {
     console.error("[Checkout] Error generating CSRF token:", error);
     // Fallback without token if something went wrong
     res.render("subscription/checkout", {
-      title: "Checkout - QuizMaster",
+      title: "Checkout - MediQuest",
       layout: false,
       csrfError: "Failed to generate security token. Please try again.",
     });
@@ -83,14 +79,6 @@ router.post(
   csrfProtection,
   async (req, res) => {
     try {
-      // Log debug info for CSRF troubleshooting
-      console.log("[Payment] Processing payment request");
-      console.log(
-        "[Payment] CSRF Token present:",
-        req.body._csrf ? "Yes" : "No"
-      );
-      console.log("[Payment] Payment method:", req.body.paymentMethod);
-
       const { paymentMethod, phoneNumber } = req.body;
 
       // Validate phone number for Pakistani payment methods
@@ -136,11 +124,6 @@ router.post(
 // Cancel subscription with explicit CSRF protection
 router.post("/cancel", requireAuth, csrfProtection, async (req, res) => {
   // Log debug info
-  console.log("[Subscription] Processing cancellation request");
-  console.log(
-    "[Subscription] CSRF Token present:",
-    req.body._csrf ? "Yes" : "No"
-  );
 
   try {
     const result = await userOperations.cancelSubscription(req.user._id);
