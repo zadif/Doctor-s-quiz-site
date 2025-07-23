@@ -7,12 +7,12 @@ function togglePassword(fieldId) {
 
   if (field.type === "password") {
     field.type = "text";
-    toggle.classList.remove("fa-eye");
-    toggle.classList.add("fa-eye-slash");
-  } else {
-    field.type = "password";
     toggle.classList.remove("fa-eye-slash");
     toggle.classList.add("fa-eye");
+  } else {
+    field.type = "password";
+    toggle.classList.remove("fa-eye");
+    toggle.classList.add("fa-eye-slash");
   }
 }
 

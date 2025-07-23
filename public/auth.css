@@ -139,7 +139,7 @@
 
 .password-toggle {
   position: absolute;
-  right: 12px;
+  right: 32px; /* Increased from 12px to create space for validation icons */
   top: 50%;
   transform: translateY(-50%);
   background: none;
@@ -279,7 +279,31 @@
   border: none;
   margin-bottom: 1.5rem;
   padding: 1rem;
+  padding-right: 3rem; /* Added extra padding on the right for the close button */
   font-size: 0.9rem;
+  position: relative;
+}
+
+.alert .btn-close {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.8;
+  box-shadow: none;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  background: transparent;
+}
+
+.alert-danger .btn-close:hover {
+  opacity: 1;
+  color: #dc3545;
+}
+
+.alert-success .btn-close:hover {
+  opacity: 1;
+  color: #28a745;
 }
 
 .alert-danger {
