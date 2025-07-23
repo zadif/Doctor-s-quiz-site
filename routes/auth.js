@@ -55,7 +55,11 @@ export const checkSubscription = async (req, res, next) => {
 router.get("/login", requireGuest, (req, res) => {
   // Check if request is from AppInventor WebView
   const userAgent = req.headers["user-agent"] || "";
-  const isInWebView = /AppInventor/i.test(userAgent);
+  const xRequestedWith = req.headers["x-requested-with"] || "";
+  const isInWebView =
+    /AppInventor/i.test(userAgent) || /appinventor\.ai_/i.test(xRequestedWith);
+
+  // Detailed logging for debugging WebView detection
 
   res.render("auth/login", {
     title: "Login - QuizMaster",
@@ -139,7 +143,17 @@ router.post(
 router.get("/signup", requireGuest, (req, res) => {
   // Check if request is from AppInventor WebView
   const userAgent = req.headers["user-agent"] || "";
-  const isInWebView = /AppInventor/i.test(userAgent);
+  const xRequestedWith = req.headers["x-requested-with"] || "";
+  const isInWebView =
+    /AppInventor/i.test(userAgent) || /appinventor\.ai_/i.test(xRequestedWith);
+
+  // Detailed logging for debugging WebView detection
+  console.log("================ SIGNUP REQUEST DETAILS ================");
+  console.log("Full User Agent:", userAgent);
+  console.log("X-Requested-With:", xRequestedWith);
+  console.log("Is detected as WebView:", isInWebView);
+  console.log("Request headers:", JSON.stringify(req.headers, null, 2));
+  console.log("=======================================================");
 
   res.render("auth/signup", {
     title: "Sign Up - QuizMaster",
