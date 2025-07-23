@@ -1,3 +1,24 @@
+function formatDate(input) {
+  // Fix the invalid underscore
+  const cleanInput = input.replace("_", ".");
+  const date = new Date(cleanInput);
+
+  const day = date.getDate();
+  const month = date.toLocaleString("en-US", { month: "long" });
+
+  // Add ordinal suffix (st, nd, rd, th)
+  const suffix =
+    day % 10 === 1 && day !== 11
+      ? "st"
+      : day % 10 === 2 && day !== 12
+      ? "nd"
+      : day % 10 === 3 && day !== 13
+      ? "rd"
+      : "th";
+
+  return `${day}${suffix} ${month}`;
+}
+
 function updateStats() {
   const stats = JSON.parse(
     localStorage.getItem("quizStats") || '{"quizzes":[], "totalQuizzes":0}'
@@ -14,7 +35,7 @@ function updateStats() {
       average
     )}%`;
     document.getElementById("bestScore").textContent = `${Math.round(best)}%`;
-
+    console.log(stats.quizzes[0].date);
     // Update progress history with more details
     const historyHTML = stats.quizzes
       .slice(-5)
@@ -24,16 +45,16 @@ function updateStats() {
                 <div class="list-group-item">
                     <div class="d-flex justify-content-between align-items-center">
                         <div>
-                            <h6 class="mb-1 stats-heading>
+                            <h6 class="mb-1 stats-heading">
                                 <i class="fas fa-book me-2"></i>${quiz.category}
                             </h6>
                             <small class="text-muted">
-                                <i class="far fa-calendar me-1"></i>${new Date(
+                                <i class="far fa-calendar me-1"></i>${formatDate(
                                   quiz.date
-                                ).toLocaleDateString()}
+                                )}
                                 <span class="ms-2">
                                     <i class="fas fa-check me-1"></i>${
-                                      quiz.correctAnswers
+                                      quiz.completedQuestions
                                     }/${quiz.totalQuestions} correct
                                 </span>
                             </small>
