@@ -57,6 +57,7 @@ router.get("/login", requireGuest, (req, res) => {
     title: "Login - QuizMaster",
     error: req.flash("error"),
     success: req.flash("success"),
+    csrfToken: req.csrfToken ? req.csrfToken() : null,
     layout: false,
   });
 });
@@ -67,13 +68,31 @@ router.post(
   [
     body("email")
       .isEmail()
-      .normalizeEmail()
+      .normalizeEmail({
+        gmail_remove_dots: false,
+        gmail_remove_subaddress: false,
+        gmail_convert_googlemaildotcom: false,
+        outlookdotcom_remove_subaddress: false,
+        yahoo_remove_subaddress: false,
+        icloud_remove_subaddress: false,
+      })
       .withMessage("Please enter a valid email"),
     body("password")
       .isLength({ min: 6 })
       .withMessage("Password must be at least 6 characters long"),
   ],
   async (req, res, next) => {
+    // Handle CSRF errors
+    if (req.csrfError) {
+      return res.render("auth/login", {
+        title: "Login - QuizMaster",
+        error: "Invalid or missing CSRF token. Please try again.",
+        success: null,
+        email: req.body.email,
+        csrfToken: req.csrfToken ? req.csrfToken() : null,
+        layout: false,
+      });
+    }
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
       return res.render("auth/login", {
@@ -117,6 +136,7 @@ router.get("/signup", requireGuest, (req, res) => {
     title: "Sign Up - QuizMaster",
     error: req.flash("error"),
     success: req.flash("success"),
+    csrfToken: req.csrfToken ? req.csrfToken() : null,
     layout: false,
   });
 });
@@ -131,7 +151,14 @@ router.post(
       .withMessage("Name must be at least 2 characters long"),
     body("email")
       .isEmail()
-      .normalizeEmail()
+      .normalizeEmail({
+        gmail_remove_dots: false, // Keep dots in gmail addresses
+        gmail_remove_subaddress: false, // Keep everything after +
+        gmail_convert_googlemaildotcom: false, // Don't convert googlemail.com to gmail.com
+        outlookdotcom_remove_subaddress: false, // Keep everything after +
+        yahoo_remove_subaddress: false, // Keep everything after -
+        icloud_remove_subaddress: false, // Keep everything after +
+      })
       .withMessage("Please enter a valid email"),
     body("password")
       .isLength({ min: 8, max: 128 })
@@ -150,6 +177,20 @@ router.post(
     }),
   ],
   async (req, res) => {
+    // Handle CSRF errors
+    if (req.csrfError) {
+      return res.render("auth/signup", {
+        title: "Sign Up - QuizMaster",
+        error: "Invalid or missing CSRF token. Please try again.",
+        success: null,
+        name: req.body.name,
+        email: req.body.email,
+        csrfToken: req.csrfToken ? req.csrfToken() : null,
+        layout: false,
+      });
+    }
+    // Log original email for debugging
+
     const errors = validationResult(req);
 
     if (!errors.isEmpty()) {
@@ -183,10 +224,12 @@ router.post(
       const saltRounds = 12;
       const hashedPassword = await bcrypt.hash(password, saltRounds);
 
-      // Create user
+      // Create user - make sure the email is properly formatted
+      const originalEmail = email.toLowerCase(); // Store the original email
+
       const result = await userOperations.createUser({
         name: name.trim(),
-        email: email.toLowerCase(),
+        email: originalEmail, // Use the original email with @ intact
         password: hashedPassword,
         authMethod: "local",
       });

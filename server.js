@@ -192,27 +192,37 @@ app.use(limiter);
 // Custom MongoDB injection prevention and session debugging
 app.use((req, res, next) => {
   // Function to sanitize input by replacing MongoDB operators
-  const sanitizeInput = (obj) => {
+  const sanitizeInput = (obj, isEmailField = false, parentKey = null) => {
     if (!obj) return obj;
 
     // If it's a string, check for MongoDB operators
     if (typeof obj === "string") {
-      // Replace MongoDB operators with a safe character
+      // Don't sanitize email fields or email addresses
+      if (
+        isEmailField ||
+        parentKey === "email" ||
+        (typeof obj === "string" && obj.includes("@") && obj.includes("."))
+      ) {
+        return obj; // Return email strings unchanged
+      }
+      // Replace MongoDB operators with a safe character for non-email strings
       return obj.replace(/\$|\./g, "_");
     }
 
     // If it's an array, sanitize each element
     if (Array.isArray(obj)) {
-      return obj.map(sanitizeInput);
+      return obj.map((item) => sanitizeInput(item, false, parentKey));
     }
 
     // If it's an object, sanitize each property
     if (typeof obj === "object") {
       const result = {};
       for (const [key, value] of Object.entries(obj)) {
-        // Sanitize keys and values
-        const sanitizedKey = key.replace(/\$|\./g, "_");
-        result[sanitizedKey] = sanitizeInput(value);
+        // Don't sanitize keys for email fields
+        const isEmail = key === "email";
+        const sanitizedKey = isEmail ? key : key.replace(/\$|\./g, "_");
+        // Pass down the information about whether this is an email field
+        result[sanitizedKey] = sanitizeInput(value, isEmail, key);
       }
       return result;
     }
@@ -414,6 +424,22 @@ app.use((req, res, next) => {
           `[CSRF] Validation failed for ${req.method} ${req.path}:`,
           err.message
         );
+
+        // Set a flag that route handlers can check
+        req.csrfError = true;
+
+        // For auth routes, let the route handler handle the CSRF error
+        if (req.path === "/auth/login" || req.path === "/auth/signup") {
+          // Generate a new token for the form
+          try {
+            res.locals.csrfToken = req.csrfToken();
+          } catch (tokenErr) {
+            console.error("Error generating new CSRF token:", tokenErr);
+          }
+          return next();
+        }
+
+        // For other routes, render a generic error page
         return res.status(403).render("error", {
           title: "Security Error",
           message: "Invalid security token. Please try again.",

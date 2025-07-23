@@ -18,6 +18,10 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/styles.css" />
     <link rel="stylesheet" href="/auth.css" />
+
+    <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+    <meta name="csrf-token" content="<%= csrfToken %>" />
+    <% } %>
   </head>
   <body class="auth-page">
     <!-- Dark mode initialization overlay -->
@@ -65,6 +69,9 @@
               <% } %>
 
               <form action="/auth/login" method="POST" class="auth-form">
+                <% if (typeof csrfToken !== 'undefined' && csrfToken) { %>
+                <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+                <% } %>
                 <div class="form-group">
                   <label for="email" class="form-label">
                     <i class="fas fa-envelope me-2"></i>Email Address
@@ -132,7 +139,16 @@
 
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-
+    <script src="/csrf-utils.js"></script>
     <script src="/auth.js"></script>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // Make sure all forms have CSRF tokens
+        if (typeof ensureFormCsrfTokens === "function") {
+          ensureFormCsrfTokens();
+        }
+      });
+    </script>
   </body>
 </html>
