@@ -117,6 +117,7 @@
                 </button>
               </form>
 
+              <% if (!locals.isInWebView) { %>
               <div class="auth-divider">
                 <span>or</span>
               </div>
@@ -124,6 +125,7 @@
               <a href="/auth/google" class="btn btn-google auth-btn">
                 <i class="fab fa-google me-2"></i>Continue with Google
               </a>
+              <% } %>
 
               <div class="auth-footer">
                 <p>

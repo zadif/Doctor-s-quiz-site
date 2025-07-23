@@ -53,11 +53,16 @@ export const checkSubscription = async (req, res, next) => {
 
 // GET /auth/login
 router.get("/login", requireGuest, (req, res) => {
+  // Check if request is from AppInventor WebView
+  const userAgent = req.headers["user-agent"] || "";
+  const isInWebView = /AppInventor/i.test(userAgent);
+
   res.render("auth/login", {
     title: "Login - QuizMaster",
     error: req.flash("error"),
     success: req.flash("success"),
     csrfToken: req.csrfToken ? req.csrfToken() : null,
+    isInWebView: isInWebView, // Pass the flag to the template
     layout: false,
   });
 });
@@ -132,11 +137,16 @@ router.post(
 
 // GET /auth/signup
 router.get("/signup", requireGuest, (req, res) => {
+  // Check if request is from AppInventor WebView
+  const userAgent = req.headers["user-agent"] || "";
+  const isInWebView = /AppInventor/i.test(userAgent);
+
   res.render("auth/signup", {
     title: "Sign Up - QuizMaster",
     error: req.flash("error"),
     success: req.flash("success"),
     csrfToken: req.csrfToken ? req.csrfToken() : null,
+    isInWebView: isInWebView, // Pass the flag to the template
     layout: false,
   });
 });
