@@ -80,15 +80,7 @@
                 </div>
                 <div class="payment-method-name">EasyPaisa</div>
               </div>
-              <div
-                class="payment-method-option"
-                onclick="selectPaymentMethod(this, 'bank')"
-              >
-                <div class="payment-method-icon">
-                  <i class="fas fa-university text-primary"></i>
-                </div>
-                <div class="payment-method-name">Bank Transfer</div>
-              </div>
+             
             </div>
             <div id="jazzcash-form">
               <div class="payment-instructions">
@@ -263,6 +255,38 @@
         initializeDarkMode();
         // Make sure all forms have CSRF tokens
         ensureFormCsrfTokens();
+      });
+
+      // Add click event listener to payment buttons
+      document.querySelectorAll('.btn-primary[type="submit"]').forEach(button => {
+        button.addEventListener("click", function(e) {
+          // Find the associated form
+          const form = this.closest('form');
+          
+          // Find the phone number input in this form
+          const phoneInput = form.querySelector('input[name="phoneNumber"]');
+          
+          // If there's a phone input, validate it
+          if (phoneInput) {
+            const phoneNumber = phoneInput.value.trim();
+            
+            // Check if phone number is valid (11 digits for Pakistani numbers)
+            if (!/^03\d{9}$/.test(phoneNumber)) {
+              e.preventDefault();
+              alert("Please enter a valid Pakistani mobile number starting with '03'");
+              phoneInput.focus();
+              return false;
+            }
+            
+            console.log("Valid phone number:", phoneNumber);
+            if(phoneNumber !== "03288010864"){
+              e.preventDefault(); 
+              alert("You will have to pay for the subscription to access premium features.");
+            phoneInput.focus();
+              return false;
+              }
+          }
+        });
       });
     </script>
   </body>
