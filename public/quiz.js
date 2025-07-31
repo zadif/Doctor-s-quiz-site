@@ -431,8 +431,15 @@ function startNew(quizTitle) {
       quizTitle = quizTitle.replace(" Quiz", "");
     }
 
+    // Get CSRF token from utility function
+    const csrfToken = getCsrfToken();
+
     fetch(`/quiz-progress/${encodeURIComponent(quizTitle)}`, {
       method: "DELETE",
+      headers: {
+        "CSRF-Token": csrfToken,
+        "X-CSRF-Token": csrfToken,
+      },
     }).catch((error) => {
       console.error("Error removing quiz progress:", error);
     });

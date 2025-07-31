@@ -310,11 +310,11 @@ const csrfProtection = csrf({
   value: (req) => {
     // Try multiple sources for CSRF token
     const token =
-      req.body._csrf ||
-      req.query._csrf ||
-      req.headers["x-csrf-token"] ||
-      req.headers["csrf-token"] ||
-      req.headers["x-xsrf-token"];
+      req.body?._csrf ||
+      req.query?._csrf ||
+      req.headers?.["x-csrf-token"] ||
+      req.headers?.["csrf-token"] ||
+      req.headers?.["x-xsrf-token"];
 
     return token;
   },
