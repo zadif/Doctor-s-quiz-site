@@ -307,7 +307,12 @@
   },
   {
     "question": "Malnourished children presenting with edema, enlarged fatty livers, skin lesions, and apathy are likely suffering from Kwashiorkor, a form of protein-energy malnutrition. Which of the following is an essential amino acid that must be obtained from the diet?",
-    "options": ["A. Alanine", "B. Glutamate", "C. Serine", "D. Threonine"],
+    "options": [
+      "A. Alanine",
+      "B. Glutamate",
+      "C. Serine",
+      "D. Threonine"
+    ],
     "answer": "D",
     "explanations": {
       "A": "Alanine is a non-essential amino acid.",
@@ -353,7 +358,12 @@
   },
   {
     "question": "In analyzing enzyme kinetics using a Lineweaver-Burk plot (1/v vs 1/[S]), what does the intercept on the y-axis represent?",
-    "options": ["A. Km", "B. Vmax", "C. 1/Vmax", "D. -1/Km"],
+    "options": [
+      "A. Km",
+      "B. Vmax",
+      "C. 1/Vmax",
+      "D. -1/Km"
+    ],
     "answer": "C",
     "explanations": {
       "A": "Km is related to the x-intercept.",
@@ -705,7 +715,12 @@
   },
   {
     "question": "A 14-year-old girl experiences painful leg cramps and fatigue shortly after beginning exercise. A key diagnostic finding in McArdle disease (myophosphorylase deficiency) is the failure to produce what substance in the blood during anaerobic exercise?",
-    "options": ["A. Glucose", "B. Lactate", "C. Pyruvate", "D. Ketone bodies"],
+    "options": [
+      "A. Glucose",
+      "B. Lactate",
+      "C. Pyruvate",
+      "D. Ketone bodies"
+    ],
     "answer": "B",
     "explanations": {
       "A": "Muscle glycogen cannot be released as free glucose into the blood.",
@@ -819,7 +834,12 @@
   },
   {
     "question": "Following ingestion of glucose and subsequent insulin release, glucose uptake into skeletal muscle cells increases significantly. Which glucose transporter isoform is responsible for this insulin-stimulated uptake?",
-    "options": ["A. GLUT1", "B. GLUT2", "C. GLUT3", "D. GLUT4"],
+    "options": [
+      "A. GLUT1",
+      "B. GLUT2",
+      "C. GLUT3",
+      "D. GLUT4"
+    ],
     "answer": "D",
     "explanations": {
       "A": "GLUT1 mediates basal glucose uptake in many tissues, including RBCs and brain.",
@@ -882,7 +902,12 @@
   },
   {
     "question": "A malnourished alcoholic patient presents with perifollicular hemorrhages, ecchymoses, bleeding gums, and poor wound healing. These findings are characteristic of scurvy. The underlying biochemical defect involves impaired synthesis of which protein?",
-    "options": ["A. Hemoglobin", "B. Collagen", "C. Keratin", "D. Elastin"],
+    "options": [
+      "A. Hemoglobin",
+      "B. Collagen",
+      "C. Keratin",
+      "D. Elastin"
+    ],
     "answer": "B",
     "explanations": {
       "A": "Hemoglobin synthesis requires iron and protoporphyrin.",

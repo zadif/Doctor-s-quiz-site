@@ -56,7 +56,12 @@
   },
   {
     "question": "Which gene is thought to be a critical regulator of dorsoventral axis patterning in the limb?",
-    "options": ["A. FGF10", "B. HOXB8", "C. WNT7a", "D. SHH"],
+    "options": [
+      "A. FGF10",
+      "B. HOXB8",
+      "C. WNT7a",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The text explains, 'The dorsoventral axis is also regulated by BMPs in the ventral ectoderm, which induce expression of the transcription factor EN1. In turn, EN1 represses WNT7a expression, restricting it to the dorsal limb ectoderm. WNT7a is a key regulator of the dorsoventral axis.'"
   },
@@ -84,7 +89,12 @@
   },
   {
     "question": "Which transcription factor is crucial for regulating tendon development?",
-    "options": ["A. FGF10", "B. SCLERAXIS", "C. PAX1", "D. SHH"],
+    "options": [
+      "A. FGF10",
+      "B. SCLERAXIS",
+      "C. PAX1",
+      "D. SHH"
+    ],
     "answer": "B",
     "explanation": "The text states, 'The transcription factor SCLERAXIS regulates development of tendons.'"
   },
@@ -123,7 +133,12 @@
   },
   {
     "question": "Which growth factor is crucial for both vasculogenesis and angiogenesis?",
-    "options": ["A. FGF", "B. WNT", "C. VEGF", "D. BMP4"],
+    "options": [
+      "A. FGF",
+      "B. WNT",
+      "C. VEGF",
+      "D. BMP4"
+    ],
     "answer": "C",
     "explanation": "The text mentions that 'The entire vascular system is patterned by guidance cues involving vascular endothelial growth factor (VEGF)... During vasculogenesis... FGF2 binds to its receptor... FGFs are particularly important for angiogenesis... Angiogenesis is also regulated by VEGF...'"
   },
@@ -184,7 +199,12 @@
   },
   {
     "question": "What is the primary germ layer that forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section states that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -289,13 +309,23 @@
   },
   {
     "question": "What germ layer gives rise to the epidermis, hair, and nails?",
-    "options": ["A. Mesoderm", "B. Endoderm", "C. Ectoderm", "D. Neural crest"],
+    "options": [
+      "A. Mesoderm",
+      "B. Endoderm",
+      "C. Ectoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section states that 'The ectodermal germ layer gives rise to... The epidermis, including the hair and nails.'"
   },
   {
     "question": "Which gene regulates the formation of vertebrae and ribs from sclerotome cells?",
-    "options": ["A. SHH", "B. WNT", "C. PAX1", "D. FGF8"],
+    "options": [
+      "A. SHH",
+      "B. WNT",
+      "C. PAX1",
+      "D. FGF8"
+    ],
     "answer": "C",
     "explanation": "The text explains that 'PAX1 regulates cartilage and bone formation for vertebral formation.'"
   },
@@ -345,7 +375,12 @@
   },
   {
     "question": "What substance is critical for establishing left-sidedness in embryonic development?",
-    "options": ["A. BMP4", "B. FGF8", "C. Retinoic acid", "D. PITX2"],
+    "options": [
+      "A. BMP4",
+      "B. FGF8",
+      "C. Retinoic acid",
+      "D. PITX2"
+    ],
     "answer": "D",
     "explanation": "The text explains that 'PITX2 is responsible for establishing left-sidedness.'"
   },
@@ -538,7 +573,12 @@
   },
   {
     "question": "Which gene is crucial for establishing left-sidedness in embryonic development?",
-    "options": ["A. FGF8", "B. BMP4", "C. PITX2", "D. SHH"],
+    "options": [
+      "A. FGF8",
+      "B. BMP4",
+      "C. PITX2",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The text states, 'PITX2 is responsible for establishing left-sidedness.'"
   },
@@ -566,7 +606,12 @@
   },
   {
     "question": "Which transcription factor is essential for regulating tendon development?",
-    "options": ["A. PAX1", "B. SHH", "C. SCLERAXIS", "D. WNT7a"],
+    "options": [
+      "A. PAX1",
+      "B. SHH",
+      "C. SCLERAXIS",
+      "D. WNT7a"
+    ],
     "answer": "C",
     "explanation": "The text mentions, 'The transcription factor SCLERAXIS regulates development of tendons.'"
   },
@@ -660,7 +705,12 @@
   },
   {
     "question": "Which of the following is NOT a major family of paracrine signaling factors (GDFs)?",
-    "options": ["A. FGF", "B. WNT", "C. Hedgehog", "D. Cytokines"],
+    "options": [
+      "A. FGF",
+      "B. WNT",
+      "C. Hedgehog",
+      "D. Cytokines"
+    ],
     "answer": "D",
     "explanation": "The text lists 'fibroblast growth factor (FGF), WNT, hedgehog, and transforming growth factor-b (TGF-b) families' as the four major groups of GDFs."
   },
@@ -787,7 +837,12 @@
   },
   {
     "question": "Which molecule is crucial for establishing left-sidedness and is regulated by FGF8 and Lefty-2?",
-    "options": ["A. BMP4", "B. PITX2", "C. SHH", "D. Nodal"],
+    "options": [
+      "A. BMP4",
+      "B. PITX2",
+      "C. SHH",
+      "D. Nodal"
+    ],
     "answer": "D",
     "explanation": "The text states, 'PITX2 is responsible for establishing left-sidedness.' It also mentions that 'FGF8 maintains Nodal expression... and both of these genes upregulate PITX2.'"
   },
@@ -815,13 +870,23 @@
   },
   {
     "question": "How many chromosomes are present in a normal human somatic cell?",
-    "options": ["A. 23", "B. 46", "C. 23 pairs", "D. 46 pairs"],
+    "options": [
+      "A. 23",
+      "B. 46",
+      "C. 23 pairs",
+      "D. 46 pairs"
+    ],
     "answer": "B",
     "explanation": "The text states, 'Humans have approximately 23,000 genes on 46 chromosomes. In somatic cells, chromosomes appear as 23 homologous pairs to form the diploid number of 46.'"
   },
   {
     "question": "What is the haploid number of chromosomes in a human gamete?",
-    "options": ["A. 23", "B. 46", "C. 23 pairs", "D. 46 pairs"],
+    "options": [
+      "A. 23",
+      "B. 46",
+      "C. 23 pairs",
+      "D. 46 pairs"
+    ],
     "answer": "A",
     "explanation": "The text mentions, 'Thus, each gamete contains a haploid number of 23 chromosomes...'"
   },
@@ -915,7 +980,12 @@
   },
   {
     "question": "Which molecule antagonizes BMP4 activity and contributes to dorsalization of mesoderm in the head region?",
-    "options": ["A. FGF8", "B. Nodal", "C. SHH", "D. Chordin"],
+    "options": [
+      "A. FGF8",
+      "B. Nodal",
+      "C. SHH",
+      "D. Chordin"
+    ],
     "answer": "D",
     "explanation": "The text mentions, 'Thus, chordin (activated by the transcription factor Goosecoid), noggin, and follistatin antagonize the activity of BMP4...'"
   },
@@ -1009,7 +1079,12 @@
   },
   {
     "question": "What provides the inductive signal for limb outgrowth?",
-    "options": ["A. The ZPA", "B. The AER", "C. BMP4", "D. WNT7a"],
+    "options": [
+      "A. The ZPA",
+      "B. The AER",
+      "C. BMP4",
+      "D. WNT7a"
+    ],
     "answer": "B",
     "explanation": "The text states, 'Limb outgrowth... is initiated by TBX5 and FGF10... [and] BMPs... induce formation of the AER...'"
   },
@@ -1070,7 +1145,12 @@
   },
   {
     "question": "Which gene is essential for establishing left-sidedness in embryonic development?",
-    "options": ["A. FGF8", "B. BMP4", "C. PITX2", "D. SHH"],
+    "options": [
+      "A. FGF8",
+      "B. BMP4",
+      "C. PITX2",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The text states, 'PITX2 is responsible for establishing left-sidedness.'"
   },
@@ -1098,13 +1178,23 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the respiratory tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer... forms the epithelial lining of the respiratory tract.'"
   },
   {
     "question": "Which gene is crucial for establishing left-sidedness and is regulated by FGF8 and Lefty-2?",
-    "options": ["A. FGF8", "B. BMP4", "C. PITX2", "D. SHH"],
+    "options": [
+      "A. FGF8",
+      "B. BMP4",
+      "C. PITX2",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The text states, 'PITX2 is responsible for establishing left-sidedness.' It also mentions that 'FGF8 maintains Nodal expression... and both of these genes upregulate PITX2.'"
   },
@@ -1143,7 +1233,12 @@
   },
   {
     "question": "Which gene is crucial for establishing left-sidedness and is regulated by FGF8 and Lefty-2?",
-    "options": ["A. FGF8", "B. BMP4", "C. PITX2", "D. SHH"],
+    "options": [
+      "A. FGF8",
+      "B. BMP4",
+      "C. PITX2",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The text states, 'PITX2 is responsible for establishing left-sidedness.' It also mentions that 'FGF8 maintains Nodal expression... and both of these genes upregulate PITX2.'"
   },
@@ -1160,7 +1255,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1265,7 +1365,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1315,7 +1420,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the respiratory tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer... forms the epithelial lining of the respiratory tract.'"
   },
@@ -1398,7 +1508,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1437,7 +1552,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the respiratory tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer... forms the epithelial lining of the respiratory tract.'"
   },
@@ -1498,7 +1618,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1614,7 +1739,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1719,7 +1849,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1802,7 +1937,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1863,7 +2003,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1924,7 +2069,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1985,7 +2135,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2090,7 +2245,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2184,7 +2344,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2267,7 +2432,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2328,7 +2498,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2389,7 +2564,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2538,7 +2718,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2632,7 +2817,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2704,7 +2894,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2765,7 +2960,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2914,7 +3114,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3063,7 +3268,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3124,7 +3334,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3229,7 +3444,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3290,7 +3510,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3351,7 +3576,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3412,7 +3642,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3473,7 +3708,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3534,7 +3774,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3595,7 +3840,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3656,7 +3906,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3717,7 +3972,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3778,7 +4038,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3839,7 +4104,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3900,7 +4170,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3961,7 +4236,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4022,7 +4302,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4083,7 +4368,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4144,7 +4434,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4205,7 +4500,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4266,7 +4566,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4327,7 +4632,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4388,7 +4698,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4449,7 +4764,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4510,7 +4830,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4571,7 +4896,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4632,7 +4962,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4693,7 +5028,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4754,7 +5094,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4815,7 +5160,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4876,7 +5226,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4937,7 +5292,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4998,7 +5358,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5059,7 +5424,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5120,7 +5490,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5181,7 +5556,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5242,7 +5622,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5303,7 +5688,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5364,7 +5754,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5425,7 +5820,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5486,7 +5886,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5547,7 +5952,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5608,7 +6018,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5669,7 +6084,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5706,22 +6126,36 @@
     "answer": "D",
     "explanation": "The text states, 'Cells of the inner cell mass or embryoblast, are at one pole...'"
   },
-
   {
     "question": "The appearance and location of the lung bud are dependent on an increase in what substance produced by adjacent mesoderm?",
-    "options": ["A. FGF2", "B. SHH", "C. Retinoic acid (RA)", "D. BMP7"],
+    "options": [
+      "A. FGF2",
+      "B. SHH",
+      "C. Retinoic acid (RA)",
+      "D. BMP7"
+    ],
     "answer": "C",
     "explanation": "The text states that the appearance and location of the lung bud are dependent upon an increase in retinoic acid (RA) produced by adjacent mesoderm."
   },
   {
     "question": "Which transcription factor, induced by retinoic acid, is responsible for the formation and differentiation of the lungs?",
-    "options": ["A. SOX2", "B. PAX4", "C. TBX4", "D. SHH"],
+    "options": [
+      "A. SOX2",
+      "B. PAX4",
+      "C. TBX4",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "TBX4 is induced by retinoic acid and is responsible for the formation and continued growth and differentiation of the lungs."
   },
   {
     "question": "The epithelium lining the larynx, trachea, bronchi, and lungs is derived entirely from which germ layer?",
-    "options": ["A. Mesoderm", "B. Ectoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Mesoderm",
+      "B. Ectoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The text explicitly states that the epithelium of the internal lining of the larynx, trachea, bronchi, and lungs is entirely of endodermal origin."
   },
@@ -5782,7 +6216,12 @@
   },
   {
     "question": "Before birth, the lungs are filled with fluid that has a high concentration of which electrolyte?",
-    "options": ["A. Potassium", "B. Sodium", "C. Chloride", "D. Calcium"],
+    "options": [
+      "A. Potassium",
+      "B. Sodium",
+      "C. Chloride",
+      "D. Calcium"
+    ],
     "answer": "C",
     "explanation": "Before birth, the lungs are filled with fluid that contains a high chloride concentration."
   },
@@ -5821,7 +6260,12 @@
   },
   {
     "question": "Which gene plays a critical role in initiating regional specification of the gut tube by inducing TBX4 expression?",
-    "options": ["A. SHH", "B. FGF2", "C. Retinoic acid (RA)", "D. HOX genes"],
+    "options": [
+      "A. SHH",
+      "B. FGF2",
+      "C. Retinoic acid (RA)",
+      "D. HOX genes"
+    ],
     "answer": "C",
     "explanation": "The appearance and location of the lung bud are dependent upon an increase in retinoic acid (RA), which causes upregulation of TBX4."
   },
@@ -5838,7 +6282,12 @@
   },
   {
     "question": "Which transcription factor is crucial for specifying the duodenum?",
-    "options": ["A. SOX2", "B. PDX1", "C. CDXC", "D. CDXA"],
+    "options": [
+      "A. SOX2",
+      "B. PDX1",
+      "C. CDXC",
+      "D. CDXA"
+    ],
     "answer": "B",
     "explanation": "PDX1 specifies the duodenum according to the molecular regulation of gut tube development described."
   },
@@ -5921,7 +6370,12 @@
   },
   {
     "question": "Which hormone is primarily responsible for the proliferative phase of the endometrial cycle?",
-    "options": ["A. Progesterone", "B. Estrogen", "C. Testosterone", "D. FSH"],
+    "options": [
+      "A. Progesterone",
+      "B. Estrogen",
+      "C. Testosterone",
+      "D. FSH"
+    ],
     "answer": "B",
     "explanation": "The proliferative phase of the endometrial cycle is under the influence of estrogen."
   },
@@ -6059,7 +6513,12 @@
   },
   {
     "question": "Which serologic marker is an indicator of active HBV infection?",
-    "options": ["A. Anti-HBs", "B. Anti-HBc", "C. HBeAg", "D. HBsAg"],
+    "options": [
+      "A. Anti-HBs",
+      "B. Anti-HBc",
+      "C. HBeAg",
+      "D. HBsAg"
+    ],
     "answer": "D",
     "explanation": "HBsAg appears early in the blood after infection and its detection is an indicator of active HBV infection."
   },
@@ -6076,7 +6535,12 @@
   },
   {
     "question": "HDV infection is dependent on the presence of which other virus for replication?",
-    "options": ["A. HAV", "B. HBV", "C. HCV", "D. HEV"],
+    "options": [
+      "A. HAV",
+      "B. HBV",
+      "C. HCV",
+      "D. HEV"
+    ],
     "answer": "B",
     "explanation": "HDV is a defective virus and requires HBV for its replication and proliferation."
   },
@@ -6203,7 +6667,12 @@
   },
   {
     "question": "Which gene mutation is most commonly associated with Adult Polycystic Kidney Disease (ADPKD)?",
-    "options": ["A. WNT4", "B. PKD1 gene", "C. SRY gene", "D. TBX4"],
+    "options": [
+      "A. WNT4",
+      "B. PKD1 gene",
+      "C. SRY gene",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Mutation in the PKD1 gene located on chromosome 16 is found in over 85% of ADPKD cases."
   },
@@ -6286,7 +6755,12 @@
   },
   {
     "question": "Which gene is considered the master gene for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6325,7 +6799,12 @@
   },
   {
     "question": "Which gene mutation is primarily associated with Adult Polycystic Kidney Disease (ADPKD-1)?",
-    "options": ["A. WNT4", "B. SRY", "C. PKD1 gene", "D. PAX2"],
+    "options": [
+      "A. WNT4",
+      "B. SRY",
+      "C. PKD1 gene",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "Mutation in the PKD1 gene located on chromosome 16 is associated with ADPKD-1."
   },
@@ -6342,13 +6821,23 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the hindbrain and plays a role in patterning the hindbrain rhombomeres?",
-    "options": ["A. TBX4", "B. OTX2", "C. HOX genes", "D. SHH"],
+    "options": [
+      "A. TBX4",
+      "B. OTX2",
+      "C. HOX genes",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "HOX genes are expressed in overlapping patterns in the hindbrain and specify the identity of the rhombomeres."
   },
   {
     "question": "Which molecule is considered the key regulatory gene for eye development?",
-    "options": ["A. FGF8", "B. SHH", "C. PAX6", "D. WNT4"],
+    "options": [
+      "A. FGF8",
+      "B. SHH",
+      "C. PAX6",
+      "D. WNT4"
+    ],
     "answer": "C",
     "explanation": "PAX6 is identified as the key regulatory gene for eye development."
   },
@@ -6387,13 +6876,23 @@
   },
   {
     "question": "The spleen primordium develops from which germ layer in the region of the dorsal mesogastrium?",
-    "options": ["A. Ectoderm", "B. Endoderm", "C. Neural crest", "D. Mesoderm"],
+    "options": [
+      "A. Ectoderm",
+      "B. Endoderm",
+      "C. Neural crest",
+      "D. Mesoderm"
+    ],
     "answer": "D",
     "explanation": "The spleen primordium develops from the mesoderm of the dorsal mesogastrium."
   },
   {
     "question": "Which gene is responsible for the development of testes?",
-    "options": ["A. WNT4", "B. PAX6", "C. SRY", "D. SHH"],
+    "options": [
+      "A. WNT4",
+      "B. PAX6",
+      "C. SRY",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The SRY gene on the Y chromosome is the master gene for testes development."
   },
@@ -6432,7 +6931,12 @@
   },
   {
     "question": "Which gene mutation is most commonly associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. TBX4"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. TBX4"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6449,13 +6953,23 @@
   },
   {
     "question": "Which transcription factor is crucial for specifying the hindbrain segments (rhombomeres)?",
-    "options": ["A. OTX2", "B. SHH", "C. HOX genes", "D. PAX6"],
+    "options": [
+      "A. OTX2",
+      "B. SHH",
+      "C. HOX genes",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "HOX genes are expressed in overlapping patterns in the hindbrain and specify the identity of the rhombomeres."
   },
   {
     "question": "What molecule is secreted by the anterior neural ridge (ANR) to induce gene expression in the forebrain?",
-    "options": ["A. SHH", "B. BMP4", "C. FGF8", "D. WNT4"],
+    "options": [
+      "A. SHH",
+      "B. BMP4",
+      "C. FGF8",
+      "D. WNT4"
+    ],
     "answer": "C",
     "explanation": "FGF8 is secreted by the anterior neural ridge and induces gene expression in the forebrain."
   },
@@ -6549,7 +7063,12 @@
   },
   {
     "question": "Which gene is responsible for specifying the duodenum during gut tube development?",
-    "options": ["A. SOX2", "B. PDX1", "C. TBX4", "D. SHH"],
+    "options": [
+      "A. SOX2",
+      "B. PDX1",
+      "C. TBX4",
+      "D. SHH"
+    ],
     "answer": "B",
     "explanation": "PDX1 is responsible for specifying the duodenum according to the molecular regulation of gut tube development."
   },
@@ -6566,7 +7085,12 @@
   },
   {
     "question": "The initial patterning of the forebrain and midbrain regions is regulated by which key signaling molecule secreted from the anterior neural ridge (ANR)?",
-    "options": ["A. SHH", "B. BMP4", "C. FGF8", "D. WNT4"],
+    "options": [
+      "A. SHH",
+      "B. BMP4",
+      "C. FGF8",
+      "D. WNT4"
+    ],
     "answer": "C",
     "explanation": "FGF8 secreted from the anterior neural ridge regulates forebrain and midbrain patterning."
   },
@@ -6594,7 +7118,12 @@
   },
   {
     "question": "What is the embryonic origin of the epidermis of the skin?",
-    "options": ["A. Mesoderm", "B. Endoderm", "C. Ectoderm", "D. Neural crest"],
+    "options": [
+      "A. Mesoderm",
+      "B. Endoderm",
+      "C. Ectoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The epidermis is derived from the surface ectoderm."
   },
@@ -6622,7 +7151,12 @@
   },
   {
     "question": "Which transcription factor is essential for specifying the forebrain regions, including the telencephalon?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FGF8 induces FOXG1 in the forebrain, which regulates telencephalon development."
   },
@@ -6650,13 +7184,23 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. TBX4"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. TBX4"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
   {
     "question": "The spinal cord terminates at the level of L2-L3 in adults, while the dural sac extends to which sacral level?",
-    "options": ["A. S1", "B. S2", "C. S3", "D. Coccyx"],
+    "options": [
+      "A. S1",
+      "B. S2",
+      "C. S3",
+      "D. Coccyx"
+    ],
     "answer": "B",
     "explanation": "In adults, the dural sac and subarachnoid space extend to S2."
   },
@@ -6717,7 +7261,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for eye development?",
-    "options": ["A. FGF8", "B. SHH", "C. PAX6", "D. WNT4"],
+    "options": [
+      "A. FGF8",
+      "B. SHH",
+      "C. PAX6",
+      "D. WNT4"
+    ],
     "answer": "C",
     "explanation": "PAX6 is identified as the master gene for eye development."
   },
@@ -6756,7 +7305,12 @@
   },
   {
     "question": "Which gene is responsible for specifying the ovaries during sexual development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is considered the master gene for ovarian development."
   },
@@ -6806,7 +7360,12 @@
   },
   {
     "question": "Which gene mutation is associated with adult polycystic kidney disease (ADPKD-2)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "A",
     "explanation": "Mutation in the PKD1 gene is associated with ADPKD-1 (most cases), while mutation in the PKD2 gene on chromosome 4 is associated with ADPKD-2."
   },
@@ -6823,7 +7382,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, regulated by FGF8, is crucial for telencephalon development and regional specification within the forebrain."
   },
@@ -6884,7 +7448,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is the master gene for ovarian development."
   },
@@ -6923,7 +7492,12 @@
   },
   {
     "question": "Which molecular factor is primarily responsible for inducing the formation of the respiratory diverticulum (lung bud)?",
-    "options": ["A. SHH", "B. FGF2", "C. Retinoic acid (RA)", "D. BMP7"],
+    "options": [
+      "A. SHH",
+      "B. FGF2",
+      "C. Retinoic acid (RA)",
+      "D. BMP7"
+    ],
     "answer": "C",
     "explanation": "The appearance and location of the lung bud are dependent upon an increase in retinoic acid (RA)."
   },
@@ -6962,7 +7536,12 @@
   },
   {
     "question": "Which gene is primarily responsible for the development of testes?",
-    "options": ["A. WNT4", "B. PAX6", "C. SRY", "D. SHH"],
+    "options": [
+      "A. WNT4",
+      "B. PAX6",
+      "C. SRY",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The SRY gene on the Y chromosome is the master gene for testes development."
   },
@@ -6979,7 +7558,12 @@
   },
   {
     "question": "Which molecule is secreted by the anterior neural ridge to regulate forebrain development?",
-    "options": ["A. SHH", "B. BMP4", "C. FGF8", "D. WNT4"],
+    "options": [
+      "A. SHH",
+      "B. BMP4",
+      "C. FGF8",
+      "D. WNT4"
+    ],
     "answer": "C",
     "explanation": "FGF8 secreted from the anterior neural ridge induces expression of FOXG1, regulating forebrain development."
   },
@@ -7018,7 +7602,12 @@
   },
   {
     "question": "Which gene is primarily responsible for the development of ovaries?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is considered the master gene for ovarian development."
   },
@@ -7277,7 +7866,12 @@
   },
   {
     "question": "Which gene mutation is associated with sporadic cases of medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutation in the RET-protooncogene is seen in both familial and sporadic cases of medullary thyroid carcinoma."
   },
@@ -7382,7 +7976,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutation in the RET-protooncogene is seen in familial medullary thyroid carcinoma."
   },
@@ -7553,7 +8152,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -7647,7 +8251,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -7741,7 +8350,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -7835,7 +8449,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -7929,7 +8548,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8023,7 +8647,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8117,7 +8746,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8211,7 +8845,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8305,7 +8944,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8399,7 +9043,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8493,7 +9142,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8587,7 +9241,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8681,7 +9340,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8775,7 +9439,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8869,7 +9538,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -8963,7 +9637,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9057,7 +9736,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9151,7 +9835,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9245,7 +9934,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9339,7 +10033,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9433,7 +10132,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9527,7 +10231,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9621,7 +10330,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9715,7 +10429,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9809,7 +10528,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9903,7 +10627,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -9997,7 +10726,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10091,7 +10825,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10185,7 +10924,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10279,7 +11023,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10373,7 +11122,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10467,7 +11221,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10561,7 +11320,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10655,7 +11419,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10749,7 +11518,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10843,7 +11617,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -10937,7 +11716,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11031,7 +11815,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11125,7 +11914,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11219,7 +12013,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11313,7 +12112,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11407,7 +12211,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11501,7 +12310,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11595,7 +12409,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11689,7 +12508,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11783,7 +12607,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },
@@ -11877,7 +12706,12 @@
   },
   {
     "question": "Which gene mutation is associated with familial medullary thyroid carcinoma?",
-    "options": ["A. PAX2", "B. RET-protooncogene", "C. WNT4", "D. TBX4"],
+    "options": [
+      "A. PAX2",
+      "B. RET-protooncogene",
+      "C. WNT4",
+      "D. TBX4"
+    ],
     "answer": "B",
     "explanation": "Point mutations in the RET-protooncogene are found in familial medullary thyroid carcinoma."
   },

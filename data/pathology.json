@@ -12,13 +12,23 @@
   },
   {
     "question": "According to the text, what is considered the opposite of health?",
-    "options": ["A. Illness", "B. Disease", "C. Comfort", "D. Disorder"],
+    "options": [
+      "A. Illness",
+      "B. Disease",
+      "C. Comfort",
+      "D. Disorder"
+    ],
     "answer": "B",
     "explanation": "The text defines disease as the opposite of health, stating that 'disease is loss of ease (or comfort) to the body'."
   },
   {
     "question": "What term is used for the reaction of an individual to a disease, manifested as symptoms and physical signs?",
-    "options": ["A. Disease", "B. Syndrome", "C. Pathology", "D. Illness"],
+    "options": [
+      "A. Disease",
+      "B. Syndrome",
+      "C. Pathology",
+      "D. Illness"
+    ],
     "answer": "D",
     "explanation": "Illness is defined as the individual's reaction to a disease, encompassing symptoms (patient complaints) and physical signs (elicited by the clinician)."
   },
@@ -5709,7 +5719,6 @@
     "answer": "C",
     "explanation": "The liver is critical for protein metabolism, performing functions such as deamination, urea synthesis, plasma protein production, and interconverting amino acids."
   },
-
   {
     "question": "What is the main limitation of Fine Needle Aspiration Cytology (FNAC)?",
     "options": [
@@ -5875,7 +5884,6 @@
     "answer": "C",
     "explanation": "The text advises, 'in view of unique responsibility of pathologist in patient management, reporting cytopathologist should be adequately trained in the skill and should not hesitate to ask for ancillary diagnostic techniques, or advise the use of core biopsy or open biopsy, wherever appropriate.'"
   },
-
   {
     "question": "Which type of cyst of the neck is generally located anterior to the sternocleidomastoid muscle near the angle of the mandible?",
     "options": [
@@ -5966,7 +5974,12 @@
   },
   {
     "question": "Which of the following is NOT listed as a site of predilection for squamous cell carcinoma of the oral cavity, in descending order of frequency?",
-    "options": ["A. Lower lip", "B. Buccal mucosa", "C. Palate", "D. Gingiva"],
+    "options": [
+      "A. Lower lip",
+      "B. Buccal mucosa",
+      "C. Palate",
+      "D. Gingiva"
+    ],
     "answer": "D",
     "explanation": "The sites of predilection for oral cancer are listed as lips (more commonly lower), tongue, anterior floor of mouth, buccal mucosa in the region of alveolar lingual sulcus, and palate. Gingiva is not explicitly mentioned in this descending order."
   },

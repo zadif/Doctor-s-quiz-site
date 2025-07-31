@@ -1,0 +1,1332 @@
+[
+  {
+    "question": "A 65-year-old male undergoes a total mesorectal excision for a mid-rectal adenocarcinoma. During the procedure, the surgeon identifies the main arterial supply to the rectum, which is a direct continuation of the inferior mesenteric artery. In addition to this primary vessel, the surgeon is aware of a secondary artery that arises from the internal iliac artery on each side and passes to the rectum within the lateral ligaments. According to the provided text, what is the anatomical characteristic and frequency of this secondary artery?",
+    "options": [
+      "A. It is consistently large and bilaterally present in all individuals.",
+      "B. It is the primary blood supply to the lower third of the rectum.",
+      "C. It is typically small, often present on only one side, and supplies several branches to the rectum.",
+      "D. It arises from the internal pudendal artery and hugs the inferior surface of the levator ani.",
+      "E. It is the main supply to the mesorectal fascia and is always preserved in cancer surgery."
+    ],
+    "answer": "C",
+    "explanation": "The text states that the middle rectal artery arises from the internal iliac artery and passes to the rectum in the lateral ligaments. It specifies that this artery is 'usually small and often only present on one side, and divides into several branches'. Option A is incorrect as it's not large or consistently bilateral. Option B is incorrect; the superior rectal artery is the main supply. Option D describes the inferior rectal artery. Option E is incorrect as it's not the main supply to the fascia and its preservation depends on the surgical context."
+  },
+  {
+    "question": "A 58-year-old woman with a history of rectal cancer treated with pelvic radiation presents with several months of bleeding, pain, diarrhea, and defecatory frequency. A flexible sigmoidoscopy is performed. Which of the following treatments would be most appropriate for managing her bleeding, as described in the text for chronic radiation proctitis?",
+    "options": [
+      "A. A defunctioning colostomy to divert the fecal stream.",
+      "B. Argon laser photocoagulation performed using a flexible sigmoidoscope.",
+      "C. Long-term oral steroid therapy to reduce inflammation.",
+      "D. Surgical resection of the affected rectal segment (proctectomy).",
+      "E. Topical 5-aminosalicylic acid (5-ASA) suppositories."
+    ],
+    "answer": "B",
+    "explanation": "The text explicitly states that for chronic radiation proctitis, 'Bleeding may require treatment with argon laser photocoagulation performed using a flexible sigmoidoscope.' While other treatments might be considered in a broader clinical context, this is the specific treatment mentioned in the provided text for this complication."
+  },
+  {
+    "question": "A 72-year-old frail female patient with a significant full-thickness rectal prolapse requires surgical intervention. Her medical comorbidities make her a high-risk candidate for a major abdominal operation. The surgical team is considering a perineal approach. One option involves stripping the rectal mucosa circumferentially from the prolapsed segment, plicating the underlying muscle, and excising the excess mucosa. What is the name of this procedure, and what is its associated long-term recurrence rate according to the text?",
+    "options": [
+      "A. Thiersch’s operation, with a recurrence rate of less than 10%.",
+      "B. Altemeier’s procedure, with a recurrence rate in the region of 30% over 5 years.",
+      "C. Delorme’s operation, with a recurrence rate in the region of 30% over 5 years.",
+      "D. Laparoscopic ventral mesh rectopexy (LVMR), with a recurrence rate of less than 10%.",
+      "E. Sutured rectopexy (Goldberg), with a recurrence rate of 0% to 20%."
+    ],
+    "answer": "C",
+    "explanation": "The procedure described is Delorme's operation, where 'the rectal mucosa is stripped circumferentially from the rectum over the length of the prolapse... The underlying muscle is plicated'. The text further states that 'recurrence rates are high, in the region of 30% over 5 years'."
+  },
+  {
+    "question": "A colorectal surgeon is performing a laparoscopic ventral mesh rectopexy (LVMR) for a patient with an external rectal prolapse. The procedure involves dissecting a specific anatomical plane to place a mesh that resuspends the rectum. According to the text, which anatomical plane is dissected, where is the mesh sutured, and to what structure is the upper end of the mesh secured?",
+    "options": [
+      "A. The plane between the rectum and the sacrum is dissected, the mesh is sutured to the posterior rectal wall, and the upper end is secured to the coccyx.",
+      "B. The plane between the rectum and vagina (or prostate) is dissected, the mesh is sutured to the anterior rectum and posterior vaginal vault, and the upper end is secured to the sacral promontory.",
+      "C. The mesorectal plane is dissected, the mesh is sutured circumferentially around the rectum, and the upper end is secured to the anterior longitudinal ligament.",
+      "D. The plane between the internal and external anal sphincters is dissected, the mesh is sutured to the levator ani muscles, and the upper end is secured to the pubic symphysis.",
+      "E. The retrorectal space is dissected, the mesh is sutured to the lateral ligaments of the rectum, and the upper end is secured to the ischial spines."
+    ],
+    "answer": "B",
+    "explanation": "The text describes LVMR as a procedure where 'the plane between the rectum and vagina (or prostate) is dissected, and a strip of mesh sutured to the anterior rectum and posterior vaginal vault. The upper end of the mesh is secured to the sacral promontory with sutures or tacks, thus resuspending the rectum and preventing prolapse'."
+  },
+  {
+    "question": "A 4-year-old child presents with rectal bleeding. On examination, a bright red, glistening pedunculated spherical mass is identified in the rectum, which is subsequently removed. Histological analysis reveals large mucus-filled spaces covered by a smooth surface of thin rectal cuboidal epithelium. What is the diagnosis of this polyp, and what is its typical tendency regarding malignant change?",
+    "options": [
+      "A. Villous adenoma, with a high tendency for malignant change.",
+      "B. Tubular adenoma, with malignant potential if over 1 cm.",
+      "C. Juvenile polyp, with virtually no tendency for malignant change as a solitary lesion.",
+      "D. Serrated adenoma, which can give rise to cancer through an alternative pathway.",
+      "E. Hyperplastic polyp, which is usually an incidental finding with no malignant potential."
+    ],
+    "answer": "C",
+    "explanation": "The description of a 'bright red, glistening pedunculated sphere (‘cherry tumour’)' in a child, along with the specific histological features, corresponds to a juvenile polyp. The text states, 'A solitary juvenile polyp has virtually no tendency to malignant change'."
+  },
+  {
+    "question": "A 68-year-old male with a large, sessile rectal lesion undergoes an endoscopic submucosal dissection (ESD). The endoscopist injects a solution into the submucosal layer to lift the lesion but observes that the mucosa does not lift. According to the text, what is the most concerning clinical implication of this 'non-lift' sign?",
+    "options": [
+      "A. It indicates the presence of a benign hyperplastic polyp.",
+      "B. It suggests that the lesion is too large for endoscopic removal.",
+      "C. It may indirectly indicate deeper invasion of the lesion into the muscularis propria or beyond.",
+      "D. It is a common finding in pedunculated polyps and has no clinical significance.",
+      "E. It is caused by an allergic reaction to the injection fluid."
+    ],
+    "answer": "C",
+    "explanation": "The text clearly states, 'Importantly, if the mucosa does not lift, this may indirectly indicate deeper invasion of the lesion. A ‘non-lift’ sign may also occur because of fibrosis from previous resection attempts or tattooing'."
+  },
+  {
+    "question": "A 55-year-old male is diagnosed with a rectal neuroendocrine tumor (NET) that is 2.5 cm in size. Biopsy confirms it is a well-differentiated (grade 1) tumor. Based on the provided text, what is the most appropriate management strategy for a rectal NET of this size?",
+    "options": [
+      "A. Local endoscopic or transanal excision, as all grade 1 tumors are indolent.",
+      "B. Adjuvant chemotherapy, as all NETs metastasize early.",
+      "C. Formal oncological resection, as lesions greater than 2 cm require this approach.",
+      "D. A 'watch and wait' policy, as these tumors have a good prognosis and rarely require intervention.",
+      "E. Palliative radiotherapy only, as surgery is not indicated for NETs."
+    ],
+    "answer": "C",
+    "explanation": "The text specifies the treatment for rectal NETs based on size: 'Small lesions (1 cm) can often be treated locally... However, larger lesions (>2 cm) require formal oncological resection.' Since this patient's tumor is 2.5 cm, formal resection is the indicated treatment."
+  },
+  {
+    "question": "In the pathogenesis of spontaneous colorectal cancer, the adenoma-carcinoma sequence is a key concept involving the accumulation of genetic abnormalities. The text mentions that mutation in the Wnt signalling pathway is the most common abnormality. Which specific gene mutation is most commonly responsible for this, and what is the downstream effect of this mutation?",
+    "options": [
+      "A. Mutation in the TP53 gene, which leads to inactivation of the PI3K signalling pathway.",
+      "B. Mutation in the KRAS gene, which controls normal cell division and death.",
+      "C. Mutation in the APC gene, which results in the accumulation of β-catenin protein and activation of proto-oncogenes.",
+      "D. Mutation in the DCC gene, which leads to overexpression of transforming growth factor (TGF)-β.",
+      "E. Overexpression of the PTEN gene, which leads to increased cell proliferation."
+    ],
+    "answer": "C",
+    "explanation": "The text states, 'The most commonly mutated gene is the APC gene, which results in accumulation of the β-catenin protein. β-catenin activates the transcription of various proto-oncogenes that are responsible for normal cell renewal and differentiation, but when overexpressed can cause cancer.'"
+  },
+  {
+    "question": "A 70-year-old patient with a newly diagnosed rectal cancer undergoes staging with pelvic MRI. The radiologist's report is crucial for guiding both surgical and oncological management. According to the text, which three key determinations is MRI considered the best modality for assessing in the local staging of rectal cancer?",
+    "options": [
+      "A. The presence of liver metastases, peritoneal dissemination, and distant lung nodules.",
+      "B. The histological grade of the tumor, the presence of synchronous polyps, and the mitotic rate.",
+      "C. The soft-tissue extent of the tumor, the degree of infiltration of the mesorectum, and whether the mesorectal fascia is potentially involved.",
+      "D. The tumor's response to chemotherapy, the patient's overall fitness for surgery, and the presence of bony metastases.",
+      "E. The origin of the tumor's blood supply, the pattern of venous drainage, and the depth of submucosal invasion only."
+    ],
+    "answer": "C",
+    "explanation": "The text highlights the role of MRI in local staging: 'MRI is the best modality to assess soft-tissue extent of the tumor, the degree of infiltration of the mesorectum and mesorectal lymph node involvement and to ascertain whether the mesorectal fascia is potentially involved. These determinations are of great importance in guiding both surgical and oncological management.'"
+  },
+  {
+    "question": "A 62-year-old male with a locally advanced rectal cancer is treated with neoadjuvant chemoradiotherapy. Post-treatment evaluation, including clinical examination, biopsy, and radiological imaging, shows no evidence of residual cancer. The multidisciplinary team discusses a 'watch and wait' policy. Based on the information provided, what percentage of patients show a complete clinical response to neoadjuvant chemoradiotherapy, and what is the approximate recurrence rate for those managed with this non-operative policy?",
+    "options": [
+      "A. Approximately 50% show a complete clinical response, with a recurrence rate of 10%.",
+      "B. Approximately 20% show a complete clinical response, with a recurrence rate of 30%.",
+      "C. Approximately 80% show a complete clinical response, with a recurrence rate of 50%.",
+      "D. Approximately 10% show a complete clinical response, with a recurrence rate of 70%.",
+      "E. Approximately 30% show a complete clinical response, with a recurrence rate of 20%."
+    ],
+    "answer": "B",
+    "explanation": "The text provides specific figures for this scenario: 'Approximately 20% of rectal cancers treated by neoadjuvant chemoradiotherapy show a complete clinical response... Some 30% of cases will recur on a ‘watch-and-wait’ policy, but most can be salvaged by surgical resection.'"
+  },
+  {
+    "question": "A surgeon is performing a low anterior resection for a rectal cancer located in the lower third of the rectum. The procedure requires complete removal of the rectum and its surrounding envelope, a principle known as Total Mesorectal Excision (TME). To restore continuity, a very low anastomosis is required. To mitigate the risk of septic complications from a potential anastomotic leak, what is the usual practice in this situation?",
+    "options": [
+      "A. To avoid an anastomosis altogether and create a permanent Hartmann's procedure.",
+      "B. To perform a hand-sewn anastomosis only, as stapled anastomoses have a higher leak rate.",
+      "C. To defunction the anastomosis with a temporary stoma.",
+      "D. To administer a prolonged course of postoperative intravenous antibiotics for 6 weeks.",
+      "E. To place multiple pelvic drains and perform daily rectal washouts."
+    ],
+    "answer": "C",
+    "explanation": "The text states, 'In cancers situated below the peritoneal reflection it is usual practice to defunction the anastomosis with a temporary stoma because of the higher risk of anastomotic leak. Although a defunctioning stoma does not prevent anastomotic leak, it does mitigate against septic complications should a leak occur.'"
+  },
+  {
+    "question": "A 45-year-old male complains of intermittent pain, swelling, and discharge at the base of his spine. Examination reveals one or more midline openings in the natal cleft overlying the coccyx, communicating with a fibrous tract containing loose hair. The surgeon explains that the condition is believed to be acquired. Which of the following pieces of evidence described in the text supports the theory of an acquired origin for pilonidal sinuses?",
+    "options": [
+      "A. The condition is always present at birth and is a remnant of the neural tube.",
+      "B. The hair follicles are consistently found to be an integral part of the sinus wall.",
+      "C. The disease primarily affects non-hirsute individuals with soft, blond hair.",
+      "D. Interdigital pilonidal sinus is an occupational disease of hairdressers.",
+      "E. The pointed ends of the hairs are always directed towards the skin opening."
+    ],
+    "answer": "D",
+    "explanation": "The text lists several points supporting the acquired theory for pilonidal sinuses. One of these is that 'Interdigital pilonidal sinus is an occupational disease of hairdressers,' which strongly suggests an acquired, rather than congenital, etiology. Other points include the older age of appearance and rarity of hair follicles in the sinus walls."
+  },
+  {
+    "question": "A 38-year-old woman presents with severe anal pain during defecation, describing it as 'passing glass,' followed by a trace of bright red blood on the toilet paper. On examination, a longitudinal ulcer is seen in the posterior midline of the distal anal canal, with a sentinel tag externally. The underlying pathophysiology involves a vicious cycle of non-healing. According to the text, what is the primary factor that perpetuates this cycle by causing repeated trauma and relative tissue ischemia?",
+    "options": [
+      "A. Chronic infection with human papillomavirus (HPV).",
+      "B. Internal anal sphincter hypertonia.",
+      "C. A congenital weakness in the anoderm.",
+      "D. Venous congestion from associated hemorrhoids.",
+      "E. An allergic reaction to dietary components."
+    ],
+    "answer": "B",
+    "explanation": "The text describes the pathophysiology of an anal fissure: 'Affected patients frequently present with internal anal sphincter hypertonia, which, in turn, enhances the traumatic effect of the hard stool and perpetuates relative tissue ischemia. After the initial tear, a vicious cycle of non-healing and repeated trauma leads to the development of chronic deep fissures.'"
+  },
+  {
+    "question": "A patient with a chronic anal fissure that has failed conservative management with stool softeners is considered for 'chemical sphincterotomy'. A topical agent is prescribed that acts as a nitric oxide donor to induce smooth muscle relaxation. What is this agent, and what is a common side effect that limits its acceptability to some patients?",
+    "options": [
+      "A. Diltiazem (2%), which commonly causes temporary incontinence.",
+      "B. Botulinum toxin, which commonly causes a perianal abscess.",
+      "C. Lidocaine gel, which commonly causes systemic anesthesia.",
+      "D. Glyceryl trinitrate (GTN) (0.2%), which can be associated with headaches.",
+      "E. Phenol in almond oil, which is associated with skin necrosis."
+    ],
+    "answer": "D",
+    "explanation": "The text states that 'Glyceryl trinitrate (GTN) (0.2% applied two or three times per day to the anal margin) is a nitric oxide donor... although GTN can be associated with headaches, which limits its acceptability to patients.'"
+  },
+  {
+    "question": "A 55-year-old man presents with symptomatic third-degree hemorrhoids that require surgical intervention. The surgeon performs an open hemorrhoidectomy, as described by Milligan and Morgan. Which of the following steps is a key part of this technique to avoid the late postoperative complication of anal stricture?",
+    "options": [
+      "A. Completely excising all anoderm to remove all potential hemorrhoidal tissue.",
+      "B. Closing the wounds with a continuous, non-absorbable suture.",
+      "C. Leaving mucocutaneous bridges between the excised hemorrhoid pedicles.",
+      "D. Performing a concomitant lateral internal sphincterotomy.",
+      "E. Injecting a sclerosant into the internal sphincter muscle."
+    ],
+    "answer": "C",
+    "explanation": "The description of the open technique states: 'Each haemorrhoid is dealt with in this manner, taking care to leave mucocutaneous bridges.' The text later lists anal stricture as a late complication, which is prevented by preserving these bridges of normal tissue to avoid circumferential scarring."
+  },
+  {
+    "question": "A patient presents with a deep rectal pain, fever, and constitutional upset. External examination of the perianal area is unremarkable, but a digital rectal examination reveals a tender, indurated swelling palpable above the anorectal junction. This presentation is suggestive of a supralevator abscess. According to the text, why do patients with infections in spaces like the ischiorectal fossa or supralevator space often present later and with more systemic symptoms compared to a perianal abscess?",
+    "options": [
+      "A. These spaces are sterile and do not allow for bacterial growth.",
+      "B. The nerve supply to these deeper spaces is less dense, resulting in less localized pain initially.",
+      "C. The tissue tension in these larger, fatty-filled spaces is much lower, allowing the infection to expand without causing intense, localized pain early on.",
+      "D. The infection is typically caused by less virulent, slow-growing organisms.",
+      "E. These spaces have a rich blood supply that quickly disseminates the infection systemically."
+    ],
+    "answer": "C",
+    "explanation": "The text contrasts the presentation of different abscesses. For an ischiorectal abscess, it states patients 'usually present later, with less well-localised symptoms but more constitutional upset and fever. On examination, the afected buttock is difusely swollen with widespread induration and deep tenderness.' This is because 'tissue tension is much lower' in the larger fatty-filled ischiorectal space, allowing the abscess to grow larger before causing severe localized signs."
+  },
+  {
+    "question": "A surgeon is evaluating a patient with a fistula-in-ano. The external opening is located 4 cm posterior to the anus and lateral to the midline. According to Goodsall’s rule, as described in the text and depicted in the associated figure, where is the internal opening of this fistula most likely to be located?",
+    "options": [
+      "A. In the anterior midline at the dentate line.",
+      "B. Directly opposite the external opening in the posterior lateral quadrant.",
+      "C. In the posterior midline at the dentate line.",
+      "D. High in the rectum, above the anorectal ring.",
+      "E. At the apex of the anal canal, unrelated to the dentate line."
+    ],
+    "answer": "C",
+    "explanation": "Goodsall's rule states that fistulae with an external opening located posterior to a transverse line bisecting the anus will typically have a curved track that opens into the posterior midline of the anal canal at the dentate line."
+  },
+  {
+    "question": "A 48-year-old male with a complex, high trans-sphincteric fistula-in-ano is undergoing surgery. The surgeon wants to preserve as much sphincter function as possible and decides on a sphincter-preserving procedure that involves dissecting in the intersphincteric plane, ligating and dividing the fistula tract, removing the internal part of the tract and curetting the external part. What is the name of this procedure?",
+    "options": [
+      "A. Fistulotomy with primary sphincter repair.",
+      "B. Fistulectomy with an advancement flap.",
+      "C. Placement of a cutting seton.",
+      "D. Ligation of the intersphincteric fistula tract (LIFT).",
+      "E. Video-assisted anal fistula treatment (VAAFT)."
+    ],
+    "answer": "D",
+    "explanation": "The procedure described matches the description of LIFT in the text: 'LIFT involves disconnection of the internal opening from the fistula tract at the level of the intersphincteric plane... The tract is then ligated and divided, the internal part is removed and the external part of the track is curetted and drained... Hence it is a sphincter-preserving procedure.'"
+  },
+  {
+    "question": "A 35-year-old immunocompromised male presents with extensive, coalescing perianal and intra-anal warts. A biopsy confirms condylomata acuminata associated with human papillomavirus (HPV) and also reveals anal intraepithelial neoplasia (AIN) III. The text discusses the viral etiology of these conditions. Which specific HPV subtypes are most strongly associated with a greater risk of progression to dysplasia and malignancy like squamous cell carcinoma?",
+    "options": [
+      "A. HPV subtypes 1 and 2.",
+      "B. HPV subtypes 6 and 11.",
+      "C. HPV subtypes 16, 18, 31, and 33.",
+      "D. All HPV subtypes carry an equal risk of malignancy.",
+      "E. HPV subtypes 40 and 42."
+    ],
+    "answer": "C",
+    "explanation": "The text states that 'certain subtypes (16, 18, 31, 33) are associated with a greater risk of progression to dysplasia and malignancy. SCC is associated with HPV (especially subtypes 16, 18, 31 or 33).' Subtypes 6 and 11 are more often associated with warts and early AIN."
+  },
+  {
+    "question": "A 60-year-old female is diagnosed with a squamous cell carcinoma of the anal canal. Her staging investigations show a localized tumor without distant metastases. Based on the standard primary treatment described in the text since the late 1970s, what is the most appropriate management for this patient?",
+    "options": [
+      "A. Abdominoperineal resection with a permanent colostomy.",
+      "B. Wide local excision followed by adjuvant radiation.",
+      "C. Chemoradiotherapy, as established by the Nigro regimen and subsequent trials.",
+      "D. Palliative chemotherapy only, as the prognosis is universally poor.",
+      "E. Local excision followed by a 'watch and wait' approach."
+    ],
+    "answer": "C",
+    "explanation": "The text clearly states, 'Historically anal cancer was treated by abdominoperineal resection; however, since the late 1970s chemoradiotherapy (Nigro) has become the primary treatment.' It further mentions trials (ACT I and ACT II) that solidified this approach."
+  },
+  {
+    "question": "A 4-year-old boy presents with an abdominal mass. An ultrasound confirms a multicystic dysplastic kidney (MCDK) on the left side, with a 'bunch of grapes' appearance and no identifiable renal parenchyma. An isotope scan shows a photopenic area in the left renal fossa. The contralateral kidney is normal and hypertrophic. According to the text, what is the recommended management for this asymptomatic, unilaterally affected child?",
+    "options": [
+      "A. Immediate nephrectomy to prevent malignant transformation.",
+      "B. Lifelong antibiotic prophylaxis to prevent infections.",
+      "C. Nephrectomy is not necessary as the majority undergo involution within 5 years.",
+      "D. Renal transplantation is required due to the non-functional kidney.",
+      "E. Percutaneous drainage of the cysts to decompress the mass."
+    ],
+    "answer": "C",
+    "explanation": "The text describes the natural history and management of MCDK: 'Newborns may present with a palpable renal mass but nephrectomy is not necessary as the majority undergo involution within 5 years.'"
+  },
+  {
+    "question": "A female infant is found to have a complete ureteral duplication on the right side. The clinician explains the Weigert-Meyer rule regarding the insertion points of the two ureters. Based on this rule as described in the text, which moiety's ureter is prone to vesicoureteric reflux (VUR) and why?",
+    "options": [
+      "A. The upper moiety ureter, because it inserts ectopically below the sphincter.",
+      "B. The lower moiety ureter, because it has a shorter submucosal tunnel.",
+      "C. The upper moiety ureter, because it is often associated with a ureterocele.",
+      "D. The lower moiety ureter, because it is typically wider in diameter.",
+      "E. Both ureters are equally prone to reflux."
+    ],
+    "answer": "B",
+    "explanation": "The text describes the Weigert-Meyer rule in the context of complete ureteric duplication: 'The lower moiety ureter has a shorter submucosal tunnel and is prone to VUR.' It also notes the upper moiety ureter may be ectopic or associated with a ureterocele."
+  },
+  {
+    "question": "A 40-year-old male presents with intermittent right flank pain, particularly after drinking large amounts of fluid, which is relieved by passing a large volume of urine. This history is suggestive of Dietl's crisis. An isotope diuretic renography is performed to investigate for congenital pelviureteric junction obstruction (PUJO). What finding on this scan would be suggestive of significant obstruction and an indication for surgical intervention?",
+    "options": [
+      "A. A T1/2max of less than 10 minutes and a differential function of 50%.",
+      "B. A flat curve that does not rise after furosemide administration.",
+      "C. Symmetrical uptake and rapid washout of the isotope from both kidneys.",
+      "D. A rising curve following administration of furosemide, a T1/2max greater than 20 minutes, and a differential function less than 40% on the affected side.",
+      "E. A differential function greater than 60% on the affected side, indicating compensatory hypertrophy."
+    ],
+    "answer": "D",
+    "explanation": "The text specifies the criteria for diagnosing significant PUJO on a diuretic renogram: 'A rising curve following administration of furosemide, a T1/2max of greater than 20 minutes and a diferential function of less than 40% on the afected side is suggestive of signifcant obstruction and is an indication for surgical intervention.'"
+  },
+  {
+    "question": "A 52-year-old patient with a history of recurrent urinary tract infections is found to have a large, non-functioning, hydronephrotic kidney with a shrunken pelvis and a large calculus on a CECT scan. The radiological report mentions a 'bear's paw sign'. Pathological examination of the nephrectomy specimen shows an accumulation of lipid-laden foamy macrophages. What is the most likely diagnosis?",
+    "options": [
+      "A. Renal cell carcinoma with cystic changes.",
+      "B. Emphysematous pyelonephritis.",
+      "C. Xanthogranulomatous pyelonephritis (XGP).",
+      "D. Autosomal dominant polycystic kidney disease (ADPKD).",
+      "E. Genitourinary tuberculosis."
+    ],
+    "answer": "C",
+    "explanation": "The combination of severe renal infection in an obstructed kidney, association with calculi, loss of function, and specific pathological findings (lipid-laden foamy macrophages) are characteristic of XGP. The text also mentions that the 'bear’s paw sign' is a diagnostic feature on CECT for this condition."
+  },
+  {
+    "question": "A 30-year-old male immigrant from a region where tuberculosis is endemic presents with urinary frequency and sterile pyuria in acidic urine. A CT urogram is performed to investigate for genitourinary tuberculosis (GUTB). The text describes several radiological sequelae of GUTB due to fibrosis. Which of the following describes a 'thimble bladder'?",
+    "options": [
+      "A. Extensive dystrophic calcification involving the entire kidney.",
+      "B. Multiple annular strictures along the length of the ureter, giving it a corkscrew appearance.",
+      "C. An extremely small capacity bladder owing to fibrosis.",
+      "D. A patulous, gaping ureteric orifice, described as a 'golf hole'.",
+      "E. Fibrosis at the renal pelvis causing the pelviureteric junction to be hiked up."
+    ],
+    "answer": "C",
+    "explanation": "The text provides a schematic and description of various sequelae of GUTB. It specifically defines 'Thimble bladder' as an 'extremely small capacity bladder owing to fibrosis' resulting from the disease process involving the bladder musculature."
+  },
+  {
+    "question": "A 28-year-old male presents with ureteric colic. A non-contrast CT scan confirms a 7 mm stone in the distal right ureter. The urologist decides to start medical expulsive therapy to facilitate spontaneous passage of the stone. Based on the text, which class of medication is used for this purpose, and what is its mechanism of action?",
+    "options": [
+      "A. A non-steroidal anti-inflammatory drug (NSAID) to reduce ureteric inflammation.",
+      "B. An opioid analgesic to manage pain and promote relaxation.",
+      "C. A diuretic to increase urine flow and push the stone out.",
+      "D. An α1-adrenergic adrenoreceptor blocker (e.g., tamsulosin) to cause smooth muscle relaxation of the distal ureter.",
+      "E. An anticholinergic agent to prevent ureteric spasms."
+    ],
+    "answer": "D",
+    "explanation": "The text describes medical expulsive therapy, stating: 'Tamsulosin is an α1-adrenergic adrenoreceptor blocker (α-blocker) that causes smooth muscle relaxation of the distal ureteric muscle. It can be used for distal ureteric stones larger than 5 mm'."
+  },
+  {
+    "question": "A 55-year-old male undergoes shockwave lithotripsy (SWL) for a large renal stone. A follow-up KUB radiograph shows a column of stone fragments gathered in the distal ureter. What is the German term used in the text to describe this specific complication of SWL?",
+    "options": [
+      "A. Randall's Plaque.",
+      "B. Steinstrasse.",
+      "C. Dietl's Crisis.",
+      "D. Wunderlich Syndrome.",
+      "E. Bear's Paw Sign."
+    ],
+    "answer": "B",
+    "explanation": "The text defines this complication: 'Steinstrasse is a German word meaning ‘street of stones’. It describes a row of closely gathered stone fragments that line the distal end of the ureter. This occurs when the stone burden is high or when the stones are hard.'"
+  },
+  {
+    "question": "A 60-year-old female presents with a solid renal mass detected incidentally on an ultrasound scan. A subsequent CECT scan confirms the mass. The patient undergoes a partial nephrectomy. Histopathology reveals a tumor composed of uniformly highly granular eosinophilic cytoplasm due to abundant mitochondria. The pathologist notes a central stellate scar. What is the most likely diagnosis of this benign tumor?",
+    "options": [
+      "A. Renal angiomyolipoma.",
+      "B. Renal cell carcinoma, clear cell type.",
+      "C. Juxtaglomerular cell tumor.",
+      "D. Renal oncocytoma.",
+      "E. Chromophobe renal cell carcinoma."
+    ],
+    "answer": "D",
+    "explanation": "The text describes a renal oncocytoma with characteristic features: 'It derives its name from its cellular appearance on histopathology, where uniformly highly granular eosinophilic cytoplasm owing to abundant mitochondria (oncocyte) is seen.' It also mentions 'the presence of central stellate scarring' as a characteristic radiological feature."
+  },
+  {
+    "question": "A 45-year-old female with tuberous sclerosis complex is found to have a 5 cm renal mass on a CT scan. The mass shows an intralesional fat density of –20 Hounsfield units (HU). What is the diagnosis, and what is the primary management concern for a lesion of this size, according to the text?",
+    "options": [
+      "A. Renal cell carcinoma; the primary concern is metastatic spread.",
+      "B. Renal oncocytoma; the primary concern is co-existence with RCC.",
+      "C. Renal angiomyolipoma; the primary concern is spontaneous acute hemorrhage.",
+      "D. Simple renal cyst; the primary concern is infection.",
+      "E. Juxtaglomerular cell tumor; the primary concern is uncontrolled hypertension."
+    ],
+    "answer": "C",
+    "explanation": "The presence of intralesional fat density is the 'hallmark' of a renal angiomyolipoma (AML). The text indicates that management depends on size and symptoms, and for larger lesions, the risk of 'Spontaneous acute haemorrhage' is a key concern, with interventions like partial nephrectomy or angioembolization considered for tumors >4 cm."
+  },
+  {
+    "question": "A patient with an overactive bladder is prescribed a β3-adrenoceptor agonist, such as mirabegron. What is the primary mechanism by which this class of drug is thought to exert its effect during the storage phase of the micturition cycle to improve bladder function?",
+    "options": [
+      "A. It causes contraction of the bladder outlet by stimulating α1-receptors.",
+      "B. It blocks acetylcholine release from parasympathetic nerves, preventing detrusor contraction.",
+      "C. It reduces bladder afferent activity and may downregulate acetylcholine release, thus relaxing the detrusor.",
+      "D. It directly anesthetizes the urothelium to reduce the sensation of urgency.",
+      "E. It increases the viscoelastic properties of the bladder wall."
+    ],
+    "answer": "C",
+    "explanation": "The text explains the mechanism of β3-agonists: 'Similar to antimuscarinics, the β3-agonists are thought to exert their principal effects during the storage phase of the micturition cycle by reducing bladder aferent activity. It is also thought that activation of β3-adrenoceptors may downregulate acetylcholine release, resulting in inhibition of parasympathetic activity.'"
+  },
+  {
+    "question": "A 6-year-old boy presents with enuresis. His parents report that he has never achieved a consistent period of nighttime dryness. He has no daytime urinary symptoms. According to the text, what is the correct terminology for this specific type of enuresis?",
+    "options": [
+      "A. Non-monosymptomatic enuresis (NMSE).",
+      "B. Secondary monosymptomatic enuresis (MSE).",
+      "C. Primary monosymptomatic enuresis (MSE).",
+      "D. Functional incontinence.",
+      "E. Congenital neuropathic bladder."
+    ],
+    "answer": "C",
+    "explanation": "The text defines the different types of enuresis. 'Monosymptomatic enuresis (MSE) is defined as enuresis without any other urinary symptoms; primary MSE describes those who have never achieved night-time continence'."
+  },
+  {
+    "question": "A 35-year-old woman with recurrent stress urinary incontinence (SUI) undergoes video urodynamic studies. The findings show that her bladder neck is closed and situated above the inferior margin of the pubic symphysis at rest. However, on coughing, there is a descent of more than 2 cm, the bladder neck opens with visible leakage, and a cystocele is present. According to the Blaivas-Olsson classification provided in the text, what type of SUI does this patient have?",
+    "options": [
+      "A. Type 0",
+      "B. Type I",
+      "C. Type IIA",
+      "D. Type IIB",
+      "E. Type 3"
+    ],
+    "answer": "C",
+    "explanation": "The table for the Blaivas–Olsson classification defines Type IIA SUI as: 'At rest: Bladder neck closed, Situated above the inferior margin of the pubic symphysis. On stress: Descent more than 2 cm, bladder neck open and leak seen. Cystocele seen.' These features exactly match the patient's urodynamic findings."
+  },
+  {
+    "question": "A 65-year-old male who underwent a radical prostatectomy for prostate cancer 2 years ago now suffers from severe stress urinary incontinence. He has failed conservative management. The urologist recommends the gold standard surgical treatment for this condition. According to the text, what is this procedure, and what are its three main components?",
+    "options": [
+      "A. Male transobturator suburethral sling; it consists of a mesh, a trocar, and a perineal incision.",
+      "B. Artificial urinary sphincter (AUS); it consists of a cuff placed around the urethra, a pressure-regulating balloon, and a control pump in the scrotum.",
+      "C. Colposuspension; it consists of sutures, the iliopectineal ligament, and a Pfannenstiel incision.",
+      "D. Intraurethral injection therapy; it consists of a bulking agent, a cystoscope, and a needle.",
+      "E. Augmentation enterocystoplasty; it consists of an ileal segment, the bivalved bladder, and a suprapubic catheter."
+    ],
+    "answer": "B",
+    "explanation": "The text states that for severe SUI in men, 'the AUS is the gold standard treatment.' It then describes the device: 'This three-piece device consists of a cuf that is placed around the urethra at the level of the bladder neck, a pressure-regulating balloon placed in the extraperitoneal space and a control pump placed in the labia majora (or scrotum in males).'"
+  },
+  {
+    "question": "A patient with refractory overactive bladder (OAB) undergoes sacral nerve stimulation (SNS). During the first stage of the procedure, a lead is inserted percutaneously into the S3 foramen. What specific motor responses, observed by the clinician, confirm the correct placement of the lead for stimulating the sacral nerve?",
+    "options": [
+      "A. Contraction of the abdominal muscles and hip flexion.",
+      "B. Dorsiflexion of the foot and eversion of the ankle.",
+      "C. Plantarflexion of the great toe and inward movement of the intergluteal fold.",
+      "D. Contraction of the quadriceps muscle and extension of the knee.",
+      "E. Shrugging of the shoulders and turning of the head."
+    ],
+    "answer": "C",
+    "explanation": "The text describes the procedure for SNS: 'correct lead placement is identified by the typical motor responses of plantarfexion of the great toe and inward movement of the intergluteal fold due to contraction of the levator ani (anal reflex).'"
+  },
+  {
+    "question": "A patient with end-stage bladder pain syndrome and a small, fibrotic bladder undergoes an augmentation enterocystoplasty. What is the most common segment of the gastrointestinal tract used for this procedure, and what is the surgical technique to create a low-pressure reservoir?",
+    "options": [
+      "A. A 10 cm segment of sigmoid colon is used and anastomosed as a tube.",
+      "B. A 25 cm segment of ileum is isolated, opened along its antimesenteric border (detubularized), and attached to the bivalved bladder.",
+      "C. A segment of the stomach is used and folded into a sphere.",
+      "D. The appendix is used to create a channel to the skin.",
+      "E. A segment of jejunum is isolated and kept tubular to promote peristalsis."
+    ],
+    "answer": "B",
+    "explanation": "The text details the procedure: 'ileocystoplasty is the most common. A 25-cm segment of ileum is isolated, opened along its antimesenteric border and attached to the bivalved bladder, thereby increasing the bladder capacity.' Opening the segment (detubularization) is key to disrupting peristalsis and creating a low-pressure reservoir."
+  },
+  {
+    "question": "A patient with a T6 spinal cord injury develops a severe headache, flushing and sweating above the level of the lesion, and marked hypertension with bradycardia. The nurse suspects autonomic dysreflexia. The stimulus is identified as a distended bladder from a blocked catheter. What is the pathophysiological reason for the combination of hypertension below the lesion and bradycardia with vasodilation above the lesion?",
+    "options": [
+      "A. The parasympathetic response is blocked at the brainstem, while the sympathetic response remains intact throughout the spinal cord.",
+      "B. An unopposed sympathetic response below the lesion causes vasoconstriction and hypertension, while the resulting central parasympathetic surge can only cause bradycardia and vasodilation above the level of the spinal cord lesion.",
+      "C. The sympathetic response is completely blocked, leading to vasodilation, while a paradoxical parasympathetic surge causes hypertension.",
+      "D. The noxious stimulus triggers a massive release of acetylcholine throughout the body, causing all the observed symptoms.",
+      "E. The spinal cord lesion causes a direct release of catecholamines from the adrenal medulla, leading to a disorganized systemic response."
+    ],
+    "answer": "B",
+    "explanation": "The text provides a detailed explanation: 'Nociceptive aferents elicit refex sympathetic outfow, resulting in...vasoconstriction, leading to hypertension. The peripheral vasoconstriction activates baroreceptors, which results in a parasympathetic surge...The resulting vagal outfow causes bradycardia, but this parasympathetic signal is unable to transmit below the level of the spinal cord lesion. This leads to bradycardia, vasodilatation and fushing above the level of the lesion, but hypertension...below the level of the lesion.'"
+  },
+  {
+    "question": "A 45-year-old woman develops continuous urinary leakage from her vagina two weeks after an abdominal hysterectomy. A vesicovaginal fistula (VVF) is suspected. The clinician performs a 'three-swab' test. Three swabs are placed in the vagina, blue dye is instilled into the bladder, and then the swabs are removed. Staining of the most proximal or middle swab (swabs 1 or 2) with blue dye would be suggestive of what condition?",
+    "options": [
+      "A. A ureterovaginal fistula.",
+      "B. A vesicovaginal fistula (VVF).",
+      "C. A urethra-vaginal fistula.",
+      "D. Severe stress urinary incontinence.",
+      "E. A rectovaginal fistula."
+    ],
+    "answer": "B",
+    "explanation": "The text describes the interpretation of the three-swab test: 'Blue staining of swab 1 or 2 suggests VVF whereas blue staining of swab 3 suggests a urethra–vaginal fistula or SUI. If swab 1 is wet but not stained blue, this suggests the presence of a ureterovaginal fistula.'"
+  },
+  {
+    "question": "An 80-year-old male with benign prostatic hyperplasia (BPH) is in acute urinary retention. Urethral catheterization is unsuccessful. A suprapubic catheter (SPC) is to be inserted using the Seldinger technique. What is a critical contraindication to percutaneous SPC insertion that would necessitate an open cystotomy instead?",
+    "options": [
+      "A. The patient having a full, palpable bladder.",
+      "B. The presence of mild hematuria.",
+      "C. A history of previous extensive abdominal or pelvic surgery where bowel may be adherent to the anterior abdominal wall.",
+      "D. The patient being on prophylactic low-dose aspirin.",
+      "E. The presence of a small urethral stricture."
+    ],
+    "answer": "C",
+    "explanation": "The text highlights the risks and technique of SPC insertion. It notes that it 'carries a small but significant risk of bowel injury, especially in those who have undergone previous abdominal or pelvic surgery'. It further states, 'If the bladder cannot be confidently identified, or in those with extensive abdominal or pelvic surgery, an open cystotomy should be performed to safely enter the bladder and ensure that there is no bowel in the path of the catheter.'"
+  },
+  {
+    "question": "A 70-year-old man from a rural area in a developing country presents with recurrent urinary infections and is found to have a large bladder stone. What is the most likely composition of this secondary bladder stone, which is typically smooth and yellow-brown, and what is the primary underlying cause for its formation?",
+    "options": [
+      "A. Triple phosphate (struvite), caused by urease-producing bacteria.",
+      "B. Ammonium urate, caused by primary nutritional deficiencies.",
+      "C. Uric acid, caused by urinary stasis from bladder outlet obstruction.",
+      "D. Calcium oxalate, which has migrated from the upper urinary tract.",
+      "E. Cystine, caused by an inherited metabolic disorder."
+    ],
+    "answer": "C",
+    "explanation": "The text differentiates stone types. It states that secondary stones, which are most commonly related to urinary stasis from bladder outlet obstruction, 'are typically smooth and yellow-brown in colour and are composed of uric acid.' Primary endemic stones in children are ammonium urate, and infection-related stones are triple phosphate."
+  },
+  {
+    "question": "A 45-year-old woman presents with recurrent UTIs. She is postmenopausal and has no other urinary tract abnormalities. According to the text, what non-antimicrobial measure can be considered specifically for postmenopausal women to prevent future UTIs?",
+    "options": [
+      "A. Increased fluid intake.",
+      "B. Probiotics.",
+      "C. Methenamine hippurate.",
+      "D. d-mannose.",
+      "E. Vaginal oestrogen therapy."
+    ],
+    "answer": "E",
+    "explanation": "The text lists several non-antimicrobial measures for UTI prevention. It specifically mentions 'vaginal oestrogen therapy for postmenopausal women' as one of the options to be considered after treating an acute episode."
+  },
+  {
+    "question": "A patient is diagnosed with bladder pain syndrome/interstitial cystitis (BPS/IC). On cystoscopy, characteristic inflammatory lesions are seen. These lesions are named after the American surgeon who first described them in 1915. What are these lesions called?",
+    "options": [
+      "A. Waldeyer's lesions.",
+      "B. Hutch's lesions.",
+      "C. Hunner's lesions.",
+      "D. Cooper's lesions.",
+      "E. Seldinger's lesions."
+    ],
+    "answer": "C",
+    "explanation": "The text states that interstitial cystitis represents a distinct phenotype 'with characteristic cystoscopic and histopathological features'. It later clarifies, 'In those with Hunner lesions, bladder biopsy shows a chronic pancystitis'. The footnote credits Guy Hunner for describing these lesions."
+  },
+  {
+    "question": "A 68-year-old male smoker with a history of working in the rubber industry is diagnosed with a high-risk non-muscle-invasive bladder cancer (NMIBC) classified as a high-grade T1 tumor with concomitant carcinoma in situ. Following a complete TURBT, what intravesical therapy is recommended to reduce the risk of tumor progression to muscle-invasive disease?",
+    "options": [
+      "A. A single postoperative instillation of mitomycin C.",
+      "B. A 6-week course of intravesical mitomycin C.",
+      "C. Intravesical bacillus Calmette-Guérin (BCG) immunotherapy.",
+      "D. Intravesical gemcitabine.",
+      "E. Intravesical GAG-layer replacement therapy."
+    ],
+    "answer": "C",
+    "explanation": "The text outlines the risk-stratified management of NMIBC. For high-risk tumors (multifocal high-grade T1 with CIS), it states 'an alternative is intravesical bacillus Calmette–Guérin (BCG) to reduce the risk of tumour progression.'"
+  },
+  {
+    "question": "A 70-year-old male with muscle-invasive bladder cancer undergoes a radical cystectomy with the creation of an orthotopic neobladder (Studer pouch). This procedure aims to provide a continent, low-pressure reservoir anastomosed to the patient's native urethra. How does this pouch empty, and what percentage of patients may require clean intermittent self-catheterization (CISC) to ensure complete emptying?",
+    "options": [
+      "A. The pouch contracts spontaneously; 0% require CISC.",
+      "B. The pouch is emptied by manual compression of the lower abdomen; 5% require CISC.",
+      "C. The pouch empties by relaxing the pelvic floor and straining; 15-30% may require CISC.",
+      "D. A permanent catheter is required to drain the pouch; 100% require CISC.",
+      "E. The pouch empties via peristaltic waves; 50% require CISC."
+    ],
+    "answer": "C",
+    "explanation": "The description of the orthotopic bladder (Studer pouch) in the text specifies the mechanism of voiding: 'Patients can void by relaxing the pelvic floor and straining, but CISC may be required to completely empty the pouch in 15–30%.'"
+  },
+  {
+    "question": "A 25-year-old male is involved in a high-speed motor vehicle accident and sustains a pelvic fracture. He presents with suprapubic pain, inability to void, and hematuria. A CT cystogram reveals contrast extravasation confined to the retropubic space, consistent with an extraperitoneal bladder rupture. The patient is hemodynamically stable and has no other indications for laparotomy. What is the standard management for this injury?",
+    "options": [
+      "A. Immediate open surgical repair of the bladder.",
+      "B. Laparoscopic repair of the bladder.",
+      "C. Urethral catheterisation with free bladder drainage for 10–14 days.",
+      "D. Placement of a suprapubic catheter only.",
+      "E. Observation without catheterization, with serial ultrasounds."
+    ],
+    "answer": "C",
+    "explanation": "The text clearly outlines the management for this type of injury: 'The management of extraperitoneal rupture consists of urethral catheterisation with free bladder drainage for 10–14 days, followed by a cystogram to ensure that the injury has healed prior to removal of the catheter.'"
+  },
+  {
+    "question": "A 75-year-old male with symptomatic benign prostatic hyperplasia (BPH) presents to his urologist. The text explains that BPH pathology typically affects specific glandular zones within the prostate. Which zone's glands are typically affected, and what is the resulting anatomical change that compresses the peripheral zone?",
+    "options": [
+      "A. The peripheral zone glands are primarily affected, leading to a small, fibrotic prostate.",
+      "B. The central zone glands are primarily affected, leading to the formation of a false capsule around the transitional zone.",
+      "C. The submucous glands in the transitional zone are affected, forming a nodular enlargement that compresses the peripheral glands into a false capsule.",
+      "D. The anterior fibromuscular stroma is affected, leading to a uniform, non-nodular enlargement.",
+      "E. Glands in the seminal vesicles are affected, causing posterior compression of the prostate."
+    ],
+    "answer": "C",
+    "explanation": "The text states: 'BPH typically afects the submucous group of glands in the transitional zone, forming a nodular enlargement. Eventually, this overgrowth compresses the peripheral zone glands into a false capsule and causes the appearance of the typical ‘lateral’ lobes.'"
+  },
+  {
+    "question": "A urologist is performing a transanal total mesorectal excision (taTME) for a low rectal cancer. This procedure involves a 'bottom-up' approach to the TME dissection. According to the text, what recent concerns have been raised regarding this technique, highlighting the critical importance of adequate training and case selection?",
+    "options": [
+      "A. A significantly higher rate of positive circumferential resection margins compared to laparoscopic TME.",
+      "B. An increased incidence of urethral injuries and the development of multifocal local recurrences.",
+      "C. A longer hospital stay and more postoperative pain than open surgery.",
+      "D. The inability to achieve a high ligation of the vascular pedicle.",
+      "E. A higher rate of conversion to open surgery in more than 50% of cases."
+    ],
+    "answer": "B",
+    "explanation": "While noting the initial promising results, the text raises specific safety issues: 'However, concerns have been raised regarding the increased incidence of urethral injuries and the development of multifocal local recurrences. These concerns highlight the critical importance of adequate taTME training, proper case selection, and proctorship...'"
+  },
+  {
+    "question": "A 32-year-old woman, 8 weeks postpartum after a complicated vaginal delivery, presents with fecal incontinence. An endoanal ultrasound (EAUS) is performed, which reveals a defect in both the internal and external anal sphincter fibers. If surgical repair is considered, the text describes a technique popularized by Parks. What is the fundamental principle of this direct sphincter repair?",
+    "options": [
+      "A. Injecting a bulking agent to augment the remaining sphincter muscle.",
+      "B. Transposing the gracilis muscle to create a neosphincter.",
+      "C. Finding the ends of the divided muscle and reuniting them by an overlap repair.",
+      "D. Placing a cutting seton to gradually divide the scarred tissue.",
+      "E. Implanting a sacral nerve stimulator to improve nerve function."
+    ],
+    "answer": "C",
+    "explanation": "The text describes surgical options for sphincteric incontinence: 'In situations where conservative treatment has failed, and where a discrete disruption of the sphincters exists, the ends of the divided muscle are found and reunited by an overlap repair (Parks).'"
+  },
+  {
+    "question": "A 50-year-old man presents with a long history of intermittent rectal bleeding. A colonoscopy is performed and a large, circumferential rectal lesion with a characteristic frond-like appearance is identified. Biopsy confirms it is a villous adenoma. According to the text, what are the two main clinical concerns associated with this specific type of rectal polyp?",
+    "options": [
+      "A. A high risk of spontaneous perforation and an association with juvenile polyposis syndrome.",
+      "B. An increased tendency to become malignant and the rare potential to cause significant electrolyte and fluid losses through profuse mucus discharge.",
+      "C. A tendency to cause severe proctalgia fugax and an association with hyperplastic polyposis syndrome.",
+      "D. A strong association with inflammatory bowel disease and a tendency to cause rectal intussusception.",
+      "E. Virtually no malignant potential and a tendency to spontaneously separate from the rectal wall."
+    ],
+    "answer": "B",
+    "explanation": "The text specifically describes villous adenomas, noting their 'characteristic frond-like appearance.' It then highlights two key features: 'These tumours have an increased tendency to become malignant. Rarely, the profuse mucus discharge from these tumours, which is rich in potassium, causes electrolyte and fuid losses.'"
+  },
+  {
+    "question": "A 22-year-old male is diagnosed with testicular cancer. Serum tumor markers are measured as part of his initial workup and for subsequent management. Which three serum markers are routinely used in the management of testicular cancer, as listed in the provided text?",
+    "options": [
+      "A. Prostate-specific antigen (PSA), carcinoembryonic antigen (CEA), and cancer antigen 125 (CA-125).",
+      "B. Alpha-fetoprotein (αFP), beta-human chorionic gonadotropin (βHCG), and lactate dehydrogenase (LDH).",
+      "C. Alkaline phosphatase, creatinine, and urea.",
+      "D. Cancer antigen 19-9 (CA 19-9), neuron-specific enolase (NSE), and chromogranin A.",
+      "E. Free PSA, complexed PSA, and PSA density."
+    ],
+    "answer": "B",
+    "explanation": "In the section on tumor markers, the text states: 'Serum tumour markers routinely used in the management of men with suspected testicular cancer are alpha-fetoprotein (αFP), beta-human chorionic gonadotropin (βHCG) and lactate dehydrogenase (LDH).'"
+  },
+  {
+    "question": "A 66-year-old male with suspected prostate cancer undergoes a multiparametric MRI (mpMRI) of the prostate. The scan combines anatomical and functional imaging to assign a likelihood of malignancy. What are the three functional and anatomical components of an mpMRI scan described in the text that are used for this assessment?",
+    "options": [
+      "A. T1-weighted images, T2-weighted images, and a CT component.",
+      "B. Ultrasound imaging, Doppler flow imaging, and elastography.",
+      "C. T1- and T2-weighted images (anatomical), diffusion-weighted imaging (DWI), and dynamic contrast-enhanced (DCE) imaging (functional).",
+      "D. A PET scan component, a SPECT scan component, and T1-weighted images.",
+      "E. A bone scan component, plain radiography, and T2-weighted images."
+    ],
+    "answer": "C",
+    "explanation": "The text details the components of mpMRI: 'Anatomical imaging is based on standard MRI techniques (T1- and T2-weighted images) and functional imaging is based on difusion-weighted imaging (DWI) (for water molecule motion assessment) and dynamic contrast-enhanced (DCE) imaging (for tissue perfusion assessment after intravenous contrast administration).'"
+  },
+  {
+    "question": "An elderly patient with chronic renal failure on long-term hemodialysis is noted to have developed multiple bilateral renal cysts on a surveillance ultrasound. According to the text, what is this condition called, and what is the associated long-term risk for these patients?",
+    "options": [
+      "A. Autosomal dominant polycystic kidney disease (ADPKD), with a high risk of intracranial aneurysms.",
+      "B. Multicystic dysplastic kidney (MCDK), with a high risk of spontaneous involution.",
+      "C. Acquired renal cystic disease (ARCD), with a one-fifth risk of developing renal cancers on follow-up.",
+      "D. Simple renal cysts (Bosniak I), with virtually no risk of malignancy.",
+      "E. Medullary sponge kidney, with a high risk of renal calculi formation."
+    ],
+    "answer": "C",
+    "explanation": "The text describes this specific condition: 'Most patients on haemodialysis develop bilateral renal cysts after 10 years. On follow-up one-ffth of these patients with acquired renal cystic disease (ARCD) develop renal cancers.'"
+  },
+  {
+    "question": "A 3-year-old child presents with a febrile urinary tract infection. A voiding cystourethrogram (VCUG) is performed, which demonstrates reflux of contrast into a moderately dilated ureter and pelvicalyceal system, with mild forniceal blunting of the calyces but visible papillary impressions. Based on the international classification system for vesicoureteric reflux (VUR) provided in the text, what grade of VUR does this child have?",
+    "options": [
+      "A. Grade 1",
+      "B. Grade 2",
+      "C. Grade 3",
+      "D. Grade 4",
+      "E. Grade 5"
+    ],
+    "answer": "C",
+    "explanation": "The provided text and figure describe the grades of VUR. Grade 3 is defined as 'reflux causing mild to moderate dilatation of the ureter, renal pelvis and mild forniceal blunting of the calyces', which matches the description in the question."
+  },
+  {
+    "question": "A 25-year-old male sustains a penetrating injury to his buttock. He is taken to the operating theatre for examination under anaesthesia. A penetrating injury to the rectum below the peritoneal reflection is confirmed. According to the principles of treatment outlined in the text, what is the appropriate surgical management for this type of injury?",
+    "options": [
+      "A. The perforation should be closed with sutures, and the patient observed without a stoma.",
+      "B. A Hartmann's procedure is always required, regardless of the injury's extent.",
+      "C. Wide drainage from below is indicated, with rectal washout and a defunctioning colostomy.",
+      "D. Primary repair of the rectum without drainage or colostomy.",
+      "E. Laparoscopy is contraindicated, and immediate laparotomy for resection is mandatory."
+    ],
+    "answer": "C",
+    "explanation": "The text differentiates the treatment based on the location of the rectal injury. For an injury 'below the peritoneal reflection', it specifies that 'wide drainage from below is indicated, with rectal washout and a defunctioning colostomy.'"
+  },
+  {
+    "question": "A 70-year-old man with benign prostatic hyperplasia has significant voiding LUTS. He is prescribed an α1-adrenoceptor antagonist like tamsulosin. What is the mechanism of action by which this medication improves his symptoms?",
+    "options": [
+      "A. It reduces the size of the prostate gland by inhibiting 5α-reductase.",
+      "B. It relaxes the detrusor muscle by acting as a β3-agonist.",
+      "C. It inhibits sympathetic-mediated contraction of the bladder base, bladder neck, and proximal urethra, thereby reducing outlet resistance.",
+      "D. It blocks parasympathetic activity via M3 receptors to decrease bladder contractility.",
+      "E. It has a direct anesthetic effect on the prostatic urethra."
+    ],
+    "answer": "C",
+    "explanation": "The text explains the mechanism of α1-antagonists: 'The α1-receptors are densely prevalent at the bladder base, bladder neck and proximal urethra in males, and antagonism of these receptors inhibits sympathetic-mediated contraction of the bladder outlet, thereby reducing outlet resistance.'"
+  },
+  {
+    "question": "A 68-year-old male with a long-standing history of lower urinary tract symptoms (LUTS) presents with overflow incontinence and is found to have high-pressure chronic retention with bilateral hydronephrosis. According to the provided text, what is the primary pathophysiological mechanism that leads to the functional obstruction of the upper urinary tract in this condition?",
+    "options": [
+      "A. Direct compression of the ureteric orifices by an enlarged prostate median lobe.",
+      "B. Increased intramural tension in the bladder wall from a combination of large residual volume and high filling pressures.",
+      "C. Development of vesicoureteral reflux secondary to bladder trabeculation and diverticula formation.",
+      "D. Neurogenic bladder dysfunction causing ureteric dyssynergia and functional obstruction."
+    ],
+    "answer": "B",
+    "explanation": "The text states that in patients with a residual volume over approximately 250 mL, 'the tension in the bladder wall increases owing to the combination of a large volume of residual urine and increased resting and flling bladder pressures (a condition known as high-pressure chronic retention). The increased intramural tension results in functional obstruction of the upper urinary tract with the development of bilateral hydronephrosis.'"
+  },
+  {
+    "question": "A 72-year-old man is undergoing evaluation for LUTS. His International Prostate Symptom Score (IPSS) is severe. A urinary flow rate measurement is performed, showing a peak flow rate of 8 mL/s with a voided volume of 220 mL. Which of the following conditions, besides Bladder Outflow Obstruction (BOO), can also cause such a low measured peak flow rate, making it not absolutely diagnostic of BOO on its own?",
+    "options": [
+      "A. High voiding pressures greater than 80 cmH2O.",
+      "B. A very large prostate volume greater than 80 mL on rectal examination.",
+      "C. Weak detrusor contractions or low voided volumes due to instability.",
+      "D. Postmicturition dribbling due to retained urine in the urethra."
+    ],
+    "answer": "C",
+    "explanation": "The text explicitly states, 'Even low measured peak fow rates (<10–12 mL/s) are not absolutely diagnostic because, in addition to BOO, weak detrusor contractions or low voided volumes (owing to instability) can be the cause.'"
+  },
+  {
+    "question": "A 65-year-old male undergoes a transurethral resection of the prostate (TURP). During preoperative counseling, he is concerned about the potential side effects. What is the approximate percentage of men who experience retrograde ejaculation or anejaculation after a prostatectomy, according to the provided medical text?",
+    "options": [
+      "A. 5-10%",
+      "B. 15-20%",
+      "C. 25-35%",
+      "D. 65-85%"
+    ],
+    "answer": "D",
+    "explanation": "The text specifies under the section 'Counselling men undergoing prostatectomy' that 'Retrograde ejaculation or anejaculation. This occurs in about 65–85% of men after prostatectomy.'"
+  },
+  {
+    "question": "During a TURP procedure on a patient with a very large prostate gland, the surgeon is using a monopolar resectoscope with 1% glycine as the irrigant. The procedure has been ongoing for 55 minutes. What is the primary reason the surgeon should aim to complete the resection within 1 hour when using this specific setup?",
+    "options": [
+      "A. To prevent perforation of the prostatic capsule.",
+      "B. To minimize the risk of secondary hemorrhage days after the procedure.",
+      "C. To avoid the risk of resorption of water and subsequent water intoxication.",
+      "D. To reduce the incidence of postoperative urethral stricture."
+    ],
+    "answer": "C",
+    "explanation": "The text explains, 'The duration of resection for monopolar TURP is limited to 1 hour due to the risk of resorption of water if 1% glycine is used as an irrigant.' This can lead to congestive cardiac failure, hyponatraemia, and haemolysis, a condition known as water intoxication or TURP syndrome."
+  },
+  {
+    "question": "A 55-year-old man presents with LUTS and a rectal examination reveals a smooth, enlarged prostate. His serum PSA is 7 ng/L. According to the text, what additional PSA-related measurement and subsequent imaging modality should be considered to increase the suspicion of malignancy in this scenario?",
+    "options": [
+      "A. A PSA velocity >0.75 ng/mL/year, followed by a bone scan.",
+      "B. A free-to-total PSA ratio of less than 15%, followed by a multiparametric MRI (mpMRI).",
+      "C. A PSA density >0.15 ng/mL/g, followed by a transrectal ultrasound (TRUS).",
+      "D. A repeat PSA after a course of antibiotics, followed by a CT urogram."
+    ],
+    "answer": "B",
+    "explanation": "The text states, 'If the PSA range is 4–10 ng/L, a free-to-total PSA ratio of less than 15% should be suspicious of malignancy. Multiparametric magnetic resonance imaging (mpMRI) should be done, which may show a suspicious index lesion.'"
+  },
+  {
+    "question": "A pathologist is examining a prostate biopsy from a 70-year-old man. The report describes the two most common histological patterns as Gleason grade 4 and Gleason grade 3. According to the International Society of Urological Pathology (ISUP) grading system described in the text, what would be the final Gleason score and the corresponding Grade Group for this patient?",
+    "options": [
+      "A. Gleason score 7 (4+3), Grade Group 2",
+      "B. Gleason score 7 (3+4), Grade Group 2",
+      "C. Gleason score 7 (4+3), Grade Group 3",
+      "D. Gleason score 7 (3+4), Grade Group 3"
+    ],
+    "answer": "C",
+    "explanation": "The text clarifies the ISUP system: the scores of the two most common patterns are added to give the Gleason score. For a score of 7, the primary pattern determines the grade group. The text specifies 'Grade group 2 = Gleason score 3 + 4 = 7' and 'Grade group 3 = Gleason score 4 + 3 = 7'. Since the most common pattern is grade 4, the Gleason score is 7(4+3) and it falls into Grade Group 3."
+  },
+  {
+    "question": "A 48-year-old male presents with severe LUTS. He has no significant past medical history. A urodynamic study is performed to make a definitive diagnosis of bladder outflow obstruction (BOO). Which combination of findings from the pressure-flow study would be diagnostic of BOO?",
+    "options": [
+      "A. High urinary flow rate (>15 mL/s) and low voiding pressures (<60 cmH2O).",
+      "B. Low urinary flow rate (<10 mL/s) and high voiding pressures (>80 cmH2O).",
+      "C. Low urinary flow rate (<10 mL/s) and low voiding pressures (<60 cmH2O).",
+      "D. High urinary flow rate (>15 mL/s) and high voiding pressures (>80 cmH2O)."
+    ],
+    "answer": "B",
+    "explanation": "The text defines BOO as a urodynamic concept based on 'the combination of low fow rates in the presence of high voiding pressures'. It further quantifies these values, stating a peak flow rate <10 mL/s is low and voiding pressures >80 cmH2O are high, with a provided trace showing this combination is 'diagnostic of bladder outfow obstruction.'"
+  },
+  {
+    "question": "A male infant is diagnosed antenatally with a distended bladder, dilated prostatic urethra, and hydroureteronephrosis. Postnatally, a voiding cystourethrogram (VCUG) confirms the diagnosis of posterior urethral valves. What is a characteristic feature of these valves that allows for a specific diagnostic/therapeutic maneuver to be performed without difficulty?",
+    "options": [
+      "A. The valves are located proximal to the verumontanum, making them easy to visualize.",
+      "B. They function as flap valves, allowing a urethral catheter to be passed retrogradely without difficulty.",
+      "C. The valves cause a complete obstruction, preventing any antegrade or retrograde flow.",
+      "D. They are composed of thick, fibrotic tissue that resists endoscopic ablation."
+    ],
+    "answer": "B",
+    "explanation": "The text describes posterior urethral valves and notes a key feature: 'They function as fap valves; although they are obstructive to antegrade urinary fow, a urethral catheter can be passed retrogradely without any difculty.'"
+  },
+  {
+    "question": "A 40-year-old man sustains a pelvic fracture in a road traffic accident and is diagnosed with a complete posterior urethral injury at the bulbomembranous junction. Following initial management with a suprapubic cystostomy, what is the definitive surgical treatment of choice and the recommended timing for this procedure?",
+    "options": [
+      "A. Immediate endoscopic realignment within 24 hours to minimize stricture formation.",
+      "B. Primary anastomotic urethroplasty within the first week to restore continuity.",
+      "C. Urethral dilatation with serial plastic dilators starting at 2 weeks post-injury.",
+      "D. Delayed anastomotic urethroplasty performed after 3–6 months."
+    ],
+    "answer": "D",
+    "explanation": "For pelvic fracture urethral injuries, the text states, 'Delayed anastomotic urethroplasty is the treatment of choice and is performed after 3–6 months. It is a highly challenging procedure and should be undertaken at specialist centres where the surgery has higher success rates.'"
+  },
+  {
+    "question": "A 25-year-old man presents with a poor urinary stream. Investigations reveal a long penile urethral stricture. Histology of a biopsy from the meatus confirms Lichen Sclerosus (LS). For this type of long, non-traumatic stricture, what is the preferred surgical repair technique and the usual choice of graft material?",
+    "options": [
+      "A. Anastomotic urethroplasty with excision of the strictured segment.",
+      "B. Direct visual internal urethrotomy (DVIU) using a cold knife.",
+      "C. Augmentation urethroplasty using buccal mucosa as a patch graft.",
+      "D. Serial urethral dilatation over a guidewire using plastic dilators."
+    ],
+    "answer": "C",
+    "explanation": "The text specifies that 'Augmentation urethroplasty is performed for non-traumatic and long strictures.' It further elaborates, 'The usual choice of patch material for augmentation urethroplasty is buccal mucosa.'"
+  },
+  {
+    "question": "A 30-year-old male presents with a painful, persistent erection for the last 6 hours, not associated with sexual stimulation. The glans penis and corpus spongiosum are noted to be soft and uninvolved. A blood gas analysis from the corpora cavernosa is performed. Which set of findings would be characteristic of ischaemic (veno-occlusive) priapism?",
+    "options": [
+      "A. Hypoxia, hypercapnia, and acidosis.",
+      "B. Normal oxygen, normal carbon dioxide, and normal pH.",
+      "C. Hyperoxia, hypocapnia, and alkalosis.",
+      "D. Hypoxia, hypocapnia, and normal pH."
+    ],
+    "answer": "A",
+    "explanation": "In the section on ischaemic priapism, the text clearly states the diagnostic findings from a penile blood sample: 'Blood taken from the penis shows hypoxia, hypercapnia and acidosis, while Doppler scanning shows an absence of blood fow within the penis.'"
+  },
+  {
+    "question": "A 55-year-old man is diagnosed with Peyronie's disease, presenting with a palpable dorsal plaque and significant penile curvature that prevents intercourse. He is in the stable phase of the disease. His penile length is considered adequate. What surgical technique involves plication on the side opposite to the maximum curvature to correct the deformity?",
+    "options": [
+      "A. Plaque incision with a bovine pericardial patch graft.",
+      "B. Intralesional injection of collagenase clostridium histolyticum.",
+      "C. Nesbit's technique or a 16-dot technique.",
+      "D. Implantation of a semi-rigid penile prosthesis."
+    ],
+    "answer": "C",
+    "explanation": "The text describes surgical correction options for Peyronie's disease: 'If the penis is of adequate length, it is possible to plicate the tunica albuginea on the side opposite to the maximum curvature. The plication can be done by Nesbit’s technique or a 16-dot technique.'"
+  },
+  {
+    "question": "A 1-year-old boy is brought in for evaluation of an undescended testis. On examination in a warm room, the left testis is palpable high in the inguinal region and cannot be gently milked down to the bottom of the scrotum. The scrotum on the left side appears underdeveloped. Based on the consequences of this condition, what is the approximate risk of developing testicular cancer if an orchidopexy is performed before puberty, compared to the general population?",
+    "options": [
+      "A. The risk is the same as the general population.",
+      "B. The risk is two to three times that of the general population.",
+      "C. The risk is five to six times that of the general population.",
+      "D. The risk is more than ten times that of the general population."
+    ],
+    "answer": "B",
+    "explanation": "Under the 'Malignancy' subsection for undescended testis, the text states: 'Overall, the risk of testicular cancer if orchidopexy is done before puberty is around two to three times that of the general population. It is fve to six times higher when orchidopexy is done after puberty.'"
+  },
+  {
+    "question": "A 16-year-old male presents to the emergency department with a 4-hour history of sudden, severe left testicular pain and swelling. On examination, the left testis is high-riding, exquisitely tender, and the cremasteric reflex is absent. What is the underlying anatomical abnormality that most commonly predisposes adolescents to this intravaginal type of testicular torsion?",
+    "options": [
+      "A. A patent processus vaginalis allowing excessive testicular mobility.",
+      "B. A short spermatic cord that twists easily with cremasteric contraction.",
+      "C. High investment of the tunica vaginalis, causing the testis to hang like a 'clapper in a bell'.",
+      "D. An enlarged appendix of the testis that acts as a lead point for torsion."
+    ],
+    "answer": "C",
+    "explanation": "The text describes the pathophysiology of intravaginal torsion, stating it occurs as a result of a combination of factors, the most common of which in adolescents is: 'High investment of the tunica vaginalis, causing the testis to hang within the tunica like a clapper in a bell. This is the most common cause in adolescents and is typically a bilateral abnormality.'"
+  },
+  {
+    "question": "A 28-year-old man undergoing an infertility workup is found to have a grade 3 left-sided varicocele. Semen analysis shows a low sperm count. What is the most widely accepted theory explaining how a varicocele leads to impaired sperm parameters and potential testicular atrophy?",
+    "options": [
+      "A. Reflux of adrenal metabolites down the testicular vein, which are toxic to spermatogenesis.",
+      "B. Increased hydrostatic pressure within the testis, leading to compression of seminiferous tubules.",
+      "C. Chronic hypoxia of the testicular parenchyma due to venous stasis.",
+      "D. Increased blood flow leading to higher intratesticular temperatures, which impairs sperm production."
+    ],
+    "answer": "D",
+    "explanation": "In the section 'Varicoceles and infertility', the text states: 'The exact association between reduced male fertility and varicocele is unknown. The most accepted theory is that increased blood fow leads to higher intratesticular temperatures, which are the main cause of impaired sperm in varicoceles.'"
+  },
+  {
+    "question": "A 32-year-old male is diagnosed with a testicular tumor via ultrasound. He undergoes a radical inguinal orchidectomy. The histology report identifies it as a non-seminomatous germ cell tumor (NSGCT) containing yolk sac tumor elements. Blood tests were taken prior to surgery. What specific tumor marker is characteristically produced by yolk sac tumors and has a serum half-life of 5-7 days?",
+    "options": [
+      "A. Human chorionic gonadotropin (HCG)",
+      "B. Lactate dehydrogenase (LDH)",
+      "C. Alpha-fetoprotein (AFP)",
+      "D. Carcinoembryonic antigen (CEA)"
+    ],
+    "answer": "C",
+    "explanation": "The text describes Yolk sac tumours, stating: 'They produce alpha-fetoprotein (AFP), which can be measured in serum.' It later provides the half-lives of markers: 'The mean serum half-lives of AFP and HCG are 5–7 days and 2–3 days, respectively...'"
+  },
+  {
+    "question": "A patient with clinical stage I (CSI) non-seminomatous germ cell tumour (NSGCT) has undergone orchidectomy. The pathology report reveals the presence of lymphovascular invasion, placing him in a higher-risk category for relapse. He is being counselled on adjuvant treatment options. What is the currently recommended adjuvant strategy that has shown superior recurrence-free survival compared to retroperitoneal lymph node dissection (RPLND)?",
+    "options": [
+      "A. Two cycles of bleomycin–etoposide–cisplatin (BEP).",
+      "B. Adjuvant radiotherapy to the para-aortic lymph nodes.",
+      "C. One cycle of bleomycin–etoposide–cisplatin (BEP).",
+      "D. Four cycles of etoposide and cisplatin (EP)."
+    ],
+    "answer": "C",
+    "explanation": "For high-risk CSI NSGCT, the text states: 'One cycle of bleomycin–etoposide–cisplatin (BEP) is now the recommended strategy with recurrence rates of around 3%.' It also notes that this is favoured over RPLND, with a recurrence-free survival of 99.5% versus 91% for RPLND."
+  },
+  {
+    "question": "A 70-year-old man with chronic retention of urine is admitted. He is found to be uraemic and dehydrated. Following catheterisation, he develops a massive outflow of salts and water. What is this phenomenon known as, and what is its underlying pathophysiology related to the kidneys?",
+    "options": [
+      "A. Post-obstructive diuresis, due to loss of the ability to reabsorb salts and water from chronic back pressure on the distal tubules.",
+      "B. Decompression haematuria, due to the rapid collapse of distended bladder wall vessels.",
+      "C. Water intoxication, due to absorption of irrigating fluid during a TURP procedure.",
+      "D. Acute tubular necrosis, due to a period of hypotension during the admission."
+    ],
+    "answer": "A",
+    "explanation": "The text explains this specific complication of chronic retention: 'Owing to the chronic back pressure on the distal tubules within the kidney, there is loss of the ability to reabsorb salts and water. The result, following release of this pressure, may be an enormous outfow of salts and water, which is known as postobstructive diuresis.'"
+  },
+  {
+    "question": "A 28-year-old man presents with a painful perineum after a falling-astride injury. On examination, there is a butterfly-shaped perineal haematoma and blood at the urethral meatus. A retrograde urethrogram is planned. What is the most likely site of urethral injury in this specific type of blunt perineal trauma?",
+    "options": [
+      "A. Prostatic urethra",
+      "B. Membranous urethra",
+      "C. Bulbar urethra",
+      "D. Penile urethra"
+    ],
+    "answer": "C",
+    "explanation": "The text describes bulbar urethral trauma, stating: 'The patient usually gives a history of a falling-astride injury, leading to blunt trauma of the perineum... The bulbar urethra is crushed upwards onto the pubic bone, typically with signifcant bruising.'"
+  },
+  {
+    "question": "A 60-year-old woman presents with a soft, raspberry-like mass at the 6 o'clock position of her urethral meatus. It occasionally bleeds. What is the most likely diagnosis for this lesion, which is described as a prolapsed urethral mucosa?",
+    "options": [
+      "A. Urethral diverticulum",
+      "B. Urethral carcinoma",
+      "C. Urethral caruncle",
+      "D. Urethral papilloma"
+    ],
+    "answer": "C",
+    "explanation": "The text describes a urethral caruncle as follows: 'It presents as a soft, raspberry-like mass about the size of a pea. It is actually the prolapsed urethral mucosa at the 6 o’clock position.'"
+  },
+  {
+    "question": "A 35-year-old man presents with acute onset of severe scrotal pain. Examination reveals a swollen and tender epididymis. In a young, sexually active male, what is now considered the most common causative organism for acute epididymitis?",
+    "options": [
+      "A. Neisseria gonorrhoeae",
+      "B. Escherichia coli",
+      "C. Chlamydia trachomatis",
+      "D. Mumps virus"
+    ],
+    "answer": "C",
+    "explanation": "Regarding the pathophysiology of epididymo-orchitis, the text states, 'In young sexually active men, the most common cause of epididymitis is now Chlamydia trachomatis, but gonococcal epididymitis is still occasionally seen.'"
+  },
+  {
+    "question": "A man is diagnosed with Fournier's gangrene. The condition is characterized by a rapidly progressing polymicrobial infection of the perineal soft tissues. What is the hallmark of this surgical emergency that differentiates it from a simple cellulitis and necessitates urgent, aggressive treatment?",
+    "options": [
+      "A. Intense pruritus and a well-demarcated area of erythema.",
+      "B. A slow, insidious onset with gradual swelling over several weeks.",
+      "C. Rapid progression from cellulitis to foul-smelling necrotic lesions.",
+      "D. Spontaneous resolution with broad-spectrum oral antibiotics."
+    ],
+    "answer": "C",
+    "explanation": "The text describes Fournier's gangrene and notes: 'The hallmark is rapid progression from symptoms and signs of cellulitis. There is erythema, swelling, pain and blister formation with ultimately foul-smelling necrotic lesions. It is a surgical emergency.'"
+  },
+  {
+    "question": "A 45-year-old male with a history of inadequately treated gonorrhea presents with chronic, intermittent scrotal discomfort. Examination reveals a firm, craggy swelling of the entire epididymis, beading of the vas deferens, and a lax secondary hydrocele. The contralateral epididymis also feels abnormal. In two-thirds of such cases, evidence of what concurrent or previous disease should be sought?",
+    "options": [
+      "A. Mumps orchitis",
+      "B. Syphilitic orchitis",
+      "C. Renal tuberculosis",
+      "D. Bladder cancer"
+    ],
+    "answer": "C",
+    "explanation": "The clinical features described are classic for tuberculous epididymo-orchitis. The text states, 'In two-thirds of cases there is evidence of renal tuberculosis or previous disease.'"
+  },
+  {
+    "question": "A 22-year-old male is diagnosed with non-specific urethritis (NSU) after presenting with a white, mucopurulent urethral discharge. Although the causative agent is unknown in up to 50% of cases, what is the most common identifiable pathogen, accounting for around 40% of NSU cases?",
+    "options": [
+      "A. Ureaplasma urealyticum",
+      "B. Trichomonas vaginalis",
+      "C. Mycoplasma genitalium",
+      "D. Chlamydia trachomatis"
+    ],
+    "answer": "D",
+    "explanation": "The text on non-specific urethritis states: 'In around 40% of cases it is due to Chlamydia trachomatis, with other cases being caused by Ureaplasma urealyticum, Trichomonas vaginalis or Mycoplasma genitalium. The causative agent in up to 50% of cases is unknown.'"
+  },
+  {
+    "question": "A surgeon is performing a TURP and causes a perforation of the prostatic capsule, leading to extravasation. The field of vision becomes obscured by heavy blood loss. What is the most prudent course of action in this situation to avoid further complications?",
+    "options": [
+      "A. Increase the irrigation pressure to clear the visual field and continue the resection.",
+      "B. Switch to a coagulating diathermy current to aggressively cauterize the entire prostatic fossa.",
+      "C. Achieve adequate haemostasis, abandon the operation, and accept that a second attempt may be necessary.",
+      "D. Immediately insert a suprapubic catheter and continue the resection blindly."
+    ],
+    "answer": "C",
+    "explanation": "The text gives specific advice for this complication: 'If the feld of vision becomes obscured by heavy blood loss, it is often prudent to achieve adequate haemostasis and abandon the operation, swallowing one’s pride on the understanding that a second attempt may be necessary.'"
+  },
+  {
+    "question": "An elderly male with a history of BPH presents with recurrent haematuria. A cystoscopy reveals a very vascular prostate but no other obvious cause for the bleeding. This is considered a complication of BPH itself. What anatomical change associated with BPH is responsible for this increased risk of haematuria?",
+    "options": [
+      "A. The formation of trabeculation and diverticula in the bladder wall.",
+      "B. The development of bladder calculi secondary to urinary stasis.",
+      "C. Increased blood flow to the prostate, resulting in prominent veins at the base of the bladder.",
+      "D. Lengthening and distortion of the prostatic urethra, causing mucosal trauma."
+    ],
+    "answer": "C",
+    "explanation": "Under the anatomical effects of BPH, the text explains: 'Signifcant BPH is associated with increased blood fow, and the resultant veins at the base of the bladder are apt to cause haematuria.'"
+  },
+  {
+    "question": "A 45-year-old man presents with lifelong urgency and frequency. His urinary flow rate is measured in the near-normal range at 16 mL/s. Due to the dominant history of irritative symptoms and equivocal flow rate, the urologist decides to perform pressure-flow urodynamic studies. Which patient group listed below would also be a strong candidate for these definitive studies?",
+    "options": [
+      "A. Men with straightforward LUTS and a flow rate of <10 mL/s.",
+      "B. Men with mild symptoms who are opting for watchful waiting.",
+      "C. Men with suspected neuropathy, such as from long-standing diabetes or Parkinson's disease.",
+      "D. Men who have responded well to a trial of alpha-blocker therapy."
+    ],
+    "answer": "C",
+    "explanation": "The text lists several indications for performing pressure-flow urodynamic studies. One of the key indications is 'men with suspected neuropathy (Parkinson’s disease, dementia, longstanding diabetes, previous strokes, multiple sclerosis)'."
+  },
+  {
+    "question": "A 62-year-old man with a large prostate (>40g) and moderate LUTS is started on medical therapy. His urologist considers combination therapy. Which statement accurately reflects the evidence presented in the text regarding the use of combination therapy (an α-blocker and a 5α-reductase inhibitor) for BPH?",
+    "options": [
+      "A. Combination therapy is less effective than either agent alone for large glands.",
+      "B. Combination therapy provides rapid symptom relief but does not prevent disease progression.",
+      "C. Combination therapy is better than monotherapy for the larger gland and helps prevent progression of symptoms.",
+      "D. Combination therapy has more side effects than TURP and is therefore rarely used."
+    ],
+    "answer": "C",
+    "explanation": "The text discusses drug therapy options and specifically mentions: 'Combination therapy (α-blocker and 5α-reductase) is better for the larger gland.' It also states that 5α-reductase inhibitors are 'given to prevent progression of symptoms in men with large (>35–40 mL) prostates.'"
+  },
+  {
+    "question": "A patient undergoes a holmium laser enucleation of the prostate (HOLEP). During this procedure, what is the anatomical landmark used by the surgeon to identify the most distal point of enucleation to avoid damage to the external sphincter?",
+    "options": [
+      "A. The bladder neck",
+      "B. The verumontanum",
+      "C. The prostatic capsule",
+      "D. The apex of the prostate"
+    ],
+    "answer": "B",
+    "explanation": "When describing laser prostatectomy techniques like HOLEP, the text advises: 'Damage to the external sphincter is avoided provided the verumontanum is used as a guide to the most distal point of the resection/vaporisation/enucleation.'"
+  },
+  {
+    "question": "Following a difficult TURP for a small, fibrotic prostate, a patient develops recurrent voiding symptoms in the early postoperative period. A cystoscopy reveals a dense, fibrotic stenosis of the bladder neck. What is the likely cause of this bladder neck contracture?",
+    "options": [
+      "A. Inadequate resection of prostatic tissue.",
+      "B. The overuse of coagulating diathermy during the procedure.",
+      "C. Pre-existing bladder neck dyssynergia that was not addressed.",
+      "D. A urinary tract infection causing scar tissue formation."
+    ],
+    "answer": "B",
+    "explanation": "The text on complications of prostatectomy describes bladder neck contracture: 'Occasionally, a dense fibrotic stenosis of the bladder neck occurs following overaggressive resection of a small prostate. It may be due to the overuse of coagulating diathermy.'"
+  },
+  {
+    "question": "A 40-year-old male is diagnosed with bladder neck dyssynergia, also known as functional bladder neck obstruction, after urodynamic studies. He wishes to avoid surgery. What class of drugs can be used to pharmacologically manipulate the outflow tract by causing relaxation of the bladder neck?",
+    "options": [
+      "A. 5α-reductase inhibitors such as finasteride.",
+      "B. Anticholinergic agents such as tolterodine.",
+      "C. α-blocking drugs such as tamsulosin or alfuzosin.",
+      "D. Phosphodiesterase 5 inhibitors such as sildenafil."
+    ],
+    "answer": "C",
+    "explanation": "In the treatment section for bladder neck obstruction, the text states: 'The presence of α-adrenergic receptors in the region of the bladder neck and prostatic urethra allows pharmacological manipulation of the outfow to the bladder.' It then lists several α-blocking drugs like alfuzosin and tamsulosin as being 'very useful, causing relaxation of the bladder neck.'"
+  },
+  {
+    "question": "A 69-year-old man is diagnosed with prostate cancer after a biopsy. The TNM staging is T3b. What does this specific stage indicate about the local extent of the tumor?",
+    "options": [
+      "A. The tumor is confined within the prostate capsule, involving both lobes.",
+      "B. The tumor extends through the capsule on one side only.",
+      "C. The tumor has extended to involve the seminal vesicles.",
+      "D. The tumor is fixed or invading adjacent structures like the rectum or pelvic side wall."
+    ],
+    "answer": "C",
+    "explanation": "The text details the TNM staging system for prostate cancer, specifying for T3 tumors: 'T3a, uni- or bilateral extension; T3b, seminal vesical extension.'"
+  },
+  {
+    "question": "A urologist is planning a prostate biopsy for a patient with a large prostate and a suspected anterior lesion on mpMRI. The text discusses two common routes for biopsy. Which biopsy approach is described as being superior for sampling the anterior prostate, particularly when the gland is large?",
+    "options": [
+      "A. Transrectal biopsy, because it provides the most direct route to the entire gland.",
+      "B. Transurethral biopsy, performed during a cystoscopy.",
+      "C. Transperineal biopsy, which is gaining popularity as an alternative.",
+      "D. Open perineal biopsy, reserved for cases where other methods fail."
+    ],
+    "answer": "C",
+    "explanation": "The text, along with Figure 84.18, explains the biopsy routes: 'Transrectal ultrasound is not good for sampling the anterior prostate, particularly when the prostate is large. Transperineal biopsy is gaining popularity as an alternative to conventional transrectal biopsy.'"
+  },
+  {
+    "question": "A patient with newly diagnosed, localized, intermediate-risk prostate cancer is discussing treatment options. The text outlines the prognosis for different stages of the disease. What is the approximate rate of progression to bony metastases after 3-5 years for a patient with untreated locally advanced (T3/T4, M0) prostate cancer?",
+    "options": [
+      "A. Less than 10%",
+      "B. About 20%",
+      "C. About 35%",
+      "D. About 50%"
+    ],
+    "answer": "D",
+    "explanation": "In Summary box 84.6, 'The natural history of prostate cancer', the text states for T3 and T4 (M0) disease: 'About 50% progress to bony metastases after 3–5 years.'"
+  },
+  {
+    "question": "An 82-year-old man presents with an acute, painful, tight foreskin that was retracted and cannot be returned to its normal position. The glans and distal foreskin are oedematous. What is this condition called, and what is the underlying mechanism causing the swelling?",
+    "options": [
+      "A. Phimosis, caused by fibrotic scarring of the preputial opening.",
+      "B. Balanoposthitis, caused by an acute bacterial infection.",
+      "C. Paraphimosis, caused by obstruction of venous and lymphatic return.",
+      "D. Short frenulum, caused by tearing during sexual activity."
+    ],
+    "answer": "C",
+    "explanation": "The text defines paraphimosis as follows: 'A tight foreskin once retracted may be difcult to return and a paraphimosis results. In this condition, the venous and lymphatic return from the glans and distal foreskin is obstructed and these structures become oedematous...'"
+  },
+  {
+    "question": "A young man presents with recurrent balanoposthitis. On examination, his foreskin is thickened, whitish in appearance, and forms a constricting band that prevents retraction. What is the most likely underlying dermatological condition that causes these characteristic changes and is also a risk factor for penile cancer?",
+    "options": [
+      "A. Psoriasis",
+      "B. Lichen planus",
+      "C. Lichen sclerosus (LS)",
+      "D. Contact dermatitis"
+    ],
+    "answer": "C",
+    "explanation": "The text describes phimosis in adults, stating: 'In LS (Lichen sclerosus) the normal pliant foreskin becomes thickened, typically whitish in appearance and forms a constricting band that prevents retraction.' It later mentions LS as a risk factor for carcinoma of the penis."
+  },
+  {
+    "question": "A 24-year-old male suffers a sudden bending injury to his erect penis during intercourse, hearing a 'popping' sound followed by immediate pain and detumescence. He presents with significant penile bruising and haematoma. What is the definitive management for this condition, known as a penile fracture?",
+    "options": [
+      "A. Conservative management with ice packs, compression, and analgesia.",
+      "B. Aspiration of the haematoma followed by a pressure dressing.",
+      "C. Immediate treatment with phosphodiesterase type 5 inhibitors to restore blood flow.",
+      "D. Early surgical exploration and repair of the ruptured tunica albuginea."
+    ],
+    "answer": "D",
+    "explanation": "For a fracture of the penis, the text clearly states the management: 'Surgical management involves early exploration of the penis with surgical repair of the ruptured tunica albuginea.'"
+  },
+  {
+    "question": "A 4-year-old boy presents with a ventrally located urethral meatus on the mid-penile shaft, a ventral penile curvature (chordee), and an incomplete dorsal hood prepuce. What is the recommended advice regarding circumcision for this child with hypospadias?",
+    "options": [
+      "A. Circumcision should be performed immediately to improve hygiene and prevent infections.",
+      "B. Circumcision should be avoided as the preputial skin may be required for future surgical repairs.",
+      "C. A dorsal slit procedure should be performed instead of a full circumcision.",
+      "D. Circumcision can be performed, but only after the surgical correction of the chordee."
+    ],
+    "answer": "B",
+    "explanation": "In the treatment section for hypospadias, the text provides a crucial piece of advice: 'Circumcision should be avoided as preputial skin may be required for future repairs or revisions.'"
+  },
+  {
+    "question": "A patient with a confirmed urethral stricture is being managed with direct visual internal urethrotomy (DVIU). According to the text, for which type of stricture is DVIU indicated, and in which parts of the urethra should it be avoided?",
+    "options": [
+      "A. Indicated for long, traumatic penile strictures; should be avoided in the bulbar urethra.",
+      "B. Indicated for short, non-traumatic bulbar strictures; should be avoided in the penile urethra or sphincter active membranous urethra.",
+      "C. Indicated for all types of strictures, regardless of location or cause.",
+      "D. Indicated for post-TURP bladder neck stenosis; should be avoided for primary urethral strictures."
+    ],
+    "answer": "B",
+    "explanation": "The text on DVIU is specific about its indications and contraindications: 'DVIU is indicated for short, non-traumatic bulbar strictures but should not be used in the penile urethra or the sphincter active membranous urethra.'"
+  },
+  {
+    "question": "A 6-month-old infant is scheduled for an orchidopexy for a palpable, undescended testis. The surgeon plans to gain the necessary length on the spermatic cord to bring the testis into the scrotum without tension. Which of the following is NOT one of the three essential maneuvers described in the text to achieve this goal?",
+    "options": [
+      "A. Identifying, separating, and ligating the patent processus vaginalis.",
+      "B. Dividing the coverings of the spermatic cord, including the cremasteric muscle.",
+      "C. Dividing the testicular artery and relying on collateral supply from the vasal artery (Fowler-Stephens maneuver).",
+      "D. Dividing lateral fibrous bands just inside the internal inguinal ring."
+    ],
+    "answer": "C",
+    "explanation": "The text lists three specific maneuvers for a standard orchidopexy: 'First, the patent processus vaginalis should be identifed, separated and ligated. Second, the coverings of the spermatic cord (including the cremasteric muscle) should be divided and, third, lateral fbrous bands just inside the internal inguinal ring should be divided.' The Fowler-Stephens maneuver is reserved for impalpable, high intra-abdominal testes, not a standard palpable orchidopexy."
+  },
+  {
+    "question": "A 15-year-old boy experiences a 12-hour history of severe testicular pain. Surgical exploration reveals an infarcted testis due to torsion. The surgeon removes the non-viable testis. What is the crucial next step that must be performed during the same operation to prevent a future similar event?",
+    "options": [
+      "A. Insert a testicular prosthesis immediately to prevent psychological trauma.",
+      "B. Biopsy the contralateral testis to rule out underlying malignancy.",
+      "C. Fix the contralateral testis to the scrotal raphe with non-absorbable sutures.",
+      "D. Perform a vasectomy on the contralateral side to prevent epididymitis."
+    ],
+    "answer": "C",
+    "explanation": "The text on surgical management of torsion is clear: 'The other testis should also be fxed because the anatomical predisposition is likely to be bilateral.' It also emphasizes using 'non-absorbable sutures' for this fixation."
+  },
+  {
+    "question": "A 70-year-old man presents with a newly diagnosed right-sided varicocele that does not decompress when he is in the supine position. What underlying pathology should be urgently excluded in this specific clinical scenario?",
+    "options": [
+      "A. An inguinal hernia compressing the spermatic cord.",
+      "B. A renal tumour or other retroperitoneal mass obstructing the testicular vein.",
+      "C. Congestive cardiac failure leading to increased venous pressure.",
+      "D. A primary thrombosis of the pampiniform plexus."
+    ],
+    "answer": "B",
+    "explanation": "The text highlights the significance of a right-sided or non-decompressing varicocele: 'While most varicoceles are idiopathic, obstruction of the testicular vein by a renal tumour or nephrectomy is a cause of varicocele in later life; characteristically, in such cases the varicocele does not decompress in the supine position. The presence of an isolated right-sided varicocele is extremely rare. Hence, imaging should be considered to exclude a retroperitoneal mass in such cases.'"
+  },
+  {
+    "question": "A 50-year-old man undergoes surgery for a large, acquired hydrocele with a thick-walled sac. The surgeon decides to perform a procedure that involves opening the sac and everting it behind the testis. What is the eponym for this specific surgical technique?",
+    "options": [
+      "A. Lord's operation",
+      "B. Jaboulay's procedure",
+      "C. Fowler-Stephens procedure",
+      "D. Nesbit's procedure"
+    ],
+    "answer": "B",
+    "explanation": "The text describes three surgical techniques for hydroceles. The second technique is detailed as: 'Eversion. The sac is opened and everted behind the testis... (Jaboulay’s procedure).'"
+  },
+  {
+    "question": "A 30-year-old man is diagnosed with a testicular germ cell tumour. Histology post-orchidectomy shows a mixed tumour, but a component of choriocarcinoma is identified. This specific component is known to produce a particular hormone. Which tumor marker is characteristically elevated in the blood of patients with choriocarcinoma?",
+    "options": [
+      "A. Alpha-fetoprotein (AFP)",
+      "B. Lactate dehydrogenase (LDH)",
+      "C. Human chorionic gonadotropin (HCG)",
+      "D. Prostate-specific antigen (PSA)"
+    ],
+    "answer": "C",
+    "explanation": "The description of choriocarcinoma in the text states: 'This tumour produces human chorionic gonadotropin (HCG), which can be detected in blood.'"
+  },
+  {
+    "question": "A 7-year-old boy is diagnosed with a testicular tumor. A radical orchidectomy is performed. While germ cell tumors in adults are predominantly seminomas or NSGCTs, what is the most common type of malignant testicular tumor found specifically in children?",
+    "options": [
+      "A. Teratoma",
+      "B. Seminoma",
+      "C. Yolk sac tumour",
+      "D. Leydig cell tumour"
+    ],
+    "answer": "C",
+    "explanation": "In the section on testicular tumours in children, the text specifies: 'The most common malignant tumour in children is the yolk sac tumour, which is very rare in its pure form in adults.'"
+  },
+  {
+    "question": "A 58-year-old diabetic man presents with a rapidly progressing, painful, and foul-smelling necrotic lesion involving the scrotum and perineum. A diagnosis of Fournier's gangrene is made. What is the essential and urgent management strategy for this life-threatening condition?",
+    "options": [
+      "A. Intravenous broad-spectrum antibiotics alone for 48 hours to assess response.",
+      "B. Application of topical enzymatic debriding agents and a vacuum-assisted dressing.",
+      "C. Intravenous fluid resuscitation, broad-spectrum IV antibiotics, and urgent wide surgical debridement of all necrotic tissue.",
+      "D. Hyperbaric oxygen therapy as the primary treatment modality."
+    ],
+    "answer": "C",
+    "explanation": "The text on Fournier's gangrene emphasizes the emergency nature of treatment: 'Treatment of a case of Fournier’s gangrene is a surgical emergency. Initial management involves intravenous fuid resuscitation and broad-spectrum intravenous antibiotics. Urgent wide surgical excision of the dead and infected tissue is essential...'"
+  },
+  {
+    "question": "A patient with carcinoma of the penis has a small primary lesion on the glans. On examination, he has palpable, enlarged inguinal lymph nodes. The surgeon plans to treat the primary lesion first. What is the recommended management approach for the enlarged inguinal nodes immediately following treatment of the primary tumor?",
+    "options": [
+      "A. Immediate bilateral inguinal block dissection at the same time as the primary surgery.",
+      "B. Administer a course of antibiotics and delay assessment of the nodes for at least 3 weeks.",
+      "C. Start immediate radiotherapy to the inguinal regions.",
+      "D. Perform a sentinel lymph node biopsy within 24 hours of the primary excision."
+    ],
+    "answer": "B",
+    "explanation": "The text explains that nodal enlargement is often due to infection. It advises: 'Treatment of any associated enlarged inguinal lymph nodes should be delayed until at least 3 weeks after local treatment of the primary lesion. Enlargement caused by infection will usually show signs of subsiding with antibiotic treatment.'"
+  },
+  {
+    "question": "An uncircumcised male presents with a persistent, red cutaneous patch on the glans penis. A biopsy confirms penile intraepithelial neoplasia (PeIN). What is the specific eponym for this condition when it occurs on the glans penis?",
+    "options": [
+      "A. Bowen's disease",
+      "B. Erythroplasia of Queyrat",
+      "C. Paget's disease",
+      "D. Buschke–Löwenstein tumour"
+    ],
+    "answer": "B",
+    "explanation": "The text differentiates PeIN based on location: 'When it occurs on the glans penis, it is known as erythroplasia of Queyrat; when it occurs on the shaft of the penis, it is called Bowen’s disease.'"
+  },
+  {
+    "question": "A 22-year-old man presents with dysuria and urethral discharge. A Gram stain of the discharge is performed. He is subsequently diagnosed with gonorrhoeal urethritis. What is the causative organism and its characteristic appearance on Gram stain?",
+    "options": [
+      "A. Chlamydia trachomatis, an obligate intracellular bacterium not visible on Gram stain.",
+      "B. Trichomonas vaginalis, a flagellated protozoan.",
+      "C. Neisseria gonorrhoeae, a Gram-negative kidney-shaped diplococcus.",
+      "D. Haemophilus ducreyi, a Gram-negative facultative anaerobe."
+    ],
+    "answer": "C",
+    "explanation": "The text describes the causative agent of gonorrhoea as 'Neisseria gonorrhoeae (gonococcus), a Gram-negative kidney-shaped diplococcus...'"
+  },
+  {
+    "question": "A 25-year-old male develops urethritis, conjunctivitis, and polyarthritis approximately two weeks after an episode of chlamydial urethritis. This triad of symptoms is characteristic of Reiter's disease. What is the underlying pathophysiology of this condition?",
+    "options": [
+      "A. Direct bacterial seeding of the joints and conjunctiva.",
+      "B. An autoimmune disease triggered by a preceding infection.",
+      "C. A primary vasculitis affecting the urogenital tract, eyes, and joints.",
+      "D. A complication of antibiotic treatment for the initial infection."
+    ],
+    "answer": "B",
+    "explanation": "The text describes Reiter's disease as 'an autoimmune disease characterised by the triad of urethritis, conjunctivitis and polyarthritis' and lists common triggers including chlamydial urethritis."
+  },
+  {
+    "question": "A urologist is assessing a 48-year-old man with LUTS. The IPSS indicates severe symptoms. To obtain an objective measure of urinary function before deciding on treatment, a urinary flow rate is requested. For this test to be meaningful and representative, what is the minimum voided volume that the patient should produce?",
+    "options": [
+      "A. 50 mL",
+      "B. 100 mL",
+      "C. 150–200 mL",
+      "D. 350 mL"
+    ],
+    "answer": "C",
+    "explanation": "Under 'Flow rate measurement', the text specifies the requirements for a valid test: '...the voided volume should be in excess of 150–200 mL.'"
+  },
+  {
+    "question": "A 70-year-old man with LUTS has failed medical therapy and is considering surgery. He has a history of a previous stroke and long-standing diabetes. His symptoms are predominantly irritative (urgency, frequency). His flow rates are in the near-normal range (>15 mL/s). According to the text, which of these factors is a strong indication for performing pressure-flow urodynamic studies before proceeding to surgery?",
+    "options": [
+      "A. His age of 70 years.",
+      "B. The failure of medical therapy.",
+      "C. The presence of suspected neuropathy (previous stroke, diabetes).",
+      "D. His near-normal flow rate."
+    ],
+    "answer": "C",
+    "explanation": "The text lists several indications for pressure-flow studies. One of the primary ones is for 'men with suspected neuropathy (Parkinson’s disease, dementia, longstanding diabetes, previous strokes, multiple sclerosis)'. His dominant irritative symptoms and near-normal flow rate are also listed as indications."
+  },
+  {
+    "question": "A patient is being treated for metastatic prostate cancer. His initial response to hormonal ablation was good, but his PSA is now rising. What does a decrease in serum PSA to the normal range following initial hormonal ablation signify, and what should the PSA level fall to following a successful radical prostatectomy?",
+    "options": [
+      "A. A poor prognostic sign; should fall to <4.0 ng/mL post-prostatectomy.",
+      "B. A good prognostic sign; should fall to undetectable levels (<0.03 ng/mL) post-prostatectomy.",
+      "C. Inconclusive for prognosis; should fall to <1.0 ng/mL post-prostatectomy.",
+      "D. A good prognostic sign; should fall to <0.1 ng/mL post-prostatectomy."
+    ],
+    "answer": "B",
+    "explanation": "The text states, 'A decrease in PSA to the normal range following hormonal ablation is a good prognostic sign.' For radical surgery, it adds, 'Following radical prostatectomy the serum PSA should fall to undetectable levels (the limit for detection for modern supersensitive assays is <0.03 ng/mL).'"
+  },
+  {
+    "question": "A patient is diagnosed with a T1a prostate cancer following a TURP for what was thought to be benign disease. The tumor involves less than 5% of the resected specimen and is well-differentiated. What is the approximate progression rate for this specific type of prostate cancer after 8 years, according to the natural history data provided?",
+    "options": [
+      "A. 10–14%",
+      "B. About 20%",
+      "C. In excess of 35%",
+      "D. About 50%"
+    ],
+    "answer": "A",
+    "explanation": "In Summary box 84.6 on the natural history of prostate cancer, the text states for T1 and T2 disease: 'The progression rate of well-differentiated T1a prostate cancer is very low: 10–14% after 8 years.'"
+  },
+  {
+    "question": "A 2-year-old boy presents with a mid-penile hypospadias. The parents are counseled about surgical repair. At what age is surgical correction for hypospadias typically undertaken to achieve the best outcomes?",
+    "options": [
+      "A. Immediately after birth, in the neonatal period.",
+      "B. Before the age of 18 months.",
+      "C. Between the ages of 4 and 5 years, before starting school.",
+      "D. During puberty, to allow for maximal penile growth."
+    ],
+    "answer": "B",
+    "explanation": "The text on the treatment of hypospadias advises: 'Surgery for hypospadias is best performed by experts in hypospadias surgery and is typically undertaken before the age of 18 months.'"
+  },
+  {
+    "question": "A patient with a traumatic posterior urethral injury undergoes a delayed anastomotic urethroplasty. Post-operatively, he reports erectile dysfunction. A penile Doppler ultrasound is planned to evaluate the cause. What are the two primary mechanisms (vasculogenic and neurogenic) that can cause erectile dysfunction following this type of pelvic fracture injury?",
+    "options": [
+      "A. Damage to the dorsal arteries or damage to the cavernosal nerves.",
+      "B. Development of a penile curvature (Peyronie's disease) or psychological trauma.",
+      "C. Obstruction of the pudendal vein or fibrosis of the corpora cavernosa.",
+      "D. Damage to the sympathetic nerves or a decrease in testosterone production."
+    ],
+    "answer": "A",
+    "explanation": "Under the complications of pelvic fracture urethral injuries, the text explains the causes of erectile dysfunction: 'It can be vasculogenic (damage to dorsal arteries) or neurogenic (damage to cavernosal nerves).'"
+  },
+  {
+    "question": "A 65-year-old female presents with post-micturition dribble and recurrent urinary tract infections. On examination, a finger placed in the vagina can compress the urethra, causing a discharge of purulent urine. An MRI confirms a urethral diverticulum. What is a potential cause for the development of a female urethral diverticulum?",
+    "options": [
+      "A. A complication of pelvic organ prolapse.",
+      "B. Oestrogen deficiency associated with menopause.",
+      "C. Rupture of a distended and infected paraurethral gland or injury during childbirth.",
+      "D. A congenital anomaly present since birth in most cases."
+    ],
+    "answer": "C",
+    "explanation": "The text states that a female urethral diverticulum may be 'caused by rupture of a distended and infected paraurethral gland or by injury of the urethra during childbirth.'"
+  },
+  {
+    "question": "During a TURP, the surgeon must be careful to avoid resecting tissue distal to a specific landmark to prevent damage to the external sphincter mechanism, which is essential for continence. What is this crucial anatomical landmark that marks the proximal margin of the external sphincter?",
+    "options": [
+      "A. The bladder neck",
+      "B. The prostatic capsule",
+      "C. The ejaculatory ducts",
+      "D. The verumontanum"
+    ],
+    "answer": "D",
+    "explanation": "The text explicitly warns about this: 'The verumontanum marks the proximal margin of the external sphincter.' This is mentioned in the context of TURP and in laser prostatectomy."
+  },
+  {
+    "question": "A 40-year-old man presents with chronic perigenital and testicular pain, which is exacerbated by sexual intercourse. Extensive investigations, including urinalysis, urine culture, and examination of post-prostatic massage fluid, are all normal, showing no pus cells or bacteria. What diagnosis is made based on the presence of these symptoms in the absence of any objective evidence of prostatic inflammation?",
+    "options": [
+      "A. Chronic bacterial prostatitis",
+      "B. Acute prostatitis",
+      "C. Prostatic abscess",
+      "D. Prostatodynia"
+    ],
+    "answer": "D",
+    "explanation": "The text defines Prostatodynia as: 'This diagnosis is made by the presence of perigenital pain in the absence of any objective evidence of prostatic infammation. Whether the syndrome has any relationship with the prostate is unclear.'"
+  },
+  {
+    "question": "A 3-year-old boy is found to have an undescended testis on the right side. Histological changes in an incompletely descended testis become apparent at a specific age, supporting the rationale for early surgical intervention. From what age can microscopic changes, including loss of Leydig cells and degeneration of Sertoli cells, be seen?",
+    "options": [
+      "A. From birth",
+      "B. From 1–2 years",
+      "C. From 5–6 years",
+      "D. From puberty"
+    ],
+    "answer": "B",
+    "explanation": "Discussing the pathology of undescended testes, the text notes: 'Microscopic changes are apparent from 1–2 years, including loss of Leydig cells, degeneration of Sertoli cells and decreased spermatogenesis.'"
+  },
+  {
+    "question": "An adolescent boy is diagnosed with idiopathic scrotal oedema. This condition must be differentiated from testicular torsion. What are the characteristic clinical features of idiopathic scrotal oedema that help distinguish it from the more urgent diagnosis of torsion?",
+    "options": [
+      "A. Unilateral swelling, severe pain, and presence of the cremasteric reflex.",
+      "B. Bilateral swelling, minimal pain or tenderness, and possible extension into the perineum and penis.",
+      "C. A small, dark spot visible through the scrotal wall ('blue dot sign') and localized tenderness.",
+      "D. A high-riding testis, nausea, and vomiting."
+    ],
+    "answer": "B",
+    "explanation": "The text describes idiopathic scrotal oedema: 'The scrotum is very swollen but there is little pain or tenderness. The swelling is usually bilateral and may extend into the perineum, groin and penis.'"
+  },
+  {
+    "question": "A patient with a large, symptomatic hydrocele undergoes Lord's operation. What does this specific surgical technique for hydrocele repair involve?",
+    "options": [
+      "A. Complete excision of the hydrocele sac.",
+      "B. Opening and everting the sac behind the testis (Jaboulay's procedure).",
+      "C. Plication of the redundant tunica vaginalis using a series of interrupted sutures.",
+      "D. Aspiration of the fluid followed by injection of a sclerosing agent."
+    ],
+    "answer": "C",
+    "explanation": "The text describes Lord's operation as being 'suitable when the sac is reasonably thin walled' and details the technique: 'A series of interrupted absorbable sutures is used to plicate the redundant tunica vaginalis.'"
+  }
+]

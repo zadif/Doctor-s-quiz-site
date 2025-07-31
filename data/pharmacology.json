@@ -1,7 +1,12 @@
 [
   {
     "question": "What is the primary organ responsible for drug metabolism?",
-    "options": ["A. Kidneys", "B. Lungs", "C. Liver", "D. Brain"],
+    "options": [
+      "A. Kidneys",
+      "B. Lungs",
+      "C. Liver",
+      "D. Brain"
+    ],
     "answer": "C",
     "explanation": "The text states that 'the liver is the principal organ of drug metabolism.'"
   },
@@ -84,7 +89,12 @@
   },
   {
     "question": "Which cytochrome P450 isoform is responsible for the metabolism of over 50% of prescription drugs metabolized by the liver?",
-    "options": ["A. CYP1A2", "B. CYP2D6", "C. CYP3A4", "D. CYP2E1"],
+    "options": [
+      "A. CYP1A2",
+      "B. CYP2D6",
+      "C. CYP3A4",
+      "D. CYP2E1"
+    ],
     "answer": "C",
     "explanation": "The text highlights that 'CYP3A4 alone is responsible for the metabolism of over 50% of the prescription drugs metabolized by the liver.'"
   },
@@ -145,7 +155,12 @@
   },
   {
     "question": "Which CYP enzyme is responsible for the metabolism of codeine to its active analgesic metabolite, morphine?",
-    "options": ["A. CYP2C19", "B. CYP2D6", "C. CYP3A4", "D. CYP2A6"],
+    "options": [
+      "A. CYP2C19",
+      "B. CYP2D6",
+      "C. CYP3A4",
+      "D. CYP2A6"
+    ],
     "answer": "B",
     "explanation": "Table 4-4 indicates that CYP2D6 is involved in the O-Demethylation of codeine, which leads to reduced metabolic activation to morphine and thus reduced analgesia in poor metabolizers."
   },
@@ -261,7 +276,12 @@
   },
   {
     "question": "Which of the following drugs is a selective competitive antagonist of angiotensin AT1 receptors?",
-    "options": ["A. Enalapril", "B. Losartan", "C. Aliskiren", "D. Saralasin"],
+    "options": [
+      "A. Enalapril",
+      "B. Losartan",
+      "C. Aliskiren",
+      "D. Saralasin"
+    ],
     "answer": "B",
     "explanation": "Losartan is mentioned as an orally active, potent, and specific competitive antagonist of angiotensin AT1 receptors."
   },
@@ -322,7 +342,12 @@
   },
   {
     "question": "What are the primary components recognized as the 'slow-reacting substance of anaphylaxis' (SRS-A)?",
-    "options": ["A. LTB4", "B. LTC4 and LTD4", "C. Lipoxins", "D. HETEs"],
+    "options": [
+      "A. LTB4",
+      "B. LTC4 and LTD4",
+      "C. Lipoxins",
+      "D. HETEs"
+    ],
     "answer": "B",
     "explanation": "The text states that LTC4 and LTD4 are potent bronchoconstrictors and are recognized as the primary components of the slow-reacting substance of anaphylaxis (SRS-A)."
   },
@@ -537,7 +562,12 @@
   },
   {
     "question": "What are the primary ligands for the ANP A receptor?",
-    "options": ["A. CNP", "B. ANP and BNP", "C. Urodilatin", "D. VIP"],
+    "options": [
+      "A. CNP",
+      "B. ANP and BNP",
+      "C. Urodilatin",
+      "D. VIP"
+    ],
     "answer": "B",
     "explanation": "The ANP A receptor's primary ligands are ANP and BNP."
   },
@@ -675,13 +705,23 @@
   },
   {
     "question": "Which of the following is a nonpeptide ANG II receptor blocker (ARB)?",
-    "options": ["A. Enalapril", "B. Losartan", "C. Aliskiren", "D. Saralasin"],
+    "options": [
+      "A. Enalapril",
+      "B. Losartan",
+      "C. Aliskiren",
+      "D. Saralasin"
+    ],
     "answer": "B",
     "explanation": "Losartan, valsartan, eprosartan, irbesartan, candesartan, olmesartan, and telmisartan are mentioned as nonpeptide ANG II receptor blockers (ARBs)."
   },
   {
     "question": "Which enzyme, a homolog of converting enzyme, removes a single amino acid from the C-terminal of ANG I?",
-    "options": ["A. ACE", "B. Aminopeptidase", "C. ACE2", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. Aminopeptidase",
+      "C. ACE2",
+      "D. Kininase II"
+    ],
     "answer": "C",
     "explanation": "A homolog of converting enzyme known as ACE2 removes a single amino acid from the C-terminal of ANG I, forming ANG 1-9."
   },
@@ -819,7 +859,12 @@
   },
   {
     "question": "Which of the following is a potent peptide antagonist of Angiotensin II action, used for research purposes?",
-    "options": ["A. Losartan", "B. Valsartan", "C. Enalapril", "D. Saralasin"],
+    "options": [
+      "A. Losartan",
+      "B. Valsartan",
+      "C. Enalapril",
+      "D. Saralasin"
+    ],
     "answer": "D",
     "explanation": "Potent peptide antagonists of the action of ANG II are available for research use. The best-known of these is the partial agonist, saralasin."
   },
@@ -1023,7 +1068,12 @@
   },
   {
     "question": "Which drug is the most advanced direct renin inhibitor approved for hypertension treatment?",
-    "options": ["A. Enalapril", "B. Losartan", "C. Aliskiren", "D. Valsartan"],
+    "options": [
+      "A. Enalapril",
+      "B. Losartan",
+      "C. Aliskiren",
+      "D. Valsartan"
+    ],
     "answer": "C",
     "explanation": "Aliskiren is the most advanced of these and the first to be approved for the treatment of hypertension."
   },
@@ -1183,7 +1233,12 @@
   },
   {
     "question": "Which peptide is a member of the tachykinin family and has effects on the central nervous system and gastrointestinal tract?",
-    "options": ["A. CGRP", "B. Neurotensin", "C. Substance P", "D. VIP"],
+    "options": [
+      "A. CGRP",
+      "B. Neurotensin",
+      "C. Substance P",
+      "D. VIP"
+    ],
     "answer": "C",
     "explanation": "Substance P is present in the central nervous system and the gastrointestinal tract and belongs to the tachykinin family."
   },
@@ -1299,7 +1354,12 @@
   },
   {
     "question": "Urotensin II (UII) was originally identified in which species?",
-    "options": ["A. Mammals", "B. Fish", "C. Birds", "D. Reptiles"],
+    "options": [
+      "A. Mammals",
+      "B. Fish",
+      "C. Birds",
+      "D. Reptiles"
+    ],
     "answer": "B",
     "explanation": "Urotensin II (UII) was originally identified in fish."
   },
@@ -1338,7 +1398,12 @@
   },
   {
     "question": "What is the main product of COX metabolism of eicosapentaenoic acid (EPA) that is relatively inactive compared to its AA-derived counterpart?",
-    "options": ["A. PGE3", "B. TXA3", "C. PGI3", "D. HETE3"],
+    "options": [
+      "A. PGE3",
+      "B. TXA3",
+      "C. PGI3",
+      "D. HETE3"
+    ],
     "answer": "B",
     "explanation": "COX metabolism of EPA yields TXA3, which is relatively inactive compared to TXA2."
   },
@@ -1355,13 +1420,23 @@
   },
   {
     "question": "Which prostaglandin is used in obstetrics to induce labor?",
-    "options": ["A. PGD2", "B. PGF2α", "C. PGE2 and PGF2α", "D. PGI2"],
+    "options": [
+      "A. PGD2",
+      "B. PGF2α",
+      "C. PGE2 and PGF2α",
+      "D. PGI2"
+    ],
     "answer": "C",
     "explanation": "PGE2 and PGF2α are used in obstetrics to induce labor."
   },
   {
     "question": "What is the primary product of 5-LOX present in leukocytes that is converted to LTB4?",
-    "options": ["A. HPETE", "B. LTA4", "C. LTC4", "D. HETE"],
+    "options": [
+      "A. HPETE",
+      "B. LTA4",
+      "C. LTC4",
+      "D. HETE"
+    ],
     "answer": "B",
     "explanation": "LTA4 is the unstable epoxide leukotriene A4, which is the primary product of 5-LOX."
   },
@@ -1422,7 +1497,12 @@
   },
   {
     "question": "Which molecule promotes vasodilation by activating large conductance Ca2+-activated K+ channels on smooth muscle cells?",
-    "options": ["A. 20-HETE", "B. EETs", "C. DHETs", "D. Prostaglandins"],
+    "options": [
+      "A. 20-HETE",
+      "B. EETs",
+      "C. DHETs",
+      "D. Prostaglandins"
+    ],
     "answer": "B",
     "explanation": "EETs cause vasodilation in a number of vascular beds by activating the smooth muscle large conductance Ca2+-activated K+ channels."
   },
@@ -1483,19 +1563,34 @@
   },
   {
     "question": "Which eicosanoid is a potent vasoconstrictor and a smooth muscle cell mitogen?",
-    "options": ["A. PGI2", "B. PGE2", "C. TXA2", "D. PGD2"],
+    "options": [
+      "A. PGI2",
+      "B. PGE2",
+      "C. TXA2",
+      "D. PGD2"
+    ],
     "answer": "C",
     "explanation": "TXA2 is a potent vasoconstrictor and a smooth muscle cell mitogen."
   },
   {
     "question": "Which eicosanoid inhibits platelet aggregation via DP1-dependent elevation in cAMP generation?",
-    "options": ["A. PGE2", "B. PGD2", "C. PGI2", "D. TXA2"],
+    "options": [
+      "A. PGE2",
+      "B. PGD2",
+      "C. PGI2",
+      "D. TXA2"
+    ],
     "answer": "B",
     "explanation": "PGD2 inhibits aggregation via DP1-dependent elevation in cAMP generation."
   },
   {
     "question": "Which substance is the major product of COX-1 in mature platelets?",
-    "options": ["A. PGI2", "B. TXA2", "C. PGE2", "D. PGD2"],
+    "options": [
+      "A. PGI2",
+      "B. TXA2",
+      "C. PGE2",
+      "D. PGD2"
+    ],
     "answer": "B",
     "explanation": "TXA2 is the major product of COX-1, the only COX isoform expressed in mature platelets."
   },
@@ -1534,7 +1629,12 @@
   },
   {
     "question": "Which product of 12-LOX can undergo rearrangement to form epoxyeicosatrienoic acids called hepoxilins?",
-    "options": ["A. 5-HPETE", "B. LTA4", "C. 12-HETE", "D. LTC4"],
+    "options": [
+      "A. 5-HPETE",
+      "B. LTA4",
+      "C. 12-HETE",
+      "D. LTC4"
+    ],
     "answer": "C",
     "explanation": "12-HETE, a product of 12-LOX, can also undergo a catalyzed molecular rearrangement to epoxyeicosatrienoic acids called hepoxilins."
   },
@@ -1617,7 +1717,12 @@
   },
   {
     "question": "Which intracellular messenger plays a major role in renin release and increases it when its levels increase?",
-    "options": ["A. cGMP", "B. Ca2+", "C. cAMP", "D. IP3"],
+    "options": [
+      "A. cGMP",
+      "B. Ca2+",
+      "C. cAMP",
+      "D. IP3"
+    ],
     "answer": "C",
     "explanation": "cAMP plays a major role; maneuvers that increase cAMP levels increase renin release."
   },
@@ -1777,7 +1882,12 @@
   },
   {
     "question": "Which enzyme is responsible for inactivating bradykinin?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Converting enzyme (ACE, Peptidyl Dipeptidase, Kininase II) inactivates bradykinin."
   },
@@ -1791,17 +1901,6 @@
     ],
     "answer": "B",
     "explanation": "Angiotensin II is a very potent pressor agent, contributing significantly to the regulation of arterial blood pressure."
-  },
-  {
-    "question": "Which of the following is an example of an ACE inhibitor mentioned in the text?",
-    "options": [
-      "A. Losartan",
-      "B. Valsartan",
-      "C. Enalapril",
-      "D. Candesartan"
-    ],
-    "answer": "C",
-    "explanation": "Enalapril is given as an example of an ACE inhibitor."
   },
   {
     "question": "What is the main difference between ACE and ACE2 regarding their action on Angiotensin I?",
@@ -1892,17 +1991,6 @@
     "explanation": "AT1 receptors predominate in vascular smooth muscle, and binding of ANG II to these receptors results in smooth muscle contraction (vasoconstriction)."
   },
   {
-    "question": "Which of the following is a potential adverse effect of ACE inhibitors mentioned in the text?",
-    "options": [
-      "A. Hypertension",
-      "B. Reflex tachycardia",
-      "C. Angioedema",
-      "D. Increased vasopressin secretion"
-    ],
-    "answer": "C",
-    "explanation": "Cough and angioedema are mentioned as adverse side effects of ACE inhibitors."
-  },
-  {
     "question": "What is the primary role of converting enzyme (ACE) in the renin-angiotensin system?",
     "options": [
       "A. Cleavage of angiotensinogen to angiotensin I",
@@ -1948,13 +2036,23 @@
   },
   {
     "question": "Which molecule is described as a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. Angiotensin II", "C. VIP", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Angiotensin II",
+      "C. VIP",
+      "D. ANP"
+    ],
     "answer": "B",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which enzyme is responsible for the rapid removal of Angiotensin II from circulation?",
-    "options": ["A. Renin", "B. ACE", "C. Angiotensinases", "D. Peptidases"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Angiotensinases",
+      "D. Peptidases"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II...is removed rapidly from the circulation by a variety of peptidases collectively referred to as angiotensinase."
   },
@@ -1993,7 +2091,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-9?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 removes a single amino acid from the C-terminal of ANG I forming ANG 1-9."
   },
@@ -2021,7 +2124,12 @@
   },
   {
     "question": "Which peptide is synthesized primarily in cardiac atrial cells and released in response to atrial stretch?",
-    "options": ["A. BNP", "B. CNP", "C. ANP", "D. Urodilatin"],
+    "options": [
+      "A. BNP",
+      "B. CNP",
+      "C. ANP",
+      "D. Urodilatin"
+    ],
     "answer": "C",
     "explanation": "ANP is synthesized primarily in cardiac atrial cells, but it is also synthesized in ventricular myocardium, by neurons in the central and peripheral nervous systems, and in the lungs."
   },
@@ -2093,7 +2201,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-9?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 removes a single amino acid from the C-terminal of ANG I forming ANG 1-9."
   },
@@ -2110,7 +2223,12 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
@@ -2149,7 +2267,12 @@
   },
   {
     "question": "Which of the following drugs is a selective AT1 receptor blocker?",
-    "options": ["A. Enalapril", "B. Losartan", "C. Aliskiren", "D. Saralasin"],
+    "options": [
+      "A. Enalapril",
+      "B. Losartan",
+      "C. Aliskiren",
+      "D. Saralasin"
+    ],
     "answer": "B",
     "explanation": "Losartan is described as a selective competitive antagonist of angiotensin AT1 receptors."
   },
@@ -2166,13 +2289,23 @@
   },
   {
     "question": "Which enzyme is responsible for converting Angiotensin I to Angiotensin II?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Converting enzyme (ACE) converts angiotensin I to angiotensin II."
   },
   {
     "question": "Which enzyme has two active sites and catalyzes the cleavage of dipeptides from the carboxyl terminal of certain peptides?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Converting enzyme is a dipeptidyl carboxypeptidase with two active sites that catalyzes the cleavage of dipeptides from the carboxyl terminal of certain peptides."
   },
@@ -2200,7 +2333,12 @@
   },
   {
     "question": "Which enzyme converts ANG II to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 also converts ANG II to ANG 1-7."
   },
@@ -2239,7 +2377,12 @@
   },
   {
     "question": "Which of the following drugs is a direct renin inhibitor?",
-    "options": ["A. Enalapril", "B. Losartan", "C. Aliskiren", "D. Saralasin"],
+    "options": [
+      "A. Enalapril",
+      "B. Losartan",
+      "C. Aliskiren",
+      "D. Saralasin"
+    ],
     "answer": "C",
     "explanation": "Aliskiren is described as a direct renin inhibitor."
   },
@@ -2300,7 +2443,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -2339,13 +2487,23 @@
   },
   {
     "question": "Which enzyme is identical to Kininase II?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Kininase II is identified as being identical to converting enzyme (ACE)."
   },
   {
     "question": "Which peptide is synthesized primarily in cardiac atrial cells and released in response to atrial stretch?",
-    "options": ["A. BNP", "B. CNP", "C. ANP", "D. Urodilatin"],
+    "options": [
+      "A. BNP",
+      "B. CNP",
+      "C. ANP",
+      "D. Urodilatin"
+    ],
     "answer": "C",
     "explanation": "ANP is synthesized primarily in cardiac atrial cells, but it is also synthesized in ventricular myocardium, by neurons in the central and peripheral nervous systems, and in the lungs."
   },
@@ -2450,7 +2608,12 @@
   },
   {
     "question": "Which enzyme is identical to Kininase II?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Kininase II is identified as being identical to converting enzyme (ACE)."
   },
@@ -2467,7 +2630,12 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "B",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
@@ -2495,7 +2663,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -2534,7 +2707,12 @@
   },
   {
     "question": "Which molecule is described as a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
@@ -2573,7 +2751,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -2590,13 +2773,23 @@
   },
   {
     "question": "Which enzyme is identical to Kininase II?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Kininase II is identified as being identical to converting enzyme (ACE)."
   },
   {
     "question": "Which peptide is synthesized primarily in cardiac atrial cells and released in response to atrial stretch?",
-    "options": ["A. BNP", "B. CNP", "C. ANP", "D. Urodilatin"],
+    "options": [
+      "A. BNP",
+      "B. CNP",
+      "C. ANP",
+      "D. Urodilatin"
+    ],
     "answer": "C",
     "explanation": "ANP is synthesized primarily in cardiac atrial cells, but it is also synthesized in ventricular myocardium, by neurons in the central and peripheral nervous systems, and in the lungs."
   },
@@ -2613,7 +2806,12 @@
   },
   {
     "question": "Which enzyme is responsible for inactivating bradykinin?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "The text mentions that converting enzyme (ACE) inactivates bradykinin."
   },
@@ -2652,7 +2850,12 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
@@ -2702,7 +2905,12 @@
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -2763,25 +2971,45 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which enzyme is responsible for converting Angiotensin I to Angiotensin II?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Converting enzyme (ACE) converts angiotensin I to angiotensin II."
   },
   {
     "question": "Which enzyme is identical to Kininase II?",
-    "options": ["A. Renin", "B. ACE", "C. Aminopeptidase", "D. Angiotensinase"],
+    "options": [
+      "A. Renin",
+      "B. ACE",
+      "C. Aminopeptidase",
+      "D. Angiotensinase"
+    ],
     "answer": "B",
     "explanation": "Kininase II is identified as being identical to converting enzyme (ACE)."
   },
   {
     "question": "Which peptide is synthesized primarily in cardiac atrial cells and released in response to atrial stretch?",
-    "options": ["A. BNP", "B. CNP", "C. ANP", "D. Urodilatin"],
+    "options": [
+      "A. BNP",
+      "B. CNP",
+      "C. ANP",
+      "D. Urodilatin"
+    ],
     "answer": "C",
     "explanation": "ANP is synthesized primarily in cardiac atrial cells, but it is also synthesized in ventricular myocardium, by neurons in the central and peripheral nervous systems, and in the lungs."
   },
@@ -2809,7 +3037,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -2826,13 +3059,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -2915,7 +3158,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -2932,13 +3180,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3021,7 +3279,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3038,13 +3301,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3127,7 +3400,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3144,13 +3422,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3233,7 +3521,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3250,13 +3543,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3339,7 +3642,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3356,13 +3664,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3445,7 +3763,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3462,13 +3785,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3551,7 +3884,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3568,13 +3906,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3657,7 +4005,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3674,13 +4027,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3763,7 +4126,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3780,13 +4148,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3869,7 +4247,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3886,13 +4269,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -3975,7 +4368,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -3992,13 +4390,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4081,7 +4489,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4098,13 +4511,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4187,7 +4610,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4204,13 +4632,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4293,7 +4731,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4310,13 +4753,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4399,7 +4852,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4416,13 +4874,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4505,7 +4973,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4522,13 +4995,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4611,7 +5094,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4628,13 +5116,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4717,7 +5215,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4734,13 +5237,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4823,7 +5336,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4840,13 +5358,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -4929,7 +5457,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -4946,13 +5479,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5035,7 +5578,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5052,13 +5600,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5141,7 +5699,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5158,13 +5721,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5247,7 +5820,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5264,13 +5842,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5353,7 +5941,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5370,13 +5963,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5459,7 +6062,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5476,13 +6084,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5565,7 +6183,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5582,13 +6205,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5671,7 +6304,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5688,13 +6326,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5777,7 +6425,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5794,13 +6447,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5883,7 +6546,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -5900,13 +6568,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -5989,7 +6667,12 @@
   },
   {
     "question": "Which enzyme converts Angiotensin I to ANG 1-7?",
-    "options": ["A. ACE", "B. ACE2", "C. Aminopeptidase", "D. Kininase II"],
+    "options": [
+      "A. ACE",
+      "B. ACE2",
+      "C. Aminopeptidase",
+      "D. Kininase II"
+    ],
     "answer": "B",
     "explanation": "ACE2 converts ANG 1-9 (which is inactive but converted to ANG 1-7 by ACE) and also converts ANG II to ANG 1-7."
   },
@@ -6006,13 +6689,23 @@
   },
   {
     "question": "Which of the following is a potent pressor agent?",
-    "options": ["A. Bradykinin", "B. VIP", "C. Angiotensin II", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. VIP",
+      "C. Angiotensin II",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Angiotensin II is a very potent pressor agent."
   },
   {
     "question": "Which of the following is a potent vasoconstrictor peptide isolated from aortic endothelial cells?",
-    "options": ["A. Bradykinin", "B. Vasopressin", "C. Endothelin", "D. ANP"],
+    "options": [
+      "A. Bradykinin",
+      "B. Vasopressin",
+      "C. Endothelin",
+      "D. ANP"
+    ],
     "answer": "C",
     "explanation": "Endothelins are potent vasoconstrictor peptides that were first isolated from aortic endothelial cells."
   },
@@ -6060,7 +6753,6 @@
     "answer": "C",
     "explanation": "Renin is an enzyme that catalyzes the hydrolytic release of the decapeptide angiotensin I from angiotensinogen."
   },
-
   {
     "question": "What potent inducer of platelet aggregation is secreted from platelet granules?",
     "options": [
@@ -6162,7 +6854,12 @@
   },
   {
     "question": "Which factor is activated by the TF-factor VIIa complex, initiating the coagulation cascade in vivo?",
-    "options": ["A. Factor IX", "B. Factor V", "C. Factor XI", "D. Factor XII"],
+    "options": [
+      "A. Factor IX",
+      "B. Factor V",
+      "C. Factor XI",
+      "D. Factor XII"
+    ],
     "answer": "A",
     "explanation": "The tissue factor (TF)-factor VIIa complex activates factor X and factor IX, initiating the coagulation cascade."
   },
@@ -6289,7 +6986,12 @@
   },
   {
     "question": "Heparin-induced thrombocytopenia (HIT) is a systemic hypercoagulable state that occurs in what percentage of individuals treated with UFH for a minimum of 7 days?",
-    "options": ["A. 0.1–0.5%", "B. 1–4%", "C. 5–10%", "D. 15–20%"],
+    "options": [
+      "A. 0.1–0.5%",
+      "B. 1–4%",
+      "C. 5–10%",
+      "D. 15–20%"
+    ],
     "answer": "B",
     "explanation": "Heparin-induced thrombocytopenia (HIT) occurs in 1–4% of individuals treated with UFH for at least 7 days."
   },
@@ -6350,7 +7052,12 @@
   },
   {
     "question": "What is the recommended international normalized ratio (INR) for the prophylaxis and treatment of thrombotic disease with warfarin?",
-    "options": ["A. 1.5–2.0", "B. 2.0–3.0", "C. 3.0–4.0", "D. 4.0–5.0"],
+    "options": [
+      "A. 1.5–2.0",
+      "B. 2.0–3.0",
+      "C. 3.0–4.0",
+      "D. 4.0–5.0"
+    ],
     "answer": "B",
     "explanation": "The recommended INR for prophylaxis and treatment of thrombotic disease with warfarin is 2–3."
   },
@@ -6554,7 +7261,12 @@
   },
   {
     "question": "Which of the following is a factor concentrate approved for treating bleeding associated with von Willebrand disease?",
-    "options": ["A. Autoplex", "B. FEIBA", "C. Humate-P", "D. Kogenate"],
+    "options": [
+      "A. Autoplex",
+      "B. FEIBA",
+      "C. Humate-P",
+      "D. Kogenate"
+    ],
     "answer": "C",
     "explanation": "Humate-P is a factor VIII concentrate approved for treating bleeding associated with von Willebrand disease."
   },
@@ -8034,13 +8746,23 @@
   },
   {
     "question": "Which of the following is a carbapenem antibiotic that is resistant to most beta-lactamases but not carbapenemases or metallo-beta-lactamases?",
-    "options": ["A. Ertapenem", "B. Doripenem", "C. Imipenem", "D. Meropenem"],
+    "options": [
+      "A. Ertapenem",
+      "B. Doripenem",
+      "C. Imipenem",
+      "D. Meropenem"
+    ],
     "answer": "C",
     "explanation": "Imipenem, the first carbapenem, is resistant to most beta-lactamases but not carbapenemases or metallo-beta-lactamases."
   },
   {
     "question": "Which carbapenem has the longest half-life and is administered as a once-daily dose?",
-    "options": ["A. Imipenem", "B. Meropenem", "C. Doripenem", "D. Ertapenem"],
+    "options": [
+      "A. Imipenem",
+      "B. Meropenem",
+      "C. Doripenem",
+      "D. Ertapenem"
+    ],
     "answer": "D",
     "explanation": "Ertapenem has the longest half-life among the carbapenems, allowing for once-daily administration."
   },
@@ -8530,7 +9252,12 @@
   },
   {
     "question": "Which class of antiretroviral agents acts by competitive inhibition of HIV-1 reverse transcriptase and chain termination?",
-    "options": ["A. NNRTIs", "B. PIs", "C. NRTIs", "D. Fusion inhibitors"],
+    "options": [
+      "A. NNRTIs",
+      "B. PIs",
+      "C. NRTIs",
+      "D. Fusion inhibitors"
+    ],
     "answer": "C",
     "explanation": "Nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs) act by competitive inhibition of HIV-1 reverse transcriptase and cause chain termination."
   },
@@ -8613,7 +9340,12 @@
   },
   {
     "question": "Which of the following antiretroviral agents is a protease inhibitor (PI)?",
-    "options": ["A. Efavirenz", "B. Nevirapine", "C. Indinavir", "D. Abacavir"],
+    "options": [
+      "A. Efavirenz",
+      "B. Nevirapine",
+      "C. Indinavir",
+      "D. Abacavir"
+    ],
     "answer": "C",
     "explanation": "Indinavir is a protease inhibitor (PI)."
   },
@@ -8872,7 +9604,12 @@
   },
   {
     "question": "Which class of antiretroviral agents binds directly to HIV-1 reverse transcriptase, causing allosteric inhibition?",
-    "options": ["A. NRTIs", "B. NNRTIs", "C. PIs", "D. Fusion inhibitors"],
+    "options": [
+      "A. NRTIs",
+      "B. NNRTIs",
+      "C. PIs",
+      "D. Fusion inhibitors"
+    ],
     "answer": "B",
     "explanation": "Nonnucleoside reverse transcriptase inhibitors (NNRTIs) bind directly to HIV-1 reverse transcriptase, causing allosteric inhibition."
   },
@@ -10066,7 +10803,12 @@
   },
   {
     "question": "Which of the following is a monobactam antibiotic with activity limited to aerobic gram-negative rods?",
-    "options": ["A. Imipenem", "B. Meropenem", "C. Aztreonam", "D. Ertapenem"],
+    "options": [
+      "A. Imipenem",
+      "B. Meropenem",
+      "C. Aztreonam",
+      "D. Ertapenem"
+    ],
     "answer": "C",
     "explanation": "Aztreonam is a monobactam with activity limited to aerobic gram-negative rods."
   },
@@ -10424,7 +11166,12 @@
   },
   {
     "question": "Which of the following is a monobactam antibiotic with activity limited to aerobic gram-negative rods?",
-    "options": ["A. Imipenem", "B. Meropenem", "C. Aztreonam", "D. Ertapenem"],
+    "options": [
+      "A. Imipenem",
+      "B. Meropenem",
+      "C. Aztreonam",
+      "D. Ertapenem"
+    ],
     "answer": "C",
     "explanation": "Aztreonam is a monobactam with activity limited to aerobic gram-negative rods."
   },
@@ -11837,17 +12584,6 @@
     "explanation": "Aminoglycosides inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit."
   },
   {
-    "question": "What is considered one of the most important advances in therapeutics, as mentioned in the text?",
-    "options": [
-      "A. The development of vaccines",
-      "B. The development of antimicrobial drugs",
-      "C. Advances in surgical techniques",
-      "D. The discovery of gene therapy"
-    ],
-    "answer": "B",
-    "explanation": "The text explicitly states, 'The development of antimicrobial drugs represents one of the most important advances in therapeutics...'"
-  },
-  {
     "question": "According to the text, what is a significant issue with antimicrobial agents in outpatient settings in the United States?",
     "options": [
       "A. They are vastly overprescribed",
@@ -12289,7 +13025,12 @@
   },
   {
     "question": "What is a common route of administration for many antimicrobial agents that results in equally effective, less costly, and fewer complications compared to parenteral therapy?",
-    "options": ["A. Intravenous", "B. Intramuscular", "C. Oral", "D. Topical"],
+    "options": [
+      "A. Intravenous",
+      "B. Intramuscular",
+      "C. Oral",
+      "D. Topical"
+    ],
     "answer": "C",
     "explanation": "The text mentions, 'Many antimicrobial agents have similar pharmacokinetic properties when given orally or parenterally... In most cases, oral therapy with these drugs is equally effective, is less costly, and results in fewer complications than parenteral therapy.'"
   },
@@ -12413,17 +13154,6 @@
     ],
     "answer": "A",
     "explanation": "The text states, 'Penicillins and other cell wall-active agents can increase the uptake of aminoglycosides by a number of bacteria, including staphylococci, enterococci, streptococci, and P aeruginosa. Enterococci are thought to be intrinsically resistant to aminoglycosides because of permeability barriers.'"
-  },
-  {
-    "question": "Which is a clinically relevant example of antimicrobial antagonism mentioned in the text?",
-    "options": [
-      "A. Trimethoprim-sulfamethoxazole combination",
-      "B. Penicillin and chlortetracycline combination for pneumococcal meningitis",
-      "C. Beta-lactamase inhibitors with beta-lactams",
-      "D. Penicillin with gentamicin for enterococcal endocarditis"
-    ],
-    "answer": "B",
-    "explanation": "The text gives an example: 'The most striking example was reported in a study of patients with pneumococcal meningitis. Patients who were treated with the combination of penicillin and chlortetracycline had a mortality rate of 79% compared with a mortality rate of 21% in patients who received penicillin monotherapy...'"
   },
   {
     "question": "What is a mechanism of antimicrobial antagonism where bacteriostatic agents can antagonize bactericidal cell wall-active agents?",
@@ -12768,7 +13498,12 @@
   },
   {
     "question": "What is the main cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -13049,7 +13784,12 @@
   },
   {
     "question": "Which phase of the cell cycle does bleomycin cause accumulation of cells in?",
-    "options": ["A. G1 phase", "B. S phase", "C. G2 phase", "D. M phase"],
+    "options": [
+      "A. G1 phase",
+      "B. S phase",
+      "C. G2 phase",
+      "D. M phase"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Bleomycin is a cell cycle-specific drug that causes accumulation of cells in the G2 phase of the cell cycle.'"
   },
@@ -13682,7 +14422,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -13831,7 +14576,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -14310,7 +15060,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -14789,7 +15544,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -15257,7 +16017,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -15725,7 +16490,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -16193,7 +16963,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -16661,7 +17436,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },
@@ -17129,7 +17909,12 @@
   },
   {
     "question": "What is the primary cytotoxic metabolite of cytarabine (ara-C)?",
-    "options": ["A. Ara-CMP", "B. Ara-CDP", "C. Ara-CTP", "D. Ara-UDP"],
+    "options": [
+      "A. Ara-CMP",
+      "B. Ara-CDP",
+      "C. Ara-CTP",
+      "D. Ara-UDP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'Ara-CMP is further metabolized to the diphosphate and triphosphate metabolites, and the ara-CTP triphosphate is felt to be the main cytotoxic metabolite.'"
   },

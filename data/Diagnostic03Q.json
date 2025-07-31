@@ -13,7 +13,12 @@
   },
   {
     "question": "A 66-year-old man comes to the physician for a routine examination. Laboratory studies show a blood cholesterol level of 295 mg/dL. Treatment with simvastatin is begun. Which of the following labeled lines on the Lineweaver-Burke plot best represents the effects of this drug on its target enzyme? [Image shows Lineweaver-Burke plot with Control line and lines A, B, C, D]",
-    "options": ["A. A", "B. B", "C. C", "D. D"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D"
+    ],
     "answer": "A",
     "explanation": "Simvastatin is a competitive inhibitor of HMG-CoA reductase. A competitive inhibitor competes directly with the normal substrate for an enzyme's substrate-binding site. Increasing the concentration of substrate can eventually overcome the inhibition, at which point Vmax can be reached. On a Lineweaver-Burke plot (1/V vs 1/[S]), a competitive inhibitor increases the apparent Km but does not change Vmax. This means the x-intercept (-1/Km) moves closer to zero (Km increases), and the y-intercept (1/Vmax) remains the same. Line A shows the same y-intercept as the control but a less negative x-intercept, consistent with competitive inhibition. Line B shows the same x-intercept but a higher y-intercept (decreased Vmax), characteristic of noncompetitive inhibition. Line C shows decreased Km and increased Vmax (activator or different kinetics). Line D shows increased Vmax with the same Km (more enzyme or certain activators)."
   },
@@ -249,7 +254,13 @@
   },
   {
     "question": "A 31-year-old primigravid woman at 20 weeks' gestation comes to the physician for a routine prenatal examination. Ultrasound shows a male fetus. Her husband has hemophilia. She has no history of any major medical illnesses and her family history is unremarkable. There is no consanguinity. Which of the following best estimates the risk that the unborn child will also have hemophilia?",
-    "options": ["A. Less than 1%", "B. 2 to 5%", "C. 25%", "D. 50%", "E. 100%"],
+    "options": [
+      "A. Less than 1%",
+      "B. 2 to 5%",
+      "C. 25%",
+      "D. 50%",
+      "E. 100%"
+    ],
     "answer": "A",
     "explanation": "Hemophilia A and B are X-linked recessive disorders. The fetus is male (XY). Males inherit their Y chromosome from their father and their X chromosome from their mother. The father has hemophilia, meaning his genotype is XhY (where Xh carries the hemophilia allele). He will pass his Y chromosome to his son. The mother has no family history of hemophilia, so it is extremely likely she is homozygous normal (XX). She will pass one of her normal X chromosomes to her son. Therefore, the son's genotype will be XY, and he will not inherit the hemophilia allele from either parent. His risk of having hemophilia is essentially negligible (less than 1%, accounting only for the extremely small possibility of a spontaneous mutation or unreported carrier status in the mother's family)."
   },
@@ -280,7 +291,12 @@
   },
   {
     "question": "A healthy 64-year-old man receives his annual influenza vaccine. After a week, a sample of blood is drawn and his peripheral blood leukocytes are treated with fluorescein-conjugated antibodies directed against CD4 and CD8 antigens. Which of the following labeled quadrants in the flow cytometry plot most likely contains the cells that respond most strongly to this vaccination? [Image shows flow cytometry plot with CD8 on y-axis and CD4 on x-axis, quadrants A (CD4-CD8+), B (CD4+CD8+), C (CD4-CD8-), D (CD4+CD8-)]",
-    "options": ["A. A", "B. B", "C. C", "D. D"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D"
+    ],
     "answer": "D",
     "explanation": "The annual influenza vaccine is typically an inactivated (killed) vaccine. Killed vaccines primarily stimulate a humoral immune response, which involves B cells producing antibodies. This process requires help from CD4+ T helper cells. The vaccine antigens are processed by antigen-presenting cells (like B cells, macrophages, dendritic cells) and presented on MHC class II molecules to CD4+ T helper cells. These activated T helper cells then provide signals (like cytokines and CD40L interaction) to B cells, stimulating them to proliferate, differentiate into plasma cells, and produce antibodies (including isotype switching). Therefore, the CD4+ T cell population (helper T cells) is crucial for the response to this type of vaccine. On the flow cytometry plot, CD4+ T cells are found in quadrant D (CD4 positive, CD8 negative). Quadrant A contains CD8+ cytotoxic T cells (important for live vaccines/viral infections). Quadrant B contains double-positive cells (found in thymus). Quadrant C contains double-negative cells (various types, including B cells, NK cells, etc.)."
   },
@@ -471,7 +487,13 @@
   },
   {
     "question": "A 9-year-old child is brought to the physician because of recurrent necrotic lesions on his legs and arms. He has a history of protracted wound healing and scarring. Flow cytometric analysis of this child's peripheral blood leukocytes is most likely to show an absence of which of the following?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD18"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD14",
+      "E. CD18"
+    ],
     "answer": "E",
     "explanation": "The history of recurrent skin infections (often necrotic), poor wound healing, and often delayed separation of the umbilical cord (though not mentioned here) is characteristic of Leukocyte Adhesion Deficiency type 1 (LAD-1). LAD-1 is an autosomal recessive disorder caused by mutations in the ITGB2 gene, which encodes the CD18 protein. CD18 is the common beta-2 subunit shared by several leukocyte integrins (LFA-1, Mac-1/CR3, p150,95/CR4). These integrins are crucial for leukocyte adhesion to endothelial cells and subsequent extravasation to sites of infection, as well as for phagocytosis and T-cell interactions. Absence or deficiency of CD18 leads to impaired leukocyte trafficking and function, resulting in recurrent bacterial infections without pus formation and impaired wound healing. CD3 (A), CD4 (B), and CD8 (C) are T-cell markers. CD14 (D) is a marker primarily for monocytes/macrophages."
   },

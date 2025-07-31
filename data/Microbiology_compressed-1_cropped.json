@@ -1405,7 +1405,15 @@
   {
     "qid": "OL2242",
     "question": "An 8-year-old girl has severe sore throat, pharyngeal erythema, tonsillar abscesses. Rapid Strep test is positive. A beta-lactam antibiotic will have greatest efficacy during which stage of the bacterial growth curve shown (A=lag, B=early log, C=mid-log, D=late log/early stationary, E=stationary, F/G=death)?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "C",
     "explanation": "The correct answer is C. Beta-lactam antibiotics (like penicillin, amoxicillin used for Strep throat) exert their bactericidal effect by inhibiting peptidoglycan synthesis, a crucial step in bacterial cell wall formation. Cell wall synthesis is most active when bacteria are rapidly growing and dividing. This maximal growth rate occurs during the exponential or logarithmic (log) phase of the bacterial growth curve, represented by point C (mid-log phase) in the diagram, where the slope is steepest. During lag phase (A) and stationary/death phases (E, F, G), growth and cell wall synthesis slow down or cease, reducing the efficacy of beta-lactams."
   },
@@ -1519,7 +1527,13 @@
   {
     "qid": "QL1816",
     "question": "A 38-year-old man with hemophilia has received multiple clotting factor infusions potentially contaminated with HIV, yet remains HIV-negative (CD4 900, neg RT-PCR). Absence of which cell surface receptor best explains this finding?",
-    "options": ["A. CCR5", "B. CD4", "C. CD8", "D. Gp120", "E. TNF receptor"],
+    "options": [
+      "A. CCR5",
+      "B. CD4",
+      "C. CD8",
+      "D. Gp120",
+      "E. TNF receptor"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. While HIV uses CD4 (B) as its primary receptor, entry into target cells (especially macrophages and activated T-cells early in infection) requires binding to a co-receptor, most commonly CCR5. Some individuals are naturally resistant to infection with R5-tropic HIV strains (the most commonly transmitted strains) because they are homozygous for a deletion mutation (CCR5-delta32) in the gene encoding the CCR5 co-receptor. This prevents functional CCR5 from being expressed on the cell surface, blocking viral entry. Absence of CD4 would cause severe immunodeficiency. CD8 (C) is on cytotoxic T-cells. Gp120 (D) is the viral protein that binds CD4 and CCR5/CXCR4. TNF receptor (E) is involved in inflammation."
   },
@@ -2319,7 +2333,15 @@
   {
     "qid": "OL2242",
     "question": "An 8-year-old girl has severe sore throat, pharyngeal erythema, tonsillar abscesses. Rapid Strep test is positive. A beta-lactam antibiotic will have greatest efficacy during which stage of the bacterial growth curve shown (A=lag, B=early log, C=mid-log, D=late log/early stationary, E=stationary, F/G=death)?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "C",
     "explanation": "The correct answer is C. In the bacterial growth curve, rapid exponential growth occurs during the log (or logarithmic growth) phase. Within this period, the generation time equals the time it takes for one cell to divide into two. Beta-lactam drugs act by inhibiting cell wall synthesis. In a bacterial culture, cell wall synthesis will occur at a maximal rate during the period of exponential growth, which is marked on the graph by the letter C. The lag phase (choice A) is the initial phase of a bacterial culture during which there is no increase in cell number. Cells in a culture at this stage are activating enzymes necessary for metabolism, but are not undergoing cell wall synthesis. Choice B indicates the initial phase of bacterial multiplication, when cell division has not yet reached a maximum. Although cell wall synthesis would indeed make such cells sensitive to beta-lactam antibiotics, it is not the period of maximum sensitivity. Choice D indicates the phase of the bacterial growth curve when toxic metabolic products begin to accumulate and nutrient levels begin to be insufficient to support continued growth. New cell wall synthesis would begin to fall at this point. The stationary phase (choice E) is a period of the bacterial growth curve when the number of bacteria dividing in the culture equals the number of cells dying. This would not be a period of intense cell wall synthesis. The decline (choice F) and death (choice G) phases of the bacterial growth curve are periods when bacteria are dying more rapidly than they are dividing. Cell wall synthesis would be minimal."
   },
@@ -2433,7 +2455,13 @@
   {
     "qid": "QL1816",
     "question": "A 38-year-old man with hemophilia has received multiple clotting factor infusions potentially contaminated with HIV, yet remains HIV-negative (CD4 900, neg RT-PCR). Absence of which cell surface receptor best explains this finding?",
-    "options": ["A. CCR5", "B. CD4", "C. CD8", "D. Gp120", "E. TNF receptor"],
+    "options": [
+      "A. CCR5",
+      "B. CD4",
+      "C. CD8",
+      "D. Gp120",
+      "E. TNF receptor"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Human immunodeficiency virus (HIV) infection does not always progress to overt acquired immunodeficiency syndrome (AIDS). Some individuals are resistant to HIV infection because they carry two defective copies of the gene encoding the CCR5 co-receptor. CCR5 is a receptor for chemokines and serves as a co-receptor for HIV internalization into macrophages and T-cells (for R5-tropic strains). Homozygosity for the CCR5-delta32 mutation prevents functional CCR5 expression, blocking entry of R5-tropic HIV. CD4 (choice B) is the primary receptor, essential for infection. CD8 (choice C) is on cytotoxic T-cells. Gp120 (D) is the viral binding protein. TNF receptor (E) is irrelevant to HIV entry."
   },
@@ -3162,7 +3190,6 @@
     "answer": "D",
     "explanation": "The correct answer is D. This is a case of Ascaris lumbricoides infection, the giant intestinal roundworm. Vomiting or passing such a large worm is characteristic. Ascariasis is acquired solely by the fecal-oral route through ingestion of embryonated eggs present in soil contaminated with human feces. There is no intermediate host. Autoinfection (A) is seen with Strongyloides, Enterobius, Taenia solium. Cysts in water (B) transmit protozoa. Pet eggs (C) cause visceral larva migrans (Toxocara). Mosquitoes (E) transmit filariae. Skin penetration (F) is the route for hookworms, Strongyloides, schistosomes."
   },
-
   {
     "qid": "QL1227",
     "question": "A 35-year-old man comes to the physician because of painful, palpable masses of the groin. Physical examination shows multiple enlarged. abscessed lymph nodes draining through the skin through indolent sinuses. Which of the following is the most likely diagnosis?",
@@ -4344,7 +4371,15 @@
   },
   {
     "question": "A 43-year-old man who is a mail carrier is brought to the emergency department by his wife because of severe substernal pain and cough. His temperature is 40.0°C (104.0°F). A chest x-ray shows pronounced mediastinal widening. Culture of the blood on blood agar grows nonhemolytic, rough, gray colonies. During which of the stages of the bacterial growth curve shown will spore production be at its maximum?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "E",
     "explanation": "This patient is displaying the symptoms of inhalation anthrax (also known as wool-sorter's disease, when it is naturally acquired). The infectious form in this disease is the spore of Bacillus anthracis, which is produced in culture situations when environmental conditions become insufficient for continued growth and multiplication. Maximum spore formation usually occurs during the stationary phase, when cell growth ceases because of a developing lack of nutrients or accumulation of toxins. [Referring to a standard bacterial growth curve: A=Lag, B/C=Log/Exponential, D=Late Log/Early Stationary, E=Stationary, F/G=Decline/Death].\nThe lag phase (choice A) is the initial period of adaptation, prior to growth, which occurs when organisms are introduced to a new environment. It is not a period in which spore formation would occur.\nChoice B indicates the initial phase of bacterial multiplication, when cell division has not yet reached a maximum. This is not a period in which spore formation would occur.\nThe exponential phase (choice C) is the period of the bacterial growth curve when each bacterium in the culture is undergoing binary fission at the maximum possible rate. This is not a period in which spore formation would occur.\nChoice D indicates the phase of the bacterial growth curve when toxic metabolic products begin to accumulate and nutrient levels begin to be insufficient to support continued growth. Although spore formation could begin as early as this stage, it would not reach maximum levels until the maximum stationary phase (E).\nDuring the phases of decline (choice F) and death (choice G), the lack of nutrients and the accumulation of toxins become so severe that any viable organisms usually die before they can form spores."
   },
@@ -4980,7 +5015,13 @@
   },
   {
     "question": "A 26-year-old woman who is in the first trimester of pregnancy comes to the physician because of multiple symptoms including malaise, a low-grade fever, and myalgias. A heterophile antibody test is negative and an enzyme-linked immunosorbent assay (ELISA) is positive for antibodies to Toxoplasma gondii. Seven months later, the woman delivers a full-term baby with no obvious signs of infection. Measurement of which the following isotypes of immunoglobulin is most appropriate to defect acute infection in the neonate?",
-    "options": ["A. IgA", "B. IgE", "C. IgG1", "D. IgG4", "E. IgM"],
+    "options": [
+      "A. IgA",
+      "B. IgE",
+      "C. IgG1",
+      "D. IgG4",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanation": "The mother experienced symptoms consistent with acute toxoplasmosis during the first trimester, a high-risk period for congenital transmission. To determine if the neonate was infected in utero (congenital toxoplasmosis), one needs to detect antibodies produced by the fetus/neonate itself, not antibodies passively transferred from the mother. IgG antibodies readily cross the placenta. Therefore, detecting Toxoplasma-specific IgG (including subclasses IgG1 and IgG4) in the neonate simply reflects maternal IgG levels and does not confirm neonatal infection. IgM antibodies, however, do not cross the placenta. The presence of Toxoplasma-specific IgM in the neonate's serum indicates that the neonate's own immune system has responded to the infection, confirming congenital toxoplasmosis. IgA also does not cross the placenta well, and its presence could also indicate fetal production, but IgM is the primary marker for acute congenital infection detection. IgE is associated with parasites/allergy."
   },

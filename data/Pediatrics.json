@@ -1,5 +1,3 @@
-
-
 [
   {
     "question": "A 10-year-old patient with sickle cell disease comes ta the physician for a routine visit. The patient has a\nhistory of multiple pain crises and pneumonias. He was started on hydroxyurea one year ago and has nat\nhad any further pain crises since then. He has had no recent illnesses or hospitalizations. His physical\nexamination is unremarkable. The patient's labaratory results are shawn below.\nComplete blood count\nHemaglohin                 90g\nErythrocyte count          2.2 min/mm?\nMCHC                      32%\nMCW                        10511\nReticulocytes               2.0%\nFlatelets                    212 000/mm?\nLeukocyte count            9500/mm?\nNeutrophils               56%\nEosinophils              3%\nLymphocytes            36%\nMonocytes               5%\nWhich of the following best describes the role of hydroxyurea in the treatment of patients with sickle cell\ndisease?",
@@ -1357,14 +1355,14 @@
   {
     "question": "A newborn infant is noted to have ambiguous genitalia at birth. The infant's birth weight was 1800g. Examination reveals a lethargic infant with a weak and high-pitched cry, prominent scalp\nveins, tense fontanels, eyes directed downward, poor suckling, and hypatonia. CT scan reveals dilation of\nthe entire ventricular system, with distinct enlargement of the subarachnoid space aver the cerebral cortex.\nWhat is the most likely cause of the patient's condition?",
     "options": [
-        "A. Intraventricular hemarrhage",
-        "B. Dandy-Walker malformation",
-        "C. Arnold-Chiari malformation",
-        "D. Intrauterine infection"
+      "A. Intraventricular hemarrhage",
+      "B. Dandy-Walker malformation",
+      "C. Arnold-Chiari malformation",
+      "D. Intrauterine infection"
     ],
     "answer": "A",
     "explanation": ""
-},
+  },
   {
     "question": "A 17-year-old African-American male with sickle cell disease presents with recurrent\nepisodes of unbearable pain in his chest, abdomen, thighs and lower back. He was hospitalized six times in\nthe past twelve months. He does not have regular follow-up visits up with his physician, and comes to see\nhim \"only if required \" His blood pressure is 110/80 mmHg, pulse is B0/min, respirations are 16/min and\ntemperature is 37C(98F). Adequate hydration and analgesics are administered in the ED. What is the best\nintervention to prevent his painful episodes?",
     "options": [
@@ -1390,14 +1388,14 @@
   {
     "question": "A 2.6 kg (5 lb 11 oz) infant is born at 37 weeks gestation. The mother's\npregnancy was complicated by preeclampsia. The infant was delivered at 39-weeks gestation via emergent\ncesarean section due to maternal hypertension and non-reassuring fetal heart tones. On examination, the\ninfant's weight is 2.6 kg (5 1b 11 az) placing him in the 5% percentile, height is 18 inches (46 cm) placing him\nin the 5\" percentile, and head circumference is 13 inches (33 cm) placing him in the 10% percentile. The\ninfant's head seems large for her body. There is a paucity of subcutaneous fat. The remainder af the\nphysical examination is unremarkable. This infant is at risk for developing which of the following?",
     "options": [
-        "A. Hip subluxation",
-        "B. Palycythemia",
-        "C. Hyperglycemia",
-        "D. Hyperthermia"
+      "A. Hip subluxation",
+      "B. Palycythemia",
+      "C. Hyperglycemia",
+      "D. Hyperthermia"
     ],
     "answer": "B",
     "explanation": ""
-},
+  },
   {
     "question": "A 4-year-old girl presents with nasal discharge, nasal congestion, cough, and intermittent low-grade fever. She has had no vomiting, headache,\nearache, ar rash. Her temperature is 37.2C(98.9F), blood pressure is 88/50 mm Hag, pulse is 90/min, and\nrespirations are 15/min. Physical examination shows clear tympanic membranes, congested posterior\nnasopharynx with thick, yellow and purulent mucus, and red, swollen nasal turbinates. Transillumination of\nthe sinuses is equivocal. Palpation of the maxillary sinuses shows mild tenderness. Lungs are clear to\nauscultation. Which of the following organisms is the most common etiologic agent of this condition?",
     "options": [
@@ -1683,8 +1681,7 @@
     ],
     "answer": "C",
     "explanation": ""
-  }
-,
+  },
   {
     "question": "A 10-year-old boy is brought by his parents to the emergency department for the evaluation of headaches,\nfever, chills, and a rash over his neck, chest, and axillae. The rash appeared today, and for the past two days\nthe child was complaining of a sore throat. He has no history of allergies, and his immunizations are\nup-to-date. His blood pressure is 112/70 mmHg, pulse is 108/min, respirations are 20/min, and temperature\nis 38.3C (101F). Examination reveals an erythematous rash with a sandpaper-like texture, and which\nblanches with pressure. There is submandibular tender lymphadenopathy, and the throat is erythematous\nwith gray-white exudates. What is the most likely diagnosis?",
     "options": [
@@ -2437,8 +2434,7 @@
     ],
     "answer": "C",
     "explanation": "The patient most likely has Duchenne muscular dystrophy (DMD), which is the most common muscular\ndystrophy. His manifestations (i.e. pseudohypertrophy of the calves and positive Gower's sign) are\ncharacteristic for the disease. Furthermore, the similar symptomatology in the maternal uncle points out an\nX-linked recessive transmission. Muscle biopsy can confirm the diagnosis in this patient,\nalthough performing genetic studies are currently the most appropriate way of confirming the diagnosis in\natypical cases.\n(Choice A) An elevated serum creatinine kinase level is probably the earliest manifestation of the disease.\nIncreased levels can be seen in newborns. Similarly, aldolase levels are elevated, however, these levels can\ndrop as more muscle gets replaced with fat and fibrosis. These tests are typically used for screening\npurposes, rather than confirmatory.\n(Choices B and D) In DMD, EMG demonstrates a characteristic myopathic pattern with normal nerve\nconduction velocities; however, it is not used to confirm the diagnosis.\nEducational Objective:\nSerum CK levels are used for screening the muscular dystrophies. Muscle biopsy can confirm the diagnosis\nin most cases. The gold standard is genetic studies, which is required in atypical cases."
-  }
-,
+  },
   {
     "question": "A 8-year-old boy is brought to the emergency department (ED) by the paramedics due to nausea, vomiting,\ndiarrhea and abdominal pain over the past haur. His mother found an open multivitamin supplement battle\nand some pills scattered on the kitchen floor. After his admission to the ED, he starts hyperventilating and\nexperiences hematemesis. His blood pressure is 30/60 mmHg, pulse is 130/min, respirations are 50/min and\ntemperature is 37.2 C (98F). Abdominal plain x-ray reveals several small opacities in the stomach and\nduodenum. Lab results are:\nHb                      13.5 g/dL\nHt                        42%\nWBC                     10,000/cmm\nFlatelets                 300,000/cmm\nBlood Glucose          118 mg/dL\nSerum Na               135 mEg/L\nSerum K               3.4 mEq/L\nChloride                102 mEg/L\nBicarbonate             16 mEq/L\nBUN                    16 mg/dL\nSerum Creatinine       1.0 mg/dL\npH                        7.30\nPaO2                    90 mm Hg\nPaCO2                  29 mm Hg\nWhat is the mast likely diagnosis?",
     "options": [

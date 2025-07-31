@@ -1236,7 +1236,13 @@
   },
   {
     "question": "A 57-year-old man with a history of alcohol abuse presents with a 12-hour history of severe central epigastric pain radiating through to the back. Blood tests reveal a normal white cell count, amylase 2250 U/ml, LDH 530 IU/L, calcium 2.2 mmol/L, albumin 38 g/dl, urea 12 mmol/L and blood glucose 14 mmol/L. An arterial blood gas reading demonstrates a pO2 of 10.2 kPa on room air.\nWhat is his Glasgow score?",
-    "options": ["A. 0", "B. 1", "C. 2", "D. 3", "E. 4"],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3",
+      "E. 4"
+    ],
     "answer": "C",
     "page": 40,
     "topic": "Scoring systems (1)",
@@ -3507,7 +3513,13 @@
   },
   {
     "question": "A new blood test is being developed to help diagnose sarcoidosis. In a trial 100 patients have been tested. The trial produces 20 positive results and 80 negative results. Of the 20 positive results, 10 of them are false positives. Of the 80 negative results, 10 of them are false negatives.\nWhat is the sensitivity of this test?",
-    "options": ["A. 10%", "B. 25%", "C. 50%", "D. 75%", "E. 90%"],
+    "options": [
+      "A. 10%",
+      "B. 25%",
+      "C. 50%",
+      "D. 75%",
+      "E. 90%"
+    ],
     "answer": "C",
     "page": 96,
     "topic": "Statistics (1)",
@@ -5156,7 +5168,13 @@
   },
   {
     "question": "A 65-year-old man with a longstanding history of chronic obstructive pulmonary disease was admitted to the hospital with an acute exacerbation. His observations include temperature 37.5°C, pulse rate 120 bpm, blood pressure 140/90 mmHg, respiratory rate 28/min and saturations 84% on room air. An arterial blood gas shows pH 7.31, PaO2 4.6 kPa, PaCO2 8.3 kPa and bicarbonate 25.2 mmol/L.\nWhat is the most appropriate percentage of O2 to be given initially?",
-    "options": ["A. 28%", "B. 35%", "C. 40%", "D. 60%", "E. 100%"],
+    "options": [
+      "A. 28%",
+      "B. 35%",
+      "C. 40%",
+      "D. 60%",
+      "E. 100%"
+    ],
     "answer": "A",
     "page": 167,
     "topic": "Oxygen therapy",
@@ -5439,7 +5457,13 @@
   },
   {
     "question": "Which clotting factor is deficient in haemophilia A?",
-    "options": ["A. VII", "B. VIII", "C. IX", "D. XI", "E. vWF"],
+    "options": [
+      "A. VII",
+      "B. VIII",
+      "C. IX",
+      "D. XI",
+      "E. vWF"
+    ],
     "answer": "B",
     "page": 170,
     "topic": "Haemophilia",
@@ -6150,7 +6174,13 @@
   },
   {
     "question": "A new tumour marker is being tested for use in cholangiocarcinomas. In a trial 40 patients have been tested. The trial produces 10 positive results and 30 negative results. Of the 10 positive results, 5 of them are false positives. Of the 30 negative results, 5 of them are false negatives.\nWhat is the specificity of this test?",
-    "options": ["A. 17%", "B. 50%", "C. 70%", "D. 83%", "E. 100%"],
+    "options": [
+      "A. 17%",
+      "B. 50%",
+      "C. 70%",
+      "D. 83%",
+      "E. 100%"
+    ],
     "answer": "D",
     "page": 179,
     "topic": "Statistics (2)",
@@ -6377,7 +6407,13 @@
   },
   {
     "question": "A 70-year-old woman with a background of bowel cancer, which was resected 2 years ago, presents with a 3-week history of back pain, progressive clumsiness and heaviness of the legs with paraesthesia. On examination, the arms are normal, but there is weakness throughout the legs, brisk reflexes, upgoing plantars and diminished sensation bilaterally up to the belly button.\nWhere is the lesion likely to be?",
-    "options": ["A. C5", "B. L2", "C. T8", "D. T10", "E. T12"],
+    "options": [
+      "A. C5",
+      "B. L2",
+      "C. T8",
+      "D. T10",
+      "E. T12"
+    ],
     "answer": "D",
     "page": 204,
     "topic": "Spinal cord compression",
@@ -6723,7 +6759,13 @@
   },
   {
     "question": "Which of the following is the universal recipient in blood transfusion?",
-    "options": ["A. A+", "B. AB–", "C. AB+", "D. B–", "E. O"],
+    "options": [
+      "A. A+",
+      "B. AB–",
+      "C. AB+",
+      "D. B–",
+      "E. O"
+    ],
     "answer": "C",
     "page": 208,
     "topic": "Blood groups",

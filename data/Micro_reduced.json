@@ -714,7 +714,14 @@
   },
   {
     "question": "During an investigational study, blood from a healthy volunteer is analyzed by flow cytometry. The relative proportion of all cells bearing surface immunoglobulin in the circulation is evaluated. Which of the following cell surface markers should be used to identify the B cells in this blood sample?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD19", "E. CD56", "F. IgM"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD19",
+      "E. CD56",
+      "F. IgM"
+    ],
     "answer": "D",
     "explanation": "The correct answer is D. The best markers for identification of B cells are CD19, CD20, and CD21. The CD21 molecule is a receptor for Epstein-Barr virus (EBV). The CD3 marker (choice A) is present on all T cells. This is the marker that is used to identify total T cell count in a blood sample. CD3 is the signal transduction molecule on T cells. The CD4 marker (choice B) is used to identify T-helper (TH) cells. These are the cells that recognize exogenous peptides presented on major histocompatibility complex (MHC) class II molecules by macrophages. CD4+ TH cells are also involved in cell-mediated delayed hypersensitivity, production of cytokines for stimulation of antibody production by B cells, and stimulation of macrophages. The CD8 marker (choice C) is used to identify cytotoxic T cells. These are the cells that recognize viral epitopes attached to the MHC class | molecules of a virus-infected cell. The CD56 marker (choice E) is used to identify natural Killer (NK) cells. These cells are important in innate host defense, specializing in killing virus-infected cells and tumor cells by secreting granzymes and perforins. IgM (choice F) is present on mature naive B lymphocytes along with IgD, but would not be present on any memory cells. Therefore, to receive an idea of the proportion of all immunoglobulin-bearing cells in the circulation, IgM determination would not be the best choice."
   },
@@ -792,13 +799,25 @@
   },
   {
     "question": "A 28-year-old man is brought into court for nonpayment of child support. His ex-wife states that he is the father of her child, although he denies it. The court orders genetic tests, including one for genetic immunoglobulin identification of the mother, father, and child. Which of the following immunoglobulin markers is likely to be most useful in this paternity case?",
-    "options": ["A. Allotype", "B. Idiotype", "C. Isotype", "D. Subisotype"],
+    "options": [
+      "A. Allotype",
+      "B. Idiotype",
+      "C. Isotype",
+      "D. Subisotype"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Allotypes are genetically inherited markers (amino acid sequence differences) that occur within the constant domains of both heavy and light chains of immunoglobulin molecules. They reflect the paternity of the individual, and are similar in concept to the ABO blood group alloantigens: they do not affect the function of the cell that bears them, but simply reflect patterns of inheritance. These are distinctive markers that, when present, can be helpful in paternity cases. If this man had these markers and the child had the same markers, then this would be presumptive evidence that the man is the child's biologic father. Other genetic tests would also performed in this case, because if the mother and father happened to have the same markers, then the findings could be nonconclusive. Idiotypes (choice B) are the antigen-recognition portions of the immunoglobulin molecule that are unique for specific antigens to which we have been exposed. Since every antibody molecule has a different idiotype (antigenic specificity) unless it has been made by a clone of cells, these would not be useful in determining paternity. The isotypes (choice C) are the five major classes of immunoglobulin: IgG, IgA, IgM, IgD, and IgE. They are distinct from one another based on amino acid sequences in the constant domains of both heavy and light chains. Isotypes would not be helpful for a paternity case. Subisotypes (choice D) are subclasses within the isotypes of antibodies. IgG has four subisotypes and IgA has two subisotypes. They are distinguished on the basis of amino acid sequences in the constant domains of heavy chains and would not be useful in determining paternity."
   },
   {
     "question": "A 54-year-old Hispanic man comes to the physician because of skin lesions. Physical examination shows several disfiguring lesions on the face. and there is loss of cutaneous sensation for light touch, pain, and temperature. Histologic examination of the lesions shows multinucleated giant cells. Which of the following is most likely to be found on the surface of these cells?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD20", "F. CD56"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD14",
+      "E. CD20",
+      "F. CD56"
+    ],
     "answer": "D",
     "explanation": "The correct answer is D. The disease in question is leprosy, or Hansen disease. Mycobacterium leprae has a predilection for the skin and cutaneous nerves, thereby producing the symptoms of depigmentation and anesthetic cutaneous lesions. This loss of peripheral nerve function leads to many of the disfiguring features of the disease: because the patients do not have normal pain sensation, they sustain repeated injuries. In addition, the organism attacks cartilage and causes granuloma formation in the skin, leading to some of the facial damage. The multinucleated giant cells that form in leprosy are modified macrophages or epithelioid cells. They possess CD14, the endotoxin receptor on their cell surface as well as CD16, the Fc receptor for the Fc tail of immunoglobulin G. CD3 (choice A) is the signal transduction complex molecule in T lymphocytes. Although T cells would be found in the granulomatous lesions of tuberculoid leprosy, these are not the cells that become multinucleated giant cells in these areas. CD4 (choice B) is the specific marker on the surface of T-helper lymphocytes. It would not be found on the multinucleated giant cells found in leprosy. CD8 (choice C) is the specific marker on the surface of cytotoxic T lymphocytes. These are not the cells that fuse together in the lesions of leprosy. CD20 (choice E) is part of the signal transduction complex in B lymphocytes. It would not be found on the surface of modified macrophages. CD56 (choice F) is one of two markers used to identify natural killer (NK) cells in tissues. The other marker on NK cells is CD16, the Fc receptor, by which NK cells carry out antibody-dependent, cell-mediated cytotoxicity. NK cells do not fuse together to form multinucleated giant cells in leprosy."
   },
@@ -1130,7 +1149,13 @@
   },
   {
     "question": "A 14-year-old girl is brought to the emergency department because of dyspnea. tachycardia, and diaphoresis following a bee sting. Which of the following is the first immunoglobulin produced in response to this antigen?",
-    "options": ["A. lgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "options": [
+      "A. lgA",
+      "B. IgD",
+      "C. IgE",
+      "D. IgG",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanation": "The correct answer is E. The first immunoglobulin produced in response to any immunogen is always IgM. This is because of the sequential transcription of the DNA coding for the immunoglobulin isotype genes. The first constant domain that is encoded downstream in the DNA from the idiotype coding is that for IgM and then IgD. These two isotypes are produced and expressed concomitantly. It is not possible for any other immunoglobulin to be made first. The symptoms that this patient is having are the result of a type | hypersensitivity reaction, but in these reactions the IgE antibody is preformed and already bound to mast cell receptors. IgE is not made during the hypersensitivity reaction itself. IgA (choice A), IgE (choice C) and IgG (choice D) can only be produced as a secondary response, i.e., one that follows the primary IgM response. The DNA coding for the IgD (choice B) heavy chain follows that of IgM in the lymphocyte germ-line DNA. Mature, naive B lymphocytes express both IgM and IgD on their surfaces because of alternative RNA splicing, but the complete IgM molecule is always produced first."
   },
@@ -1208,7 +1233,13 @@
   },
   {
     "question": "A 33-year-old woman is brought to the emergency department because of a deep puncture wound in her right hand. A shard of glass is removed from the patient's hand, and the wound is appropriately cleaned and treated at the time of the accident. Twelve hours later, the wound becomes inflamed and swollen despite appropriate therapy. Which of the following molecules plays an important role in producing chemotaxis of white blood cells into this area?",
-    "options": ["A. C3b", "B. C5a", "C. IgM", "D. IL-2", "E. Lysozyme"],
+    "options": [
+      "A. C3b",
+      "B. C5a",
+      "C. IgM",
+      "D. IL-2",
+      "E. Lysozyme"
+    ],
     "answer": "B",
     "explanation": "The correct answer is B. In active inflammation, the complement system has been activated and C5a is being produced. C5a is a strong chemoattractant to neutrophils and other phagocytic cells. Other chemotactic factors for neutrophils include IL-8, fibrinopeptides, leukotriene B4, and formyl methionyl peptides from bacteria. C3b (choice A) acts as an opsonin for microorganisms. When the organism is coated with C3b, it is more easily phagocytized. C3b is formed via the classical and alternative complement pathways, but it is not chemotactic for neutrophils. IgM (choice C) is the large antibody produced in the primary immune response. It is not chemotactic for neutrophils. IL-2 (choice D) is a growth-promoting interleukin that stimulates the proliferation of natural killer cells, and T-cytotoxic cells, and T-helper lymphocytes, but it is not chemotactic for neutrophils. Lysozyme (choice E) is a natural antibacterial present in tears, mucus, vaginal secretions, and other body fluids. It is active against the peptidoglycan of bacterial cell walls, splitting the backbone structure of the peptidoglycan (N-acetylglucosamine and N-acetyl muramic acid polymers). It is not chemotactic for neutrophils."
   },
@@ -3275,7 +3306,15 @@
   },
   {
     "question": "A B-year-old girl is brought to the physician by her parents because of a severe sore throat. Her temperature is 38.9°C (102.0°F). Physical examination shows an erythematous posterior oropharynx with obvious abscesses on the tonsillar pillars, A rapid antigen test for Streptococcus pyogenes is positive. A beta-lactam antibiotic will have greatest efficacy at which of the following stages shown in the diagram?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "C",
     "explanation": "The correct answer is C. In the bacterial growth curve, rapid exponential growth occurs during the log (or logarithmic growth) phase. Within this period, the generation time equals the time it takes for one cell to divide into two. Beta-lactam drugs act by inhibiting cell wall synthesis. In a bacterial culture, cell wall synthesis will occur at a maximal rate during the period of exponential growth, which is marked on the graph by the letter C. The lag phase (choice A) is the initial phase of a bacterial culture during which there is no increase in cell number. Cells in a culture at this stage are activating enzymes necessary for metabolism, but are not undergoing cell wall synthesis. Choice B indicates the initial phase of bacterial multiplication, when cell division has not yet reached a maximum. Although cell wall synthesis would indeed make such cells sensitive to beta-lactam antibiotics, it is not the period of maximum sensitivity. Choice D indicates the phase of the bacterial growth curve when toxic metabolic products begin to accumulate and nutrient levels begin to be insufficient to support continued growth. New cell wall synthesis would begin to fall at this point. The stationary phase (choice E) is a period of the bacterial growth curve when the number of bacteria dividing in the culture equals the number of cells dying. This would not be a period of intense cell wall synthesis. The decline (choice F) and death (choice G) phases of the bacterial growth curve are periods when bacteria are dying more rapidly than they are dividing. Cell wall synthesis would be minimal."
   },
@@ -3380,7 +3419,13 @@
   },
   {
     "question": "A 38-year-old man with a history of hemophilia has had multiple infusions of clotting factors in his lifetime. Laboratory studies of ten batches of clotting factors administered to this patient show contamination with the human immunodeficiency virus, yet he has remained HIV-negative. The patient's CD4 count is 900/uL and reverse transcriptase polymerase chain reaction (RT-PCR) for the virus is negative. Absence of which of the following cell surface receptors best explains the findings in this patient?",
-    "options": ["A. CCR5", "B. CD4", "C. CD8", "D. Gp120", "E. TNF receptor"],
+    "options": [
+      "A. CCR5",
+      "B. CD4",
+      "C. CD8",
+      "D. Gp120",
+      "E. TNF receptor"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Human immunodeficiency virus (HIV) infection does not always progress to avert acquired immunodeficiency syndrome (AIDS). In a few fortunate individuals (called nonprogressors) the infection remains asymptomatic, with a stable CD4 cell count and low or undetectable viremia. It is not entirely clear whether these patients will eventually develop AIDS. Some are resistant to HIV infection because they carry two defective copies of the gene encoding the CCR5 co-receptor. There are 15 known co-receptors, of which CCR5 and CXCR4 are the best characterized. CCR5 is a receptor for chemokines and serves as a co-receptor for HIV internalization into macrophages. CXCR4 is a chemokine receptor that serves as the co-receptor for HIV internalization into T lymphocytes. Approximately 1% of Caucasians in the United States are homozygous for such a protective CCR5 variant, and 20% are heterozygotes. HIV infection follows a slower course in heterozygotes. Homozygotes for this protective CCR5 variant are not present among Black and Asian populations. CD4 (choice B) is an important receptor of T-helper lymphocytes, macrophages, and Langerhans cells. It acts as the primary receptor for HIV binding. Binding to CD4, however, is not sufficient for the entry of HIV into the cells. Individuals without CD4 positive cells are defined as having a severe combined immunodeficiency (SCID) and such a condition was not mentioned in the stem. The viral envelope gp120 protein (choice D) first binds CD4. This results in a conformational change in gp120 that allows this protein to bind co-receptors. Such co-receptors are present on lymphocytes and macrophages and normally serve as binding sites for chemokines. Once gp120 binds to CD4 and a co-receptor, a second viral protein gp41 facilitates fusion of the viral envelope with the plasma membrane, allowing 'injection' of the viral core into the cell. Neither CD8 (choice C) nor the receptor for TNF (choice E) plays a role in HIV binding to cells. CD8 is the co-receptor on cytotoxic T lymphocytes that stabilizes the interaction between the T cell receptor and the major histocompatibility molecule. The TNF receptor is a molecule on T lymphocytes that receives stimulatory signals from macrophages or in other cases receives apoptotic signals in various cells."
   },
@@ -4844,7 +4889,15 @@
   },
   {
     "question": "A 8-year-old girl is brought to the physician by her parents because of a severe sore throat. Her temperature is 38.9°C (102.0°F). Physical examination shows an erythematous posterior oropharynx with obvious abscesses on the tonsillar pillars, A rapid antigen test for Streptococcus pyogenes is positive. A beta-lactam antibiotic will have greatest efficacy at which of the following stages shown in the diagram?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "C",
     "explanation": "The correct answer is C. In the bacterial growth curve, rapid exponential growth occurs during the log (or logarithmic growth) phase. Within this period, the generation time equals the time it takes for one cell to divide into two. Beta-lactam drugs act by inhibiting cell wall synthesis. In a bacterial culture, cell wall synthesis will occur at a maximal rate during the period of exponential growth, which is marked on the graph by the letter C. The lag phase (choice A) is the initial phase of a bacterial culture during which there is no increase in cell number. Cells in a culture at this stage are activating enzymes necessary for metabolism, but are not undergoing cell wall synthesis. Choice B indicates the initial phase of bacterial multiplication, when cell division has not yet reached a maximum. Although cell wall synthesis would indeed make such cells sensitive to beta-lactam antibiotics, it is not the period of maximum sensitivity. Choice D indicates the phase of the bacterial growth curve when toxic metabolic products begin to accumulate and nutrient levels begin to be insufficient to support continued growth. New cell wall synthesis would begin to fall at this point. The stationary phase (choice E) is a period of the bacterial growth curve when the number of bacteria dividing in the culture equals the number of cells dying. This would not be a period of intense cell wall synthesis. The decline (choice F) and death (choice G) phases of the bacterial growth curve are periods when bacteria are dying more rapidly than they are dividing. Cell wall synthesis would be minimal."
   },
@@ -4949,7 +5002,13 @@
   },
   {
     "question": "A 38-year-old man with a history of hemophilia has had multiple infusions of clotting factors in his lifetime. Laboratory studies of ten batches of clotting factors administered to this patient show contamination with the human immunodeficiency virus, yet he has remained HIV-negative. The patient's CD4 count is 900/uL and reverse transcriptase polymerase chain reaction (RT-PCR) for the virus is negative. Absence of which of the following cell surface receptors best explains the findings in this patient?",
-    "options": ["A. CCR5", "B. CD4", "C. CD8", "D. Gp120", "E. TNF receptor"],
+    "options": [
+      "A. CCR5",
+      "B. CD4",
+      "C. CD8",
+      "D. Gp120",
+      "E. TNF receptor"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Human immunodeficiency virus (HIV) infection does not always progress to avert acquired immunodeficiency syndrome (AIDS). In a few fortunate individuals (called nonprogressors) the infection remains asymptomatic, with a stable CD4 cell count and low or undetectable viremia. It is not entirely clear whether these patients will eventually develop AIDS. Some are resistant to HIV infection because they carry two defective copies of the gene encoding the CCR5 co-receptor. There are 15 known co-receptors, of which CCR5 and CXCR4 are the best characterized. CCR5 is a receptor for chemokines and serves as a co-receptor for HIV internalization into macrophages. CXCR4 is a chemokine receptor that serves as the co-receptor for HIV internalization into T lymphocytes. Approximately 1% of Caucasians in the United States are homozygous for such a protective CCR5 variant, and 20% are heterozygotes. HIV infection follows a slower course in heterozygotes. Homozygotes for this protective CCR5 variant are not present among Black and Asian populations. CD4 (choice B) is an important receptor of T-helper lymphocytes, macrophages, and Langerhans cells. It acts as the primary receptor for HIV binding. Binding to CD4, however, is not sufficient for the entry of HIV into the cells. Individuals without CD4 positive cells are defined as having a severe combined immunodeficiency (SCID) and such a condition was not mentioned in the stem. The viral envelope gp120 protein (choice D) first binds CD4. This results in a conformational change in gp120 that allows this protein to bind co-receptors. Such co-receptors are present on lymphocytes and macrophages and normally serve as binding sites for chemokines. Once gp120 binds to CD4 and a co-receptor, a second viral protein gp41 facilitates fusion of the viral envelope with the plasma membrane, allowing 'injection' of the viral core into the cell. Neither CD8 (choice C) nor the receptor for TNF (choice E) plays a role in HIV binding to cells. CD8 is the co-receptor on cytotoxic T lymphocytes that stabilizes the interaction between the T cell receptor and the major histocompatibility molecule. The TNF receptor is a molecule on T lymphocytes that receives stimulatory signals from macrophages or in other cases receives apoptotic signals in various cells."
   },
@@ -6437,7 +6496,15 @@
   },
   {
     "question": "A 8-year-old girl is brought to the physician by her parents because of a severe sore throat. Her temperature is 38.9°C (102.0°F). Physical examination shows an erythematous posterior oropharynx with obvious abscesses on the tonsillar pillars, A rapid antigen test for Streptococcus pyogenes is positive. A beta-lactam antibiotic will have greatest efficacy at which of the following stages shown in the diagram?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "C",
     "explanation": "The correct answer is C. In the bacterial growth curve, rapid exponential growth occurs during the log (or logarithmic growth) phase. Within this period, the generation time equals the time it takes for one cell to divide into two. Beta-lactam drugs act by inhibiting cell wall synthesis. In a bacterial culture, cell wall synthesis will occur at a maximal rate during the period of exponential growth, which is marked on the graph by the letter C. The lag phase (choice A) is the initial phase of a bacterial culture during which there is no increase in cell number. Cells in a culture at this stage are activating enzymes necessary for metabolism, but are not undergoing cell wall synthesis. Choice B indicates the initial phase of bacterial multiplication, when cell division has not yet reached a maximum. Although cell wall synthesis would indeed make such cells sensitive to beta-lactam antibiotics, it is not the period of maximum sensitivity. Choice D indicates the phase of the bacterial growth curve when toxic metabolic products begin to accumulate and nutrient levels begin to be insufficient to support continued growth. New cell wall synthesis would begin to fall at this point. The stationary phase (choice E) is a period of the bacterial growth curve when the number of bacteria dividing in the culture equals the number of cells dying. This would not be a period of intense cell wall synthesis. The decline (choice F) and death (choice G) phases of the bacterial growth curve are periods when bacteria are dying more rapidly than they are dividing. Cell wall synthesis would be minimal."
   },
@@ -6542,7 +6609,13 @@
   },
   {
     "question": "A 38-year-old man with a history of hemophilia has had multiple infusions of clotting factors in his lifetime. Laboratory studies of ten batches of clotting factors administered to this patient show contamination with the human immunodeficiency virus, yet he has remained HIV-negative. The patient's CD4 count is 900/uL and reverse transcriptase polymerase chain reaction (RT-PCR) for the virus is negative. Absence of which of the following cell surface receptors best explains the findings in this patient?",
-    "options": ["A. CCR5", "B. CD4", "C. CD8", "D. Gp120", "E. TNF receptor"],
+    "options": [
+      "A. CCR5",
+      "B. CD4",
+      "C. CD8",
+      "D. Gp120",
+      "E. TNF receptor"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Human immunodeficiency virus (HIV) infection does not always progress to avert acquired immunodeficiency syndrome (AIDS). In a few fortunate individuals (called nonprogressors) the infection remains asymptomatic, with a stable CD4 cell count and low or undetectable viremia. It is not entirely clear whether these patients will eventually develop AIDS. Some are resistant to HIV infection because they carry two defective copies of the gene encoding the CCR5 co-receptor. There are 15 known co-receptors, of which CCR5 and CXCR4 are the best characterized. CCR5 is a receptor for chemokines and serves as a co-receptor for HIV internalization into macrophages. CXCR4 is a chemokine receptor that serves as the co-receptor for HIV internalization into T lymphocytes. Approximately 1% of Caucasians in the United States are homozygous for such a protective CCR5 variant, and 20% are heterozygotes. HIV infection follows a slower course in heterozygotes. Homozygotes for this protective CCR5 variant are not present among Black and Asian populations. CD4 (choice B) is an important receptor of T-helper lymphocytes, macrophages, and Langerhans cells. It acts as the primary receptor for HIV binding. Binding to CD4, however, is not sufficient for the entry of HIV into the cells. Individuals without CD4 positive cells are defined as having a severe combined immunodeficiency (SCID) and such a condition was not mentioned in the stem. The viral envelope gp120 protein (choice D) first binds CD4. This results in a conformational change in gp120 that allows this protein to bind co-receptors. Such co-receptors are present on lymphocytes and macrophages and normally serve as binding sites for chemokines. Once gp120 binds to CD4 and a co-receptor, a second viral protein gp41 facilitates fusion of the viral envelope with the plasma membrane, allowing 'injection' of the viral core into the cell. Neither CD8 (choice C) nor the receptor for TNF (choice E) plays a role in HIV binding to cells. CD8 is the co-receptor on cytotoxic T lymphocytes that stabilizes the interaction between the T cell receptor and the major histocompatibility molecule. The TNF receptor is a molecule on T lymphocytes that receives stimulatory signals from macrophages or in other cases receives apoptotic signals in various cells."
   },
@@ -6769,7 +6842,15 @@
   },
   {
     "question": "A 43-year-old man who is a mail carrier is brought to the emergency department by his wife because of severe substernal pain and cough. His temperature is 40.0°C (104.0°F). A chest x-ray shows pronounced mediastinal widening. Culture of the blood on blood agar grows nonhemolytic, rough, gray colonies. During which of the stages of the bacterial growth curve shown will spore production be at its maximum? [Image shows typical bacterial growth curve with phases labeled A-G: A=Lag, C=Exponential/Log, E=Stationary, F/G=Decline/Death]",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "E",
     "explanation": "This patient is displaying the symptoms of inhalation anthrax (also known as wool-sorter's disease). The characteristic chest X-ray finding is hemorrhagic mediastinitis causing mediastinal widening. Blood cultures grow Bacillus anthracis (gram-positive rods, nonhemolytic, rough gray colonies). B. anthracis forms endospores as a survival mechanism when environmental conditions become unfavorable (e.g., nutrient depletion, accumulation of toxic byproducts). Spore formation (sporulation) is typically initiated during the late logarithmic phase and reaches its maximum during the stationary phase (labeled E on a typical growth curve) when growth rate equals death rate due to limiting factors. Spores are generally not formed during active growth (lag phase A, exponential phase C) or extensive decline/death (F, G)."
   },
@@ -7405,7 +7486,13 @@
   },
   {
     "question": "A 26-year-old woman who is in the first trimester of pregnancy comes to the physician because of multiple symptoms including malaise, a low-grade fever, and myalgias. A heterophile antibody test is negative and an enzyme-linked immunosorbent assay (ELISA) is positive for antibodies to Toxoplasma gondii. Seven months later, the woman delivers a full-term baby with no obvious signs of infection. Measurement of which the following isotypes of immunoglobulin is most appropriate to defect acute infection in the neonate?",
-    "options": ["A. IgA", "B. IgE", "C. IgG1", "D. IgG4", "E. IgM"],
+    "options": [
+      "A. IgA",
+      "B. IgE",
+      "C. IgG1",
+      "D. IgG4",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanation": "IgM immunoglobulin directed against Toxoplasma would provide evidence of infection in the newborn baby. Since IgG antibodies are actively transported across the placenta into the fetus, it is not possible to determine the origin of IgG antibodies in a neonate. The presence of an elevated IgG titer (including subclasses IgG1 and IgG4) in a neonate is simply a reflection of the response of the mother to the agent and passive transfer. IgM antibodies do not cross the placenta. Therefore, the presence of Toxoplasma-specific IgM in the neonate's serum indicates active production by the infant in response to infection, confirming congenital toxoplasmosis.\nIgA (choice A) is the antibody that is produced in response to mucosal infections. It cannot cross the placenta effectively. IgE (choice B) is the antibody produced in response to parasites or allergens; it does not cross the placenta."
   },

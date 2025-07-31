@@ -349,7 +349,13 @@
   },
   {
     "question": "A 64-year-old woman undergoes pulmonary function testing. Her vital capacity (VC) is 4.5 L, expiratory reserve volume (ERV) is 1.0 L, and tidal volume (TV) is 0.5 L. Which of the following best approximates her inspiratory reserve volume (IRV)?",
-    "options": ["A. 1.0 L", "B. 1.5 L", "C. 2.0 L", "D. 2.5 L", "E. 3.0 L"],
+    "options": [
+      "A. 1.0 L",
+      "B. 1.5 L",
+      "C. 2.0 L",
+      "D. 2.5 L",
+      "E. 3.0 L"
+    ],
     "answer": "E",
     "explanations": {
       "A": "Incorrect calculation.",
@@ -1201,7 +1207,13 @@
   },
   {
     "question": "Pulmonary function testing in a 64-year-old woman shows: Vital Capacity (VC) = 4.5 L, Expiratory Reserve Volume (ERV) = 1.0 L, Tidal Volume (TV) = 0.5 L. Calculate her Inspiratory Reserve Volume (IRV).",
-    "options": ["A. 1.0 L", "B. 1.5 L", "C. 2.0 L", "D. 2.5 L", "E. 3.0 L"],
+    "options": [
+      "A. 1.0 L",
+      "B. 1.5 L",
+      "C. 2.0 L",
+      "D. 2.5 L",
+      "E. 3.0 L"
+    ],
     "answer": "E",
     "explanations": {
       "A": "Incorrect.",

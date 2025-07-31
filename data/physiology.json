@@ -352,17 +352,6 @@
     "explanation": "Hormones are described as 'chemical substances called hormones... secreted by endocrine glands, organs and tissues... [that] help regulate cellular function.'"
   },
   {
-    "question": "Which of the following is an example of a hormone's function mentioned in the text?",
-    "options": [
-      "A. Thyroid hormone increasing the rates of most chemical reactions in all cells.",
-      "B. Insulin controlling the transmission of nerve signals.",
-      "C. Parathyroid hormone regulating the speed of muscle contraction.",
-      "D. Adrenocortical hormones solely controlling bone density."
-    ],
-    "answer": "A",
-    "explanation": "The text provides examples: 'thyroid hormone increases the rates of most chemical reactions in all cells, thus helping set the tempo of bodily activity. Insulin controls glucose metabolism, adrenocortical hormones control sodium and potassium ions and protein metabolism, and parathyroid hormone controls bone calcium and phosphate.'"
-  },
-  {
     "question": "Which system provides a regulatory system that complements the nervous system by regulating metabolic functions?",
     "options": [
       "A. Hormone systems",
@@ -1332,7 +1321,12 @@
   },
   {
     "question": "What is the typical maximum efficiency of a normal heart?",
-    "options": ["A. 20% to 25%", "B. 5%", "C. 50%", "D. 100%"],
+    "options": [
+      "A. 20% to 25%",
+      "B. 5%",
+      "C. 50%",
+      "D. 100%"
+    ],
     "answer": "A",
     "explanation": "The text states, 'Maximum efficiency of the normal heart is between 20% and 25%.'"
   },
@@ -1778,7 +1772,12 @@
   },
   {
     "question": "What percentage of chemical energy expended by the heart is converted into work output?",
-    "options": ["A. 20% to 25%", "B. 5%", "C. 50%", "D. 70% to 90%"],
+    "options": [
+      "A. 20% to 25%",
+      "B. 5%",
+      "C. 50%",
+      "D. 70% to 90%"
+    ],
     "answer": "A",
     "explanation": "Maximum efficiency of the normal heart is 'between 20% and 25%.'"
   },
@@ -2653,7 +2652,12 @@
   },
   {
     "question": "What is the approximate maximum efficiency of a normal heart?",
-    "options": ["A. 20% to 25%", "B. 5%", "C. 50%", "D. 70% to 90%"],
+    "options": [
+      "A. 20% to 25%",
+      "B. 5%",
+      "C. 50%",
+      "D. 70% to 90%"
+    ],
     "answer": "A",
     "explanation": "Maximum efficiency of the normal heart is 'between 20% and 25%'."
   },
@@ -5024,7 +5028,12 @@
   },
   {
     "question": "What is the approximate normal plasma colloid osmotic pressure?",
-    "options": ["A. 28 mm Hg.", "B. 19 mm Hg.", "C. 9 mm Hg.", "D. 41 mm Hg."],
+    "options": [
+      "A. 28 mm Hg.",
+      "B. 19 mm Hg.",
+      "C. 9 mm Hg.",
+      "D. 41 mm Hg."
+    ],
     "answer": "A",
     "explanation": "The colloid osmotic pressure of normal human plasma averages 'about 28 mm Hg.'"
   },
@@ -5063,13 +5072,23 @@
   },
   {
     "question": "What is the approximate normal net filtration pressure (NFP) at the arterial end of capillaries?",
-    "options": ["A. 13 mm Hg.", "B. 41 mm Hg.", "C. 28 mm Hg.", "D. 7 mm Hg."],
+    "options": [
+      "A. 13 mm Hg.",
+      "B. 41 mm Hg.",
+      "C. 28 mm Hg.",
+      "D. 7 mm Hg."
+    ],
     "answer": "A",
     "explanation": "The summation of forces at the arterial end shows a 'net filtration pressure of 13 mm Hg.'"
   },
   {
     "question": "What is the approximate net reabsorption pressure at the venous end of capillaries?",
-    "options": ["A. 7 mm Hg.", "B. 13 mm Hg.", "C. 21 mm Hg.", "D. 28 mm Hg."],
+    "options": [
+      "A. 7 mm Hg.",
+      "B. 13 mm Hg.",
+      "C. 21 mm Hg.",
+      "D. 28 mm Hg."
+    ],
     "answer": "A",
     "explanation": "There is a 'net reabsorption pressure of 7 mm Hg at the venous ends of the capillaries.'"
   },
@@ -6340,7 +6359,12 @@
   },
   {
     "question": "What is the approximate protein concentration of lymph normally derived from the intestines?",
-    "options": ["A. 3 to 4 g/dl.", "B. 2 g/dl.", "C. 6 g/dl.", "D. 1 g/dl."],
+    "options": [
+      "A. 3 to 4 g/dl.",
+      "B. 2 g/dl.",
+      "C. 6 g/dl.",
+      "D. 1 g/dl."
+    ],
     "answer": "A",
     "explanation": "Lymph formed in the intestines has a protein concentration as high as '3 to 4 g/dl.'"
   },
@@ -7314,7 +7338,12 @@
   },
   {
     "question": "What is the approximate total cross-sectional area of all systemic capillaries?",
-    "options": ["A. 2500 cm².", "B. 40 cm².", "C. 20 cm².", "D. 8 cm²."],
+    "options": [
+      "A. 2500 cm².",
+      "B. 40 cm².",
+      "C. 20 cm².",
+      "D. 8 cm²."
+    ],
     "answer": "A",
     "explanation": "The approximate total cross-sectional area of the systemic capillaries is '2500 cm².'"
   },
@@ -7551,13 +7580,23 @@
   },
   {
     "question": "What is the approximate total peripheral vascular resistance (TPR) in an adult human at rest?",
-    "options": ["A. About 1 PRU.", "B. 0.14 PRU.", "C. 4 PRU.", "D. 0.2 PRU."],
+    "options": [
+      "A. About 1 PRU.",
+      "B. 0.14 PRU.",
+      "C. 4 PRU.",
+      "D. 0.2 PRU."
+    ],
     "answer": "A",
     "explanation": "The total peripheral resistance is 'about 100/100, or 1 PRU.'"
   },
   {
     "question": "What is the approximate total pulmonary vascular resistance (PVR)?",
-    "options": ["A. About 0.14 PRU.", "B. 1 PRU.", "C. 4 PRU.", "D. 0.2 PRU."],
+    "options": [
+      "A. About 0.14 PRU.",
+      "B. 1 PRU.",
+      "C. 4 PRU.",
+      "D. 0.2 PRU."
+    ],
     "answer": "A",
     "explanation": "The total pulmonary vascular resistance calculates to be 'about 0.14 PRU (about one seventh that in the systemic circulation).'"
   },
@@ -7607,7 +7646,12 @@
   },
   {
     "question": "What percentage of the total blood volume is typically found in the systemic veins?",
-    "options": ["A. Approximately 64%.", "B. 13%.", "C. 7%.", "D. 84%."],
+    "options": [
+      "A. Approximately 64%.",
+      "B. 13%.",
+      "C. 7%.",
+      "D. 84%."
+    ],
     "answer": "A",
     "explanation": "Of the 84% in the systemic circulation, approximately 64% is in the veins...'"
   },
@@ -9032,7 +9076,12 @@
   },
   {
     "question": "What is the collective term for fluid that collects in potential spaces like the pleural cavity?",
-    "options": ["A. Ascites", "B. Edema", "C. Effusion", "D. Transudate"],
+    "options": [
+      "A. Ascites",
+      "B. Edema",
+      "C. Effusion",
+      "D. Transudate"
+    ],
     "answer": "C",
     "explanation": "When edema occurs in the vicinity of potential spaces, the collected fluid is called effusion. Ascites is a specific term for effusion in the abdominal cavity."
   },
@@ -9269,7 +9318,12 @@
   },
   {
     "question": "Which immunoglobulin class constitutes about 75% of the antibodies in a normal person and is bivalent?",
-    "options": ["A. IgM", "B. IgA", "C. IgD", "D. IgG"],
+    "options": [
+      "A. IgM",
+      "B. IgA",
+      "C. IgD",
+      "D. IgG"
+    ],
     "answer": "D",
     "explanation": "The text identifies IgG as a bivalent antibody that constitutes about 75% of the antibodies in a normal person."
   },
@@ -9484,13 +9538,23 @@
   },
   {
     "question": "What percentage of all deaths in industrialized Western countries result from coronary artery disease?",
-    "options": ["A. About 5%", "B. About 10%", "C. About 35%", "D. About 70%"],
+    "options": [
+      "A. About 5%",
+      "B. About 10%",
+      "C. About 35%",
+      "D. About 70%"
+    ],
     "answer": "C",
     "explanation": "The text mentions that about 35% of all deaths in industrialized countries result from coronary artery disease."
   },
   {
     "question": "What is the average coronary blood flow in a resting person as a percentage of total cardiac output?",
-    "options": ["A. 1% to 2%", "B. 4% to 5%", "C. 10% to 15%", "D. 20% to 25%"],
+    "options": [
+      "A. 1% to 2%",
+      "B. 4% to 5%",
+      "C. 10% to 15%",
+      "D. 20% to 25%"
+    ],
     "answer": "B",
     "explanation": "The text states that normal coronary blood flow in a resting person averages about 225 ml/min, which is about 4% to 5% of the total cardiac output."
   },
@@ -10134,7 +10198,12 @@
   },
   {
     "question": "What percentage of plasma flowing through the kidney is filtered through the glomerular capillaries under normal conditions?",
-    "options": ["A. 2%", "B. 5%", "C. 20%", "D. 75%"],
+    "options": [
+      "A. 2%",
+      "B. 5%",
+      "C. 20%",
+      "D. 75%"
+    ],
     "answer": "C",
     "explanation": "The text mentions that the filtration fraction, which is the fraction of renal plasma flow filtered, averages about 0.2, meaning about 20% of the plasma is filtered."
   },
@@ -10173,7 +10242,12 @@
   },
   {
     "question": "What is the estimated net filtration pressure across the glomerular capillaries under normal conditions?",
-    "options": ["A. 10 mm Hg", "B. 18 mm Hg", "C. 32 mm Hg", "D. 60 mm Hg"],
+    "options": [
+      "A. 10 mm Hg",
+      "B. 18 mm Hg",
+      "C. 32 mm Hg",
+      "D. 60 mm Hg"
+    ],
     "answer": "A",
     "explanation": "The text estimates the net filtration pressure across the glomerular capillaries under normal conditions to be approximately +10 mm Hg (60 mm Hg glomerular hydrostatic pressure - 18 mm Hg Bowman's capsule pressure - 32 mm Hg glomerular colloid osmotic pressure)."
   },
@@ -10366,7 +10440,12 @@
   },
   {
     "question": "What condition results from the accumulation of excess fluid in the body tissues?",
-    "options": ["A. Anemia", "B. Hypertension", "C. Edema", "D. Hypoxia"],
+    "options": [
+      "A. Anemia",
+      "B. Hypertension",
+      "C. Edema",
+      "D. Hypoxia"
+    ],
     "answer": "C",
     "explanation": "The text defines edema as the presence of excess fluid in the body tissues."
   },
@@ -10449,7 +10528,12 @@
   },
   {
     "question": "What is the normal range for the hematocrit in men?",
-    "options": ["A. 0.10", "B. 0.36", "C. 0.40", "D. 0.65"],
+    "options": [
+      "A. 0.10",
+      "B. 0.36",
+      "C. 0.40",
+      "D. 0.65"
+    ],
     "answer": "C",
     "explanation": "The text states that in men, the measured hematocrit is normally about 0.40."
   },
@@ -10532,7 +10616,12 @@
   },
   {
     "question": "What is the term for the condition where the partial pressure of oxygen in the arterial blood falls below normal?",
-    "options": ["A. Hypercapnia", "B. Hypoxia", "C. Alkalosis", "D. Hypoxemia"],
+    "options": [
+      "A. Hypercapnia",
+      "B. Hypoxia",
+      "C. Alkalosis",
+      "D. Hypoxemia"
+    ],
     "answer": "D",
     "explanation": "The text defines hypoxemia as a condition where the oxygen concentration in the arterial blood falls below normal."
   },
@@ -10679,7 +10768,6 @@
     "answer": "C",
     "explanation": "The text explains that the pulmonary capillaries and lymphatics maintain a slight negative pressure in the interstitial spaces, which mechanically sucks excess fluid into the interstitium and prevents alveolar filling."
   },
-
   {
     "question": "What is the main purpose of the high blood flow to the kidneys?",
     "options": [
@@ -11056,7 +11144,12 @@
   },
   {
     "question": "What is the normal range for the hematocrit in men?",
-    "options": ["A. 0.10", "B. 0.36", "C. 0.40", "D. 0.65"],
+    "options": [
+      "A. 0.10",
+      "B. 0.36",
+      "C. 0.40",
+      "D. 0.65"
+    ],
     "answer": "C",
     "explanation": "The text states that in men, the measured hematocrit is normally about 0.40."
   },
@@ -11073,7 +11166,12 @@
   },
   {
     "question": "What is the normal pH of arterial blood?",
-    "options": ["A. 7.0", "B. 7.35", "C. 7.4", "D. 8.0"],
+    "options": [
+      "A. 7.0",
+      "B. 7.35",
+      "C. 7.4",
+      "D. 8.0"
+    ],
     "answer": "C",
     "explanation": "The text states that the normal pH of arterial blood is 7.4."
   },
@@ -11090,7 +11188,12 @@
   },
   {
     "question": "What is the approximate normal range for the partial pressure of oxygen (Po2) in the alveoli?",
-    "options": ["A. 40 mm Hg", "B. 45 mm Hg", "C. 104 mm Hg", "D. 149 mm Hg"],
+    "options": [
+      "A. 40 mm Hg",
+      "B. 45 mm Hg",
+      "C. 104 mm Hg",
+      "D. 149 mm Hg"
+    ],
     "answer": "C",
     "explanation": "The text states that the Po2 of the gaseous O2 in the alveolus averages 104 mm Hg under normal conditions."
   },
@@ -11107,7 +11210,12 @@
   },
   {
     "question": "What is the approximate normal arterial Pco2?",
-    "options": ["A. 40 mm Hg", "B. 45 mm Hg", "C. 60 mm Hg", "D. 104 mm Hg"],
+    "options": [
+      "A. 40 mm Hg",
+      "B. 45 mm Hg",
+      "C. 60 mm Hg",
+      "D. 104 mm Hg"
+    ],
     "answer": "A",
     "explanation": "The text states that the normal Pco2 in the extracellular fluid is 40 mm Hg."
   },
@@ -11157,7 +11265,12 @@
   },
   {
     "question": "What is the term for the condition where the partial pressure of oxygen in the arterial blood falls below normal?",
-    "options": ["A. Hypercapnia", "B. Hypoxia", "C. Alkalosis", "D. Hypoxemia"],
+    "options": [
+      "A. Hypercapnia",
+      "B. Hypoxia",
+      "C. Alkalosis",
+      "D. Hypoxemia"
+    ],
     "answer": "D",
     "explanation": "The text defines hypoxemia as a condition where the oxygen concentration in the arterial blood falls below normal."
   },
@@ -11229,7 +11342,12 @@
   },
   {
     "question": "What is the normal range for the hematocrit in men?",
-    "options": ["A. 0.10", "B. 0.36", "C. 0.40", "D. 0.65"],
+    "options": [
+      "A. 0.10",
+      "B. 0.36",
+      "C. 0.40",
+      "D. 0.65"
+    ],
     "answer": "C",
     "explanation": "The text states that in men, the measured hematocrit is normally about 0.40."
   },
@@ -11257,7 +11375,12 @@
   },
   {
     "question": "What is the normal pH of arterial blood?",
-    "options": ["A. 7.0", "B. 7.35", "C. 7.4", "D. 8.0"],
+    "options": [
+      "A. 7.0",
+      "B. 7.35",
+      "C. 7.4",
+      "D. 8.0"
+    ],
     "answer": "C",
     "explanation": "The text states that the normal pH of arterial blood is 7.4."
   },
@@ -11274,7 +11397,12 @@
   },
   {
     "question": "What is the approximate normal range for the partial pressure of oxygen (Po2) in the alveoli?",
-    "options": ["A. 40 mm Hg", "B. 45 mm Hg", "C. 104 mm Hg", "D. 149 mm Hg"],
+    "options": [
+      "A. 40 mm Hg",
+      "B. 45 mm Hg",
+      "C. 104 mm Hg",
+      "D. 149 mm Hg"
+    ],
     "answer": "C",
     "explanation": "The text states that the Po2 of the gaseous O2 in the alveolus averages 104 mm Hg under normal conditions."
   },
@@ -11291,13 +11419,23 @@
   },
   {
     "question": "What is the approximate normal arterial Pco2?",
-    "options": ["A. 40 mm Hg", "B. 45 mm Hg", "C. 60 mm Hg", "D. 104 mm Hg"],
+    "options": [
+      "A. 40 mm Hg",
+      "B. 45 mm Hg",
+      "C. 60 mm Hg",
+      "D. 104 mm Hg"
+    ],
     "answer": "A",
     "explanation": "The text states that the normal Pco2 in the extracellular fluid is 40 mm Hg."
   },
   {
     "question": "What is the term for the condition where the partial pressure of oxygen in the arterial blood falls below normal?",
-    "options": ["A. Hypercapnia", "B. Hypoxia", "C. Alkalosis", "D. Hypoxemia"],
+    "options": [
+      "A. Hypercapnia",
+      "B. Hypoxia",
+      "C. Alkalosis",
+      "D. Hypoxemia"
+    ],
     "answer": "D",
     "explanation": "The text defines hypoxemia as a condition where the oxygen concentration in the arterial blood falls below normal."
   },
@@ -14251,13 +14389,23 @@
   },
   {
     "question": "Which retinal cells are responsible for detecting dim light and vision in the dark?",
-    "options": ["A. Cones", "B. Rods", "C. Bipolar cells", "D. Ganglion cells"],
+    "options": [
+      "A. Cones",
+      "B. Rods",
+      "C. Bipolar cells",
+      "D. Ganglion cells"
+    ],
     "answer": "B",
     "explanation": "The text mentions that 'the rods, which can detect dim light and are mainly responsible for black and white vision and vision in the dark.'"
   },
   {
     "question": "How many layers or boundaries does the retina typically compose?",
-    "options": ["A. Seven", "B. Eight", "C. Nine", "D. Ten"],
+    "options": [
+      "A. Seven",
+      "B. Eight",
+      "C. Nine",
+      "D. Ten"
+    ],
     "answer": "D",
     "explanation": "The text lists and numbers ten distinct layers or boundaries that compose the retina."
   },
@@ -14285,13 +14433,23 @@
   },
   {
     "question": "Which vitamin is stored in large quantities in the pigment layer of the retina and is a precursor to photosensitive chemicals?",
-    "options": ["A. Vitamin C", "B. Vitamin D", "C. Vitamin A", "D. Vitamin E"],
+    "options": [
+      "A. Vitamin C",
+      "B. Vitamin D",
+      "C. Vitamin A",
+      "D. Vitamin E"
+    ],
     "answer": "C",
     "explanation": "The text states that 'The pigment layer also stores large quantities of vitamin A. This vitamin A is exchanged back and forth... We discuss later that vitamin A is an important precursor of the photosensitive chemicals...'"
   },
   {
     "question": "What is the name of the light-sensitive chemical found in the outer segment of rods?",
-    "options": ["A. Photopsin", "B. Rhodopsin", "C. Retinal", "D. Scotopsin"],
+    "options": [
+      "A. Photopsin",
+      "B. Rhodopsin",
+      "C. Retinal",
+      "D. Scotopsin"
+    ],
     "answer": "B",
     "explanation": "The text clearly states that 'In the case of the rods, this photochemical is rhodopsin.'"
   },
@@ -14308,7 +14466,12 @@
   },
   {
     "question": "What is the protein component of rhodopsin?",
-    "options": ["A. Retinal", "B. Photopsin", "C. Scotopsin", "D. Isomerase"],
+    "options": [
+      "A. Retinal",
+      "B. Photopsin",
+      "C. Scotopsin",
+      "D. Isomerase"
+    ],
     "answer": "C",
     "explanation": "The text defines rhodopsin as 'a combination of the protein scotopsin and the carotenoid pigment retinal.'"
   },
@@ -14369,7 +14532,12 @@
   },
   {
     "question": "What molecule, when its levels are reduced by light, causes the closure of cGMP-gated sodium channels in rods?",
-    "options": ["A. ATP", "B. cAMP", "C. cGMP", "D. GMP"],
+    "options": [
+      "A. ATP",
+      "B. cAMP",
+      "C. cGMP",
+      "D. GMP"
+    ],
     "answer": "C",
     "explanation": "The text states, 'the reduction in cGMP closes the cGMP- gated sodium channels...'"
   },
@@ -14386,7 +14554,12 @@
   },
   {
     "question": "How many photons of light are typically required to cause half-saturation of a rod?",
-    "options": ["A. One", "B. Thirty", "C. One hundred", "D. One thousand"],
+    "options": [
+      "A. One",
+      "B. Thirty",
+      "C. One hundred",
+      "D. One thousand"
+    ],
     "answer": "B",
     "explanation": "The text states, 'Only 30 photons of light will cause half-saturation of the rod.'"
   },
@@ -14656,7 +14829,12 @@
   },
   {
     "question": "What is the peak absorption wavelength for the rhodopsin in rods?",
-    "options": ["A. 445 nm", "B. 505 nm", "C. 535 nm", "D. 570 nm"],
+    "options": [
+      "A. 445 nm",
+      "B. 505 nm",
+      "C. 535 nm",
+      "D. 570 nm"
+    ],
     "answer": "B",
     "explanation": "The text states, 'Also shown is the absorption curve for the rhodopsin of the rods, with a peak at 505 nanometers.'"
   },
@@ -14684,7 +14862,12 @@
   },
   {
     "question": "How much does retinal sensitivity increase within the first minute of dark adaptation, according to Figure 51-9?",
-    "options": ["A. 10-fold", "B. 100-fold", "C. 1000-fold", "D. 10,000-fold"],
+    "options": [
+      "A. 10-fold",
+      "B. 100-fold",
+      "C. 1000-fold",
+      "D. 10,000-fold"
+    ],
     "answer": "A",
     "explanation": "Figure 51-9 and the accompanying text indicate that 'within 1 minute, the sensitivity has already increased 10-fold.'"
   },
@@ -14811,19 +14994,34 @@
   },
   {
     "question": "What neurotransmitter is released by both rods and cones at their synapses with bipolar cells?",
-    "options": ["A. GABA", "B. Acetylcholine", "C. Glutamate", "D. Dopamine"],
+    "options": [
+      "A. GABA",
+      "B. Acetylcholine",
+      "C. Glutamate",
+      "D. Dopamine"
+    ],
     "answer": "C",
     "explanation": "The text mentions, 'However, both the rods and the cones release glutamate at their synapses with the bipolar cells.'"
   },
   {
     "question": "Which type of retinal ganglion cells are generally sensitive to color vision?",
-    "options": ["A. W cells", "B. X cells", "C. Y cells", "D. M cells"],
+    "options": [
+      "A. W cells",
+      "B. X cells",
+      "C. Y cells",
+      "D. M cells"
+    ],
     "answer": "B",
     "explanation": "The text suggests, 'In addition, because every X cell receives input from at least one cone, X cell transmission is probably responsible for color vision.'"
   },
   {
     "question": "Which retinal ganglion cells are characterized by slow signal transmission velocity and receive excitation mainly from rods?",
-    "options": ["A. X cells", "B. Y cells", "C. W cells", "D. P cells"],
+    "options": [
+      "A. X cells",
+      "B. Y cells",
+      "C. W cells",
+      "D. P cells"
+    ],
     "answer": "C",
     "explanation": "The text describes 'W cells [that] transmit signals in their optic nerve fibers at a slow velocity and receive most of their excitation from rods...'"
   },
@@ -15049,7 +15247,12 @@
   },
   {
     "question": "Where do the geniculocalcarine fibers primarily terminate within the primary visual cortex?",
-    "options": ["A. Layer VI", "B. Layer V", "C. Layer IV", "D. Layer I"],
+    "options": [
+      "A. Layer VI",
+      "B. Layer V",
+      "C. Layer IV",
+      "D. Layer I"
+    ],
     "answer": "C",
     "explanation": "The text indicates, 'Like almost all other portions of the cerebral cortex, the primary visual cortex has six distinct layers... the geniculocalcarine fibers terminate mainly in layer IV...'"
   },
@@ -15605,7 +15808,12 @@
   },
   {
     "question": "What is the approximate maximum conduction velocity of the spinocerebellar pathways?",
-    "options": ["A. 10 m/sec", "B. 30 m/sec", "C. 70 m/sec", "D. 120 m/sec"],
+    "options": [
+      "A. 10 m/sec",
+      "B. 30 m/sec",
+      "C. 70 m/sec",
+      "D. 120 m/sec"
+    ],
     "answer": "D",
     "explanation": "The text mentions, 'The spinocerebellar pathways can transmit impulses at velocities up to 120 m/sec...'"
   },
@@ -15864,7 +16072,12 @@
   },
   {
     "question": "What percentage of gastric secretion associated with eating a meal is typically accounted for by the gastric phase?",
-    "options": ["A. 10%", "B. 30%", "C. 60%", "D. 80%"],
+    "options": [
+      "A. 10%",
+      "B. 30%",
+      "C. 60%",
+      "D. 80%"
+    ],
     "answer": "C",
     "explanation": "The text states, 'The gastric phase of secretion accounts for about 60% of the total gastric secretion associated with eating a meal...'"
   },
@@ -15969,7 +16182,12 @@
   },
   {
     "question": "What is the approximate life cycle of an intestinal epithelial cell in the small intestine?",
-    "options": ["A. 1 day", "B. 5 days", "C. 10 days", "D. 3 weeks"],
+    "options": [
+      "A. 1 day",
+      "B. 5 days",
+      "C. 10 days",
+      "D. 3 weeks"
+    ],
     "answer": "B",
     "explanation": "The text mentions, 'The life cycle of an intestinal epithelial cell is about 5 days.'"
   },
@@ -16261,7 +16479,12 @@
   },
   {
     "question": "What is the approximate percentage of bile salts that are reabsorbed from the small intestine and return to the liver?",
-    "options": ["A. 10%", "B. 50%", "C. 70%", "D. 94%"],
+    "options": [
+      "A. 10%",
+      "B. 50%",
+      "C. 70%",
+      "D. 94%"
+    ],
     "answer": "D",
     "explanation": "The text states, 'About 94% of the bile salts are reabsorbed into the blood from the small intestine...'"
   },
@@ -16333,7 +16556,12 @@
   },
   {
     "question": "What is the approximate percentage of fibers in an average skeletal nerve that are sympathetic fibers?",
-    "options": ["A. 2%", "B. 8%", "C. 15%", "D. 50%"],
+    "options": [
+      "A. 2%",
+      "B. 8%",
+      "C. 15%",
+      "D. 50%"
+    ],
     "answer": "B",
     "explanation": "The text mentions, 'About 8% of the fibers in the average skeletal nerve are sympathetic fibers...'"
   },
@@ -16350,7 +16578,12 @@
   },
   {
     "question": "What is the primary target organ for the sympathetic nerve fibers originating from spinal cord segments T1 to T6?",
-    "options": ["A. Abdomen", "B. Legs", "C. Thorax", "D. Head and neck"],
+    "options": [
+      "A. Abdomen",
+      "B. Legs",
+      "C. Thorax",
+      "D. Head and neck"
+    ],
     "answer": "C",
     "explanation": "The text states, 'from T3, T4, T5, and T6 into the thorax...'"
   },
@@ -17170,7 +17403,12 @@
   },
   {
     "question": "What term describes the continuous stream of awareness of our surroundings or our sequential thoughts?",
-    "options": ["A. Memory", "B. Thought", "C. Consciousness", "D. Cognition"],
+    "options": [
+      "A. Memory",
+      "B. Thought",
+      "C. Consciousness",
+      "D. Cognition"
+    ],
     "answer": "C",
     "explanation": "The text defines consciousness as, 'Consciousness can perhaps be described as our continuing stream of awareness of either our surroundings or our sequential thoughts.'"
   },
@@ -17352,7 +17590,12 @@
   },
   {
     "question": "Which protein is important for digestive enzymes to penetrate meats and is specifically affected by pepsin?",
-    "options": ["A. Albumin", "B. Collagen", "C. Hemoglobin", "D. Keratin"],
+    "options": [
+      "A. Albumin",
+      "B. Collagen",
+      "C. Hemoglobin",
+      "D. Keratin"
+    ],
     "answer": "B",
     "explanation": "Pepsin has the ability to digest collagen, which is a major constituent of the intercellular connective tissue of meats, allowing other digestive enzymes to penetrate."
   },
@@ -17501,7 +17744,12 @@
   },
   {
     "question": "Which of the following is a co-transporter protein involved in sodium absorption through the brush border membrane?",
-    "options": ["A. GLUT2", "B. SGLT1", "C. GLUT5", "D. Na+/K+ ATPase"],
+    "options": [
+      "A. GLUT2",
+      "B. SGLT1",
+      "C. GLUT5",
+      "D. Na+/K+ ATPase"
+    ],
     "answer": "B",
     "explanation": "SGLT1 (sodium-glucose co-transporter 1) is one of the carrier proteins that co-transports sodium and glucose through the brush border membrane."
   },
@@ -17562,7 +17810,12 @@
   },
   {
     "question": "Which nutrient is absorbed almost entirely in the form of monosaccharides?",
-    "options": ["A. Proteins", "B. Fats", "C. Carbohydrates", "D. Vitamins"],
+    "options": [
+      "A. Proteins",
+      "B. Fats",
+      "C. Carbohydrates",
+      "D. Vitamins"
+    ],
     "answer": "C",
     "explanation": "Essentially all carbohydrates in food are absorbed in the form of monosaccharides, with very little absorption of disaccharides or larger carbohydrate compounds."
   },
@@ -17579,7 +17832,12 @@
   },
   {
     "question": "Which transporter facilitates the diffusion of fructose across the intestinal lumen to the cell interior?",
-    "options": ["A. SGLT1", "B. GLUT2", "C. GLUT5", "D. Na+/K+ ATPase"],
+    "options": [
+      "A. SGLT1",
+      "B. GLUT2",
+      "C. GLUT5",
+      "D. Na+/K+ ATPase"
+    ],
     "answer": "C",
     "explanation": "Fructose transport from the intestinal lumen to the cell interior is facilitated by GLUT5, and it is not coupled with sodium transport."
   },
@@ -18091,7 +18349,12 @@
   },
   {
     "question": "Which of the following is an essential amino acid that cannot be synthesized in sufficient quantities by the body and must be obtained from the diet?",
-    "options": ["A. Alanine", "B. Glutamic acid", "C. Lysine", "D. Glycine"],
+    "options": [
+      "A. Alanine",
+      "B. Glutamic acid",
+      "C. Lysine",
+      "D. Glycine"
+    ],
     "answer": "C",
     "explanation": "Lysine is one of the essential amino acids that the body cannot synthesize in sufficient quantities and must be obtained from dietary sources."
   },
@@ -18559,7 +18822,12 @@
   },
   {
     "question": "What is the typical half-life of insulin in the circulating blood?",
-    "options": ["A. 6 minutes", "B. 1 hour", "C. 6 hours", "D. 6 days"],
+    "options": [
+      "A. 6 minutes",
+      "B. 1 hour",
+      "C. 6 hours",
+      "D. 6 days"
+    ],
     "answer": "A",
     "explanation": "Insulin has a plasma half-life that averages only about 6 minutes, allowing for rapid clearance from the circulation."
   },
@@ -18961,7 +19229,12 @@
   },
   {
     "question": "What is the typical percentage of body fat in a nonathletic young female (16-19 years old)?",
-    "options": ["A. 23%", "B. 34%", "C. 45%", "D. 10%"],
+    "options": [
+      "A. 23%",
+      "B. 34%",
+      "C. 45%",
+      "D. 10%"
+    ],
     "answer": "B",
     "explanation": "The average young nonathletic female (16-19 years old) has about 34% body fat composition."
   },
@@ -19319,7 +19592,12 @@
   },
   {
     "question": "What substance is primarily responsible for the increased contractility of the uterus near term, potentially initiating labor?",
-    "options": ["A. Progesterone", "B. Estrogen", "C. Oxytocin", "D. Relaxin"],
+    "options": [
+      "A. Progesterone",
+      "B. Estrogen",
+      "C. Oxytocin",
+      "D. Relaxin"
+    ],
     "answer": "C",
     "explanation": "Oxytocin, secreted by the posterior pituitary, is a potent stimulator of uterine contractions and is believed to play a significant role in initiating and intensifying labor contractions."
   },

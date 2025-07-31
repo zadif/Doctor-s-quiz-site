@@ -19,7 +19,13 @@
   },
   {
     "question": "A 38-year-old man who recently emigrated from Mexico is brought to the emergency department because of 3-month history of weight loss, night sweats, anorexia, malaise, and low-grade fever. A PPD skin test shows 10 mm of induration. If the area of induration is biopsied, which of the following cell surface markers is most likely to be present on the most numerous immune cells in the biopsy?",
-    "options": ["A. CD4", "B. CD8", "C. CD14", "D. CD19", "E. CD56"],
+    "options": [
+      "A. CD4",
+      "B. CD8",
+      "C. CD14",
+      "D. CD19",
+      "E. CD56"
+    ],
     "answer": "C",
     "explanations": {
       "A": "CD4 is a marker for T-helper lymphocytes. While TH1 cells orchestrate the PPD reaction (a type IV hypersensitivity), they are not the most numerous cell type in the lesion.",
@@ -123,7 +129,13 @@
   },
   {
     "question": "Prior to 1990, an early trial vaccine for Haemophilus influenzae type B consisted only of the polyribitol phosphate capsule administered with an adjuvant. What would have been the predominant isotype of antibody produced in response to this type of polysaccharide-only vaccine?",
-    "options": ["A. IgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "options": [
+      "A. IgA",
+      "B. IgD",
+      "C. IgE",
+      "D. IgG",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanations": {
       "A": "IgA production requires T-cell help for isotype switching.",
@@ -207,7 +219,13 @@
   },
   {
     "question": "An investigator studies immunity to Babesia microti, an intraerythrocytic parasite transmitted by ticks. Since erythrocytes lack MHC class I molecules, which immune cell marker is most specific for identifying cells capable of extracellular lysis of Babesia-infected red blood cells, likely via ADCC?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD56"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD14",
+      "E. CD56"
+    ],
     "answer": "E",
     "explanations": {
       "A": "CD3 is a pan T-cell marker. T cells require MHC presentation, which RBCs lack.",
@@ -659,7 +677,13 @@
   },
   {
     "question": "A 37-year-old woman with chronic active hepatitis B develops fever, petechial rash, and proteinuria. Kidney biopsy reveals irregular deposits of antigen-antibody complexes, neutrophils, and tubular damage, consistent with immune complex glomerulonephritis. Which complement component is most critical for the solubilization and clearance of such immune complexes from the bloodstream?",
-    "options": ["A. C1q", "B. C3b", "C. C5", "D. C5a", "E. Factor B"],
+    "options": [
+      "A. C1q",
+      "B. C3b",
+      "C. C5",
+      "D. C5a",
+      "E. Factor B"
+    ],
     "answer": "B",
     "explanations": {
       "A": "C1q is the recognition component of the classical pathway, binding to immune complexes to initiate the cascade.",
@@ -821,7 +845,13 @@
   },
   {
     "question": "A 56-year-old homosexual man with a CD4 count of 30/mm^3 is admitted with Pneumocystis jiroveci pneumonia. His HIV Western blot is positive for antibodies to gp41 and gp120, but negative for anti-p24, anti-p17, and anti-p7/p9. Given his advanced immunosuppression (AIDS) with severely depleted T-helper cells, antibodies detected against the evolving HIV envelope antigens (gp41, gp120) are most likely predominantly of which isotype?",
-    "options": ["A. IgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "options": [
+      "A. IgA",
+      "B. IgD",
+      "C. IgE",
+      "D. IgG",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanations": {
       "A": "Requires T-cell help for isotype switching.",
@@ -972,7 +1002,14 @@
   },
   {
     "question": "During an investigational study, blood from a healthy volunteer is analyzed by flow cytometry. The relative proportion of all cells bearing surface immunoglobulin in the circulation is evaluated. Which of the following cell surface markers should be used to identify the B cells in this blood sample?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD19", "E. CD56", "F. IgM"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD19",
+      "E. CD56",
+      "F. IgM"
+    ],
     "answer": "D",
     "explanation": "The correct answer is D. The best markers for identification of B cells are CD19, CD20, and CD21. The CD21 molecule is a receptor for Epstein-Barr virus (EBV). The CD3 marker (choice A) is present on all T cells. This is the marker that is used to identify total T cell count in a blood sample. CD3 is the signal transduction molecule on T cells. The CD4 marker (choice B) is used to identify T-helper (TH) cells. These are the cells that recognize exogenous peptides presented on major histocompatibility complex (MHC) class II molecules by macrophages. CD4+ TH cells are also involved in cell-mediated delayed hypersensitivity, production of cytokines for stimulation of antibody production by B cells, and stimulation of macrophages. The CD8 marker (choice C) is used to identify cytotoxic T cells. These are the cells that recognize viral epitopes attached to the MHC class | molecules of a virus-infected cell. The CD56 marker (choice E) is used to identify natural Killer (NK) cells. These cells are important in innate host defense, specializing in killing virus-infected cells and tumor cells by secreting granzymes and perforins. IgM (choice F) is present on mature naive B lymphocytes along with IgD, but would not be present on any memory cells. Therefore, to receive an idea of the proportion of all immunoglobulin-bearing cells in the circulation, IgM determination would not be the best choice."
   },
@@ -1050,13 +1087,25 @@
   },
   {
     "question": "A 28-year-old man is brought into court for nonpayment of child support. His ex-wife states that he is the father of her child, although he denies it. The court orders genetic tests, including one for genetic immunoglobulin identification of the mother, father, and child. Which of the following immunoglobulin markers is likely to be most useful in this paternity case?",
-    "options": ["A. Allotype", "B. Idiotype", "C. Isotype", "D. Subisotype"],
+    "options": [
+      "A. Allotype",
+      "B. Idiotype",
+      "C. Isotype",
+      "D. Subisotype"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Allotypes are genetically inherited markers (amino acid sequence differences) that occur within the constant domains of both heavy and light chains of immunoglobulin molecules. They reflect the paternity of the individual, and are similar in concept to the ABO blood group alloantigens: they do not affect the function of the cell that bears them, but simply reflect patterns of inheritance. These are distinctive markers that, when present, can be helpful in paternity cases. If this man had these markers and the child had the same markers, then this would be presumptive evidence that the man is the child's biologic father. Other genetic tests would also performed in this case, because if the mother and father happened to have the same markers, then the findings could be nonconclusive. Idiotypes (choice B) are the antigen-recognition portions of the immunoglobulin molecule that are unique for specific antigens to which we have been exposed. Since every antibody molecule has a different idiotype (antigenic specificity) unless it has been made by a clone of cells, these would not be useful in determining paternity. The isotypes (choice C) are the five major classes of immunoglobulin: IgG, IgA, IgM, IgD, and IgE. They are distinct from one another based on amino acid sequences in the constant domains of both heavy and light chains. Isotypes would not be helpful for a paternity case. Subisotypes (choice D) are subclasses within the isotypes of antibodies. IgG has four subisotypes and IgA has two subisotypes. They are distinguished on the basis of amino acid sequences in the constant domains of heavy chains and would not be useful in determining paternity."
   },
   {
     "question": "A 54-year-old Hispanic man comes to the physician because of skin lesions. Physical examination shows several disfiguring lesions on the face. and there is loss of cutaneous sensation for light touch, pain, and temperature. Histologic examination of the lesions shows multinucleated giant cells. Which of the following is most likely to be found on the surface of these cells?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD20", "F. CD56"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD14",
+      "E. CD20",
+      "F. CD56"
+    ],
     "answer": "D",
     "explanation": "The correct answer is D. The disease in question is leprosy, or Hansen disease. Mycobacterium leprae has a predilection for the skin and cutaneous nerves, thereby producing the symptoms of depigmentation and anesthetic cutaneous lesions. This loss of peripheral nerve function leads to many of the disfiguring features of the disease: because the patients do not have normal pain sensation, they sustain repeated injuries. In addition, the organism attacks cartilage and causes granuloma formation in the skin, leading to some of the facial damage. The multinucleated giant cells that form in leprosy are modified macrophages or epithelioid cells. They possess CD14, the endotoxin receptor on their cell surface as well as CD16, the Fc receptor for the Fc tail of immunoglobulin G. CD3 (choice A) is the signal transduction complex molecule in T lymphocytes. Although T cells would be found in the granulomatous lesions of tuberculoid leprosy, these are not the cells that become multinucleated giant cells in these areas. CD4 (choice B) is the specific marker on the surface of T-helper lymphocytes. It would not be found on the multinucleated giant cells found in leprosy. CD8 (choice C) is the specific marker on the surface of cytotoxic T lymphocytes. These are not the cells that fuse together in the lesions of leprosy. CD20 (choice E) is part of the signal transduction complex in B lymphocytes. It would not be found on the surface of modified macrophages. CD56 (choice F) is one of two markers used to identify natural killer (NK) cells in tissues. The other marker on NK cells is CD16, the Fc receptor, by which NK cells carry out antibody-dependent, cell-mediated cytotoxicity. NK cells do not fuse together to form multinucleated giant cells in leprosy."
   },
@@ -1388,7 +1437,13 @@
   },
   {
     "question": "A 14-year-old girl is brought to the emergency department because of dyspnea. tachycardia, and diaphoresis following a bee sting. Which of the following is the first immunoglobulin produced in response to this antigen?",
-    "options": ["A. lgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "options": [
+      "A. lgA",
+      "B. IgD",
+      "C. IgE",
+      "D. IgG",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanation": "The correct answer is E. The first immunoglobulin produced in response to any immunogen is always IgM. This is because of the sequential transcription of the DNA coding for the immunoglobulin isotype genes. The first constant domain that is encoded downstream in the DNA from the idiotype coding is that for IgM and then IgD. These two isotypes are produced and expressed concomitantly. It is not possible for any other immunoglobulin to be made first. The symptoms that this patient is having are the result of a type | hypersensitivity reaction, but in these reactions the IgE antibody is preformed and already bound to mast cell receptors. IgE is not made during the hypersensitivity reaction itself. IgA (choice A), IgE (choice C) and IgG (choice D) can only be produced as a secondary response, i.e., one that follows the primary IgM response. The DNA coding for the IgD (choice B) heavy chain follows that of IgM in the lymphocyte germ-line DNA. Mature, naive B lymphocytes express both IgM and IgD on their surfaces because of alternative RNA splicing, but the complete IgM molecule is always produced first."
   },
@@ -1466,7 +1521,13 @@
   },
   {
     "question": "A 33-year-old woman is brought to the emergency department because of a deep puncture wound in her right hand. A shard of glass is removed from the patient's hand, and the wound is appropriately cleaned and treated at the time of the accident. Twelve hours later, the wound becomes inflamed and swollen despite appropriate therapy. Which of the following molecules plays an important role in producing chemotaxis of white blood cells into this area?",
-    "options": ["A. C3b", "B. C5a", "C. IgM", "D. IL-2", "E. Lysozyme"],
+    "options": [
+      "A. C3b",
+      "B. C5a",
+      "C. IgM",
+      "D. IL-2",
+      "E. Lysozyme"
+    ],
     "answer": "B",
     "explanation": "The correct answer is B. In active inflammation, the complement system has been activated and C5a is being produced. C5a is a strong chemoattractant to neutrophils and other phagocytic cells. Other chemotactic factors for neutrophils include IL-8, fibrinopeptides, leukotriene B4, and formyl methionyl peptides from bacteria. C3b (choice A) acts as an opsonin for microorganisms. When the organism is coated with C3b, it is more easily phagocytized. C3b is formed via the classical and alternative complement pathways, but it is not chemotactic for neutrophils. IgM (choice C) is the large antibody produced in the primary immune response. It is not chemotactic for neutrophils. IL-2 (choice D) is a growth-promoting interleukin that stimulates the proliferation of natural killer cells, and T-cytotoxic cells, and T-helper lymphocytes, but it is not chemotactic for neutrophils. Lysozyme (choice E) is a natural antibacterial present in tears, mucus, vaginal secretions, and other body fluids. It is active against the peptidoglycan of bacterial cell walls, splitting the backbone structure of the peptidoglycan (N-acetylglucosamine and N-acetyl muramic acid polymers). It is not chemotactic for neutrophils."
   },

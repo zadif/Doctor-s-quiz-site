@@ -858,7 +858,6 @@
       "Management"
     ]
   },
-
   {
     "question": "A 24-year-old woman attends accident and emergency 4 weeks after having a positive urinary pregnancy test. She has had 3 days of painless vaginal bleeding and is passing clots. Over the past 2 days the bleeding has settled. An ultrasound scan shows an empty uterus. What is the correct diagnosis?",
     "options": [
@@ -1126,7 +1125,6 @@
       "Differential Diagnosis"
     ]
   },
-
   {
     "question": "A  32-year-old  woman  with  paranoid  schizophrenia  is  admitted  for  antenatal  assessment  at  36  weeks’  gestation  with  twins.  Her  pregnancy  is  complicated  by  intrauterine  growth  restriction  and  impaired  placental  flow.  She  has  had  no  psychotic  symptoms  in  this  pregnancy.  Her  obstetricians  recommend  an  early  caesarean  section  and  argue  it  is  in  the  best  interests  of  the  mother  and  her  babies and to prevent further fetal insult. She has repeatedly said that despite the significant  risks,  which  she  understands,  she  refuses  caesarean  delivery.  What  is  the most appropriate action?",
     "options": [
@@ -2735,7 +2733,6 @@
       "LBC"
     ]
   },
-
   {
     "question": "When assessing the fetal presenting part in labour it is important to know the anatomy of the pelvis. What are the bony landmarks of the pelvic outlet?",
     "options": [
@@ -3080,7 +3077,13 @@
   },
   {
     "question": "A 74-year-old woman has an annual health check up with her private insurer. They arrange an ultrasound scan that shows a cyst on her right ovary. It is multiloculated and has solid components. She is post-menopausal and otherwise well. A doctor has sent for a CA 125 which comes back as 120 U/mL. What is her risk of malignancy index score (RMI)?",
-    "options": ["A.   120", "B.    240", "C.    60", "D.   720", "E.    480"],
+    "options": [
+      "A.   120",
+      "B.    240",
+      "C.    60",
+      "D.   720",
+      "E.    480"
+    ],
     "answer": "D",
     "page": 106,
     "topic": "Cancer risk",
@@ -5111,7 +5114,13 @@
   },
   {
     "question": "A 74-year-old woman has an annual health check up with her private insurer. They arrange an ultrasound scan that shows a cyst on her right ovary. It is multiloculated and has solid components. She is post-menopausal and otherwise well. A doctor has sent for a CA 125 which comes back as 120 U/mL. What is her risk of malignancy index score (RMI)?",
-    "options": ["A.   120", "B.    240", "C.    60", "D.   720", "E.    480"],
+    "options": [
+      "A.   120",
+      "B.    240",
+      "C.    60",
+      "D.   720",
+      "E.    480"
+    ],
     "answer": "D",
     "page": 106,
     "topic": "Cancer risk",
@@ -5722,7 +5731,13 @@
   },
   {
     "question": "A newborn baby is born to non-consanguineous parents. She is noted to have puffy feet on her 1st day check. She weighs 2.0 kg with widely spaced nipples and absent femoral pulses. You have asked your registrar to review her as you think she may have Turner’s syndrome. She agrees and asks you to send blood tests for karyotyping. Which is the chromosomal diagnosis of Turner’s syndrome?",
-    "options": ["A. 47XXY", "B. 45YO", "C. 46XY", "D. 46XX", "E. 45XO"],
+    "options": [
+      "A. 47XXY",
+      "B. 45YO",
+      "C. 46XY",
+      "D. 46XX",
+      "E. 45XO"
+    ],
     "answer": "E",
     "page": 139,
     "topic": "Turner’s syndrome",
@@ -9203,7 +9218,13 @@
     "page": 293,
     "topic": "Epidemiology of schizophrenia",
     "explanation": "Traditionally, the lifetime prevalence has always been quoted as 1 per cent, although most recent studies would suggest it is lower than this at around 0.4 per cent (with, obviously, some range around this). Regardless, this means the answer could only realistically be (C). Incidence rates are reported as lower (because of the chronic nature of the disease), usually between 0.17 to 0.54. Apart from a few exceptions, the prevalence of schizophrenia tends to be fairly standard across countries, with little overall sex differences.",
-    "tags": ["Psychiatry", "Schizophrenia", "Epidemiology", "Prevalence", "UK"]
+    "tags": [
+      "Psychiatry",
+      "Schizophrenia",
+      "Epidemiology",
+      "Prevalence",
+      "UK"
+    ]
   },
   {
     "question": "A 19-year-old identical twin is diagnosed with schizophrenia. His mother makes an appointment to see you at the GP practice and asks what the likelihood is of his twin developing schizophrenia. What should you tell her?",
@@ -9218,7 +9239,13 @@
     "page": 293,
     "topic": "Genetics of schizophrenia",
     "explanation": "Schizophrenia is undoubtedly a disease with both genetic and environmental substrates. It is generally held that the genetic component accounts for approximately 50 per cent of susceptibility. Although there is some debate around this (more recent studies suggest heritability up to around 80 per cent, although there is large heterogeneity), (E) would be the only really feasible answer. There is undoubtedly an increased risk (B) of schizophrenia between identical twins, that is beyond that of sharing an ‘environment’. The risk of 1 in 100 (C) is approximately the risk in the general population (although see the question above; the prevalence may well have been overestimated in earlier studies). The risk of 1 in 10 (D) could be estimated to be the risk of developing schizophrenia if you have one first degree relative with the disease.",
-    "tags": ["Psychiatry", "Schizophrenia", "Genetics", "Risk Factors", "Twins"]
+    "tags": [
+      "Psychiatry",
+      "Schizophrenia",
+      "Genetics",
+      "Risk Factors",
+      "Twins"
+    ]
   },
   {
     "question": "A 19-year-old man with schizophrenia is brought to accident and emergency by his sister as he has become unwell over the last few days. He has recently been started on risperidone. He is confused, sweaty and tremulous. On examination the signs include tachycardia, low blood pressure, pyrexia and lead-pipe rigidity. His Glasgow Coma Scale score is decreased at 12/15. What is the most likely diagnosis?",
@@ -10549,7 +10576,12 @@
     "page": 345,
     "topic": "Diagnosis of personality disorder (1)",
     "explanation": "While many people with personality disorder do have difficulty with impulse control (A), it is not necessary for a diagnosis. ICD-10 specifies that the individual’s inner experiences or behaviour must be manifest in more than one of the following areas (but not necessarily all). \n• Cognition\n• Affectivity\n• Control over impulses\n• Manner of relating to others.\n  This behaviour cannot be limited to one situation or stimulus, but must pervade across the individual’s inner and social worlds and must be inflexible, maladaptive and dysfunctional (B). There must be distress, either to the individual themselves, their social environment, or usually both (C). The disorder must have arisen during late childhood or adolescence (D), and should be ‘stable’ and of long duration. Changes occurring within adulthood themselves do not qualify as personality disorders, but may represent personality change, usually as the result of severe and enduring stress. An organic cause cannot be responsible for the disorder (E) – there is a separate diagnostic category for ‘organic personality disorder’ – an example would be frontal lobe injury.",
-    "tags": ["Personality Disorder", "Diagnosis", "ICD-10", "Criteria"]
+    "tags": [
+      "Personality Disorder",
+      "Diagnosis",
+      "ICD-10",
+      "Criteria"
+    ]
   },
   {
     "question": "Regarding personality and its development, which of the following statements is false?",

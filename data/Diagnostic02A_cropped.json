@@ -61,7 +61,13 @@
   },
   {
     "question": "A study is conducted to determine the incidence of alpha-1-antitrypsin deficiency in various populations. In a Danish population, the incidence is found to be approximately 1/2,500. Which of the following best estimates the carrier frequency in this population?",
-    "options": ["A. 0.0004", "B. 0.02", "C. 0.04", "D. 0.25", "E. 0.96"],
+    "options": [
+      "A. 0.0004",
+      "B. 0.02",
+      "C. 0.04",
+      "D. 0.25",
+      "E. 0.96"
+    ],
     "answer": "C",
     "explanation": "The key to this question is remembering the Hardy-Weinberg population equations: 1 = p^2 + 2pq + q^2 and p + q = 1. Alpha-1-antitryspin deficiency is inherited in an autosomal recessive manner. According to the Hardy-Weinberg equations, p is the frequency of the dominant allele, q is the frequency of the recessive allele, p^2 is the percentage of homozygous dominant individuals, q^2 is the percentage of homozygous recessive individuals, and 2pq is the percentage of heterozygous individuals (carriers of recessive traits). In this population, the incidence of the disease (homozygous recessive) is q^2 = 1/2,500. Therefore, the frequency of the alpha-1-antitrysin deficiency allele, q, is equal to the square root of 1/2,500, which gives q = 1/50 = 0.02. The frequency of the normal allele, p, is equal to 1 - q = 1 - 1/50 = 49/50 = 0.98. Assuming that the population is in Hardy-Weinberg equilibrium, the carrier frequency is equal to 2pq = 2 * (49/50) * (1/50) = 98/2500 = 0.0392. When q is very small, as in this case, a good estimate of carrier frequency is 2q. Using this estimate, 2q = 2 * (1/50) = 2/50 = 0.04. 0.0004 (choice A) is the incidence of the disease, q^2. 0.02 (choice B) is the frequency of the recessive allele, q. 0.25 (choice D) is the probability that two carriers of an autosomal recessive trait will produce an affected child. 0.96 (choice E) is approximately the frequency of the normal allele, p (actually 0.98)."
   },
@@ -376,7 +382,15 @@
   },
   {
     "question": "A 62-year-old woman comes to the physician because of a 1-month history of difficulty seeing. Visual field testing results are shown, indicating a left inferior quadrantanopia. [Diagram Description: Image showing visual pathways with labels A-G pointing to Optic Nerve (A), Chiasm (B, C), Tract (D), Meyer's Loop (E), Optic Radiation projecting to Cuneus (F), Lingual Gyrus/Visual Cortex (G)]. Which of the following labeled structures has most likely been damaged?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "F",
     "explanation": "A left inferior quadrantanopia (loss of vision in the lower left visual field quadrant of both eyes) is caused by damage to the contralateral superior optic radiation or the superior portion of the contralateral primary visual cortex. The superior optic radiation fibers carry information from the superior retinal quadrants (which receive input from the inferior visual field) and project to the cuneus gyrus (the upper bank of the calcarine sulcus) in the occipital lobe. Therefore, a lesion affecting the right superior optic radiation (labeled F, projecting towards the cuneus) would cause a left inferior quadrantanopia. A lesion of the optic nerve (A) causes monocular blindness. A midsagittal chiasm lesion (B) causes bitemporal hemianopia. A lateral chiasm lesion (C) causes nasal hemianopia. An optic tract lesion (D) causes contralateral homonymous hemianopia. A lesion of Meyer's loop (inferior optic radiation) (E) causes contralateral superior quadrantanopia. A lesion of the entire visual cortex (G) typically causes contralateral homonymous hemianopia, possibly with macular sparing."
   },
@@ -528,13 +542,25 @@
   },
   {
     "question": "A 1-month-old male infant is brought to the physician for a routine examination. The parents report that the infant has a paternal aunt and a maternal uncle who both died of Tay-Sachs disease. The family pedigree is shown [Implied Pedigree: Paternal Grandparents -> Father + Paternal Aunt (Affected). Maternal Grandparents -> Mother + Maternal Uncle (Affected). Father + Mother -> Infant]. Which of the following best estimates the probability that the child will have Tay-Sachs disease?",
-    "options": ["A. 1/16", "B. 1/9", "C. 1/8", "D. 1/4", "E. 9/34"],
+    "options": [
+      "A. 1/16",
+      "B. 1/9",
+      "C. 1/8",
+      "D. 1/4",
+      "E. 9/34"
+    ],
     "answer": "B",
     "explanation": "Tay-Sachs disease is an autosomal recessive disorder. Since the father has an affected sibling (paternal aunt), his parents (paternal grandparents) must both be carriers. The probability that the father (who is phenotypically normal) is a carrier is 2/3. Similarly, since the mother has an affected sibling (maternal uncle), her parents (maternal grandparents) must both be carriers. The probability that the mother (who is phenotypically normal) is also a carrier is 2/3. For the infant to have Tay-Sachs disease (genotype aa), both parents must be carriers (genotype Aa), and both must transmit the recessive allele (a). The probability of the father being a carrier is 2/3. The probability of the mother being a carrier is 2/3. If both are carriers, the probability of them having an affected child (aa) is 1/4. Therefore, the overall probability that the infant has Tay-Sachs disease is P(father is carrier) * P(mother is carrier) * P(child is aa | parents are carriers) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9."
   },
   {
     "question": "A 1-month-old male infant is brought to the physician for a routine examination. The parents report that the infant has a paternal aunt and a maternal uncle who both died of Tay-Sachs disease. The family pedigree is shown [Implied Pedigree: Paternal Grandparents -> Father + Paternal Aunt (Affected). Maternal Grandparents -> Mother + Maternal Uncle (Affected). Father + Mother -> Infant]. Which of the following best estimates the probability that the child will have Tay-Sachs disease?",
-    "options": ["A. 1/16", "B. 1/9", "C. 1/8", "D. 1/4", "E. 9/34"],
+    "options": [
+      "A. 1/16",
+      "B. 1/9",
+      "C. 1/8",
+      "D. 1/4",
+      "E. 9/34"
+    ],
     "answer": "B",
     "explanation": "Tay-Sachs disease is an autosomal recessive disorder. Since the father has an affected sibling (paternal aunt), his parents (paternal grandparents) must both be carriers. The probability that the father (who is phenotypically normal) is a carrier is 2/3. Similarly, since the mother has an affected sibling (maternal uncle), her parents (maternal grandparents) must both be carriers. The probability that the mother (who is phenotypically normal) is also a carrier is 2/3. For the infant to have Tay-Sachs disease (genotype aa), both parents must be carriers (genotype Aa), and both must transmit the recessive allele (a). The probability of the father being a carrier is 2/3. The probability of the mother being a carrier is 2/3. If both are carriers, the probability of them having an affected child (aa) is 1/4. Therefore, the overall probability that the infant has Tay-Sachs disease is P(father is carrier) * P(mother is carrier) * P(child is aa | parents are carriers) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9."
   },

@@ -339,7 +339,13 @@
   },
   {
     "question": "Pentavalent arsenic (arsenate) inhibits net ATP production in glycolysis by competing with inorganic phosphate (Pi) in the reaction catalyzed by glyceraldehyde-3-phosphate dehydrogenase, forming an unstable intermediate that spontaneously hydrolyzes to 3-phosphoglycerate. What is the net yield of ATP molecules when one molecule of glucose is converted anaerobically to two molecules of pyruvate in the presence of arsenate?",
-    "options": ["A. 0", "B. 1", "C. 2", "D. 3", "E. 4"],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3",
+      "E. 4"
+    ],
     "answer": "A",
     "explanations": {
       "A": "Normally, anaerobic glycolysis yields a net of 2 ATP per glucose (2 consumed in the investment phase, 4 produced in the payoff phase). Arsenate bypasses the substrate-level phosphorylation step catalyzed by phosphoglycerate kinase (which normally produces 2 ATP per glucose). Therefore, the 2 ATP usually gained at this step are lost. The 2 ATP consumed are still consumed, and the 2 ATP produced by pyruvate kinase are still produced. Net yield = -2 ATP (consumed) + 0 ATP (PGK step) + 2 ATP (PK step) = 0 ATP.",
@@ -873,7 +879,13 @@
   },
   {
     "question": "After a man consumes a sugar-containing drink following a race, insulin is released, promoting glucose uptake by skeletal muscle. Which glucose transporter isoform mediates this insulin-stimulated glucose uptake into skeletal muscle cells?",
-    "options": ["A. GLUT1", "B. GLUT2", "C. GLUT3", "D. GLUT4", "E. GLUT5"],
+    "options": [
+      "A. GLUT1",
+      "B. GLUT2",
+      "C. GLUT3",
+      "D. GLUT4",
+      "E. GLUT5"
+    ],
     "answer": "D",
     "explanations": {
       "A": "GLUT1 provides basal glucose uptake for many cells (RBCs, brain barrier).",

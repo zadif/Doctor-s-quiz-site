@@ -1,11 +1,5 @@
 [
   {
-    "question": "What are the primary functional and structural units of all living beings mentioned in the text?",
-    "options": ["A. Tissues", "B. Organs", "C. Cells", "D. Organelles"],
-    "answer": "C",
-    "explanation": "The text explicitly states, 'Cells — as an elementary well-organized unit, carries out the functions of reproduction, growth, metabolism, adaptation to changes in the environment and regeneration.'"
-  },
-  {
     "question": "Which of the following is a characteristic function of the plasma membrane (cytolemma)?",
     "options": [
       "A. Protein synthesis.",
@@ -128,7 +122,12 @@
   },
   {
     "question": "What is the basic unit of heredity?",
-    "options": ["A. Chromosome", "B. Nucleotide", "C. Gene", "D. RNA molecule"],
+    "options": [
+      "A. Chromosome",
+      "B. Nucleotide",
+      "C. Gene",
+      "D. RNA molecule"
+    ],
     "answer": "C",
     "explanation": "The text defines a gene as 'a region of a DNA molecule, which contains a definite sequence of nucleotides and is responsible for the synthesis of one specific protein.'"
   },
@@ -167,7 +166,12 @@
   },
   {
     "question": "Which gene is essential for establishing left-sidedness in embryonic development?",
-    "options": ["A. FGF8", "B. BMP4", "C. PITX2", "D. SHH"],
+    "options": [
+      "A. FGF8",
+      "B. BMP4",
+      "C. PITX2",
+      "D. SHH"
+    ],
     "answer": "C",
     "explanation": "The text states, 'PITX2 is responsible for establishing left-sidedness.'"
   },
@@ -195,7 +199,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -256,7 +265,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -317,7 +331,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -378,7 +397,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -439,7 +463,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -500,7 +529,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -561,7 +595,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -622,7 +661,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -683,7 +727,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -744,7 +793,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -805,7 +859,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -866,7 +925,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -927,7 +991,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -988,7 +1057,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1049,7 +1123,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1110,7 +1189,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1171,7 +1255,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1232,7 +1321,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1293,7 +1387,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1354,7 +1453,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1415,7 +1519,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1476,7 +1585,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1537,7 +1651,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1598,7 +1717,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1659,7 +1783,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1720,7 +1849,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1781,7 +1915,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1842,7 +1981,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1903,7 +2047,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -1964,7 +2113,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2025,7 +2179,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2086,7 +2245,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2147,7 +2311,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2208,7 +2377,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2269,7 +2443,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2330,7 +2509,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2391,7 +2575,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2452,7 +2641,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2513,7 +2707,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2574,7 +2773,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2635,7 +2839,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2696,7 +2905,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2757,7 +2971,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2818,7 +3037,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2879,7 +3103,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -2940,7 +3169,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3001,7 +3235,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3062,7 +3301,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3123,7 +3367,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3184,7 +3433,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3245,7 +3499,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3306,7 +3565,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3367,7 +3631,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3428,7 +3697,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3489,7 +3763,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3550,7 +3829,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3611,7 +3895,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3672,7 +3961,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3733,7 +4027,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3794,7 +4093,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3855,7 +4159,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3916,7 +4225,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -3977,7 +4291,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4038,7 +4357,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4099,7 +4423,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4160,7 +4489,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4221,7 +4555,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4282,7 +4621,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4343,7 +4687,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4404,7 +4753,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4465,7 +4819,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4526,7 +4885,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4587,7 +4951,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4648,7 +5017,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4709,7 +5083,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4770,7 +5149,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4831,7 +5215,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4892,7 +5281,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -4953,7 +5347,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5014,7 +5413,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5075,7 +5479,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5136,7 +5545,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5197,7 +5611,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5258,7 +5677,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5319,7 +5743,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5380,7 +5809,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5441,7 +5875,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5502,7 +5941,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5563,7 +6007,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5624,7 +6073,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5685,7 +6139,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5746,7 +6205,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5807,7 +6271,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5868,7 +6337,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5929,7 +6403,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -5990,7 +6469,12 @@
   },
   {
     "question": "What germ layer forms the epithelial lining of the gastrointestinal tract?",
-    "options": ["A. Ectoderm", "B. Mesoderm", "C. Endoderm", "D. Neural crest"],
+    "options": [
+      "A. Ectoderm",
+      "B. Mesoderm",
+      "C. Endoderm",
+      "D. Neural crest"
+    ],
     "answer": "C",
     "explanation": "The summary section lists that 'the endodermal germ layer forms the epithelial lining of the gastrointestinal tract...'"
   },
@@ -6027,7 +6511,6 @@
     "answer": "D",
     "explanation": "The text states, 'Cells of the inner cell mass or embryoblast, are at one pole...'"
   },
-
   {
     "question": "What part of the pharyngeal arch gives rise to the muscles of mastication?",
     "options": [
@@ -6107,7 +6590,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6146,7 +6634,12 @@
   },
   {
     "question": "Which gene mutation is most commonly associated with Adult Polycystic Kidney Disease (ADPKD-1)?",
-    "options": ["A. WNT4", "B. SRY", "C. PKD1 gene", "D. TBX4"],
+    "options": [
+      "A. WNT4",
+      "B. SRY",
+      "C. PKD1 gene",
+      "D. TBX4"
+    ],
     "answer": "C",
     "explanation": "Mutations in the PKD1 gene on chromosome 16 are associated with ADPKD-1."
   },
@@ -6163,7 +6656,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6191,7 +6689,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6230,7 +6733,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6247,7 +6755,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6286,7 +6799,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6325,7 +6843,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6342,7 +6865,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6381,7 +6909,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6420,7 +6953,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6437,7 +6975,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6476,7 +7019,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6515,7 +7063,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6532,7 +7085,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6571,7 +7129,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6610,7 +7173,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6627,7 +7195,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6666,7 +7239,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6705,7 +7283,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6722,7 +7305,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6761,7 +7349,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6800,7 +7393,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6817,7 +7415,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6856,7 +7459,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6895,7 +7503,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -6912,7 +7525,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -6951,7 +7569,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -6990,7 +7613,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7007,7 +7635,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7046,7 +7679,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7085,7 +7723,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7102,7 +7745,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7141,7 +7789,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7180,7 +7833,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7197,7 +7855,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7236,7 +7899,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7275,7 +7943,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7292,7 +7965,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7331,7 +8009,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7370,7 +8053,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7387,7 +8075,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7426,7 +8119,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7465,7 +8163,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7482,7 +8185,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7521,7 +8229,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7560,7 +8273,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7577,7 +8295,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7616,7 +8339,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7655,7 +8383,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7672,7 +8405,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7711,7 +8449,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7750,7 +8493,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7767,7 +8515,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7806,7 +8559,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7845,7 +8603,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7862,7 +8625,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7901,7 +8669,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -7940,7 +8713,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -7957,7 +8735,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -7996,7 +8779,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8035,7 +8823,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8052,7 +8845,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8091,7 +8889,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8130,7 +8933,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8147,7 +8955,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8186,7 +8999,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8225,7 +9043,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8242,7 +9065,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8281,7 +9109,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8320,7 +9153,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8337,7 +9175,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8376,7 +9219,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8415,7 +9263,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8432,7 +9285,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8471,7 +9329,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8510,7 +9373,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8527,7 +9395,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8566,7 +9439,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8605,7 +9483,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8622,7 +9505,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8661,7 +9549,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8700,7 +9593,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8717,7 +9615,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8756,7 +9659,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8795,7 +9703,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8812,7 +9725,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8851,7 +9769,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8890,7 +9813,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -8907,7 +9835,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -8946,7 +9879,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -8985,7 +9923,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9002,7 +9945,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9041,7 +9989,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9080,7 +10033,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9097,7 +10055,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9136,7 +10099,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9175,7 +10143,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9192,7 +10165,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9231,7 +10209,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9270,7 +10253,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9287,7 +10275,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9326,7 +10319,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9365,7 +10363,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9382,7 +10385,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9421,7 +10429,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9460,7 +10473,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9477,7 +10495,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9516,7 +10539,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9555,7 +10583,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9572,7 +10605,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9611,7 +10649,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9650,7 +10693,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9667,7 +10715,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9706,7 +10759,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9745,7 +10803,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9762,7 +10825,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9801,7 +10869,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9840,7 +10913,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9857,7 +10935,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9896,7 +10979,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -9935,7 +11023,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -9952,7 +11045,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -9991,7 +11089,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10030,7 +11133,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10047,7 +11155,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10086,7 +11199,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10125,7 +11243,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10142,7 +11265,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10181,7 +11309,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10220,7 +11353,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10237,7 +11375,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10276,7 +11419,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10315,7 +11463,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10332,7 +11485,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10371,7 +11529,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10410,7 +11573,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10427,7 +11595,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10466,7 +11639,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10505,7 +11683,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10522,7 +11705,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10561,7 +11749,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10600,7 +11793,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10617,7 +11815,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10656,7 +11859,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10695,7 +11903,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10712,7 +11925,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10751,7 +11969,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10790,7 +12013,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10807,7 +12035,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10846,7 +12079,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10885,7 +12123,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10902,7 +12145,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -10941,7 +12189,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -10980,7 +12233,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -10997,7 +12255,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11036,7 +12299,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11075,7 +12343,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11092,7 +12365,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11131,7 +12409,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11170,7 +12453,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11187,7 +12475,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11226,7 +12519,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11265,7 +12563,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11282,7 +12585,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11321,7 +12629,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11360,7 +12673,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11377,7 +12695,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11416,7 +12739,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11455,7 +12783,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11472,7 +12805,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11511,7 +12849,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11550,7 +12893,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11567,7 +12915,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11606,7 +12959,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11645,7 +13003,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11662,7 +13025,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11701,7 +13069,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11740,7 +13113,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11757,7 +13135,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   },
@@ -11796,7 +13179,12 @@
   },
   {
     "question": "Which gene is considered the master regulator for ovary development?",
-    "options": ["A. SRY", "B. SOX9", "C. WNT4", "D. PAX6"],
+    "options": [
+      "A. SRY",
+      "B. SOX9",
+      "C. WNT4",
+      "D. PAX6"
+    ],
     "answer": "C",
     "explanation": "WNT4 is identified as the master gene for ovarian development."
   },
@@ -11835,7 +13223,12 @@
   },
   {
     "question": "Which gene mutation is associated with infantile polycystic kidney disease (ARPKD)?",
-    "options": ["A. PKD1", "B. SRY", "C. PKHD1", "D. PAX2"],
+    "options": [
+      "A. PKD1",
+      "B. SRY",
+      "C. PKHD1",
+      "D. PAX2"
+    ],
     "answer": "C",
     "explanation": "ARPKD is caused by a mutation in the PKHD1 gene on chromosome 6."
   },
@@ -11852,7 +13245,12 @@
   },
   {
     "question": "Which transcription factor is critical for specifying the forebrain and regulating telencephalon development?",
-    "options": ["A. TBX4", "B. PAX6", "C. SHH", "D. FOXG1"],
+    "options": [
+      "A. TBX4",
+      "B. PAX6",
+      "C. SHH",
+      "D. FOXG1"
+    ],
     "answer": "D",
     "explanation": "FOXG1, induced by FGF8 from the anterior neural ridge, regulates telencephalon development."
   }

@@ -43,7 +43,13 @@
   },
   {
     "question": "A newborn, born at 38 weeks' gestation, is evaluated 1 minute after delivery. His temperature is 37.2°C (99°F), pulse is 130/min, respirations are 35/min and irregular, and blood pressure is 72/42 mm Hg. Physical examination shows active muscle movements with good tone. He is pink in color, except for his hands and feet, which are slightly bluish, and he coughs and cries in response to stimulation. Which of the following is the most likely APGAR score for this newborn?",
-    "options": ["A. 5", "B. 7", "C. 8", "D. 9", "E. 10"],
+    "options": [
+      "A. 5",
+      "B. 7",
+      "C. 8",
+      "D. 9",
+      "E. 10"
+    ],
     "answer": "C",
     "explanations": {
       "A": "Incorrect score based on the APGAR criteria.",
@@ -330,7 +336,6 @@
     },
     "page": null
   },
-
   {
     "question": "A 17-year-old woman comes to the physician for a follow-up examination because of unipolar disorder. She states that she has felt depressed for the past 2 months. She denies drug abuse or excessive drinking. Her diagnosis of unipolar disorder is confirmed and treatment with imipramine is begun. Which of the following best describes the mechanism of action of this drug?",
     "options": [
