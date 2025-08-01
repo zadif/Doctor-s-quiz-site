@@ -8,7 +8,8 @@
       "D. Left: Hydrocephalus; Right: Brain abscess."
     ],
     "answer": "C",
-    "explanation": "They show intracranial hemorrhage. The image on the left shows an epidural hematoma. The image on the right shows a subdural hematoma. The epidural is from an arterial bleed and has higher pressure that more readily “pushes in” the brain, and the blood forms the shape of a lens. The subdural is from a venous bleed that forms the shape of a crescent."
+    "explanation": "They show intracranial hemorrhage. The image on the left shows an epidural hematoma. The image on the right shows a subdural hematoma. The epidural is from an arterial bleed and has higher pressure that more readily “pushes in” the brain, and the blood forms the shape of a lens. The subdural is from a venous bleed that forms the shape of a crescent.",
+    "image": "mcqImages/200/0.png"
   },
   {
     "question": "When is a non-contrast head CT scan considered the best initial imaging test?",
@@ -41,7 +42,8 @@
       "D. SPECT scan of the brain."
     ],
     "answer": "B",
-    "explanation": "This is an MRI of the brain."
+    "explanation": "This is an MRI of the brain.",
+    "image": "mcqImages/200/1.png"
   },
   {
     "question": "What does the image on the right show, compared to the normal image on the left?",
@@ -52,7 +54,8 @@
       "D. White matter plaques typical of multiple sclerosis."
     ],
     "answer": "C",
-    "explanation": "The image on the left is normal. The image on the right shows a “ring” or contrast-enhancing lesion consistent with either cancer or infection."
+    "explanation": "The image on the left is normal. The image on the right shows a “ring” or contrast-enhancing lesion consistent with either cancer or infection.",
+    "image": "mcqImages/200/1.png"
   },
   {
     "question": "For which neurological conditions is MRI considered the most accurate imaging test?",
@@ -1438,7 +1441,8 @@
       "D. Left: Polyps; Right: Obstruction."
     ],
     "answer": "C",
-    "explanation": "The left image shows a colon cancer, and the right image shows diverticulosis."
+    "explanation": "The left image shows a colon cancer, and the right image shows diverticulosis.",
+    "image": "mcqImages/200/2.png"
   },
   {
     "question": "Is Barium Enema ever considered the 'most accurate test' if colonoscopy is available as an option?",
@@ -1460,7 +1464,8 @@
       "D. Esophageal cancer."
     ],
     "answer": "B",
-    "explanation": "This is an upper endoscopy showing Barrett's esophagus."
+    "explanation": "This is an upper endoscopy showing Barrett's esophagus.",
+    "image": "mcqImages/200/3.png"
   },
   {
     "question": "What is the underlying pathophysiology of Barrett's esophagus?",
@@ -1493,7 +1498,8 @@
       "D. Barium enema."
     ],
     "answer": "B",
-    "explanation": "This is an abdominal X ray."
+    "explanation": "This is an abdominal X ray.",
+    "image": "mcqImages/200/2.png"
   },
   {
     "question": "What abnormality is depicted in the abdominal X-ray, characterized by multiple air-fluid levels?",

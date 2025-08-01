@@ -1,3 +1,5 @@
 node_modules/
 .env
 checker.js
+data/package-lock.json
+data/package.json
