@@ -16,7 +16,8 @@
       "Organelles",
       "Mitochondria",
       "Energy Production"
-    ]
+    ],
+    "index": 1
   },
   {
     "question": "What is the process by which plants make their own food using sunlight?",
@@ -35,7 +36,8 @@
       "Photosynthesis",
       "Energy",
       "Chlorophyll"
-    ]
+    ],
+    "index": 2
   },
   {
     "question": "DNA is composed of which of the following nucleotide bases?",
@@ -54,6 +56,7 @@
       "Molecular Biology",
       "Genetics",
       "Nucleotides"
-    ]
+    ],
+    "index": 3
   }
 ]

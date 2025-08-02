@@ -14,7 +14,8 @@
       "C": "Catecholamines are stress hormones typically elevated in DKA, contributing to hyperglycemia and lipolysis.",
       "D": "Increased glucagon (along with decreased insulin and increased catecholamines) promotes hepatic glucose production and ketone body formation, driving diabetic ketoacidosis."
     },
-    "page": null
+    "page": null,
+    "index": 1
   },
   {
     "question": "A 3-month-old girl with seizures, severe hypoglycemia, hyperlipidemia, lactic acidosis, and hepatomegaly is diagnosed with Von Gierke disease. This condition is caused by a deficiency in glucose-6-phosphatase. Where does the enzyme defect primarily impair metabolic function?",
@@ -31,7 +32,8 @@
       "C": "Glycolytic defects in red blood cells (e.g., pyruvate kinase deficiency) cause hemolytic anemia.",
       "D": "Glucose-6-phosphatase is crucial in the liver and kidney for the final step of gluconeogenesis and glycogenolysis, releasing free glucose into circulation. Its deficiency causes severe fasting hypoglycemia and accumulation of glycogen in these organs."
     },
-    "page": null
+    "page": null,
+    "index": 2
   },
   {
     "question": "A 7-year-old boy develops severe abdominal cramps after eating fatty meals and is found to have lipoprotein lipase (LPL) deficiency. Where is LPL normally most active in processing dietary fats?",
@@ -48,7 +50,8 @@
       "C": "Lipoprotein lipase is located on the luminal surface of capillary endothelium, particularly in adipose tissue and muscle, where it hydrolyzes triglycerides within chylomicrons and VLDL.",
       "D": "Hormone-sensitive lipase acts inside adipocytes to mobilize stored fat."
     },
-    "page": null
+    "page": null,
+    "index": 3
   },
   {
     "question": "A 47-year-old man presents with acute monoarticular arthritis in his ankle and a history of recurrent flank pain. Synovial fluid analysis reveals needle-shaped, negatively birefringent crystals. What is the biochemical basis of the medication commonly used for chronic management of this condition?",
@@ -65,7 +68,8 @@
       "C": "HPRT is involved in purine salvage; its deficiency causes Lesch-Nyhan syndrome. Inhibiting it would worsen hyperuricemia.",
       "D": "Allopurinol inhibits xanthine oxidase, a key enzyme in the final steps of purine degradation to uric acid. This is the standard chronic therapy to lower uric acid levels in gout."
     },
-    "page": null
+    "page": null,
+    "index": 4
   },
   {
     "question": "In knockout mice lacking phenylethanolamine-N-methyltransferase (PNMT), which step in catecholamine biosynthesis is directly blocked?",
@@ -82,7 +86,8 @@
       "C": "PNMT specifically catalyzes the methylation of norepinephrine to form epinephrine, primarily in the adrenal medulla.",
       "D": "DOPA to dopamine is catalyzed by DOPA decarboxylase."
     },
-    "page": null
+    "page": null,
+    "index": 5
   },
   {
     "question": "A child exhibiting developmental delay, spasticity, compulsive self-mutilation (biting fingers/lips), arthritis, and renal failure likely suffers from Lesch-Nyhan syndrome. What is the inheritance pattern of this disorder?",
@@ -99,7 +104,8 @@
       "C": "Incorrect inheritance pattern.",
       "D": "Lesch-Nyhan syndrome is caused by deficiency of HPRT, an enzyme whose gene is located on the X chromosome. It follows an X-linked recessive inheritance pattern, primarily affecting males."
     },
-    "page": null
+    "page": null,
+    "index": 6
   },
   {
     "question": "An infant develops severe hypoglycemia, vomiting, lethargy, and liver dysfunction shortly after fruits (containing fructose) are introduced into the diet. These symptoms are characteristic of hereditary fructose intolerance (HFI). What metabolite accumulates and causes toxicity in HFI?",
@@ -116,7 +122,8 @@
       "C": "HFI is caused by deficiency of aldolase B (fructose-1-phosphate aldolase). This leads to the accumulation of fructose-1-phosphate, which is toxic to liver cells and inhibits glycogenolysis and gluconeogenesis.",
       "D": "Fructose-1,6-bisphosphate is a normal glycolytic intermediate."
     },
-    "page": null
+    "page": null,
+    "index": 7
   },
   {
     "question": "An infant presents with lethargy, seizures, vomiting, and acidosis after a period of fasting or illness. Labs show hypoglycemia, low ketone levels, and elevated C8-C10 acylcarnitines, indicating MCAD deficiency. Why does hyperammonemia occur in this condition?",
@@ -133,7 +140,8 @@
       "C": "Liver damage can occur, but the hyperammonemia is more directly linked to impaired urea cycle function due to energy deficit.",
       "D": "Beta-oxidation is a major source of ATP, especially during fasting. Impaired beta-oxidation (as in MCAD deficiency) leads to decreased ATP production, particularly in the liver. The urea cycle requires ATP, so its function is impaired, leading to hyperammonemia."
     },
-    "page": null
+    "page": null,
+    "index": 8
   },
   {
     "question": "A 26-year-old woman with a family history of hemolytic anemia and parental consanguinity is diagnosed with pyruvate kinase (PK) deficiency. How does this enzyme deficiency lead to red blood cell lysis?",
@@ -150,7 +158,8 @@
       "C": "PK is a key ATP-generating step in glycolysis. RBCs rely solely on glycolysis for ATP. Insufficient ATP impairs the function of membrane ion pumps (like Na+/K+-ATPase), leading to electrolyte imbalances, osmotic swelling, and eventual lysis (hemolysis).",
       "D": "Lack of NADPH is characteristic of G6PD deficiency, leading to oxidative damage, not PK deficiency."
     },
-    "page": null
+    "page": null,
+    "index": 9
   },
   {
     "question": "A man following a strict low-carbohydrate diet relies on alternative fuels. While fatty acids are broken down for energy, they cannot be converted directly into glucose. However, the glycerol backbone released from triglyceride breakdown can be used for gluconeogenesis. Which enzyme initiates the entry of glycerol into the gluconeogenic pathway?",
@@ -167,7 +176,8 @@
       "C": "Hormone-sensitive lipase hydrolyzes stored triglycerides in adipocytes, releasing glycerol and fatty acids.",
       "D": "Triose phosphate isomerase interconverts DHAP and glyceraldehyde-3-phosphate."
     },
-    "page": null
+    "page": null,
+    "index": 10
   },
   {
     "question": "A child diagnosed with orotic aciduria presents with megaloblastic anemia unresponsive to B12/folate and orotic acid crystals in the urine. Treatment with uridine is effective. Why does uridine administration alleviate the symptoms?",
@@ -184,7 +194,8 @@
       "C": "Orotic aciduria (Type I) results from a defect in UMP synthase, blocking the conversion of orotic acid to UMP. Uridine can be salvaged (phosphorylated to UMP) by cells, bypassing the deficient enzyme step and allowing for the synthesis of downstream pyrimidine nucleotides (like CTP, TTP) needed for DNA/RNA synthesis, thus correcting the anemia.",
       "D": "Uridine supplementation bypasses the defect, it doesn't enhance the deficient enzyme."
     },
-    "page": null
+    "page": null,
+    "index": 11
   },
   {
     "question": "A neonate develops severe neurological symptoms and ketonuria. The condition is identified as Maple Syrup Urine Disease (MSUD), caused by a deficiency in the branched-chain ketoacid dehydrogenase complex. Which amino acids must be restricted in the diet?",
@@ -201,7 +212,8 @@
       "C": "MSUD results from an inability to metabolize the branched-chain amino acids leucine, isoleucine, and valine. Dietary restriction of these three amino acids is the primary treatment.",
       "D": "These are generally not restricted in MSUD."
     },
-    "page": null
+    "page": null,
+    "index": 12
   },
   {
     "question": "A jaundiced neonate requires phototherapy. This treatment effectively breaks down bilirubin but can also degrade a specific vitamin, necessitating supplementation. Which vitamin is susceptible to degradation by phototherapy?",
@@ -218,7 +230,8 @@
       "C": "Vitamin C is not significantly degraded by standard phototherapy.",
       "D": "Vitamin D synthesis can be stimulated by UV light, but standard phototherapy uses different wavelengths and doesn't typically deplete Vitamin D."
     },
-    "page": null
+    "page": null,
+    "index": 13
   },
   {
     "question": "A 1-year-old boy presents with severe hypotonia, difficulty feeding, progressive dyspnea, hepatomegaly, and cardiomegaly, consistent with Pompe disease. What is the subcellular location of the deficient enzyme in this disorder?",
@@ -235,7 +248,8 @@
       "C": "Pompe disease is caused by a deficiency of lysosomal alpha-1,4-glucosidase (acid maltase). It is classified as both a glycogen storage disease and a lysosomal storage disease, as glycogen accumulates within lysosomes.",
       "D": "ER enzymes are involved in protein synthesis/modification and lipid synthesis."
     },
-    "page": null
+    "page": null,
+    "index": 14
   },
   {
     "question": "A healthy 2-year-old girl undergoing a routine check-up has urinalysis positive for a reducing substance, but negative for glucose. Further testing confirms the substance is fructose. She is asymptomatic and meeting developmental milestones. What is the most likely diagnosis?",
@@ -252,7 +266,8 @@
       "C": "Essential Fructosuria is a benign, asymptomatic condition caused by fructokinase deficiency. Fructose spills into the urine because it cannot be phosphorylated in the first step of its metabolism, appearing as a non-glucose reducing substance.",
       "D": "Von Gierke Disease (G6Pase deficiency) causes severe fasting hypoglycemia."
     },
-    "page": null
+    "page": null,
+    "index": 15
   },
   {
     "question": "An African-American man develops hemolytic anemia after taking primaquine for malaria prophylaxis. This is a classic presentation of Glucose-6-phosphate dehydrogenase (G6PD) deficiency. What is the primary biochemical consequence of G6PD deficiency that predisposes red blood cells to hemolysis?",
@@ -269,7 +284,8 @@
       "C": "Hemoglobin synthesis isn't directly affected.",
       "D": "G6PD catalyzes the first step of the HMP shunt, which is the main source of NADPH in red blood cells. NADPH is required to maintain glutathione in its reduced state, protecting the cell against oxidative damage. Low NADPH leads to increased oxidative stress and hemolysis, especially when challenged by oxidant drugs or infections."
     },
-    "page": null
+    "page": null,
+    "index": 16
   },
   {
     "question": "Chronic alcohol consumption leads to a significant increase in the NADH/NAD+ ratio in hepatocytes. How does this altered ratio affect the metabolic fate of pyruvate?",
@@ -286,7 +302,8 @@
       "C": "Conversion to alanine (by ALT) involves glutamate/alpha-ketoglutarate, not directly driven by the NADH/NAD+ ratio.",
       "D": "The reaction catalyzed by lactate dehydrogenase (Pyruvate + NADH <=> Lactate + NAD+) is driven towards lactate formation when the NADH/NAD+ ratio is high, as seen in alcohol metabolism. This contributes to lactic acidosis."
     },
-    "page": null
+    "page": null,
+    "index": 17
   },
   {
     "question": "Six hours after a meal, blood glucose homeostasis is maintained primarily by hepatic glucose production. Glucagon signaling plays a key role. Which enzyme involved in glycogen metabolism is activated by glucagon-mediated phosphorylation?",
@@ -303,7 +320,8 @@
       "C": "Hexokinase activity is regulated by glucose-6-phosphate levels, not typically direct phosphorylation by glucagon signaling.",
       "D": "PFK-1 is regulated allosterically (e.g., by ATP, citrate, F-2,6-BP) and indirectly by phosphorylation affecting F-2,6-BP levels, but not typically activated by direct phosphorylation via glucagon in this context."
     },
-    "page": null
+    "page": null,
+    "index": 18
   },
   {
     "question": "Malnourished children presenting with edema, enlarged fatty livers, skin lesions, and apathy are likely suffering from Kwashiorkor, a form of protein-energy malnutrition. Which of the following is an essential amino acid that must be obtained from the diet?",
@@ -320,7 +338,8 @@
       "C": "Serine is a non-essential amino acid.",
       "D": "Threonine is an essential amino acid (part of PVT TIM HALL mnemonic) and must be supplied in the diet, making its deficiency relevant in protein malnutrition."
     },
-    "page": null
+    "page": null,
+    "index": 19
   },
   {
     "question": "Pentavalent arsenic (arsenate) disrupts ATP production during glycolysis. Which specific reaction's ATP yield is eliminated by arsenate?",
@@ -337,7 +356,8 @@
       "C": "Arsenate competes with Pi in the glyceraldehyde-3-phosphate dehydrogenase reaction, forming an unstable arsenate intermediate that hydrolyzes spontaneously to 3-phosphoglycerate. This bypasses the formation of 1,3-bisphosphoglycerate, the substrate for phosphoglycerate kinase, thus eliminating the ATP generated at this step.",
       "D": "The pyruvate kinase reaction, which generates ATP, is unaffected by arsenate."
     },
-    "page": null
+    "page": null,
+    "index": 20
   },
   {
     "question": "A chronic alcoholic presents with confusion, ataxia, and ophthalmoplegia (Wernicke encephalopathy), which improves, but he is left with severe memory deficits and confabulation (Korsakoff syndrome). Thiamine (Vitamin B1) deficiency underlies this condition. Which enzyme's activity is critically dependent on a thiamine-derived cofactor?",
@@ -354,7 +374,8 @@
       "C": "Aminotransferases require pyridoxal phosphate (Vitamin B6).",
       "D": "HMG-CoA reductase is the rate-limiting enzyme in cholesterol synthesis."
     },
-    "page": null
+    "page": null,
+    "index": 21
   },
   {
     "question": "In analyzing enzyme kinetics using a Lineweaver-Burk plot (1/v vs 1/[S]), what does the intercept on the y-axis represent?",
@@ -371,7 +392,8 @@
       "C": "The Lineweaver-Burk equation is 1/v = (Km/Vmax)(1/[S]) + 1/Vmax. When 1/[S] = 0 (which corresponds to infinite [S]), 1/v = 1/Vmax. Therefore, the y-intercept represents 1/Vmax.",
       "D": "The x-intercept represents -1/Km."
     },
-    "page": null
+    "page": null,
+    "index": 22
   },
   {
     "question": "A 47-year-old man with chronic alcoholism develops Wernicke-Korsakoff syndrome due to thiamine deficiency. Besides pyruvate dehydrogenase and transketolase, which other crucial mitochondrial enzyme complex requires thiamine pyrophosphate (TPP) as a cofactor?",
@@ -388,7 +410,8 @@
       "C": "Citrate synthase does not require TPP.",
       "D": "Malate dehydrogenase uses NAD+."
     },
-    "page": null
+    "page": null,
+    "index": 23
   },
   {
     "question": "A 15-month-old child with progressive neurologic deterioration, hepatosplenomegaly, and retinal pallor sparing the macula is diagnosed with Niemann-Pick disease Type A. What substance accumulates in lysosomes due to the enzyme deficiency?",
@@ -405,7 +428,8 @@
       "C": "Heparan sulfate (and dermatan sulfate) accumulates in Mucopolysaccharidoses like Hurler or Hunter syndrome.",
       "D": "Niemann-Pick disease (Types A and B) is caused by a deficiency of acid sphingomyelinase, leading to the accumulation of sphingomyelin within lysosomes, particularly in cells of the mononuclear phagocyte system (causing hepatosplenomegaly) and neurons (in Type A)."
     },
-    "page": null
+    "page": null,
+    "index": 24
   },
   {
     "question": "A patient is found to have a deficiency in gamma-glutamyltranspeptidase (GGT), leading to elevated urine glutathione levels and neurological symptoms. What is the primary role of GGT in the gamma-glutamyl cycle?",
@@ -422,7 +446,8 @@
       "C": "Glutathione transport mechanisms exist but are not the primary role of GGT.",
       "D": "Gamma-glutamyltranspeptidase is a membrane-bound enzyme that initiates the breakdown of extracellular glutathione and transfers the gamma-glutamyl group to an amino acid (or peptide), facilitating amino acid transport into the cell."
     },
-    "page": null
+    "page": null,
+    "index": 25
   },
   {
     "question": "Citrate levels increase in the cytosol when the citric acid cycle activity slows or when cellular energy levels are high. Besides inhibiting phosphofructokinase-1, citrate acts as an allosteric activator for which key enzyme in fatty acid synthesis?",
@@ -439,7 +464,8 @@
       "C": "Acetyl-CoA carboxylase catalyzes the carboxylation of acetyl-CoA to malonyl-CoA, the committed and rate-limiting step in fatty acid synthesis. Citrate acts as a key allosteric activator, signaling that acetyl-CoA is abundant and promoting its conversion to malonyl-CoA for fat storage.",
       "D": "CPT I is involved in fatty acid transport into mitochondria for oxidation and is inhibited by malonyl-CoA."
     },
-    "page": null
+    "page": null,
+    "index": 26
   },
   {
     "question": "An infant develops jaundice, hepatomegaly, failure to thrive, and cataracts after starting milk feedings. Classic galactosemia is diagnosed. What is the primary treatment strategy?",
@@ -456,7 +482,8 @@
       "C": "Classic galactosemia is caused by deficiency of galactose-1-phosphate uridyltransferase. Treatment requires the complete elimination of galactose (and its source, lactose) from the diet to prevent the toxic accumulation of galactose-1-phosphate.",
       "D": "Phototherapy is used for neonatal jaundice (hyperbilirubinemia), not galactosemia."
     },
-    "page": null
+    "page": null,
+    "index": 27
   },
   {
     "question": "A child presents with hypoketotic hypoglycemia, muscle weakness, and cardiomyopathy. Labs show elevated long-chain acylcarnitines. This pattern suggests a defect in fatty acid beta-oxidation, such as LCAD deficiency. What is the characteristic metabolic state during fasting in these disorders?",
@@ -473,7 +500,8 @@
       "C": "Hyperketotic hypoglycemia might be seen in other conditions, but defects in beta-oxidation prevent ketone body formation.",
       "D": "Defects in fatty acid oxidation impair the liver's ability to produce ketone bodies (hypoketosis) during fasting. Since gluconeogenesis is also often impaired due to lack of ATP/acetyl-CoA from beta-oxidation, hypoglycemia results. Hypoketotic hypoglycemia during fasting is the hallmark of these disorders."
     },
-    "page": null
+    "page": null,
+    "index": 28
   },
   {
     "question": "A 24-year-old woman experiences severe muscle cramps and myoglobinuria after strenuous exercise, but her serum lactate levels do not increase appropriately. This presentation is typical of McArdle disease. Which tissue is primarily affected?",
@@ -490,7 +518,8 @@
       "C": "While some glycogen storage diseases affect the heart (e.g., Pompe), McArdle disease specifically involves skeletal muscle phosphorylase.",
       "D": "Red blood cell metabolism defects typically cause hemolytic anemia."
     },
-    "page": null
+    "page": null,
+    "index": 29
   },
   {
     "question": "A newborn with jaundice has glycogen storage disease type IV (Andersen disease). Analysis of the glycogen structure reveals an abnormally high ratio of glucose-1-phosphate to free glucose upon enzymatic digestion. What structural abnormality does this indicate?",
@@ -507,7 +536,8 @@
       "C": "Andersen disease is caused by branching enzyme deficiency. This results in glycogen molecules with fewer branch points and longer outer chains. When digested by phosphorylase (releases G1P) and debranching enzyme (releases free glucose at branch points), the ratio of G1P released (from linear chains) to free glucose released (from branch points) is high.",
       "D": "Excessive branching is not typical of Andersen disease."
     },
-    "page": null
+    "page": null,
+    "index": 30
   },
   {
     "question": "When performing an enzyme assay to determine the amount of enzyme present in a sample, it is ideal to ensure the reaction rate is independent of substrate concentration. Under what condition is the enzyme's reaction rate primarily dependent only on enzyme concentration?",
@@ -524,7 +554,8 @@
       "C": "At [S] >> Km, the enzyme is saturated with substrate, and the reaction rate approaches Vmax. Under these conditions (zero-order kinetics with respect to [S]), the rate is primarily dependent on the enzyme concentration [E].",
       "D": "At equilibrium, the net reaction rate is zero."
     },
-    "page": null
+    "page": null,
+    "index": 31
   },
   {
     "question": "The activity of the pyruvate dehydrogenase (PDH) complex increases significantly during aerobic exercise. Which intracellular ion plays a key role in activating PDH phosphatase, thereby promoting the active, dephosphorylated state of PDH?",
@@ -541,7 +572,8 @@
       "C": "Increased intracellular Ca2+ levels, which occur during muscle contraction (exercise), stimulate PDH phosphatase. This leads to dephosphorylation and activation of the PDH complex, linking increased glycolytic flux to TCA cycle activity.",
       "D": "Magnesium is a cofactor for many kinases and ATP-dependent reactions, but Ca2+ is the specific activator of PDH phosphatase."
     },
-    "page": null
+    "page": null,
+    "index": 32
   },
   {
     "question": "A patient receiving broad-spectrum antibiotics for 4 weeks develops easy bruising and prolonged prothrombin time (PT). This is likely due to a deficiency in Vitamin K, affecting the synthesis of functional clotting factors. Which specific post-translational modification, dependent on Vitamin K, is impaired?",
@@ -558,7 +590,8 @@
       "C": "Vitamin K is an essential cofactor for the enzyme gamma-glutamyl carboxylase, which catalyzes the carboxylation of specific glutamate residues on Vitamin K-dependent proteins (clotting factors II, VII, IX, X; proteins C, S) to form gamma-carboxyglutamate (Gla). This modification is necessary for these proteins to bind calcium and function properly in coagulation.",
       "D": "Glycosylation occurs in the ER and Golgi, not dependent on Vitamin K."
     },
-    "page": null
+    "page": null,
+    "index": 33
   },
   {
     "question": "A pregnant woman with phenylketonuria (PKU) has poorly controlled, high serum phenylalanine levels during her first trimester. What is the primary risk to her fetus?",
@@ -575,7 +608,8 @@
       "C": "High maternal phenylalanine levels act as a teratogen, especially during the critical period of organogenesis in the first trimester. This can lead to 'maternal PKU syndrome' in the infant, characterized by microcephaly, mental retardation, facial dysmorphism, and congenital heart defects.",
       "D": "High phenylalanine levels typically lead to poor fetal growth and developmental issues, not excessive growth."
     },
-    "page": null
+    "page": null,
+    "index": 34
   },
   {
     "question": "Cocaine abuse can lead to coronary vasospasm and myocardial ischemia, resulting in contraction band necrosis. Under these ischemic conditions, what metabolic pathway becomes the primary source of ATP for the affected myocardial cells?",
@@ -592,7 +626,8 @@
       "C": "The citric acid cycle requires oxygen (indirectly, via regeneration of NAD+/FAD by oxidative phosphorylation).",
       "D": "During ischemia (lack of oxygen), cells switch to anaerobic glycolysis as the sole pathway capable of generating ATP (via substrate-level phosphorylation), although much less efficiently than aerobic respiration. This leads to lactate accumulation."
     },
-    "page": null
+    "page": null,
+    "index": 35
   },
   {
     "question": "A 64-year-old man presents with a painful, swollen right knee. Arthrocentesis reveals cloudy fluid with numerous neutrophils and strongly negatively birefringent, needle-shaped crystals. This presentation is classic for gout. What is the chemical composition of these crystals?",
@@ -609,7 +644,8 @@
       "C": "Gout is caused by the deposition of monosodium urate crystals in joints. These crystals characteristically appear as needle-shaped and are strongly negatively birefringent under polarized light.",
       "D": "Calcium oxalate crystals are typically found in urine, associated with kidney stones or ethylene glycol poisoning; they are often bipyramidal."
     },
-    "page": null
+    "page": null,
+    "index": 36
   },
   {
     "question": "Carnitine is essential for the transport of long-chain fatty acids into the mitochondria for beta-oxidation. From which two amino acids is carnitine endogenously synthesized?",
@@ -626,7 +662,8 @@
       "C": "Carnitine is synthesized primarily in the liver and kidney from the essential amino acids lysine and methionine. Methionine provides the methyl groups via S-adenosylmethionine (SAM).",
       "D": "Incorrect precursor amino acids."
     },
-    "page": null
+    "page": null,
+    "index": 37
   },
   {
     "question": "Nitric oxide (NO) released from endothelial cells causes vasodilation by acting on adjacent smooth muscle cells. What is the immediate downstream effect of NO within the smooth muscle cell?",
@@ -643,7 +680,8 @@
       "C": "NO diffuses into the smooth muscle cell and directly binds to and activates soluble guanylate cyclase, leading to increased production of cyclic GMP (cGMP).",
       "D": "Increased cGMP ultimately leads to dephosphorylation of myosin light chains (via activation of myosin light chain phosphatase), causing relaxation. Direct inhibition of MLCK is not the primary mechanism of NO/cGMP."
     },
-    "page": null
+    "page": null,
+    "index": 38
   },
   {
     "question": "Metabolic pathways are compartmentalized within the cell. Which of the following enzymes is correctly localized to the mitochondrial matrix?",
@@ -660,7 +698,8 @@
       "C": "Carnitine acyltransferase I is located on the outer mitochondrial membrane.",
       "D": "The pyruvate dehydrogenase (PDH) complex, which links glycolysis to the TCA cycle, is located within the mitochondrial matrix."
     },
-    "page": null
+    "page": null,
+    "index": 39
   },
   {
     "question": "Chylomicrons, synthesized in the intestine after a fatty meal, decrease in size as they circulate. This is due to the action of lipoprotein lipase (LPL). What molecule, acquired from HDL in circulation, is necessary to activate LPL?",
@@ -677,7 +716,8 @@
       "C": "Apolipoprotein C-II (ApoC-II) is transferred from HDL particles to nascent chylomicrons (and VLDL) in circulation. ApoC-II is a required cofactor for the activation of lipoprotein lipase.",
       "D": "ApoE mediates the uptake of remnant particles (chylomicron remnants, IDL) by the liver."
     },
-    "page": null
+    "page": null,
+    "index": 40
   },
   {
     "question": "Gluconeogenesis bypasses the irreversible glycolytic step catalyzed by phosphofructokinase-1 (PFK-1). Which enzyme catalyzes the reverse reaction in gluconeogenesis, converting fructose-1,6-bisphosphate to fructose-6-phosphate?",
@@ -694,7 +734,8 @@
       "C": "Glucose-6-phosphatase bypasses hexokinase/glucokinase in the final step of gluconeogenesis.",
       "D": "Phosphoglucose isomerase reversibly converts glucose-6-phosphate and fructose-6-phosphate."
     },
-    "page": null
+    "page": null,
+    "index": 41
   },
   {
     "question": "A child presents with tall stature, long limbs, downward dislocation of the lenses (ectopia lentis), developmental delay, and a history of thromboembolic events. These features are highly suggestive of classic homocystinuria. Which enzyme is typically deficient?",
@@ -711,7 +752,8 @@
       "C": "Phenylalanine hydroxylase deficiency causes PKU.",
       "D": "HPRT deficiency causes Lesch-Nyhan syndrome."
     },
-    "page": null
+    "page": null,
+    "index": 42
   },
   {
     "question": "A 14-year-old girl experiences painful leg cramps and fatigue shortly after beginning exercise. A key diagnostic finding in McArdle disease (myophosphorylase deficiency) is the failure to produce what substance in the blood during anaerobic exercise?",
@@ -728,7 +770,8 @@
       "C": "Pyruvate production would also be limited due to lack of substrate from glycogen.",
       "D": "Ketone bodies are produced by the liver, not muscle, during fasting/starvation."
     },
-    "page": null
+    "page": null,
+    "index": 43
   },
   {
     "question": "Lead poisoning inhibits heme synthesis, contributing to microcytic anemia. Besides ALA dehydratase, which other enzyme in the heme synthesis pathway is inhibited by lead?",
@@ -745,7 +788,8 @@
       "C": "Ferrochelatase catalyzes the final step of heme synthesis, inserting ferrous iron (Fe2+) into protoporphyrin IX. Lead directly inhibits this enzyme, contributing to the anemia and causing accumulation of protoporphyrin (often measured as zinc protoporphyrin).",
       "D": "Deficiency causes Hereditary Coproporphyria."
     },
-    "page": null
+    "page": null,
+    "index": 44
   },
   {
     "question": "During intense anaerobic exercise, pyruvate is converted to lactate in skeletal muscle. What is the primary purpose of this reaction catalyzed by lactate dehydrogenase (LDH)?",
@@ -762,7 +806,8 @@
       "C": "The glyceraldehyde-3-phosphate dehydrogenase step in glycolysis requires NAD+ and produces NADH. Under anaerobic conditions, oxidative phosphorylation cannot regenerate NAD+ from NADH. LDH catalyzes the reduction of pyruvate to lactate, simultaneously oxidizing NADH back to NAD+. This regenerated NAD+ allows glycolysis to continue producing ATP anaerobically.",
       "D": "Alanine is synthesized from pyruvate via transamination (ALT)."
     },
-    "page": null
+    "page": null,
+    "index": 45
   },
   {
     "question": "Hemorrhagic disease of the newborn can occur due to Vitamin K deficiency. Which clotting factor, dependent on Vitamin K for its synthesis, has the shortest half-life and is therefore depleted most rapidly, leading to an early elevation of the prothrombin time (PT)?",
@@ -779,7 +824,8 @@
       "C": "Factor IX has a half-life of approx. 24 hours.",
       "D": "Factor X has a half-life of approx. 40 hours."
     },
-    "page": null
+    "page": null,
+    "index": 46
   },
   {
     "question": "Familial Hypocalciuric Hypercalcemia (FHH) is typically caused by an inactivating mutation in the calcium-sensing receptor (CaSR) gene. What pattern of laboratory findings differentiates FHH from primary hyperparathyroidism (e.g., due to an adenoma)?",
@@ -796,7 +842,8 @@
       "C": "FHH involves hypercalcemia, not hypocalcemia.",
       "D": "FHH involves hypocalciuria, not hypercalciuria."
     },
-    "page": null
+    "page": null,
+    "index": 47
   },
   {
     "question": "Gallstones in patients with sickle cell anemia are typically composed primarily of calcium bilirubinate. What is the underlying reason for the formation of these particular stones?",
@@ -813,7 +860,8 @@
       "C": "Decreased bile acids might contribute to cholesterol stone formation.",
       "D": "Sickle cell anemia causes chronic intravascular and extravascular hemolysis, leading to a significant increase in the breakdown of hemoglobin and production of bilirubin. The excess unconjugated bilirubin is conjugated in the liver, but the high concentration in bile predisposes to the precipitation of calcium bilirubinate, forming black pigment stones."
     },
-    "page": null
+    "page": null,
+    "index": 48
   },
   {
     "question": "A young boy emigrating from a region where polished rice is a dietary staple presents with signs of high-output cardiac failure (dilated cardiomyopathy). This clinical picture, known as 'wet beriberi', is caused by a deficiency in which vitamin?",
@@ -830,7 +878,8 @@
       "C": "Thiamine (B1) deficiency causes beriberi. Wet beriberi specifically refers to the cardiovascular manifestations, including high-output heart failure and dilated cardiomyopathy. Polished rice lacks the thiamine-rich husk.",
       "D": "Cobalamin deficiency causes megaloblastic anemia and neurological problems."
     },
-    "page": null
+    "page": null,
+    "index": 49
   },
   {
     "question": "Following ingestion of glucose and subsequent insulin release, glucose uptake into skeletal muscle cells increases significantly. Which glucose transporter isoform is responsible for this insulin-stimulated uptake?",
@@ -847,7 +896,8 @@
       "C": "GLUT3 is a high-affinity transporter primarily in neurons.",
       "D": "GLUT4 is the primary insulin-responsive glucose transporter found in skeletal muscle, cardiac muscle, and adipose tissue. Insulin signaling promotes its translocation from intracellular vesicles to the plasma membrane."
     },
-    "page": null
+    "page": null,
+    "index": 50
   },
   {
     "question": "Pyruvate carboxylase deficiency leads to impaired conversion of pyruvate to oxaloacetate. Besides its role in replenishing TCA cycle intermediates (anaplerosis), pyruvate carboxylase is essential for which other major metabolic pathway?",
@@ -864,7 +914,8 @@
       "C": "Fatty acid synthesis uses citrate derived from the TCA cycle.",
       "D": "Ketogenesis uses acetyl-CoA derived from fatty acid oxidation."
     },
-    "page": null
+    "page": null,
+    "index": 51
   },
   {
     "question": "Ornithine transcarbamylase (OTC) deficiency typically presents in male neonates with hyperammonemia, lethargy, and coma. A key finding distinguishing OTC deficiency from carbamoyl phosphate synthetase I (CPS I) deficiency is the presence of:",
@@ -881,7 +932,8 @@
       "C": "In OTC deficiency, the substrate carbamoyl phosphate accumulates in the mitochondria and leaks into the cytosol, where it enters the pyrimidine synthesis pathway, leading to overproduction of orotic acid and subsequent orotic aciduria. This does not occur in CPS I deficiency because carbamoyl phosphate is not produced.",
       "D": "Hypoglycemia is not a primary feature."
     },
-    "page": null
+    "page": null,
+    "index": 52
   },
   {
     "question": "Tay-Sachs disease and Niemann-Pick disease Type A are lysosomal storage diseases with increased prevalence in the Ashkenazi Jewish population, both presenting with progressive neurodegeneration in infancy and a potential cherry-red spot on fundoscopy. What clinical finding is typically present in Niemann-Pick disease but absent in Tay-Sachs disease?",
@@ -898,7 +950,8 @@
       "C": "Niemann-Pick disease is caused by sphingomyelinase deficiency, leading to sphingomyelin accumulation in the reticuloendothelial system (macrophages), resulting in significant hepatosplenomegaly. Tay-Sachs disease involves accumulation of GM2 ganglioside primarily in neurons, and hepatosplenomegaly is characteristically absent.",
       "D": "Hypotonia can be seen in both conditions."
     },
-    "page": null
+    "page": null,
+    "index": 53
   },
   {
     "question": "A malnourished alcoholic patient presents with perifollicular hemorrhages, ecchymoses, bleeding gums, and poor wound healing. These findings are characteristic of scurvy. The underlying biochemical defect involves impaired synthesis of which protein?",
@@ -915,7 +968,8 @@
       "C": "Keratin is the primary protein in hair and nails.",
       "D": "Elastin synthesis involves lysine cross-linking via lysyl oxidase (copper-dependent)."
     },
-    "page": null
+    "page": null,
+    "index": 54
   },
   {
     "question": "A child presents with failure to thrive, steatorrhea, night blindness, ataxia, and acanthocytes on peripheral blood smear. This constellation suggests abetalipoproteinemia. Which class of lipoproteins is characteristically absent from the plasma in this condition?",
@@ -932,7 +986,8 @@
       "C": "IDL is derived from VLDL and would also be absent.",
       "D": "LDL is derived from VLDL/IDL and would also be absent."
     },
-    "page": null
+    "page": null,
+    "index": 55
   },
   {
     "question": "After several days of fasting, the brain adapts to utilize alternative fuel sources to spare glucose. What becomes the predominant fuel source for the brain during prolonged starvation?",
@@ -949,7 +1004,8 @@
       "C": "Lactate can be used by the brain to some extent but is not the predominant fuel in prolonged starvation.",
       "D": "While gluconeogenesis uses amino acids, the brain primarily spares glucose by using ketones; direct amino acid oxidation for fuel by the brain is minimal."
     },
-    "page": null
+    "page": null,
+    "index": 56
   },
   {
     "question": "A 6-month-old infant of Ashkenazi Jewish descent presents with progressive neurodegeneration, loss of motor skills, increased startle response, and a cherry-red spot on macular examination, but no hepatosplenomegaly. This is consistent with Tay-Sachs disease. What enzyme is deficient?",
@@ -966,7 +1022,8 @@
       "C": "Tay-Sachs disease is caused by a deficiency of the alpha-subunit of the lysosomal enzyme hexosaminidase A, leading to the accumulation of GM2 ganglioside, primarily in neurons.",
       "D": "Galactocerebrosidase deficiency causes Krabbe disease."
     },
-    "page": null
+    "page": null,
+    "index": 57
   },
   {
     "question": "A patient with episodic hypertension, palpitations, and headaches is found to have an adrenal pheochromocytoma secreting excess catecholamines. Which enzyme catalyzes the rate-limiting step in the synthesis of these catecholamines from their amino acid precursor?",
@@ -983,7 +1040,8 @@
       "C": "Dopamine beta-hydroxylase converts dopamine to norepinephrine.",
       "D": "PNMT converts norepinephrine to epinephrine."
     },
-    "page": null
+    "page": null,
+    "index": 58
   },
   {
     "question": "A patient known to have Acute Intermittent Porphyria (AIP) develops severe abdominal pain, tachycardia, hypertension, and neurological symptoms after starting treatment with phenobarbital for seizures. What is the biochemical basis for drug precipitation of AIP attacks?",
@@ -1000,6 +1058,7 @@
       "C": "Drugs like phenobarbital are potent inducers of the hepatic cytochrome P450 system. Cytochrome P450 enzymes require heme as a prosthetic group. Induction increases the demand for heme synthesis. This upregulates ALA synthase (the first enzyme in heme synthesis), leading to a massive accumulation of the precursors ALA and PBG *before* the enzymatic block (PBG deaminase) in patients with AIP, precipitating an acute attack.",
       "D": "Phenobarbital does not chelate iron."
     },
-    "page": null
+    "page": null,
+    "index": 59
   }
 ]

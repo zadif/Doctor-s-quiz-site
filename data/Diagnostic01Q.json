@@ -15,7 +15,8 @@
       "C": "Destruction of virus-infected cells is a function of cytotoxic T cells, which have rounded nuclei.",
       "D": "The cell described as having a half-moon shaped nucleus is a monocyte, which participates in phagocytosis of bacteria and cellular debris. Monocytes become macrophages when they leave the bloodstream to enter tissues.",
       "E": "Release of vasoactive amines is performed by eosinophils, which have bilobate nuclei and coarse round granules."
-    }
+    },
+    "index": 1
   },
   {
     "question": "A 60-year-old man undergoes renal transplantation. He experiences a gradual decline in urinary output and develops edema. Renal biopsy shows arteriosclerosis with accumulation of smooth muscle cells and connective tissue in the vessel intima. Which of the following is the most likely cause of these findings?",
@@ -33,7 +34,8 @@
       "C": "This patient's symptoms are most likely caused by chronic rejection, as his symptoms developed gradually. The causes of chronic graft rejection are multifactorial, but typically involve arteriosclerosis of the engrafted organ.",
       "D": "Hyperacute rejection occurs within minutes of transplantation and is caused by preformed anti-donor antibodies. This is a complement-mediated response and can cause rapid agglutination of the blood and a severe systemic inflammatory response.",
       "E": "Normal age-associated degeneration would not be likely in this 60-year-old transplant patient."
-    }
+    },
+    "index": 2
   },
   {
     "question": "A 26-year-old man comes to the physician because of a 3-year history of low back pain and spinal stiffness in the morning. Physical examination shows limitation of motion of the lumbar spine in anterior flexion, lateral flexion, and extension. An x-ray of the sacral area shows fusion of the sacroiliac joints. This patient most likely has which of the following HLA types?",
@@ -51,7 +53,8 @@
       "C": "HLA-BW47 is associated with 21-hydroxylase deficiency.",
       "D": "HLA-DR3 is associated with chronic active hepatitis, primary Sjogren syndrome, and type 1 diabetes mellitus.",
       "E": "HLA-DR4 is associated with rheumatoid arthritis and type 1 diabetes mellitus."
-    }
+    },
+    "index": 3
   },
   {
     "question": "A 6-year-old boy of Ashkenazi Jewish descent is brought to the physician for a routine examination. Physical examination shows hepatosplenomegaly. An older brother who also has the condition exhibits skeletal deformities and moderate pancytopenia. Bone marrow biopsy of the patient shows the presence of numerous unusual histiocytic cells with abundant, bluish, fibrillar cytoplasm. Electron microscopy of the abnormal cells in the bone marrow is most likely to show which of the following?",
@@ -69,7 +72,8 @@
       "C": "Markedly increased smooth endoplasmic reticulum is not a feature of Gaucher disease.",
       "D": "Near-complete absence of ribosomes is not a feature of Gaucher disease.",
       "E": "Structural abnormalities of cilia are associated with several chronic conditions, including polycystic kidney disease, ectopic pregnancy, and primary ciliary dyskinesia."
-    }
+    },
+    "index": 4
   },
   {
     "question": "A 10-year-old boy is brought to the emergency department because of a 2-day history of fever and a cough productive of green sputum. He has a history of chronic cough with multiple episodes of pneumonia and frequent bulky bowel movements. Light microscopic examination of his sputum shows many neutrophils. Which of the following describes the most likely pathogen?",
@@ -87,7 +91,8 @@
       "C": "A gram-negative, pleomorphic rod requiring factors X and V describes Haemophilus, which tends to cause pneumonia in young children and elderly adults, but Pseudomonas is more characteristic in CF.",
       "D": "A gram-positive, catalase-negative coccus would describe the genus Streptococcus, but S. pneumoniae is not the most common cause of pneumonia in cystic fibrosis patients.",
       "E": "A gram-positive, catalase-positive coccus describes Staphylococcus aureus, which can infect CF patients, but Pseudomonas is often more prevalent and problematic."
-    }
+    },
+    "index": 5
   },
   {
     "question": "A 3-year-old boy with a history of repeated infections is brought to the physician because of a skin abscess in his left axilla. Culture of the exudate shows gram-positive, coagulase-positive cocci. Complete blood count is within reference ranges except for a modest elevation of neutrophils. Laboratory studies show normal serum immunoglobulins and T-cell function, and a nitroblue tetrazolium (NBT) test is negative. If gene therapy were performed on this patient, the delivery vector should contain the gene encoding which of the following proteins?",
@@ -105,7 +110,8 @@
       "C": "The common beta-chain of integrin proteins deficiency causes leukocyte adhesion deficiency.",
       "D": "Deficiency of the common gamma chain of interleukin receptors causes X-linked SCID.",
       "E": "This patient has chronic granulomatous disease (CGD), characterized by recurrent infections with catalase-positive organisms (like Staphylococcus aureus, the coagulase-positive cocci cultured) and impaired intracellular killing by neutrophils due to defective oxidative burst. The negative NBT test confirms the inability of neutrophils to produce superoxide. CGD is most commonly caused by mutations in the gene encoding gp91 phox, a critical subunit of the NADPH oxidase complex. Gene therapy would aim to replace this defective gene."
-    }
+    },
+    "index": 6
   },
   {
     "question": "A 64-year-old man with a history of glaucoma comes to the emergency department because of a 1-day history of severely blurred vision and bilateral ocular pain. Two days ago, he began treatment for both a community-acquired pneumonia and a muscle spasm. Which of the following medications is the most likely cause of the symptoms in this patient?",
@@ -123,7 +129,8 @@
       "C": "Cyclobenzaprine is a muscle relaxant structurally related to tricyclic antidepressants. It possesses strong anticholinergic properties (dry mouth, urinary retention, constipation, confusion, blurred vision). Anticholinergic drugs can cause pupillary dilation (mydriasis), which can precipitate an acute angle-closure glaucoma attack in susceptible individuals (those with pre-existing narrow angles), leading to severe ocular pain and blurred vision.",
       "D": "Naproxen is an NSAID, primarily associated with GI or renal side effects.",
       "E": "Timolol is a beta-blocker used topically for glaucoma (to decrease aqueous humor production) or orally for hypertension. Systemic side effects include bradycardia and bronchospasm."
-    }
+    },
+    "index": 7
   },
   {
     "question": "A 19-year-old woman comes to the physician because of a watery, foul-smelling vaginal discharge that she has noticed following her menses for the past several months. She says that she is sexually active. Light microscopy of a wet mount of the vaginal fluids shows sloughed mucosal cells covered with bacteria ('clue cells'). Which of the following is the most likely diagnosis?",
@@ -141,7 +148,8 @@
       "C": "Gonorrhea typically causes cervicitis with purulent discharge; diagnosis involves visualizing intracellular Gram-negative diplococci or NAAT.",
       "D": "Syphilis primarily causes chancres, rashes, or later systemic effects; diagnosis involves serology or darkfield microscopy.",
       "E": "Trichomoniasis causes a frothy, yellow-green discharge and vaginitis; diagnosis involves visualizing motile trichomonads on wet mount."
-    }
+    },
+    "index": 8
   },
   {
     "question": "A 68-year-old man develops painful, sharply demarcated erythematous and purpuric patches on his thighs, arms, and chest 5 days after starting pharmacologic treatment for atrial fibrillation. This presentation suggests warfarin-induced skin necrosis. The medication responsible most likely acts by which mechanism?",
@@ -159,7 +167,8 @@
       "C": "This describes calcium channel blockers (e.g., verapamil).",
       "D": "This describes ACE inhibitors (e.g., captopril).",
       "E": "The described skin reaction is characteristic of warfarin-induced skin necrosis. Warfarin inhibits the vitamin K epoxide reductase complex, thereby inhibiting the synthesis of functional vitamin K-dependent clotting factors (II, VII, IX, X) and anticoagulant proteins (C and S). Proteins C and S have shorter half-lives than most clotting factors. Initially, warfarin rapidly depletes proteins C and S, leading to a transient hypercoagulable state before the anticoagulant effect on factors II, IX, and X takes hold. This hypercoagulability can cause thrombosis in dermal vessels, leading to necrosis, especially in individuals with underlying protein C or S deficiency."
-    }
+    },
+    "index": 9
   },
   {
     "question": "A 32-year-old man complains of severe pain in his hands and feet, even at rest, episodes of painful, pale, cold hands in winter (Raynaud phenomenon), and small, painful ulcers on his fingertips. Examination reveals weaker distal pulses. His condition, likely thromboangiitis obliterans (Buerger disease), is most strongly related to use of which substance?",
@@ -177,7 +186,8 @@
       "C": "Ethanol use is associated with liver disease, pancreatitis, cardiomyopathy, neuropathy.",
       "D": "Marijuana use is associated with respiratory issues and potential cognitive effects.",
       "E": "Methamphetamine use is associated with severe CNS stimulation, cardiac issues, and psychosis."
-    }
+    },
+    "index": 10
   },
   {
     "question": "A 2-year-old boy is brought in because he is not talking. He sits alone, avoids eye contact, pulls away from touch, repetitively puts blocks in and out of a box, and shows no interest in peers. This behavior suggests autism spectrum disorder. Which additional finding related to social-emotional development is most likely in this child?",
@@ -195,7 +205,8 @@
       "C": "Attentional focus can be atypical, sometimes hyperfocused on specific interests.",
       "D": "Separation anxiety (distress when primary caregiver leaves) is a typical developmental stage (peak ~12-24 months) reflecting attachment. Children with autism often show impaired social attachment and may exhibit little or no separation anxiety, consistent with their social relatedness deficits.",
       "E": "Stranger anxiety (fear of unfamiliar people) typically emerges earlier (around 6-12 months). While autistic children might react negatively to strangers due to sensory issues or disruption of routine, the lack of typical separation anxiety is a more distinguishing feature related to attachment."
-    }
+    },
+    "index": 11
   },
   {
     "question": "A length-tension experiment is performed on isolated skeletal muscle. The table shows Passive Tension and Total Tension at various lengths. At which length is the maximal *active* tension (Total Tension - Passive Tension) most likely produced? Length(cm): 10, 15, 20, 25, 30; Passive(g): 0, 0, 5, 30, 50; Total(g): 0, 2, 9, 40, 52.",
@@ -215,7 +226,8 @@
       "D": "Active Tension at 20 cm = Total (9) - Passive (5) = 4 g.",
       "E": "Active Tension at 25 cm = Total (40) - Passive (30) = 10 g. This is the highest calculated active tension.",
       "F": "Active Tension at 30 cm = Total (52) - Passive (50) = 2 g. Active tension decreases at longer lengths as myofilament overlap diminishes."
-    }
+    },
+    "index": 12
   },
   {
     "question": "A 68-year-old man with a 50-year, 2-pack/day smoking history presents with shortness of breath. He is underweight (BMI 17.4), has an expanded chest hyperresonant on percussion. Pulmonary function tests are performed. Which set of findings is most likely, consistent with emphysema? (↑ = above normal, ↓ = below normal, N = normal)",
@@ -235,7 +247,8 @@
       "D": "These findings are more typical of restrictive lung disease.",
       "E": "These findings are more typical of restrictive lung disease.",
       "F": "TLC and FRC are typically increased, not normal."
-    }
+    },
+    "index": 13
   },
   {
     "question": "A 45-year-old woman is found to have persistent hypercalcemia. An MRI shows a 1-cm mass near the thyroid, suspicious for a parathyroid adenoma. The mass is surgically resected. Measurement of which hormone level, immediately before and shortly after resection, would be most helpful in confirming the mass was the source of the hypercalcemia?",
@@ -253,7 +266,8 @@
       "C": "A parathyroid adenoma autonomously secretes excess parathyroid hormone (PTH), causing hypercalcemia. Intraoperative PTH monitoring is commonly used during parathyroidectomy. PTH has a very short half-life (minutes). Successful removal of the hyperfunctioning adenoma should result in a rapid and significant drop (typically >50%) in serum PTH levels within 10-15 minutes post-resection, confirming that the correct tissue was removed and predicting resolution of hypercalcemia.",
       "D": "Serum phosphate changes occur more slowly in response to PTH changes.",
       "E": "TSH is related to thyroid function."
-    }
+    },
+    "index": 14
   },
   {
     "question": "A 45-year-old man treated with a novel antihypertensive drug develops dry mucous membranes, orthostasis, hyponatremia (129 mEq/L), hyperkalemia (5.8 mEq/L), metabolic acidosis (Bicarbonate 18 mEq/L, normal anion gap), and increased plasma renin activity. Which mechanism of action best fits this drug?",
@@ -271,7 +285,8 @@
       "C": "This describes thiazide diuretics, which cause hypokalemia and metabolic alkalosis.",
       "D": "This describes loop diuretics, which cause hypokalemia and metabolic alkalosis.",
       "E": "Osmotic diuretics (e.g., mannitol) cause water loss exceeding sodium loss initially."
-    }
+    },
+    "index": 15
   },
   {
     "question": "A 9-year-old girl sustains a cut near the neck of the fibula while rock climbing. She subsequently cannot evert her foot and exhibits foot drop (requiring her to lift the whole leg high to walk). Damage to the common fibular (peroneal) nerve is suspected. Loss of sensation is most likely expected in which location?",
@@ -289,7 +304,8 @@
       "C": "Plantar foot sensation is supplied by the tibial nerve.",
       "D": "Posterior leg sensation is supplied by the tibial nerve.",
       "E": "Posterior thigh sensation is supplied by the posterior femoral cutaneous nerve."
-    }
+    },
+    "index": 16
   },
   {
     "question": "A study maps a gene causing familial atrial fibrillation to a region containing the NPPA gene. The mutation interferes with ANP binding to its receptor. Atrial natriuretic peptide (ANP) normally exerts its effects by binding its receptor and activating an associated intracellular enzyme. Which enzyme's activity is most likely decreased as a result of this defective ANP binding?",
@@ -309,7 +325,8 @@
       "D": "Phospholipase C generates IP3/DAG.",
       "E": "Protein kinase A is activated by cAMP.",
       "F": "Tyrosine kinases are often associated with growth factor receptors."
-    }
+    },
+    "index": 17
   },
   {
     "question": "A newborn delivered at term has truncus arteriosus and agenesis of the parathyroid glands. These findings suggest DiGeorge syndrome (22q11.2 deletion syndrome). Which immune cell population is most likely to be significantly decreased or absent in this newborn due to associated thymic aplasia/hypoplasia?",
@@ -327,7 +344,8 @@
       "C": "CD14 is present on monocytes/macrophages, which develop independently of the thymus.",
       "D": "CD19 is present on B lymphocytes, which develop in the bone marrow.",
       "E": "CD20 is present on B lymphocytes."
-    }
+    },
+    "index": 18
   },
   {
     "question": "A patient is diagnosed with Huntington disease, caused by an expansion of a CAG triplet repeat in the huntingtin gene. To determine the number of repeats using PCR, where should the forward and reverse primers be designed to bind?",
@@ -345,7 +363,8 @@
       "C": "Primers must flank the region of interest.",
       "D": "Primers binding within the repeat sequence itself would lead to amplification problems and inaccurate sizing, especially with variable repeat lengths.",
       "E": "Primers binding within the repeat sequence itself would lead to amplification problems."
-    }
+    },
+    "index": 19
   },
   {
     "question": "A 64-year-old woman undergoes pulmonary function testing. Her vital capacity (VC) is 4.5 L, expiratory reserve volume (ERV) is 1.0 L, and tidal volume (TV) is 0.5 L. Which of the following best approximates her inspiratory reserve volume (IRV)?",
@@ -363,7 +382,8 @@
       "C": "Incorrect calculation.",
       "D": "Incorrect calculation.",
       "E": "Vital Capacity (VC) is the maximum volume of air that can be exhaled after a maximal inhalation. It is composed of the Tidal Volume (TV), Inspiratory Reserve Volume (IRV), and Expiratory Reserve Volume (ERV). The relationship is VC = IRV + TV + ERV. To find IRV, rearrange the equation: IRV = VC - TV - ERV. Plugging in the given values: IRV = 4.5 L - 0.5 L - 1.0 L = 3.0 L."
-    }
+    },
+    "index": 20
   },
   {
     "question": "A 9-year-old boy with acute lymphoblastic leukemia is brought to the emergency department by his mother because of a staggering gait and confused, disoriented speech. His mother says that he has had anorexia since undergoing chemotherapy 4 weeks ago, and has lost 4 kg (8.8 lb). At the hospital, he is given a standard glucose solution for rehydration. His symptoms rapidly become worse and he develops depressed consciousness, irregular respiration, and ophthalmoplegia. Which of the following enzymes is most likely affected in this patient?",
@@ -381,7 +401,8 @@
       "C": "Propionyl-CoA carboxylase catalyzes the first reaction in the conversion of propionyl-CoA to succinyl-CoA. This reaction requires biotin as a cofactor.",
       "D": "Thymidylate synthase is the enzyme used to generate deoxythymidine monophosphate (dTMP). It requires N5, N10-methylene-tetrahydrofolate (THF), an active form of folate, as a cofactor.",
       "E": "The patient's symptoms (ataxia, confusion, ophthalmoplegia) exacerbated by glucose administration in the setting of malnutrition/anorexia suggest Wernicke encephalopathy, a common neurologic manifestation of thiamine deficiency. Thiamine (vitamin B1) is a cofactor in four key enzymes involved in energy metabolism: transketolase, alpha-ketoglutarate dehydrogenase, branched chain ketoacid dehydrogenase, and pyruvate dehydrogenase. Administration of glucose without thiamine can worsen Wernicke encephalopathy. Transketolase is one of the thiamine-dependent enzymes affected."
-    }
+    },
+    "index": 21
   },
   {
     "question": "A 21-year-old woman comes to the physician because of a 3-year history of severe nodular acne. Current medications include benzoyl peroxide and oral antibiotics. Prior to prescribing a new medication (likely isotretinoin), the physician requests that the patient take a pregnancy test and have liver function studies. Which of the following vitamins is most likely structurally related to the new medication?",
@@ -401,7 +422,8 @@
       "D": "Vitamin C (Ascorbate) is unrelated.",
       "E": "Vitamin D is unrelated.",
       "F": "Vitamin K is unrelated, although its use should also be monitored in pregnancy."
-    }
+    },
+    "index": 22
   },
   {
     "question": "A 15-year-old boy is brought to the hospital after falling off his skateboard onto his outstretched hand. An x-ray film shows a fracture of the humerus. Six weeks later, the patient has difficulty opening his fist and is unable to extend the hand at the wrist ('wrist drop'). Which of the following is the most likely site of the humeral fracture?",
@@ -419,7 +441,8 @@
       "C": "The radial nerve runs in the spiral groove along the midshaft of the humerus. A midshaft fracture of the humerus can damage the radial nerve, leading to wrist drop (impaired wrist and finger extension) due to paralysis of the extensor muscles.",
       "D": "Fracture of the supracondylar region of the humerus can damage the median nerve.",
       "E": "Fracture of the surgical neck of the humerus can damage the axillary nerve."
-    }
+    },
+    "index": 23
   },
   {
     "question": "A 7-year-old boy is brought to the physician because of a mass in his right upper thigh. An x-ray of the right femur shows a lesion in the diaphysis. The mass is surgically resected. Microscopic examination shows small, blue cells with small amounts of cytoplasm. Genetic analysis shows a t(11;22)(q24;q12) translocation. The gene product produced by this translocation most likely functions as which of the following?",
@@ -437,7 +460,8 @@
       "C": "Growth factor receptor oncogenes include RET, ERBB1, ERBB2.",
       "D": "Signal-transducing protein oncogenes include RAS, ABL.",
       "E": "This patient has Ewing sarcoma, characterized by small round blue cells and involvement of long bone diaphyses in children/young adults. The characteristic t(11;22)(q24;q12) translocation fuses the EWS gene (on chromosome 22) with the FLI1 gene (on chromosome 11, a member of the ETS family). The resulting EWS-FLI1 fusion protein functions as an aberrant, constitutively active transcription factor that drives oncogenesis."
-    }
+    },
+    "index": 24
   },
   {
     "question": "A 20-year-old woman comes to the physician because of two miscarriages. She delivered a full-term boy at home 4 years ago without prenatal care. Laboratory studies show that the patient is Rh-negative. Which of the following tests is most appropriate to determine if she has developed antibodies against Rh+ red blood cells from her previous pregnancy?",
@@ -455,7 +479,8 @@
       "C": "ELISA can detect antibodies but the Coombs test is standard for blood group antibodies.",
       "D": "The concern is Rh sensitization from the previous Rh-positive baby, leading to maternal anti-RhD IgG antibodies that could affect subsequent Rh-positive pregnancies. The indirect Coombs test (or indirect antiglobulin test, IAT) is used to detect the presence of antibodies (like anti-RhD) circulating freely in the patient's serum. It involves incubating the patient's serum with known Rh-positive red blood cells; if antibodies are present, they bind, and agglutination occurs after adding anti-human globulin (Coombs reagent).",
       "E": "Indirect fluorescent antibody tests are used to detect antibodies in serum against specific antigens (e.g., microbial or autoantigens), often visualized on slides."
-    }
+    },
+    "index": 25
   },
   {
     "question": "A 6-year-old girl is brought to the hospital because of a history of severe, recurrent bacterial and viral infections. Physical examination shows hypopigmentation of the skin and eyes. Peripheral blood smear shows leukocytes with giant intracellular granules. Which of the following cell types, although functionally impaired, is directly implicated in the defective microtubule function characteristic of this disease?",
@@ -473,7 +498,8 @@
       "C": "Eosinophils contain granules but the defect affects multiple cell types.",
       "D": "This patient has Chediak-Higashi syndrome, an autosomal recessive disease caused by a mutation in the LYST gene, affecting lysosome/granule trafficking and formation due to defective microtubule function. This results in giant granules in various leukocytes (neutrophils, monocytes, lymphocytes), melanocytes (causing partial albinism), and impaired function of neutrophils (phagocytosis, killing), platelets (bleeding tendency), and cytotoxic cells including Natural Killer (NK) cells and cytotoxic T lymphocytes (leading to susceptibility to viral/bacterial infections and lymphoproliferative disorders). NK cell function is notably impaired.",
       "E": "While cytotoxic T lymphocyte function is impaired, T helper cells are generally less affected. NK cells are significantly impacted."
-    }
+    },
+    "index": 26
   },
   {
     "question": "A 31-year-old man with a history of HIV comes to the physician because of a rash. Physical examination shows petechiae, purpura, and firm nodules on his skin that do not blanch but bleed easily if injured. These lesions are suggestive of Kaposi sarcoma or possibly bacillary angiomatosis. These opportunistic conditions typically occur when the CD4+ T lymphocyte count falls below a certain threshold. Which range most likely reflects this patient's CD4 count?",
@@ -491,7 +517,8 @@
       "C": "This range represents moderate immune suppression.",
       "D": "This range represents mild immune suppression or near-normal counts.",
       "E": "This range represents normal or near-normal counts."
-    }
+    },
+    "index": 27
   },
   {
     "question": "A 45-year-old man with obesity (BMI 31 kg/m^2) struggles with diet adherence due to cravings and evening hunger. Which hormone, primarily produced by adipocytes, acts on the hypothalamus to suppress appetite and increase energy expenditure?",
@@ -509,7 +536,8 @@
       "C": "Leptin is a hormone synthesized mainly by adipose tissue, acting as a long-term signal of energy stores to the hypothalamus. It suppresses appetite (anorexigenic effect) and increases energy expenditure. Leptin resistance is common in obesity.",
       "D": "Melanin-concentrating hormone is orexigenic.",
       "E": "Neuropeptide Y (NPY) is a potent orexigenic peptide in the hypothalamus."
-    }
+    },
+    "index": 28
   },
   {
     "question": "A 57-year-old man with a history of emphysema presents with crushing substernal chest pain. ECG shows ST-segment elevation consistent with an acute myocardial infarction (STEMI). Initial treatment often includes a beta-blocker. Given his history of emphysema, which beta-blocker is most appropriate?",
@@ -527,7 +555,8 @@
       "C": "Propranolol is a non-selective beta-blocker.",
       "D": "Sotalol is a non-selective beta-blocker with potassium channel blocking activity.",
       "E": "Timolol is a non-selective beta-blocker."
-    }
+    },
+    "index": 29
   },
   {
     "question": "Peripheral blood leukocytes are placed in a culture chamber separated by a semipermeable membrane from a second chamber. Which substance, when placed in the second chamber, would be the most potent chemoattractant specifically for neutrophils, causing them to migrate toward the membrane?",
@@ -545,7 +574,8 @@
       "C": "Hageman factor (Factor XII) initiates the intrinsic coagulation pathway and activates kinin/complement systems but isn't directly chemotactic for neutrophils.",
       "D": "Histamine increases vascular permeability and causes vasodilation but is only weakly chemotactic for neutrophils.",
       "E": "Leukotriene E4 (LTE4) is involved in smooth muscle contraction and vascular permeability; Leukotriene B4 (LTB4) is the primary chemotactic leukotriene for neutrophils."
-    }
+    },
+    "index": 30
   },
   {
     "question": "A 27-year-old primigravid woman at 18 weeks' gestation presents with nausea, vomiting, fever, and a rash (petechiae/purpura) after a camping trip where tick exposure may have occurred. Rocky Mountain Spotted Fever (RMSF) is suspected. Which antibiotic is the most appropriate choice for treating RMSF in this pregnant patient?",
@@ -563,7 +593,8 @@
       "C": "Quinine is an antimalarial.",
       "D": "Rifampin is primarily used for tuberculosis.",
       "E": "Valacyclovir is an antiviral for herpesviruses."
-    }
+    },
+    "index": 31
   },
   {
     "question": "A 36-year-old woman with a 10-year history of anxiety disorder treated with alprazolam experiences increased lethargy shortly after being treated for bronchitis. Which antibiotic, known to inhibit cytochrome P450 enzymes involved in benzodiazepine metabolism, is the most likely cause of her increased lethargy?",
@@ -581,7 +612,8 @@
       "C": "Doxycycline is a tetracycline, generally not a significant P450 inhibitor.",
       "D": "Erythromycin (and other macrolide antibiotics like clarithromycin) is a known potent inhibitor of the cytochrome P450 enzyme system, particularly CYP3A4. Many benzodiazepines, including alprazolam, are metabolized by CYP3A4. Inhibition of this enzyme by erythromycin can decrease the metabolism of alprazolam, leading to increased plasma levels and potentiated sedative effects, causing excessive lethargy.",
       "E": "Penicillin is generally not a significant P450 inhibitor."
-    }
+    },
+    "index": 32
   },
   {
     "question": "A 1-month-old infant with severe watery diarrhea and dehydration is found to have an acquired deficiency of the secondary active sodium-glucose transporter (SGLT1) in the small intestine. This transporter utilizes the sodium gradient to move glucose against its concentration gradient. Impaired function of SGLT1 will also most likely impair the absorption of which other sugar?",
@@ -599,7 +631,8 @@
       "C": "The sodium-glucose cotransporter 1 (SGLT1) located on the apical membrane of enterocytes is responsible for the secondary active transport of both glucose and galactose from the intestinal lumen into the cell, driven by the sodium gradient maintained by the Na+/K+-ATPase. Therefore, a deficiency in SGLT1 impairs the absorption of both glucose and galactose.",
       "D": "Mannose is absorbed via specific transporters.",
       "E": "Xylose (a pentose) absorption occurs via facilitated diffusion/passive transport and is used to assess small bowel mucosal function."
-    }
+    },
+    "index": 33
   },
   {
     "question": "A 42-year-old woman has had anemia and intermittent jaundice since childhood, similar to her father and 2 siblings. A peripheral blood smear shows numerous spherocytes (small, dense, round red blood cells lacking central pallor). Which treatment is most appropriate to correct her anemia by reducing red blood cell destruction?",
@@ -617,7 +650,8 @@
       "C": "Chelation is for heavy metal poisoning.",
       "D": "Transfusions are temporary measures for severe anemia.",
       "E": "The peripheral smear and family history strongly suggest Hereditary Spherocytosis (HS), typically an autosomal dominant disorder caused by defects in RBC membrane proteins (e.g., spectrin, ankyrin). These defects make the RBCs less deformable and spherical. The spleen selectively traps and destroys these abnormal spherocytes, leading to chronic extravascular hemolysis, anemia, jaundice, and splenomegaly. Splenectomy removes the primary site of RBC destruction, significantly reducing hemolysis, correcting the anemia, and improving symptoms, although the underlying RBC defect remains."
-    }
+    },
+    "index": 34
   },
   {
     "question": "A 25-year-old man presents with hemoptysis. A CT scan shows multiple lung masses. Biopsy reveals a malignant tumor with necrosis and hemorrhage, staining positive for human chorionic gonadotropin (hCG). Given that hCG is produced, which location is the most likely site of the primary tumor?",
@@ -635,7 +669,8 @@
       "C": "Pancreatic cancer doesn't typically produce hCG.",
       "D": "Stomach cancer doesn't typically produce hCG.",
       "E": "Human chorionic gonadotropin (hCG) is normally produced by the placenta but can also be produced ectopically by certain tumors. In males, elevated hCG levels strongly suggest a testicular germ cell tumor, particularly non-seminomatous types like choriocarcinoma or embryonal carcinoma with syncytiotrophoblastic elements. These tumors often metastasize early, commonly to the lungs."
-    }
+    },
+    "index": 35
   },
   {
     "question": "A healthy 23-year-old woman becomes upset and begins hyperventilating, doubling her alveolar ventilation. Her initial PaCO2 level was 40 mm Hg. Assuming her CO2 production remains constant, which value best approximates her new PaCO2 level?",
@@ -655,7 +690,8 @@
       "D": "No change would imply no change in ventilation.",
       "E": "This would imply ventilation was halved.",
       "F": "This would imply ventilation decreased significantly."
-    }
+    },
+    "index": 36
   },
   {
     "question": "A 15-year-old girl on the high school swim team develops pain in the left ear with an erythematous, swollen pinna and yellowish exudate draining from the ear canal. Which description best fits the most likely pathogen causing this 'swimmer's ear' (otitis externa)?",
@@ -673,7 +709,8 @@
       "C": "Describes Haemophilus influenzae, a common cause of otitis media, not externa.",
       "D": "Describes Streptococcus species, less common causes of otitis externa.",
       "E": "Spirochetes are not typical causes of otitis externa."
-    }
+    },
+    "index": 37
   },
   {
     "question": "A 20-year-old man experiences sudden difficulty breathing, swollen lips, cool clammy skin, inspiratory stridor, and hypotension (BP 90/60 mmHg) 10 minutes after eating at a restaurant. This presentation is consistent with anaphylaxis. The most appropriate immediate treatment targets which mechanism?",
@@ -691,7 +728,8 @@
       "C": "NSAIDs inhibit prostaglandin synthesis and are not used for anaphylaxis.",
       "D": "Mast cell stabilizers like cromolyn are used for prophylaxis, not acute treatment.",
       "E": "Anaphylaxis is a life-threatening emergency. Epinephrine is the first-line treatment. It acts as a potent agonist at alpha- and beta-adrenergic receptors. Its effects include vasoconstriction (alpha-1, increasing blood pressure), increased heart rate and contractility (beta-1), and bronchodilation (beta-2), directly counteracting the most dangerous effects of anaphylaxis."
-    }
+    },
+    "index": 38
   },
   {
     "question": "A 9-year-old boy presents with listlessness, fever, and anorexia. Laboratory studies show elevated serum glucose and decreased serum potassium. Urinalysis is positive for glucose, suggesting new-onset type 1 diabetes mellitus. Patients with type 1 diabetes are known to be at increased risk for developing other autoimmune diseases. Which of the following conditions shares an autoimmune etiology often associated with type 1 diabetes?",
@@ -709,7 +747,8 @@
       "C": "G6PD deficiency is an inherited enzyme defect.",
       "D": "Hemochromatosis is typically an inherited disorder of iron metabolism.",
       "E": "Scurvy is caused by Vitamin C deficiency."
-    }
+    },
+    "index": 39
   },
   {
     "question": "A researcher prepares a population of enucleated cells (cells lacking a nucleus). Which of the following DNA viruses possesses the necessary enzymes to replicate entirely within the cytoplasm of these cells?",
@@ -727,7 +766,8 @@
       "C": "Influenza A virus (RNA virus) replicates its genome in the nucleus.",
       "D": "Molluscum contagiosum virus is a member of the Poxvirus family. Poxviruses are large, complex DNA viruses that uniquely replicate entirely within the cytoplasm of the host cell. They encode their own DNA polymerase and other necessary replication machinery, making them independent of the host cell nucleus.",
       "E": "Varicella zoster virus (dsDNA herpesvirus) replicates in the nucleus."
-    }
+    },
+    "index": 40
   },
   {
     "question": "A 27-year-old woman has a 2-year history of episodic chest pain occurring at rest or after exercise. Examination reveals a grade II/VI systolic ejection murmur along the left sternal border that intensifies when she stands. ECG shows nonspecific ST-T wave abnormalities. These findings suggest hypertrophic cardiomyopathy (HCM). Which class of medication is generally considered first-line pharmacotherapy to manage symptoms in HCM?",
@@ -745,7 +785,8 @@
       "C": "Digoxin increases contractility and can worsen outflow obstruction in HCM.",
       "D": "Mexiletine is an antiarrhythmic.",
       "E": "While beta-blockers are often considered first-line for symptomatic hypertrophic cardiomyopathy (HCM) to reduce heart rate and contractility, calcium channel blockers like verapamil (not listed) or sometimes nifedipine or diltiazem are also used, particularly if beta-blockers are contraindicated or ineffective. They help improve diastolic relaxation and filling, and can reduce outflow tract obstruction and angina symptoms. (Note: The question asks for appropriate pharmacotherapy, and among the choices, Nifedipine, a calcium channel blocker, is used in some cases, although beta-blockers are more standard first-line agents). *Correction based on standard practice: Beta-blockers (like metoprolol/propranolol) or non-dihydropyridine CCBs (verapamil/diltiazem) are preferred. Dihydropyridines like nifedipine can cause reflex tachycardia and vasodilation, potentially worsening obstruction, and are generally avoided or used with caution. Given the options, this question might be flawed or implying a specific scenario where nifedipine might be considered, but typically E is less appropriate than a beta-blocker or verapamil would be.* **Reconsidering the provided answer explanation might be necessary if it differs.** (Assuming the question intends Nifedipine as a possible, albeit less common, correct answer among poor choices)."
-    }
+    },
+    "index": 41
   },
   {
     "question": "A 70-year-old man presents with worsening back pain. Examination shows point tenderness over lumbar vertebrae. Labs reveal anemia (Hgb 10 g/dL), renal insufficiency (Creatinine 2.8 mg/dL), and lytic bone lesions on MRI. This constellation strongly suggests multiple myeloma, a malignancy derived from which cell line?",
@@ -763,7 +804,8 @@
       "C": "Neutrophilic leukemia exists but doesn't typically cause lytic bone lesions and monoclonal protein.",
       "D": "Multiple myeloma is a malignancy of plasma cells (terminally differentiated B lymphocytes that produce antibodies). The neoplastic plasma cells proliferate in the bone marrow, producing a monoclonal immunoglobulin (M-protein), causing lytic bone lesions (due to cytokine release activating osteoclasts), anemia (due to marrow infiltration), renal failure (due to light chain deposition, hypercalcemia), and hypercalcemia (due to bone destruction).",
       "E": "T-lymphocyte malignancies include various lymphomas and leukemias."
-    }
+    },
+    "index": 42
   },
   {
     "question": "A 4-year-old phenotypically female child undergoes surgery for bilateral inguinal hernias. Histologic examination of the removed masses reveals they are testes. Which karyotype is most likely present in this patient with complete androgen insensitivity syndrome?",
@@ -781,7 +823,8 @@
       "C": "46,XX/46,XY mosaicism can result in ambiguous genitalia or ovotesticular disorder.",
       "D": "Complete Androgen Insensitivity Syndrome (CAIS) occurs in individuals with a 46,XY karyotype who have mutations in the androgen receptor gene. They develop testes (due to the Y chromosome) which produce testosterone and anti-Müllerian hormone (causing regression of Müllerian ducts). However, due to the non-functional androgen receptors, the testosterone cannot masculinize the external genitalia or stimulate Wolffian duct development. These individuals develop female external genitalia, a blind-ending vagina, and typically present as phenotypically female, often diagnosed at puberty due to primary amenorrhea or earlier if inguinal masses (undescended testes) are found.",
       "E": "47,XXY is Klinefelter syndrome (male phenotype, testicular dysgenesis)."
-    }
+    },
+    "index": 43
   },
   {
     "question": "A 5-year-old boy experiences repeated infections (pneumonia, otitis media, skin infections) with encapsulated bacteria (Staphylococcus aureus, Pseudomonas, Streptococcus pneumoniae, Haemophilus influenzae). His three brothers have similar histories. Labs show undetectable levels of IgG, IgM, and IgA. This clinical picture is most consistent with a defect in:",
@@ -799,7 +842,8 @@
       "C": "Failure of isotype switching (e.g., Hyper-IgM syndrome) results in low IgG/IgA/IgE but high/normal IgM.",
       "D": "The patient's presentation (early onset, affecting males suggesting X-linked inheritance, recurrent bacterial infections) along with undetectable levels of all immunoglobulin classes and lack of circulating B cells (implied, though not explicitly stated) points strongly to Bruton agammaglobulinemia (X-linked agammaglobulinemia, XLA). This is caused by a defect in Bruton tyrosine kinase (Btk), which prevents B-cell precursors from differentiating into mature B cells.",
       "E": "Near-complete absence of T cells would cause Severe Combined Immunodeficiency (SCID), with susceptibility to viral and fungal infections as well."
-    }
+    },
+    "index": 44
   },
   {
     "question": "An investigator studies the effects of allowing healthy volunteers only 4 hours of sleep per night for 6 consecutive nights. This period of sleep deprivation represents a physiological stress. At the end of the week, laboratory studies are most likely to show which change compared to baseline?",
@@ -817,7 +861,8 @@
       "C": "Acute and chronic stress, often mediated by increased cortisol levels, generally suppresses the immune system. One manifestation can be a decrease in the number of circulating lymphocytes (lymphopenia) or alterations in lymphocyte subsets.",
       "D": "Stress can increase TSH via the HPA axis, though chronic effects vary.",
       "E": "Growth hormone secretion primarily occurs during deep sleep; sleep deprivation typically *decreases* overall GH secretion."
-    }
+    },
+    "index": 45
   },
   {
     "question": "A 22-year-old man presents with constant ringing in his ears (tinnitus) and mild bilateral hearing loss. An MRI scan reveals bilateral masses involving both vestibulocochlear nerves (CN VIII), characteristic of vestibular schwannomas. Which underlying genetic disorder is most likely?",
@@ -835,7 +880,8 @@
       "C": "NF1 is characterized by café-au-lait spots, neurofibromas, Lisch nodules (iris hamartomas), and optic gliomas.",
       "D": "Neurofibromatosis type 2 (NF2) is an autosomal dominant disorder caused by mutations in the NF2 gene (encoding merlin/schwannomin). Its hallmark feature is the development of bilateral vestibular schwannomas (acoustic neuromas), leading to hearing loss, tinnitus, and balance problems. Meningiomas and ependymomas are also common.",
       "E": "Tuberous sclerosis involves hamartomas in multiple organs (brain tubers, renal angiomyolipomas, cardiac rhabdomyomas, skin lesions)."
-    }
+    },
+    "index": 46
   },
   {
     "question": "An investigator studies the effects of a nonspecific muscarinic antagonist infused into a laboratory animal. Tension is measured in various muscle types. Which pattern of change (↑ increased tension, ↓ decreased tension, NC no change) is most likely?",
@@ -855,151 +901,8 @@
       "A-C, G, H": "Skeletal muscle contraction is mediated by nicotinic acetylcholine receptors, not muscarinic receptors. Therefore, a muscarinic antagonist will have no direct effect (NC) on skeletal muscle tension.",
       "D, F, I": "Cardiac muscle (specifically heart rate and AV conduction) is under parasympathetic control via muscarinic receptors (M2), which decrease heart rate. A muscarinic antagonist (like atropine) blocks this vagal tone, leading to increased heart rate and potentially increased atrial contractility (↑). Arteriolar smooth muscle has limited direct muscarinic innervation and tone is primarily regulated by sympathetic nerves and local factors; thus, a muscarinic antagonist typically causes little change (NC) in overall arteriolar tension under basal conditions (though specific beds might react differently). Intestinal smooth muscle is strongly stimulated by parasympathetic nerves via muscarinic receptors (M3), increasing motility and tone. A muscarinic antagonist will block this activity, leading to decreased tension and relaxation (↓). Therefore, the pattern NC (Skeletal), ↑ (Cardiac), NC (Arteriolar), ↓ (Intestinal) is the most likely.",
       "E": "Correct pattern: Skeletal (NC), Cardiac (↑ - due to blocked vagal tone), Arteriolar (NC - minimal basal muscarinic tone), Intestinal (↓ - blocked parasympathetic stimulation)."
-    }
-  },
-  {
-    "question": "A 45-year-old woman comes to the physician for a routine examination. A peripheral blood smear is shown. Which of the following is the most important function of the cell indicated by the arrow?",
-    "options": [
-      "A. Abscess formation",
-      "B. Antibody secretion",
-      "C. Destruction of virus-infected cells",
-      "D. Phagocytosis",
-      "E. Release of vasoactive amines"
-    ],
-    "answer": "D",
-    "explanations": {
-      "A": "Abscess formation is principally caused by neutrophils, which have characteristically multiobed nuclei.",
-      "B": "Antibody secretion is performed by plasma cells, which have nuclei with a \"cartwheel\" chromatin pattern that are characteristically located somewhat to one side of the center of the cell.",
-      "C": "Destruction of virus-infected cells is a function of cytotoxic T cells, which have rounded nuclei.",
-      "D": "The cell described as having a half-moon shaped nucleus is a monocyte, which participates in phagocytosis of bacteria and cellular debris. Monocytes become macrophages when they leave the bloodstream to enter tissues.",
-      "E": "Release of vasoactive amines is performed by eosinophils, which have bilobate nuclei and coarse round granules."
-    }
-  },
-  {
-    "question": "A 60-year-old man undergoes renal transplantation. He experiences a gradual decline in urinary output and develops edema. Renal biopsy shows arteriosclerosis with accumulation of smooth muscle cells and connective tissue in the vessel intima. Which of the following is the most likely cause of these findings?",
-    "options": [
-      "A. Accelerated rejection",
-      "B. Acute rejection",
-      "C. Chronic rejection",
-      "D. Hyperacute rejection",
-      "E. Normal age-associated degeneration"
-    ],
-    "answer": "C",
-    "explanations": {
-      "A": "Accelerated rejection occurs within days of transplantation and is caused by reactivation of previously sensitized T cells.",
-      "B": "Acute rejection occurs within days to weeks of transplantation and is caused by the primary activation of T cells. Recurrent episodes of acute rejection are linked to the development of chronic rejection.",
-      "C": "This patient's symptoms are most likely caused by chronic rejection, as his symptoms developed gradually. The causes of chronic graft rejection are multifactorial. but typically involve arteriosclerosis (with intimal proliferation of smooth muscle/connective tissue) of the engrafted organ.",
-      "D": "Hyperacute rejection occurs within minutes of transplantation and is caused by preformed anti-donor antibodies. This is a complement-mediated response and can cause rapid agglutination of the blood and a severe systemic inflammatory response.",
-      "E": "Normal age-associated degeneration would not typically present this way or this rapidly post-transplant."
-    }
-  },
-  {
-    "question": "A 26-year-old man comes to the physician because of a 3-year history of low back pain and spinal stiffness in the morning. Physical examination shows limitation of motion of the lumbar spine in anterior flexion, lateral flexion, and extension. An x-ray of the sacral area shows fusion of the sacroiliac joints. This patient most likely has which of the following HLA types?",
-    "options": [
-      "A. HLA-A3",
-      "B. HLA-B27",
-      "C. HLA-BW47",
-      "D. HLA-DR3",
-      "E. HLA-DR4"
-    ],
-    "answer": "B",
-    "explanations": {
-      "A": "HLA-A3 is associated with hereditary hemochromatosis.",
-      "B": "This patient most likely has ankylosing spondylitis, characterized by inflammatory back pain, stiffness, and sacroiliitis leading to fusion. Approximately 90% of patients who have this condition are HLA-B27 positive.",
-      "C": "HLA-BW47 is associated with 21-hydroxylase deficiency.",
-      "D": "HLA-DR3 is associated with chronic active hepatitis, primary Sjogren syndrome, type 1 diabetes mellitus, Graves disease.",
-      "E": "HLA-DR4 is associated with rheumatoid arthritis and type 1 diabetes mellitus."
-    }
-  },
-  {
-    "question": "A 6-year-old boy of Ashkenazi Jewish descent is brought to the physician for a routine examination. Physical examination shows hepatosplenomegaly. An older brother who also has the condition exhibits skeletal deformities and moderate pancytopenia. Bone marrow biopsy of the patient shows the presence of numerous unusual histiocytic cells with abundant, bluish, fibrillar cytoplasm. Electron microscopy of the abnormal cells in the bone marrow is most likely to show which of the following?",
-    "options": [
-      "A. Cytoplasm packed with mitochondria",
-      "B. Distended lysosomes containing glucocerebroside",
-      "C. Markedly increased smooth endoplasmic reticulum",
-      "D. Near-complete absence of ribosomes",
-      "E. Structural abnormalities of cilia"
-    ],
-    "answer": "B",
-    "explanations": {
-      "A": "Cytoplasm packed with mitochondria is associated with oncocytic cells.",
-      "B": "The presentation (Ashkenazi Jewish descent, hepatosplenomegaly, bone involvement, pancytopenia) and histology (histiocytes with fibrillar/wrinkled tissue paper cytoplasm - Gaucher cells) indicate Gaucher disease. This is a lysosomal storage disease caused by deficient beta-glucocerebrosidase activity, leading to the accumulation of glucocerebroside within distended lysosomes, especially in macrophages.",
-      "C": "Increased SER is seen in cells active in lipid synthesis or detoxification.",
-      "D": "Ribosomes are essential for protein synthesis.",
-      "E": "Ciliary abnormalities cause ciliopathies (e.g., PCD, polycystic kidney disease)."
-    }
-  },
-  {
-    "question": "A 10-year-old boy is brought to the emergency department because of a 2-day history of fever and a cough productive of green sputum. He has a history of chronic cough with multiple episodes of pneumonia and frequent bulky bowel movements. Light microscopic examination of his sputum shows many neutrophils. Which of the following describes the most likely pathogen?",
-    "options": [
-      "A. A gram-negative, oxidase-negative bacillus",
-      "B. A gram-negative, oxidase-positive bacillus",
-      "C. A gram-negative pleomorphic rod requiring factors X and V",
-      "D. A gram-positive, catalase-negative coccus",
-      "E. A gram-positive, catalase-positive coccus"
-    ],
-    "answer": "B",
-    "explanations": {
-      "A": "Describes Enterobacteriaceae, less common in CF.",
-      "B": "The history suggests cystic fibrosis (CF) (chronic respiratory infections, probable malabsorption). Pseudomonas aeruginosa is a major pathogen causing chronic lung infections and exacerbations in CF patients. It is a Gram-negative, oxidase-positive bacillus.",
-      "C": "Describes Haemophilus influenzae, common in respiratory infections but less specific to CF than Pseudomonas.",
-      "D": "Describes Streptococcus species.",
-      "E": "Describes Staphylococcus species, also common in CF, but Pseudomonas is often the most characteristic and problematic pathogen."
-    }
-  },
-  {
-    "question": "A 3-year-old boy with a history of repeated infections is brought to the physician because of a skin abscess in his left axilla. Culture of the exudate shows gram-positive, coagulase-positive cocci. Complete blood count is within reference ranges except for a modest elevation of neutrophils. Laboratory studies show normal serum immunoglobulins and T-cell function, and a nitroblue tetrazolium (NBT) test is negative. If gene therapy were performed on this patient, the delivery vector should contain the gene encoding which of the following proteins?",
-    "options": [
-      "A. Adenosine deaminase",
-      "B. Btk tyrosine kinase",
-      "C. Common beta-chain of integrin proteins",
-      "D. Common gamma-chain of interleukin receptors",
-      "E. Gp91 phox subunit of NADPH oxidase"
-    ],
-    "answer": "E",
-    "explanations": {
-      "A": "For SCID.",
-      "B": "For X-linked agammaglobulinemia.",
-      "C": "For LAD-1.",
-      "D": "For X-linked SCID.",
-      "E": "The patient has recurrent infections with catalase-positive organisms (Staphylococcus aureus is coagulase-positive and catalase-positive) and a negative NBT test, indicating defective neutrophil oxidative burst. This is diagnostic of Chronic Granulomatous Disease (CGD). CGD is most commonly caused by mutations in the CYBB gene, located on the X chromosome, which encodes the gp91 phox subunit of the NADPH oxidase enzyme complex. Gene therapy would target this gene."
-    }
-  },
-  {
-    "question": "A 64-year-old man with a history of glaucoma comes to the emergency department because of a 1-day history of severely blurred vision and bilateral ocular pain. Two days ago, he began treatment for both a community-acquired pneumonia and a muscle spasm. Which of the following medications is the most likely cause of the symptoms in this patient?",
-    "options": [
-      "A. Clarithromycin",
-      "B. Codeine cough syrup",
-      "C. Cyclobenzaprine",
-      "D. Naproxen",
-      "E. Timolol"
-    ],
-    "answer": "C",
-    "explanations": {
-      "A": "Macrolide antibiotic; side effects usually GI or taste.",
-      "B": "Opioid; side effects sedation, constipation.",
-      "C": "Cyclobenzaprine is a muscle relaxant with strong anticholinergic activity. Anticholinergic drugs cause mydriasis (pupil dilation), which can precipitate acute angle-closure glaucoma in susceptible individuals, leading to severe eye pain, blurred vision, nausea, and headache.",
-      "D": "NSAID; side effects usually GI or renal.",
-      "E": "Timolol is a beta-blocker, often used *for* glaucoma; systemic effects bradycardia, bronchospasm."
-    }
-  },
-  {
-    "question": "A 19-year-old woman comes to the physician because of a watery, foul-smelling vaginal discharge that she has noticed following her menses for the past several months. She says that she is sexually active. Light microscopy of a wet mount of the vaginal fluids shows sloughed mucosal cells covered with bacteria ('clue cells'). Which of the following is the most likely diagnosis?",
-    "options": [
-      "A. Bacterial vaginosis",
-      "B. Chlamydia trachomatis vaginitis",
-      "C. Gonorrhea",
-      "D. Syphilis",
-      "E. Trichomoniasis"
-    ],
-    "answer": "A",
-    "explanations": {
-      "A": "The presence of clue cells (vaginal epithelial cells coated with bacteria), along with the characteristic discharge (watery, foul-smelling, often worse after menses or intercourse), strongly indicates Bacterial Vaginosis (BV), an imbalance of vaginal flora.",
-      "B": "Chlamydia usually causes cervicitis.",
-      "C": "Gonorrhea usually causes cervicitis.",
-      "D": "Syphilis causes chancres or rashes.",
-      "E": "Trichomoniasis typically causes a frothy green discharge and motile organisms on wet mount."
-    }
+    },
+    "index": 47
   },
   {
     "question": "A 68-year-old man develops painful, sharply demarcated erythematous patches, some purpuric, on his thighs, arms, and chest 5 days after starting medication for atrial fibrillation. The medication responsible for this likely warfarin-induced skin necrosis most likely acts by which mechanism?",
@@ -1017,7 +920,8 @@
       "C": "Calcium channel blocker mechanism.",
       "D": "ACE inhibitor mechanism.",
       "E": "Warfarin inhibits the vitamin K epoxide reductase, which is necessary for the gamma-carboxylation and activation of vitamin K-dependent coagulation factors (II, VII, IX, X) and anticoagulant proteins (C, S). The rapid initial drop in protein C/S relative to the clotting factors can create a transient hypercoagulable state leading to thrombosis in dermal vessels and subsequent skin necrosis."
-    }
+    },
+    "index": 48
   },
   {
     "question": "A 32-year-old man comes to the physician because of severe pain in his hands and feet, even at rest. He also experiences episodes of painful, pale, cold, tingling hands during the winter months. Physical examination shows small, painful ulcers on the tip of his left thumb and his right ring finger, and weaker distal pulses. His condition is most likely related to use of which of the following?",
@@ -1035,7 +939,8 @@
       "C": "Ethanol causes neuropathy but not this specific vascular pattern.",
       "D": "Marijuana is not typically associated with this.",
       "E": "Methamphetamine can cause vasculitis but Buerger's has a unique presentation linked to smoking."
-    }
+    },
+    "index": 49
   },
   {
     "question": "A 2-year-old boy is brought to the physician because he is not yet talking. He sits by himself, avoids eye contact, pulls away from touch, repetitively plays with blocks, and shows no interest in peers. Which additional finding related to attachment is most likely in this child with suspected autism?",
@@ -1053,7 +958,8 @@
       "C": "Attention may be atypical, often hyperfocused.",
       "D": "Children with autism often display impaired social attachment and relatedness. Separation anxiety, a typical developmental milestone reflecting attachment to a primary caregiver (usually peaking between 1-2 years), is often diminished or absent in children with autism.",
       "E": "Stranger anxiety may or may not be present and is less indicative of the core social deficits of autism than lack of separation anxiety."
-    }
+    },
+    "index": 50
   },
   {
     "question": "A table of data from a length-tension experiment in an isolated skeletal muscle is shown. Calculate active tension (Total Tension - Passive Tension) for each length: L10: 0-0=0; L15: 2-0=2; L20: 9-5=4; L25: 40-30=10; L30: 52-50=2. At which length is the maximal active tension produced?",
@@ -1073,7 +979,8 @@
       "D": "Active tension = 4 g.",
       "E": "Active tension = 10 g. This is the maximum value calculated from the data, representing the optimal length (Lo) for myofilament overlap and force generation.",
       "F": "Active tension = 2 g."
-    }
+    },
+    "index": 51
   },
   {
     "question": "A 68-year-old man with a long smoking history and low BMI presents with shortness of breath. Physical exam shows an expanded, hyperresonant chest. Which set of pulmonary function test findings is most likely in this patient with suspected emphysema? (↑ = above normal, ↓ = below normal, N = normal)",
@@ -1093,7 +1000,8 @@
       "D": "Pattern suggests restriction.",
       "E": "Pattern suggests restriction.",
       "F": "TLC and FRC are typically increased in emphysema."
-    }
+    },
+    "index": 52
   },
   {
     "question": "A 45-year-old woman with persistent hypercalcemia undergoes surgical resection of a 1-cm mass near the thyroid gland, suspected to be a parathyroid adenoma. Which measurement, taken immediately before and 10-15 minutes after removal of the mass, is most helpful in confirming the mass was the cause?",
@@ -1111,7 +1019,8 @@
       "C": "Parathyroid adenomas autonomously secrete PTH. PTH has a very short half-life. Intraoperative PTH monitoring takes advantage of this. A significant drop (usually >50%) in PTH level shortly after removing the suspected adenoma confirms that the hyperfunctioning tissue, the source of the excess PTH causing hypercalcemia, has been successfully excised.",
       "D": "Phosphate levels change much more slowly.",
       "E": "Not relevant."
-    }
+    },
+    "index": 53
   },
   {
     "question": "A 45-year-old man with chronic hypertension, treated with a novel drug, presents with dry mucous membranes, orthostasis, serum Na+ 129, K+ 5.8, HCO3- 18 (normal anion gap), and elevated plasma renin activity. Which mechanism most likely explains the effects of this drug?",
@@ -1129,7 +1038,8 @@
       "C": "Describes thiazides; cause hypokalemia, metabolic alkalosis.",
       "D": "Describes loop diuretics; cause hypokalemia, metabolic alkalosis.",
       "E": "Osmotic diuretics primarily cause water loss."
-    }
+    },
+    "index": 54
   },
   {
     "question": "A 9-year-old girl falls while rock climbing, cutting her leg near the neck of the fibula. She subsequently cannot evert her foot and exhibits foot drop. Injury to the common fibular (peroneal) nerve is likely. Sensory loss is expected primarily in which location?",
@@ -1147,7 +1057,8 @@
       "C": "Plantar foot sensation via tibial nerve.",
       "D": "Posterior leg sensation via tibial nerve.",
       "E": "Posterior thigh sensation via posterior femoral cutaneous nerve."
-    }
+    },
+    "index": 55
   },
   {
     "question": "A family has atrial fibrillation associated with a mutation in the NPPA gene, encoding the ANP receptor, interfering with ANP binding. ANP normally activates its receptor to produce an intracellular second messenger. Which enzyme's activity is most likely decreased due to this mutation?",
@@ -1167,7 +1078,8 @@
       "D": "Generates IP3/DAG.",
       "E": "Activated by cAMP.",
       "F": "Often linked to growth factor receptors."
-    }
+    },
+    "index": 56
   },
   {
     "question": "A newborn at term is diagnosed with truncus arteriosus and agenesis of the parathyroid glands, suggestive of DiGeorge syndrome (22q11.2 deletion). Which immune cell population is most likely to be deficient due to associated thymic aplasia/hypoplasia?",
@@ -1185,7 +1097,8 @@
       "C": "CD14 found on monocytes/macrophages.",
       "D": "CD19 found on B cells.",
       "E": "CD20 found on B cells."
-    }
+    },
+    "index": 57
   },
   {
     "question": "Huntington disease is caused by CAG repeat expansion in the huntingtin gene. To determine the repeat number using PCR, primers are designed to amplify the region containing the repeats. Where must the forward and reverse primers bind relative to the CAG repeat sequence?",
@@ -1203,7 +1116,8 @@
       "C": "Would amplify the wrong region.",
       "D": "Binding within a repetitive sequence leads to unreliable amplification and sizing.",
       "E": "Binding within a repetitive sequence leads to unreliable amplification and sizing."
-    }
+    },
+    "index": 58
   },
   {
     "question": "Pulmonary function testing in a 64-year-old woman shows: Vital Capacity (VC) = 4.5 L, Expiratory Reserve Volume (ERV) = 1.0 L, Tidal Volume (TV) = 0.5 L. Calculate her Inspiratory Reserve Volume (IRV).",
@@ -1221,7 +1135,8 @@
       "C": "Incorrect.",
       "D": "Incorrect.",
       "E": "The relationship is VC = IRV + TV + ERV. Rearranging gives IRV = VC - TV - ERV. Substituting the values: IRV = 4.5 L - 0.5 L - 1.0 L = 3.0 L."
-    }
+    },
+    "index": 59
   },
   {
     "question": "A 9-year-old boy with ALL, anorexic after recent chemotherapy, develops acute neurological symptoms (ataxia, confusion, ophthalmoplegia, depressed consciousness) after receiving IV glucose. This suggests Wernicke encephalopathy. Which thiamine-dependent enzyme's activity is likely impaired?",
@@ -1239,7 +1154,8 @@
       "C": "Requires Biotin.",
       "D": "Requires Folate.",
       "E": "Wernicke encephalopathy is due to thiamine (B1) deficiency. Glucose administration can precipitate or worsen symptoms in deficient individuals because glucose metabolism increases thiamine demand. Thiamine pyrophosphate is a cofactor for transketolase (pentose phosphate pathway), pyruvate dehydrogenase (glycolysis link to TCA), alpha-ketoglutarate dehydrogenase (TCA cycle), and branched-chain ketoacid dehydrogenase. Transketolase activity is often measured to assess thiamine status."
-    }
+    },
+    "index": 60
   },
   {
     "question": "A 21-year-old woman with severe nodular acne is considered for treatment with isotretinoin. The physician requires a pregnancy test and LFTs beforehand. Isotretinoin is structurally related to which vitamin?",
@@ -1259,7 +1175,8 @@
       "D": "Ascorbic acid.",
       "E": "Calciferol.",
       "F": "Phylloquinone/menaquinone."
-    }
+    },
+    "index": 61
   },
   {
     "question": "A 15-year-old boy falls onto his outstretched hand and fractures his humerus. Six weeks later, he exhibits 'wrist drop' (inability to extend the wrist and fingers). Damage to the radial nerve is suspected. Where along the humerus is the radial nerve most vulnerable to injury from a fracture?",
@@ -1277,7 +1194,8 @@
       "C": "The radial nerve travels in the spiral (radial) groove along the posterior aspect of the midshaft of the humerus. Fractures in this region commonly injure the radial nerve, resulting in paralysis of extensor muscles of the wrist and fingers, causing wrist drop.",
       "D": "Median nerve is vulnerable here.",
       "E": "Axillary nerve is vulnerable here."
-    }
+    },
+    "index": 62
   },
   {
     "question": "A biopsy of a femoral diaphyseal lesion in a 7-year-old boy shows small, blue cells. Genetic analysis reveals a t(11;22)(q24;q12) translocation, characteristic of Ewing sarcoma. The EWS-FLI1 fusion protein resulting from this translocation primarily functions as an aberrant:",
@@ -1295,7 +1213,8 @@
       "C": "e.g., EGFR, HER2.",
       "D": "e.g., RAS, ABL.",
       "E": "The t(11;22) translocation fuses the EWS gene from chromosome 22 with the FLI1 gene (a member of the ETS family of transcription factors) from chromosome 11. The resulting EWS-FLI1 fusion protein acts as an abnormal transcription factor, dysregulating gene expression and driving the proliferation characteristic of Ewing sarcoma."
-    }
+    },
+    "index": 63
   },
   {
     "question": "A 20-year-old Rh-negative woman has had two miscarriages after delivering an Rh-positive child 4 years ago (no RhoGAM given). To determine if she has been sensitized and produced anti-RhD antibodies that could affect future Rh-positive pregnancies, which test should be performed on her serum?",
@@ -1313,7 +1232,8 @@
       "C": "ELISA can detect antibodies but Coombs is standard for alloimmunization.",
       "D": "The indirect Coombs test (Indirect Antiglobulin Test - IAT) detects antibodies circulating freely in the patient's serum. In this case, it would be used to detect anti-RhD antibodies in the mother's serum by incubating her serum with known RhD-positive RBCs and then adding Coombs reagent.",
       "E": "IFA detects serum antibodies against specific antigens, often visualized on slides."
-    }
+    },
+    "index": 64
   },
   {
     "question": "A 6-year-old girl has severe recurrent bacterial and viral infections, hypopigmentation of skin and eyes, and leukocytes containing giant intracellular granules on peripheral smear. These findings indicate Chédiak-Higashi syndrome. Which immune cell type, critical for defense against certain infections and tumors, is known to have impaired cytotoxic function due to the defective granule formation in this syndrome?",
@@ -1331,7 +1251,8 @@
       "C": "Eosinophil granules are affected, but their dysfunction isn't the primary clinical issue.",
       "D": "Chédiak-Higashi syndrome involves a defect in lysosomal/granule trafficking (LYST gene mutation). This affects cytotoxic granules in both cytotoxic T lymphocytes (CTLs) and Natural Killer (NK) cells, impairing their ability to kill target cells (like virus-infected cells or tumor cells), contributing significantly to the increased susceptibility to viral infections and lymphoproliferative disease seen in these patients. Neutrophil function is also impaired.",
       "E": "T helper lymphocytes are generally functionally normal."
-    }
+    },
+    "index": 65
   },
   {
     "question": "A 31-year-old man with HIV presents with a rash consisting of petechiae, purpura, and firm, non-blanching nodules consistent with Kaposi sarcoma or bacillary angiomatosis. The development of these opportunistic conditions indicates severe immunosuppression. His CD4+ T lymphocyte count most likely falls within which range?",
@@ -1349,7 +1270,8 @@
       "C": "Counts in this range indicate mild immunosuppression.",
       "D": "Counts in this range are approaching normal.",
       "E": "Counts in this range are within or near the normal range."
-    }
+    },
+    "index": 66
   },
   {
     "question": "A 45-year-old obese man (BMI 31) struggles with diet adherence due to cravings and hunger. Which hormone, produced primarily by adipocytes in proportion to fat mass, signals satiety to the hypothalamus and helps decrease appetite?",
@@ -1367,7 +1289,8 @@
       "C": "Leptin is secreted by fat cells and acts as an anorexigenic hormone, signaling the brain (hypothalamus) about the status of energy stores, leading to decreased appetite and increased energy expenditure. Obesity is often associated with leptin resistance.",
       "D": "MCH stimulates appetite.",
       "E": "NPY stimulates appetite."
-    }
+    },
+    "index": 67
   },
   {
     "question": "A 57-year-old man with emphysema presents with an acute ST-segment elevation myocardial infarction (STEMI). Which beta-blocker would be most appropriate, considering the need for cardioselectivity due to his lung disease?",
@@ -1385,7 +1308,8 @@
       "C": "Propranolol is non-selective.",
       "D": "Sotalol is non-selective.",
       "E": "Timolol is non-selective."
-    }
+    },
+    "index": 68
   },
   {
     "question": "In an in vitro experiment, neutrophils migrate across a semipermeable membrane towards a substance placed in the opposing chamber. Which substance is the most potent chemotactic factor for neutrophils among the choices?",
@@ -1403,7 +1327,8 @@
       "C": "Factor XII, initiates intrinsic clotting.",
       "D": "Causes vasodilation, increased permeability; weak chemoattractant.",
       "E": "LTE4 involved in bronchoconstriction; LTB4 is the potent chemotactic leukotriene."
-    }
+    },
+    "index": 69
   },
   {
     "question": "A 27-year-old pregnant woman (18 weeks) develops fever, rash (petechiae/purpura), nausea, and vomiting after a camping trip (possible tick exposure), raising concern for Rocky Mountain Spotted Fever (RMSF). Which antibiotic is considered the treatment of choice for RMSF specifically during pregnancy?",
@@ -1421,7 +1346,8 @@
       "C": "Antimalarial.",
       "D": "Anti-TB drug.",
       "E": "Antiviral."
-    }
+    },
+    "index": 70
   },
   {
     "question": "A 36-year-old woman on alprazolam for anxiety develops increased morning lethargy shortly after completing a course of antibiotics for bronchitis. Which antibiotic is known to inhibit CYP3A4, the enzyme primarily responsible for alprazolam metabolism, potentially causing this interaction?",
@@ -1439,7 +1365,8 @@
       "C": "Tetracycline, not a major CYP inhibitor.",
       "D": "Erythromycin (a macrolide) is a well-known inhibitor of cytochrome P450 3A4 (CYP3A4). Since alprazolam is metabolized by CYP3A4, co-administration with erythromycin can lead to decreased alprazolam clearance, increased plasma levels, and enhanced sedative effects like lethargy.",
       "E": "Penicillins are not significant CYP inhibitors."
-    }
+    },
+    "index": 71
   },
   {
     "question": "A 1-month-old infant with severe watery diarrhea and dehydration has an acquired deficiency of the intestinal sodium-glucose cotransporter (SGLT1). This transporter defect will impair the absorption of glucose and which other monosaccharide?",
@@ -1457,7 +1384,8 @@
       "C": "The SGLT1 transporter, located on the apical membrane of intestinal enterocytes, is responsible for the secondary active transport of both glucose and galactose from the lumen into the cell, coupled to sodium transport. A deficiency thus impairs absorption of both sugars.",
       "D": "Different transport.",
       "E": "Pentose, different transport."
-    }
+    },
+    "index": 72
   },
   {
     "question": "A 42-year-old woman with a family history of similar problems has chronic anemia and intermittent jaundice. Her peripheral blood smear shows numerous spherocytes. What is the most appropriate definitive treatment to reduce hemolysis and correct the anemia in hereditary spherocytosis?",
@@ -1475,7 +1403,8 @@
       "C": "For lead poisoning.",
       "D": "Temporary measure.",
       "E": "Hereditary spherocytosis leads to the formation of less deformable, spherical RBCs that are prematurely destroyed in the spleen. Splenectomy removes the primary site of extravascular hemolysis, thereby increasing RBC survival, reducing jaundice, and correcting the anemia, although the spherocytes themselves persist."
-    }
+    },
+    "index": 73
   },
   {
     "question": "A 25-year-old man presents with hemoptysis. CT shows lung masses, and biopsy reveals a malignant tumor positive for human chorionic gonadotropin (hCG) via immunohistochemistry. What is the most likely primary origin of this hCG-producing metastatic tumor?",
@@ -1493,7 +1422,8 @@
       "C": "Pancreatic cancer rarely produces hCG.",
       "D": "Stomach cancer rarely produces hCG.",
       "E": "In a male presenting with metastases (like lung masses) from an hCG-producing tumor, the primary site is most likely a testicular germ cell tumor, particularly a non-seminomatous type such as choriocarcinoma or embryonal carcinoma with syncytiotrophoblastic elements."
-    }
+    },
+    "index": 74
   },
   {
     "question": "A healthy young woman (initial PaCO2 = 40 mmHg) hyperventilates, doubling her alveolar ventilation while CO2 production remains constant. What will her new approximate PaCO2 level be?",
@@ -1513,7 +1443,8 @@
       "D": "No change implies no change in ventilation.",
       "E": "Implies ventilation was halved.",
       "F": "Implies ventilation significantly decreased."
-    }
+    },
+    "index": 75
   },
   {
     "question": "A 15-year-old swimmer develops left ear pain, a swollen red pinna, and yellowish exudate from the ear canal (otitis externa). Which bacterial description best fits the most common causative agent, Pseudomonas aeruginosa?",
@@ -1531,7 +1462,8 @@
       "C": "Describes Haemophilus influenzae.",
       "D": "Describes Streptococcus.",
       "E": "Describes Treponema, Borrelia, Leptospira."
-    }
+    },
+    "index": 76
   },
   {
     "question": "A 20-year-old man develops acute difficulty breathing, swollen lips, hypotension, and stridor minutes after eating at a restaurant. What is the mechanism of action of the most appropriate first-line emergency treatment for this anaphylactic reaction?",
@@ -1549,7 +1481,8 @@
       "C": "NSAIDs not used.",
       "D": "Mast cell stabilizers are for prevention.",
       "E": "Epinephrine is the critical first-line treatment for anaphylaxis. It acts as a non-selective adrenergic agonist, stimulating alpha-1 receptors (causing vasoconstriction, reversing hypotension), beta-1 receptors (increasing heart rate/contractility), and beta-2 receptors (causing bronchodilation, relieving respiratory distress)."
-    }
+    },
+    "index": 77
   },
   {
     "question": "A 9-year-old boy presents with listlessness, fever, anorexia, elevated serum glucose, low serum potassium, and glucosuria, suggesting new-onset type 1 diabetes mellitus (T1DM). T1DM is an autoimmune disease often associated with other autoimmune conditions. Which of the following diseases has an increased co-occurrence with T1DM due to shared autoimmune predisposition?",
@@ -1567,7 +1500,8 @@
       "C": "Genetic enzyme deficiency.",
       "D": "Genetic iron overload disorder.",
       "E": "Vitamin deficiency."
-    }
+    },
+    "index": 78
   },
   {
     "question": "Which of the following DNA viruses replicates entirely within the cytoplasm, independent of the host cell nucleus?",
@@ -1585,7 +1519,8 @@
       "C": "RNA virus, replicates genome in nucleus.",
       "D": "Molluscum contagiosum virus is a Poxvirus. Poxviruses are unique among DNA viruses in that they carry their own DNA-dependent RNA polymerase and DNA polymerase and replicate entirely within the cytoplasm.",
       "E": "Herpesvirus, replicates in nucleus."
-    }
+    },
+    "index": 79
   },
   {
     "question": "A 27-year-old woman presents with episodic chest pain and a systolic ejection murmur along the left sternal border that intensifies upon standing, suggestive of hypertrophic cardiomyopathy (HCM). While beta-blockers or non-dihydropyridine calcium channel blockers are typically first-line, which medication class listed is sometimes used, albeit often with caution, for symptom management in HCM?",
@@ -1603,7 +1538,8 @@
       "C": "Increases contractility, can worsen obstruction.",
       "D": "Antiarrhythmic.",
       "E": "Nifedipine is a dihydropyridine calcium channel blocker. While beta-blockers and non-dihydropyridines (verapamil, diltiazem) are preferred in HCM to reduce heart rate, contractility, and potentially obstruction, dihydropyridines are generally avoided due to vasodilation potentially worsening the gradient. However, in some specific situations or if other agents fail/are contraindicated, they might be cautiously considered. *This remains a potentially problematic question/answer choice based on standard guidelines.*"
-    }
+    },
+    "index": 80
   },
   {
     "question": "A 70-year-old man has worsening back pain, anemia (Hgb 10), renal insufficiency (Cr 2.8), and multiple lytic ('punched out') bone lesions on MRI. This presentation strongly suggests Multiple Myeloma, a malignancy of which cell line?",
@@ -1621,7 +1557,8 @@
       "C": "Neutrophilic leukemia presents differently.",
       "D": "Multiple myeloma is a cancer characterized by the malignant proliferation of plasma cells in the bone marrow, leading to the characteristic features of hyperCalcemia, Renal failure, Anemia, and Bone lesions (CRAB criteria).",
       "E": "T-cell lymphomas/leukemias present differently."
-    }
+    },
+    "index": 81
   },
   {
     "question": "A 4-year-old girl undergoes surgery for bilateral inguinal masses which are found to be testes. This indicates Complete Androgen Insensitivity Syndrome. What is her most likely karyotype?",
@@ -1639,7 +1576,8 @@
       "C": "Mosaicism/Chimerism.",
       "D": "Individuals with Complete Androgen Insensitivity Syndrome have a male karyotype (46,XY), develop testes (due to SRY gene on Y), produce testosterone, but cannot respond to it due to defective androgen receptors. They develop female external genitalia.",
       "E": "Klinefelter syndrome."
-    }
+    },
+    "index": 82
   },
   {
     "question": "A 5-year-old boy, along with his three brothers, suffers from repeated infections (pneumonia, otitis, skin infections) caused by encapsulated bacteria (Staph aureus, Pseudomonas, Strep pneumo, H. flu). Laboratory studies show undetectable levels of IgG, IgM, and IgA. This pattern is most consistent with which underlying immunodeficiency mechanism?",
@@ -1657,7 +1595,8 @@
       "C": "Failure of isotype switching (Hyper-IgM) results in low IgG/IgA/IgE but detectable (often high) IgM.",
       "D": "The clinical picture (male children, X-linked pattern suggested by affected brothers, recurrent infections with extracellular bacteria) combined with undetectable levels of *all* immunoglobulin classes points to X-linked (Bruton) agammaglobulinemia. This results from a defect in Bruton tyrosine kinase (Btk), causing a block in B-cell development at the pre-B cell stage, leading to absence of mature B cells and panhypogammaglobulinemia.",
       "E": "Absence of T cells causes Severe Combined Immunodeficiency (SCID)."
-    }
+    },
+    "index": 83
   },
   {
     "question": "After 6 nights of restricted sleep (<=4 hours/night), healthy volunteers are assessed. This sleep deprivation acts as a stressor. Which laboratory finding is most likely increased as a result of this stress?",
@@ -1675,7 +1614,8 @@
       "C": "Stress/cortisol typically suppresses lymphocyte levels.",
       "D": "Stress effects on TSH can be variable, sometimes increasing.",
       "E": "Sleep deprivation typically decreases growth hormone release."
-    }
+    },
+    "index": 84
   },
   {
     "question": "A 22-year-old man presents with tinnitus and bilateral hearing loss. MRI shows bilateral vestibular schwannomas (acoustic neuromas). This finding is pathognomonic for which genetic disorder?",
@@ -1693,7 +1633,8 @@
       "C": "NF1 causes Cafe-au-lait spots, Neurofibromas, Optic gliomas.",
       "D": "The presence of bilateral vestibular schwannomas is the defining characteristic and diagnostic criterion for Neurofibromatosis type 2 (NF2), an autosomal dominant disorder caused by mutations in the NF2 gene.",
       "E": "Tuberous sclerosis causes hamartomas in various organs."
-    }
+    },
+    "index": 85
   },
   {
     "question": "An investigator infuses a nonspecific muscarinic antagonist into an animal and measures tension in different muscle types. Which pattern of response is expected? (↑=Increase, ↓=Decrease, NC=No Change)",
@@ -1713,7 +1654,8 @@
       "A-C, G, H": "Skeletal muscle uses nicotinic receptors, so NC.",
       "D, F, I": "Cardiac muscle has M2 receptors (vagal tone slows heart); antagonism increases heart rate (↑). Arteriolar smooth muscle has minimal functional muscarinic innervation/tone; antagonism causes little change (NC). Intestinal smooth muscle has M3 receptors (parasympathetic stimulation increases motility); antagonism decreases motility/tone (↓).",
       "E": "Matches the expected pattern: Skeletal(NC), Cardiac(↑), Arteriolar(NC), Intestinal(↓)."
-    }
+    },
+    "index": 86
   },
   {
     "question": "A 24-year-old woman reports lack of sensation during intercourse, along with a long history of multiple, varied, unexplained physical symptoms including gastric distress, chronic headaches, low back pain, knee pain, diarrhea, and a past episode of paralysis. Which diagnosis best encompasses this longstanding pattern of medically unexplained physical symptoms across multiple organ systems?",
@@ -1733,7 +1675,8 @@
       "D": "Fear of having a serious illness.",
       "E": "Somatization disorder (criteria often included in Somatic Symptom Disorder in newer classifications) is defined by a history beginning before age 30 of multiple physical complaints across different symptom groups (e.g., pain, GI, sexual, pseudoneurologic) that are not fully explained by medical conditions and cause significant distress or impairment.",
       "F": "Primary symptom is pain."
-    }
+    },
+    "index": 87
   },
   {
     "question": "A 4-mm tumor found incidentally in the tip of the appendix of a 15-year-old girl shows monotonous small cells in islands/trabeculae with stippled ('salt and pepper') nuclei. These features are characteristic of a carcinoid tumor. Carcinoid tumors arise from which cell type?",
@@ -1751,7 +1694,8 @@
       "C": "Lymphocytes form lymphomas.",
       "D": "Macrophages are involved in inflammation/histiocytomas.",
       "E": "Smooth muscle cells form leiomyomas/sarcomas."
-    }
+    },
+    "index": 88
   },
   {
     "question": "A 65-year-old smoker presents with cough, hemoptysis, and a 5-cm central lung mass. Biopsy shows a malignant tumor of darkly basophilic small cells with necrosis. This description fits Small Cell Lung Carcinoma (SCLC). Immunohistochemical staining for which marker would likely be positive, reflecting its neuroendocrine origin?",
@@ -1769,6 +1713,7 @@
       "C": "Marker for trophoblastic tumors, germ cell tumors.",
       "D": "Small Cell Lung Carcinoma (SCLC) is a high-grade neuroendocrine carcinoma. Tumor cells typically express neuroendocrine markers, including Neuron-Specific Enolase (NSE), chromogranin A, and synaptophysin.",
       "E": "Marker for smooth muscle tumors."
-    }
+    },
+    "index": 89
   }
 ]

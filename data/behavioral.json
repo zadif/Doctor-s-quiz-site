@@ -20,7 +20,8 @@
       "F": "Makes an assumption about the patient's comfort level and might be inappropriate given their initial choice of physician.",
       "G": "Although well-intentioned, it may not be effective in empowering the patient to speak freely if her husband is still present."
     },
-    "page": null
+    "page": null,
+    "index": 1
   },
   {
     "question": "A 4-year-old girl is found pulling the tail of the family dog. Her mother, who had warned her previously that this behavior was unacceptable, now assigns the girl to a 5-minute time-out period. A timer is set up so that the girl can keep track of the time-out. Two minutes into the time-out, the girl begins to scream and cry. Which of the following would be the mother's most appropriate response?",
@@ -39,7 +40,8 @@
       "D": "Extends the time-out in direct response to the girl's protests, reinforcing the message that the time-out ends only when the unacceptable behavior stops.",
       "E": "Creates a reward system for misbehavior, potentially encouraging the child to cry and then demand a treat."
     },
-    "page": null
+    "page": null,
+    "index": 2
   },
   {
     "question": "A newborn, born at 38 weeks' gestation, is evaluated 1 minute after delivery. His temperature is 37.2°C (99°F), pulse is 130/min, respirations are 35/min and irregular, and blood pressure is 72/42 mm Hg. Physical examination shows active muscle movements with good tone. He is pink in color, except for his hands and feet, which are slightly bluish, and he coughs and cries in response to stimulation. Which of the following is the most likely APGAR score for this newborn?",
@@ -58,7 +60,8 @@
       "D": "Incorrect score based on the APGAR criteria.",
       "E": "Incorrect score based on the APGAR criteria."
     },
-    "page": null
+    "page": null,
+    "index": 3
   },
   {
     "question": "A 19-year-old woman is brought to the emergency department because of an attempted suicide. A review of her records shows that she has been hospitalized several times for overdoses and a history of stormy relationships and conflicts at home. Physical examination shows numerous scars on the wrists. She reports that she recently broke up with the man she was seeing over the past month and feels despondent. A diagnosis of major depression is made. Twenty-four hours later, she states that she is \"just feeling great\" and asked to be discharged from the hospital. Which of the following defense mechanisms is most likely associated with this patient's disorder?",
@@ -77,7 +80,8 @@
       "D": "Seen in histrionic personality disorder.",
       "E": "A hallmark of borderline personality disorder, characterized by seeing people as all good or all bad."
     },
-    "page": null
+    "page": null,
+    "index": 4
   },
   {
     "question": "A 78-year-old woman comes to the physician because of not feeling fully rested after a night's sleep. Physical examination and routine laboratory studies show no abnormalities. She reports no headaches upon wakening and her husband says she does not snore often. Which of the following best explains her symptoms?",
@@ -96,7 +100,8 @@
       "D": "While sleep apnea can occur, the absence of snoring and morning headaches makes it less likely.",
       "E": "Less common in elderly individuals; grief is more likely given recent spousal loss (mentioned in another question)."
     },
-    "page": null
+    "page": null,
+    "index": 5
   },
   {
     "question": "A 34-year-old woman is brought to the physician by her husband because she is unable to handle simple chores such as going to the grocery store or driving to a friend's house. She tells the physician that she is terrified that something bad will happen to her on the trip and that she is paralyzed by this fear. She says that she enjoys company, but feels much better when friends come to visit her. She says that this condition began when she was in her twenties and she is very embarrassed about being housebound. Which of the following is the most likely diagnosis?",
@@ -115,7 +120,8 @@
       "D": "Involves recurrent unexpected panic attacks.",
       "E": "Fear of social situations where scrutiny by others is possible."
     },
-    "page": null
+    "page": null,
+    "index": 6
   },
   {
     "question": "A healthy 29-year-old man participates in a study to investigate the effects of a new psychoactive drug on sleep. Prior to administration of the drug during sleep, an electroencephalogram (EEG) and electromyogram (EMG) indicate that he has entered rapid eye movement (REM) sleep. After administration of the drug, the frequency and duration of episodes of REM sleep are reduced by 90%. Which of the following neurotransmitters is most likely inhibited by the drug?",
@@ -134,7 +140,8 @@
       "D": "Involved in sympathetic nervous system responses and attention/arousal.",
       "E": "Involved in mood and sensation."
     },
-    "page": null
+    "page": null,
+    "index": 7
   },
   {
     "question": "A 28-year-old woman comes to the physician for a routine examination. She denies engaging in risky sexual behaviors, but does admit to being involved in a number of brief, superficial relationships. She fidgets and appears anxious during the interview. As she leaves, she puts on a fur coat over a bright green shirt and miniskirt. On her way out, she hugs the physician. Which of the following is most likely associated with this patient's condition?",
@@ -153,7 +160,8 @@
       "D": "Characteristic of dependent personality disorder.",
       "E": "A feature of histrionic personality disorder, along with attention-seeking and dramatic behavior."
     },
-    "page": null
+    "page": null,
+    "index": 8
   },
   {
     "question": "A 75-year-old woman comes to the physician because of fatigue and exhaustion. A review of her records shows that her spouse died 4 months ago in a motor vehicle collision and that she was a passenger in that vehicle. She states that she has bouts of crying for no reason, and that she sometimes thinks she hears her husband calling. Which of the following is the most appropriate response?",
@@ -176,7 +184,8 @@
       "F": "Dismissive and insensitive to the grieving process.",
       "G": "Premature diagnosis; normal grief can resemble depression."
     },
-    "page": null
+    "page": null,
+    "index": 9
   },
   {
     "question": "A 22-year-old woman who is a college student is brought to the emergency department by police because she was found talking to herself while walking back and forth across a busy street. She appears to be oriented to person, place, and time. Her sister comes to the hospital and says that the patient dropped out of school 3 months ago and has been living on the streets. A review of her records shows a hospital admission 2 months ago for a similar condition. Psychiatric examination shows difficulty concentrating and talking to unheard voices. Urine toxicology is negative. Which of the following is the most likely diagnosis?",
@@ -195,7 +204,8 @@
       "D": "Presents with schizophrenia-like symptoms lasting between 1 and 6 months.",
       "E": "Characterized by eccentricities and odd beliefs but not typically full-blown psychosis."
     },
-    "page": null
+    "page": null,
+    "index": 10
   },
   {
     "question": "A 24-year-old woman is robbed by a man wearing a ski mask while walking home from work. Six weeks later, she comes to the physician because of recurrent, intrusive thoughts about the experience. She states that she feels \"numb\", is easily startled whenever she sees a stranger on the street, and avoids the neighborhood where the attack occurred. Three months after the incident, the symptoms have largely subsided. In the coming year, this patient will most likely experience which of the following?",
@@ -214,7 +224,8 @@
       "D": "Depression is not a typical sequela of acute stress disorder/PTSD.",
       "E": "Repetitive behaviors (compulsions) can be associated with PTSD, but not expected after recovery."
     },
-    "page": null
+    "page": null,
+    "index": 11
   },
   {
     "question": "A 75-year-old man is brought to the physician because of pain on the left side of his chest during inspiration. Physical examination shows bilateral bruises on the upper arms, as well as ecchymoses along the right mandible and lips. A chest x-ray shows three broken ribs on the left. A CT scan of the head shows a subdural hematoma over the right hemisphere. Which of the following is the most likely diagnosis?",
@@ -233,7 +244,8 @@
       "D": "Unlikely to cause bilateral bruising on upper arms and rib fractures.",
       "E": "Presents with neurological symptoms like tremors and rigidity, not injuries."
     },
-    "page": null
+    "page": null,
+    "index": 12
   },
   {
     "question": "A 2-month-old boy is brought to the physician by his 14-year-old mother and grandmother because of a rash. Although the girl was recently married, the boy's mother and father live with the grandmother. Physical examination shows small red spots over the entire body and a diagnosis of atopic dermatitis is made. The patient's mother is given educational material and a prescription for a topical cream. Permission to treat this patient is most likely obtained from which of the following?",
@@ -252,7 +264,8 @@
       "D": "Involved only in cases of absent or neglectful parents/guardians.",
       "E": "The father could also consent, but he is not present."
     },
-    "page": null
+    "page": null,
+    "index": 13
   },
   {
     "question": "A 6-year-old boy is brought to the physician because of enuresis that seems to occur 4 to 5 times a week. The mother states that the problem began over the past few months, after she gave birth to a baby girl. She says that the boy is very embarrassed about his enuresis and is afraid that his friends will find out. Which of the following would be the most appropriate next step?",
@@ -275,7 +288,8 @@
       "F": "Addresses the potential underlying cause of regression due to the arrival of a new sibling.",
       "G": "Enuresis at age 6 is not considered normal and should be addressed."
     },
-    "page": null
+    "page": null,
+    "index": 14
   },
   {
     "question": "A 56-year-old man is brought to the physician by his daughter because of poor appetite and weight loss over the past 2 months. He states that his wife died 2 months ago from cancer and that he is experiencing a great deal of guilt about his wife's death and feels that he could have done more to save her. Which of the following is the most appropriate response for the physician?",
@@ -294,7 +308,8 @@
       "D": "Encourages the patient to express his feelings.",
       "E": "While likely true, it doesn't address the patient's immediate need to process his grief."
     },
-    "page": null
+    "page": null,
+    "index": 15
   },
   {
     "question": "A 16-year-old girl is brought to the emergency department by her parents because of a 1-day history of right foot pain. She denies any recent trauma, has no history of any major medical illness, and takes no medications. She is active, and walks at least 1 hour daily in the nearby woods. She attends high school and her parents state that she is doing very well. She gets along well with her parents, except that they insist she should eat more; her weight has dropped from 50 kg (130 lb) to 47.6 kg (105 lb) over the past year. BMI is 16 kg/m^2. Which of the following is the most likely diagnosis?",
@@ -315,7 +330,8 @@
       "E": "Consistent with the patient's weight loss, high activity level, and localized foot pain.",
       "F": "Lyme disease arthritis typically presents differently."
     },
-    "page": null
+    "page": null,
+    "index": 16
   },
   {
     "question": "A 22-year-old woman is brought to the emergency department by her husband because of a 24-hour history of abdominal pain and nausea. Her temperature is 38.3°C (101°F), pulse is 72/min, respirations are 18/min, and blood pressure is 135/75 mm Hg. Physical examination shows right lower quadrant abdominal tenderness and rebound tenderness. A diagnosis of acute appendicitis is made and an emergent appendectomy is performed. Prior to surgery, the patient says that she is a practicing Catholic and is praying for a successful surgery. Examination of the appendix shows no abnormalities; however, an ectopic pregnancy is seen on the right adnexa. Which of the following is the most likely diagnosis?",
@@ -334,7 +350,8 @@
       "D": "The patient's own consent is required, not the spouse's.",
       "E": "Ectopic pregnancy is a medical emergency requiring immediate intervention, falling under the emergency exception to informed consent."
     },
-    "page": null
+    "page": null,
+    "index": 17
   },
   {
     "question": "A 17-year-old woman comes to the physician for a follow-up examination because of unipolar disorder. She states that she has felt depressed for the past 2 months. She denies drug abuse or excessive drinking. Her diagnosis of unipolar disorder is confirmed and treatment with imipramine is begun. Which of the following best describes the mechanism of action of this drug?",
@@ -353,7 +370,8 @@
       "D": "This is the mechanism of benzodiazepines and barbiturates, not TCAs.",
       "E": "This is the mechanism of SSRIs like fluoxetine and sertraline, not TCAs."
     },
-    "page": null
+    "page": null,
+    "index": 18
   },
   {
     "question": "A 44-year-old man with a history of polysubstance abuse is brought to the emergency department because of nausea, vomiting, tachycardia, agitation, and weakness. He says that he is seeing monsters on the wall. Withdrawal from which of the following best explains this patient's behavior?",
@@ -374,7 +392,8 @@
       "E": "Hallucinogens are not considered physically addictive and do not have a characteristic withdrawal syndrome.",
       "F": "Heroin withdrawal involves flu-like symptoms, not hallucinations or the specific symptoms described."
     },
-    "page": null
+    "page": null,
+    "index": 19
   },
   {
     "question": "A 34-year-old woman comes to a new physician for a routine examination. Although the patient had been instructed to remove her clothes, put on a gown, and have a seat on the examination table, she remains fully clothed. She glances up briefly when the physician enters the room, but returns her gaze to the floor. She says nothing. Which of the following is the most appropriate response for the physician?",
@@ -397,7 +416,8 @@
       "F": "Makes an assumption about the patient's emotional state and puts her on the spot.",
       "G": "While seemingly empathetic, it can feel awkward and doesn't actively engage the patient."
     },
-    "page": null
+    "page": null,
+    "index": 20
   },
   {
     "question": "When ingested in large doses, monosodium glutamate can precipitate severe headaches, weakness, flushing, and tingling in healthy volunteers. A study with experimental animals shows that high-dose glutamate causes excitotoxic injury to neurons. Which of the following glutamate receptors is most likely responsible for these effects?",
@@ -418,7 +438,8 @@
       "E": "Tyrosine kinase receptors are involved in growth factor signaling, not glutamate signaling.",
       "F": "Voltage-gated cation channels are involved in action potential propagation but are not the primary mediators of excitotoxicity."
     },
-    "page": null
+    "page": null,
+    "index": 21
   },
   {
     "question": "A 76-year-old woman comes to the physician every week because of various minor health problems. Despite the physician's repeated assurances that the woman is basically healthy and capable of making minor medical decisions herself, she remains unconvinced and repeatedly returns to the physician. At the end of each interview, she always thanks the physician for his help. Which of the following is a common feature of this patient's likely personality disorder?",
@@ -437,7 +458,8 @@
       "D": "Characteristic of obsessive-compulsive personality disorder.",
       "E": "Characteristic of avoidant personality disorder."
     },
-    "page": null
+    "page": null,
+    "index": 22
   },
   {
     "question": "A 24-year-old man is injured and sustains thoracic and closed-head trauma during a motor vehicle collision. A pedestrian, who is a resident physician coming home from a night on call, seeing that a small fire has begun under the automobile, pulls the driver out of the vehicle and attempts to maintain a patent airway. The driver dies at the scene of the collision despite appropriate lifesaving measures. At autopsy, it is determined that moving the patient from the car exacerbated a spinal injury and contributed to the patient's death. The patient's family sues the physician and the hospital at which she works, claiming negligence. They state that sleep deprivation contributed to the physician's poor decision-making. Which of the following is the most likely outcome?",
@@ -460,7 +482,8 @@
       "F": "Incorrect.  No criminal act occurred, and Good Samaritan laws protect both the physician and the hospital.",
       "G": "The Good Samaritan law protects healthcare providers from liability when providing emergency care outside of a medical setting, as long as they act within their competence and without gross negligence."
     },
-    "page": null
+    "page": null,
+    "index": 23
   },
   {
     "question": "A 52-year-old man with a history of alcoholism, chronic hepatitis C, and cirrhosis comes to the emergency department with a 3-day history of cough and dyspnea. A chest x-ray is consistent with pneumonia. Laboratory examination shows gram-negative rods with a large polysaccharide capsule. The patient is immediately started on antibiotics and admitted to the hospital. After three days in the hospital, he develops a tremor, nausea, and vomiting. He also asks to leave the hospital because \"he must return to his army unit”. His temperature is 38.3°C (100.4°F), pulse is 110/min, respirations are 20/min, and blood pressure is 140/85 mm Hg. Treatment with which of the following is most appropriate for the acute treatment of the patient's symptoms?",
@@ -481,7 +504,8 @@
       "E": "Naltrexone is used to reduce cravings in alcohol dependence, not for acute withdrawal.",
       "F": "Thiamine is important for preventing Wernicke-Korsakoff syndrome in alcoholics, but it doesn't treat the acute withdrawal symptoms."
     },
-    "page": null
+    "page": null,
+    "index": 24
   },
   {
     "question": "A 5-year-old girl is brought to the emergency department by her parents because of abdominal pain. Physical examination shows multiple bruises on the abdomen and thorax in different stages of healing. A chest x-ray shows hairline fractures of two ribs. The parents say that they do not know how she developed the bruises or the fractures. Which of the following is the most appropriate next step?",
@@ -500,7 +524,8 @@
       "D": "Promises from the parents are not reliable in suspected abuse cases.",
       "E": "The immediate priority is to protect the child from further potential harm by separating her from the parents, then notify CPS."
     },
-    "page": null
+    "page": null,
+    "index": 25
   },
   {
     "question": "A 68-year-old man is diagnosed with severe pulmonary hypertension and a surgical lung transplant is performed. Prior to the surgery, the physician explains the risks and benefits of this procedure, including alternative treatments, and the usual protocol for postoperative care. The patient then signs an 'informed consent.' The surgical procedure is completed. The patient is brought into the recovery room and develops respiratory failure. Mechanical ventilation is continued as standard postoperative procedure. The physician is uncertain how long this patient will require mechanical ventilation. At this point, the patient's son presents a living will signed by the patient stating that he wishes not to be kept alive by mechanical means. The patient's son then asks to have mechanical ventilation terminated. The patient's wife says, 'Do not remove the ventilator. I cannot bear the thought of losing my husband.' Which of the following is the most appropriate next step in patient care?",
@@ -525,7 +550,8 @@
       "G": "Life support is not indefinite; it's part of the post-operative care and will be reassessed based on the patient's recovery.",
       "H": "The living will is not applicable yet as the ventilation is part of the agreed-upon post-operative care."
     },
-    "page": null
+    "page": null,
+    "index": 26
   },
   {
     "question": "A 70-year-old woman with a history of diabetes and alcoholism is brought to the physician by her son because of altered mental status. Her temperature is 37.8°C (100°F), pulse is 86/min, respirations are 18/min, and blood pressure is 140/86 mm Hg. Psychiatric examination shows a deficit of recent memory and a diminished level of awareness. During the examination, the patient's speech becomes nonsensical and she begins to describe seeing bugs crawling on the walls of the room. Which of the following is the most likely diagnosis?",
@@ -544,7 +570,8 @@
       "D": "Depersonalization involves feeling detached from oneself, but not typically hallucinations or disorientation.",
       "E": "PTSD follows a traumatic event and involves flashbacks, avoidance, and arousal symptoms, not the symptoms presented here."
     },
-    "page": null
+    "page": null,
+    "index": 27
   },
   {
     "question": "A 15-year-old boy is brought to the physician by his father for a follow-up examination because of type 1 diabetes mellitus. The patient appears sullen and nonresponsive. He slouches in his chair and does not make eye contact with the physician. When asked how he is feeling, the patient mumbles something unintelligible and stares at the floor. The father leaves the room before the examination, and the patient says, “This treatment is not working. It’s such a pain. I don’t want to come here anymore. I don’t think you know what you’re doing.” Which of the following is the most appropriate response by the physician?",
@@ -571,7 +598,8 @@
       "H": "Reinforces the patient's lack of autonomy and dismisses his concerns.",
       "I": "While true, this statement is overly harsh and doesn't address the patient's underlying concerns."
     },
-    "page": null
+    "page": null,
+    "index": 28
   },
   {
     "question": "A 47-year-old woman comes to the physician because of dizziness and abdominal pain. She says that the pain is so severe that she cannot stand up or eat anything. Physical examination shows no abnormalities. A review of her records shows previous treatments for alcoholism and indicates that she has seen 4 different physicians in the past year. During the examination, she looks the physician in the eye, smiles warmly, and says that she hopes to have a close, intimate relationship with him. With tears in her eyes, she asks if she will be all right, and then laughs when the physician attempts to reassure her. As she dresses to leave, she puts on a bright yellow dress and an elaborate necklace. Which of the following is the most likely diagnosis?",
@@ -594,7 +622,8 @@
       "F": "Schizoid personality disorder involves social detachment and emotional coldness, not dramatic displays.",
       "G": "Schizotypal personality disorder involves eccentric thoughts and behaviors, but not the dramatic, attention-seeking behavior of histrionic personality disorder."
     },
-    "page": null
+    "page": null,
+    "index": 29
   },
   {
     "question": "A 24-year-old woman comes to the physician because of pain and stiffness in her lower back. Physical examination shows no abnormalities except muscular stiffness of the lumbosacral region. The physician explains his findings and suggests that her condition may respond to muscle relaxants. The patient says, “Wow! You’ve got great hands, Doc. Just having you touch me makes me feel better.” As the patient is getting dressed, she asks the physician if he is married, and then asks if he ever dates his patients. The physician is attracted to the patient and would like to see her socially. Which of the following is the most appropriate next step?",
@@ -617,7 +646,8 @@
       "F": "Waiting a period of time doesn't change the ethical implications of a physician-patient relationship turning romantic.",
       "G": "This maintains professional boundaries while continuing to provide care for the patient."
     },
-    "page": null
+    "page": null,
+    "index": 30
   },
   {
     "question": "A 29-year-old man comes to the physician because of a sinus infection. The patient states that he has \"had a hard time\" since the death of his partner from AIDS-related complications three months ago. He has had difficulty sleeping, anxiety, and a weight loss of 4.5 kg (10 lb). He appears gaunt and tired. When asked if he has ever been tested for HIV, he becomes angry and says, “No, and I’m never going to get tested. Don’t tell me you’re one of those doctors who thinks that all gay men have AIDS!” Which of the following is the most appropriate response for the physician?",
@@ -644,7 +674,8 @@
       "H": "While acknowledging the patient's distress, it doesn't address the core issue of HIV testing.",
       "I": "While empathy is good, it sidesteps the critical issue of HIV testing."
     },
-    "page": null
+    "page": null,
+    "index": 31
   },
   {
     "question": "A 17-year-old girl loses her best friend in a motor vehicle collision. After the death, she starts writing for hours daily in her diary. This is most likely an example of which of the following defense mechanisms?",
@@ -663,7 +694,8 @@
       "D": "Regression is the adoption of behavior more appropriate to a younger age.",
       "E": "Sublimation is the diversion of unacceptable impulses (like wanting to talk to the deceased friend) into more acceptable ones (writing in a diary)."
     },
-    "page": null
+    "page": null,
+    "index": 32
   },
   {
     "question": "A 10-year-old boy exhibits a fear of water during his first day of swimming lessons. The teacher helps him sit on the edge of the pool and splash the water with his feet. After he becomes more comfortable, she then goes one step further and shows him how to wet his knees. It takes her an hour to have him float on the water while she is holding his hand. At the end of the lesson, the teacher compliments the boy on his excellent progress at his first lesson. Which of the following best describes the technique used to help this boy lose the fear of water?",
@@ -682,7 +714,8 @@
       "D": "Flooding involves confronting the feared object or situation directly without gradual steps.",
       "E": "Operant conditioning involves increasing a behavior through reinforcement (rewarding desired behavior)."
     },
-    "page": null
+    "page": null,
+    "index": 33
   },
   {
     "question": "A 28-year-old woman comes to the physician because of anxiety and fear over losing her job. She states that she is late to work every day because before she leaves for work she repeatedly checks all the faucets and the stove. She also returns from her car several times before leaving to ensure that her doors and windows are locked. Which of the following drugs is most appropriate for this patient?",
@@ -703,7 +736,8 @@
       "E": "Phenelzine is an MAOI antidepressant.",
       "F": "Zolpidem is a hypnotic agent for sleep."
     },
-    "page": null
+    "page": null,
+    "index": 34
   },
   {
     "question": "A 48-year-old man is brought to the emergency department by police after being found lying on the train tracks. He says he wants to put an end to his life. He also says that he got a divorce 6 years ago because of his drinking habits. He has had two arrests for driving under the influence of alcohol and a motor vehicle collision also while under the influence of alcohol within the past 1-year that resulted in jail time. He has attempted alcohol rehabilitation twice. The patient appears disheveled and is malodorous. Psychiatric examination shows depressed mood, anhedonia, poor energy, and poor appetite. Which of the following is the strongest indication of the patient's most likely diagnosis?",
@@ -722,7 +756,8 @@
       "D": "Suicidal ideation is related to depression, which may be secondary to alcohol use, but continued use despite psychological problems is a criterion for dependence.",
       "E": "Tolerance is a criterion for alcohol dependence, not abuse."
     },
-    "page": null
+    "page": null,
+    "index": 35
   },
   {
     "question": "A 25-year-old man comes to the physician because of difficulty urinating. He says, \"I can't urinate in public restrooms. I can if there's no one around, but if someone else is present I can't do it. Even If I've already started, it just stops. I'm so embarrassed!\" Which of the following is the most likely diagnosis?",
@@ -741,7 +776,8 @@
       "D": "Specific phobia involves fear of a specific object or situation (like heights or animals), not the presence of others.",
       "E": "This is diagnosed when substance use directly causes anxiety."
     },
-    "page": null
+    "page": null,
+    "index": 36
   },
   {
     "question": "A 87-year-old man is admitted to the hospital because of progressive weakness, cough, abdominal pain, and a 6.8-kg (15-lb) weight loss. Physical examination shows no abnormalities and an x-ray of the chest shows a 5-cm nodule in the left upper lobe. A biopsy specimen of the nodule shows adenocarcinoma. A CT scan of the abdomen shows metastasis to the liver and adrenal glands. As the physician approaches the patient's room to discuss the results of the tests, the patient's daughter asks to speak with the physician and says, \"If it is cancer, please don't tell him.\" Which of the following is the most appropriate response?",
@@ -766,7 +802,8 @@
       "G": "Confrontational and likely to escalate the situation.",
       "H": "Dismissive of the daughter's concerns and potentially condescending."
     },
-    "page": null
+    "page": null,
+    "index": 37
   },
   {
     "question": "A first-year female resident is instructed to obtain a medical history from a patient who is newly admitted for induced delivery. As the resident enters the patient's room, she is startled to discover that the patient is one of her previous medical school professors. The patient indicates that she is uncomfortable giving personal information to a student whom she knew from another context. The resident excuses herself, leaves the patient's room, and reports the patient's concern to the attending physician. The attending physician tells the student, \"Oh, get over it! Be a professional. Go back in and get the information like I told you.\" Which of the following is the most appropriate next step?",
@@ -789,7 +826,8 @@
       "F": "Misinterprets the patient's concern (which is about the dual relationship, not confidentiality) and ignores her wishes.",
       "G": "Violates the patient's wishes, even if done under protest."
     },
-    "page": null
+    "page": null,
+    "index": 38
   },
   {
     "question": "A 56-year-old man with a history of alcoholism comes to the physician because of depression. He says that he has been sober for a month and is enrolled in a 12-step program, but he is unable to go back to work. The physician strongly suspects that the man relapsed and was fired from his work. Which of the following laboratory tests will most likely confirm the suspected relapse?",
@@ -810,7 +848,8 @@
       "E": "Triglycerides can be elevated in chronic alcoholism but are not sensitive for acute relapse.",
       "F": "A urine toxicology screen can detect blood alcohol levels, indicating acute intoxication, but GGT better reflects recent consumption patterns."
     },
-    "page": null
+    "page": null,
+    "index": 39
   },
   {
     "question": "A 27-year-old man is pleasant, emotionally warm, and happy. He lives with his parents, and interacts well with coworkers at a sheltered workshop where he packages items for shipping. While he was growing up, he never showed any signs of physical disabilities. However, he did not complete high school and he speaks in three-word sentences. Which of the following is most likely associated with this patient's diagnosis?",
@@ -829,7 +868,8 @@
       "D": "Fetal alcohol syndrome, caused by maternal alcohol use, is the most common known preventable cause of mental retardation and fits the social/cognitive profile.",
       "E": "Methylphenidate is used to treat ADHD, not mental retardation itself."
     },
-    "page": null
+    "page": null,
+    "index": 40
   },
   {
     "question": "A 28-year-old woman is admitted to the hospital for elective surgery. General anesthesia is administered and 2 hours into the surgery, there is excessive bleeding. The patient is transfused, and moved to an open ward after stabilization. Two days later, she becomes agitated and develops tremors. She says that she feels as if insects are crawling on her. A history of which of the following is most likely responsible for the development of these symptoms in this patient?",
@@ -848,7 +888,8 @@
       "D": "Schizophrenia involves hallucinations (usually auditory) but not the autonomic instability and tremors seen in DTs.",
       "E": "Childhood trauma is not directly linked to post-surgical DTs."
     },
-    "page": null
+    "page": null,
+    "index": 41
   },
   {
     "question": "A 50-year-old man who is a teacher is admitted to the hospital because he attempted to kill his wife and another teacher at his school. His wife says that her husband began accusing her of having an affair with the other teacher 8 months ago. He has also recently begun accusing her of having affairs with their neighbors and the local priest. She says that her husband has no history of medical or psychiatric problems. Which of the following is the most likely diagnosis?",
@@ -867,7 +908,8 @@
       "D": "Paranoid personality disorder involves pervasive distrust starting in early adulthood, not the onset of specific delusions later in life.",
       "E": "Schizophrenia involves more pervasive symptoms like hallucinations, disorganized speech/behavior, and significant functional impairment, typically starting earlier."
     },
-    "page": null
+    "page": null,
+    "index": 42
   },
   {
     "question": "A 40-year-old woman comes to the physician because of vague aches and pains for the past 1 year. A review of her records shows that she has had similar symptoms nine times over the past 1 year and extensive tests have shown no abnormalities. During the physical examination, the patient says, \"What I want doesn't matter. Do what you want. I'm afraid you won't have time to see me anymore.\" Which of the following personality disorders does this patient most likely have?",
@@ -886,7 +928,8 @@
       "D": "Paranoid personality disorder involves suspiciousness.",
       "E": "Schizoid personality disorder involves social detachment and emotional coldness."
     },
-    "page": null
+    "page": null,
+    "index": 43
   },
   {
     "question": "A 38-year-old man comes to the physician because of insomnia. Treatment with pentobarbital is begun to induce sleep in the evening. Two weeks later, he returns to the physician because he has run out of the medication. He states that he has a great deal of difficulty falling asleep without the medication, and that when he finally does fall asleep, he experiences a multitude of intense, colorful dreams. Which of the following best explains this finding?",
@@ -905,7 +948,8 @@
       "D": "Sensitization involves an increased effect with repeated drug exposure.",
       "E": "Tolerance involves a decreased effect with repeated drug exposure."
     },
-    "page": null
+    "page": null,
+    "index": 44
   },
   {
     "question": "A 76-year-old man who recently emigrated from South Korea comes to the physician because of progressive chest pain, difficulty breathing, a 4.5 kg (10 lb) weight loss, and fatigue for the past 6 months. Physical examination shows no abnormalities. An x-ray of the chest shows a 4-cm nodule in the left upper lobe. The physician explains that his symptoms and the chest x-ray suggest lung cancer. The patient becomes very quiet, stares at the floor and says, \"I do not think I want to know this if it is true.\" Which of the following is the most appropriate response for the physician?",
@@ -932,7 +976,8 @@
       "H": "Incorrect; the patient generally has the right to know their diagnosis for informed consent.",
       "I": "Respectfully explores the patient's reasons for not wanting to know, which is necessary before deciding how to proceed with disclosure."
     },
-    "page": null
+    "page": null,
+    "index": 45
   },
   {
     "question": "A 23-year-old man with an IQ of 73 lives in a group home. He does not read or write, but he does communicate by one- or two-word utterances. He does not interact with other group-home residents and becomes agitated when others get physically close to him. Everything has a given place in his room and if anything is moved, he becomes disturbed. Which of the following is the most appropriate therapy for this patient's condition?",
@@ -951,6 +996,7 @@
       "D": "Haloperidol is an antipsychotic.",
       "E": "Methylphenidate is used for ADHD."
     },
-    "page": null
+    "page": null,
+    "index": 46
   }
 ]
