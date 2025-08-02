@@ -276,7 +276,7 @@ app.use(
     store: MongoStore.create({
       mongoUrl: process.env.MONGODB_URI,
       dbName: "doctorsDB",
-      touchAfter: 24 * 3600, // lazy session update
+      touchAfter: 48 * 3600, // lazy session update (2 days)
     }),
     cookie: {
       secure:
@@ -284,7 +284,7 @@ app.use(
         process.env.FORCE_HTTPS === "true", // Only require HTTPS if explicitly set
       httpOnly: true,
       sameSite: "lax", // Changed to 'lax' for mobile compatibility in all environments
-      maxAge: 24 * 60 * 60 * 1000, // 24 hours
+      maxAge: 48 * 60 * 60 * 1000, // 2 days
       domain:
         process.env.NODE_ENV === "production"
           ? process.env.COOKIE_DOMAIN

@@ -374,7 +374,7 @@ export const userOperations = {
       }
       const subscriptionDate = new Date();
       const expiryDate = new Date();
-      expiryDate.setMonth(expiryDate.getMonth() + 1); // 1 month subscription
+      expiryDate.setMonth(expiryDate.getMonth() + 6); // 6 month subscription
 
       const updatedSubscription = {
         isPremium: true,
