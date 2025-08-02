@@ -114,6 +114,22 @@
                     <i class="fas fa-comment-dots"></i>
                   </button>
                 </div>
+                <% if (question.image) { %>
+                <div class="question-text-content">
+                  <div
+                    class="question-image-container mb-3"
+                    style="display: none"
+                  ></div>
+                  <img
+                    src="<%= question.image %>"
+                    alt="Question image"
+                    class="img-fluid rounded question-image"
+                  />
+                  <br />
+                </div>
+                <br />
+
+                <% } %>
                 <div class="options-container">
                   <% question.options.forEach((option, optionIndex) => { %>
                   <button
@@ -126,8 +142,10 @@
                   </button>
                   <% }); %>
                 </div>
-
                 <!-- New explanation section that shows up after answering -->
+                <% if (question.explanation && question.explanation.trim() !==
+                "No explanation provided.") { %>
+
                 <div class="explanation-section mt-4" style="display: none">
                   <button
                     class="btn btn-outline-info w-100 mb-2 explanation-toggle"
@@ -139,6 +157,7 @@
                     style="display: none"
                   ></div>
                 </div>
+                <% } %>
                 <!-- Note: explanation content is now empty and will be filled by JavaScript -->
               </div>
             </div>

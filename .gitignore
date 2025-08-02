@@ -3,3 +3,7 @@ node_modules/
 checker.js
 data/package-lock.json
 data/package.json
+indexing.js
+duplicate_Remover.js
+data/node_modules
+data/imager.js

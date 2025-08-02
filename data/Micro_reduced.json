@@ -89,7 +89,7 @@
     ],
     "answer": "B",
     "explanation": "The correct answer is B. This is a case of oral thrush, an overgrowth of the oral cavity with Candida albicans which is a normal flora organism that commonly causes problems in immunosuppressed patients. The image shown is that of the germ-tube test, the formation of pseudohyphae in animal serum, which is considered a definitive diagnostic for the organism. In HIV-infected individuals, oral and/or pharyngeal candidiasis infections are generally treated with clotrimazole troches or fluconazole oral tablets. Fluconazole acts as an inhibitor of the fungal cytochrome P-450 dependent enzyme lanosterol 14-α-demethylase. In a fungus, lanosterol 14-α-demethylase functions to convert lanosterol to ergosterol. This is responsible for the fungistatic effect of the “conazole” antifungals. Terbinafine blocks ergosterol synthesis (choice A). This agent is primarily used to treat dermatophytic infections, particularly tinea unguium. The echinocandins, such as caspofungin, inhibit the synthesis of beta-glucan (choice C). These agents are indicated for invasive candidiasis, not simple oral thrush. Caspofungin can also be used in the treatment of oral/esophageal candidiasis, however this agent would be used only for simple oral candidiasis when therapy with fluconazole alone does not effectively treat the patients oropharyngeal candidiasis. Griseofulvin interferes with mitotic spindle function (choice D). This agent is primarily used orally against dermatophytes, as it concentrates in the stratum corneum. Flucytosine interferes with thymidylate synthetase (choice E). This agent is used in the treatment of cryptococcosis. It is contraindicated in HIV patients, as it may cause bone marrow suppression in those patients.",
-    "image": "mcqImages/Micro_reduced/0.png",
+    "image": "/images/mcqImages/Micro_reduced/0.png",
     "index": 7
   },
   {
@@ -142,7 +142,7 @@
     ],
     "answer": "D",
     "explanation": "The correct answer is D. A resistance transfer factor is a bacterial plasmid that encodes one or more drug-resistance genes and has the capability of mediating its own transfer to another bacterium during conjugation (it possesses the F operon). Most of the known resistance transfer factors have been formed by the accumulation of transposons into fertility factor plasmids. Transposons are mobile genetic elements that are capable of movement within bacterial cells. When they carry drug-resistance genes and accumulate in plasmids that already possess the F operon, multiple drug-resistant plasmids (resistance transfer factors) are formed. The flanking sequences in the DNA of a transposon are indirect repeats that are complementary and antiparallel to one another. When transposons insert themselves into a new location, they do so by site-specific recombination, creating direct repeats (identical nucleotide sequences created during the repair of a staggered cut created by the transposon restriction endonuclease). Therefore, in the diagram shown, the rectangular blocks could represent either the direct repeats caused by transposition or the indirect repeats that are the outside edges of the mobile segments of DNA. In either event, they are representations of points at which transposons have inserted their mobile DNA via site-specific recombination. Gene loci for recombinase enzymes (choice A) is not correct. Although each transposon (and there are three that have moved to create the resistance transfer factor shown) carries its own restriction endonuclease and the gene that encodes it, the diagram clearly shows the presence of two rectangles for each of the transposons, and a given transposon would carry only one copy, not two copies, of its endonuclease gene. Introns (choice B) are repetitive, non-transcribed segments of DNA that do not occur in prokaryotes. Points of bacteriophage insertion (choice C) or insertion sequences are palindromic sequences of nucleotides in a bacterial genome that are identical to those found in the genomes of temperate phages. When these sequences are cleaved by a restriction endonuclease the phage genome can be inserted by site-specific recombination into the bacterial chromosome and the state of lysogeny is begun. Bacteriophages are not involved in the formation of resistance transfer factors. Transposons (choice E) are mobile segments of DNA that are responsible for the formation of multiple drug-resistant plasmids such as the one shown here, but they are not represented by the rectangular blocks. In the diagram, the transposons are the sequences between the rectangular blocks, so there are three transposons that accumulated here to create this resistance transfer factor.",
-    "image": "mcqImages/Micro_reduced/3.png",
+    "image": "/images/mcqImages/Micro_reduced/3.png",
     "index": 11
   },
   {
@@ -318,7 +318,7 @@
     ],
     "answer": "C",
     "explanation": "The correct answer is C. This child has developed diphtheria, which is rare in the United States because of our use of a very effective vaccine, the DTaP (diphtheria, tetanus, and acellular pertussis). Immigrant children from impoverished areas of the globe might not have received adequate pediatric vaccinations or medical care. Diphtheria is caused by Corynebacterium diphtheriae, which is a gram-positive rod that is morphologically identical to normal flora organisms in the oropharynx, which are called diphtheroids. The difference between the pathogen and a normal flora diphtheroid is established using the ELEK test, which is shown in the image. This test involves diffusion in gel and a precipitation reaction that will occur when antigen (toxin) produced by the pathogen precipitates in the presence of antitoxin antibodies. In the image, the horizontal lines are the strains of bacteria to be tested for the production of the toxin. The vertical rectangle is a strip of filter paper that has been soaked in antitoxin antibodies. The white lines that form in the right angle where bacteria and filter paper meet are lines of precipitation. In C. diphtheriae, toxin production occurs following infection of the bacterium with a temperate phage that encodes the toxin. This is an example of lysogenic conversion. Episomes (choice A) are plasmids that have integrated into a bacterial chromosome; Diphtheria toxin is produced following stable integration of a phage genome into the chromosome, not due to the integration of plasmid DNA. Containing free plasmid DNA (choice B) is not the distinction between toxin-producing and non-producing strains of C. diphtheriae. The tetanus toxin is produced by virtue of possession of a non-conjugative plasmid by Clostridium tetani, but this is not true of diphtheria. It is not a diphtheroid (choice D). A diphtheroid is a non-toxin producing strain of C. diphtheriae (a normal flora organism). The strains that are streaked in the image as the two central lines are non-toxin producers (diphtheroids). It is a motile organism (choice E) is not the case and motility is not tested by the ELEK test. C. diphtheriae is a nonmotile organism, and the eventual development of peripheral neuropathies and cardiomyopathies during the pathogenesis are a result of the fact that the toxin becomes bloodborne, not that the organism moves from its site of residence in the oropharynx and upper airways.",
-    "image": "mcqImages/Micro_reduced/1.png",
+    "image": "/images/mcqImages/Micro_reduced/1.png",
     "index": 24
   },
   {
@@ -385,7 +385,7 @@
     ],
     "answer": "C",
     "explanation": "The correct answer is C. This patient has a fungus ball, or aspergilloma. These noninvasive or minimally locally invasive lesions are caused by Aspergillus species. They show saprophytic growth in preexisting lung cavities, which may be formed by tuberculosis, tumor, bronchiectasis, or other chronic lung infections. Patients are often asymptomatic but may become allergic to the fungus. Aspergillus fumigatus is a dematiaceous (dark-colored) fungus which forms hyphae that branch at acute angles. Choice A is an image of the arthroconidia of Coccidioides immitis. These are the infectious forms that are found in desert sand. Coccidioides causes San Joaquin Valley fever, which may be an acute or chronic pulmonary condition but is unlikely to invade cavitary lesions of the lung and cause fungus balls. Choice B is an image of the infectious form of Sporothrix schenckii that causes rose-gardener's disease. These are hyphae with sleeves of conidia that would be found in vegetative material in gardens worldwide. Sporothrix causes cutaneous or lymphocutaneous lesions associated with puncture wounds formed while gardening or handling plant material. Choice D is an image of germ tubes (pseudohyphae) formed by Candida albicans when it invades tissues. Candida is an opportunistic pathogen, but it does not cause fungus balls by invading cavitary lesions in the lung. Choice E is an image of the hyphae of the Zygomycophyta (Mucor, Rhizopus or Absidia) which cause rhinocerebral infections in ketoacidotic diabetics and cancer patients.",
-    "image": "mcqImages/Micro_reduced/2.png",
+    "image": "/images/mcqImages/Micro_reduced/2.png",
     "index": 29
   },
   {
@@ -439,7 +439,7 @@
     ],
     "answer": "D",
     "explanation": "The correct answer is D. The photograph shows a stomach with a perforated peptic ulcer. Perforation of a peptic ulcer is potentially fatal, because of either peritonitis with sepsis or sudden exsanguination (if the perforation damages one of the many arteries of the stomach). Peptic ulcer disease, gastritis, possibly gastric carcinoma, and gastric lymphoma have been strongly associated with Helicobacter pylori colonization of the mucus layer covering the gastric mucosa. The most important pathogenic attribute of H. pylori is its production of urease, which neutralizes the acidic pH of the stomach and allows the organism to invade the mucosal surface. The urease-positive organisms can be remembered with the mnemonic PUNCH: Proteus, Ureaplasma, Nocardia, Cryptococcus, Helicobacter. Helicobacter pylori can be detected with the urease breath test. Campylobacter jejuni (choice A) is also a gram-negative curved rod but is not associated with the formation of gastric ulcers. Clostridium perfringens (choice B) is a gram-positive, anaerobic rod that is associated with gangrene and a mild form of food poisoning. Escherichia coli (choice C) is a gram-negative, lactose-fermenting rod associated with many forms of gastroenteritis but not with gastric ulcer formation. Shigella dysenteriae (choice E) is a gram-negative, lactose-negative rod associated with bloody diarrhea but not with gastric ulcers.",
-    "image": "mcqImages/Micro_reduced/4.png",
+    "image": "/images/mcqImages/Micro_reduced/4.png",
     "index": 33
   },
   {
@@ -505,7 +505,7 @@
     ],
     "answer": "A",
     "explanation": "The correct answer is A. The diagram shows the process of conjugation between an F+ donor and an F- recipient bacterium. This process transfers plasmids in their entirety from the donor to the recipient. The traits that will be transferred in this way are those encoded in the plasmid and all recipients will become donors in the process. Generalized transduction (choice B) can be accomplished by both lytic and temperative phage only during the lytic cycle. The process involves the phage mistakenly packaging bacterial DNA into the capsid and transferring the DNA to another bacterial cell. In this type of transduction any gene can be transferred. Homologous recombination (choice C) is not a mechanism of genetic transfer for bacteria but a mechanism by which bacterial nucleic acid is stabilized following transfer. Transformation, transduction, and Hfr conjugation are all followed by homologous recombination requiring recombinase A. Specialized transduction (choice D) can only be accomplished by a temperate phage in which there is an excision error during induction of the phage from the bacterial chromosome. In this case, bacterial nucleic acid is mistakenly excised along with phage DNA. Only certain genes (located next to the phage insertion sites) have an opportunity to be transferred. Transformation (choice E) is the uptake of naked DNA by certain 'competent' bacterial cells.",
-    "image": "mcqImages/Micro_reduced/5.png",
+    "image": "/images/mcqImages/Micro_reduced/5.png",
     "index": 38
   },
   {
@@ -778,7 +778,14 @@
   },
   {
     "question": "During an investigational study, blood from a healthy volunteer is analyzed by flow cytometry. The relative proportion of all cells bearing surface immunoglobulin in the circulation is evaluated. Which of the following cell surface markers should be used to identify the B cells in this blood sample?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD19", "E. CD56", "F. IgM"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD19",
+      "E. CD56",
+      "F. IgM"
+    ],
     "answer": "D",
     "explanation": "The correct answer is D. The best markers for identification of B cells are CD19, CD20, and CD21. The CD21 molecule is a receptor for Epstein-Barr virus (EBV). The CD3 marker (choice A) is present on all T cells. This is the marker that is used to identify total T cell count in a blood sample. CD3 is the signal transduction molecule on T cells. The CD4 marker (choice B) is used to identify T-helper (TH) cells. These are the cells that recognize exogenous peptides presented on major histocompatibility complex (MHC) class II molecules by macrophages. CD4+ TH cells are also involved in cell-mediated delayed hypersensitivity, production of cytokines for stimulation of antibody production by B cells, and stimulation of macrophages. The CD8 marker (choice C) is used to identify cytotoxic T cells. These are the cells that recognize viral epitopes attached to the MHC class | molecules of a virus-infected cell. The CD56 marker (choice E) is used to identify natural Killer (NK) cells. These cells are important in innate host defense, specializing in killing virus-infected cells and tumor cells by secreting granzymes and perforins. IgM (choice F) is present on mature naive B lymphocytes along with IgD, but would not be present on any memory cells. Therefore, to receive an idea of the proportion of all immunoglobulin-bearing cells in the circulation, IgM determination would not be the best choice.",
     "index": 59
@@ -863,14 +870,26 @@
   },
   {
     "question": "A 28-year-old man is brought into court for nonpayment of child support. His ex-wife states that he is the father of her child, although he denies it. The court orders genetic tests, including one for genetic immunoglobulin identification of the mother, father, and child. Which of the following immunoglobulin markers is likely to be most useful in this paternity case?",
-    "options": ["A. Allotype", "B. Idiotype", "C. Isotype", "D. Subisotype"],
+    "options": [
+      "A. Allotype",
+      "B. Idiotype",
+      "C. Isotype",
+      "D. Subisotype"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Allotypes are genetically inherited markers (amino acid sequence differences) that occur within the constant domains of both heavy and light chains of immunoglobulin molecules. They reflect the paternity of the individual, and are similar in concept to the ABO blood group alloantigens: they do not affect the function of the cell that bears them, but simply reflect patterns of inheritance. These are distinctive markers that, when present, can be helpful in paternity cases. If this man had these markers and the child had the same markers, then this would be presumptive evidence that the man is the child's biologic father. Other genetic tests would also performed in this case, because if the mother and father happened to have the same markers, then the findings could be nonconclusive. Idiotypes (choice B) are the antigen-recognition portions of the immunoglobulin molecule that are unique for specific antigens to which we have been exposed. Since every antibody molecule has a different idiotype (antigenic specificity) unless it has been made by a clone of cells, these would not be useful in determining paternity. The isotypes (choice C) are the five major classes of immunoglobulin: IgG, IgA, IgM, IgD, and IgE. They are distinct from one another based on amino acid sequences in the constant domains of both heavy and light chains. Isotypes would not be helpful for a paternity case. Subisotypes (choice D) are subclasses within the isotypes of antibodies. IgG has four subisotypes and IgA has two subisotypes. They are distinguished on the basis of amino acid sequences in the constant domains of heavy chains and would not be useful in determining paternity.",
     "index": 66
   },
   {
     "question": "A 54-year-old Hispanic man comes to the physician because of skin lesions. Physical examination shows several disfiguring lesions on the face. and there is loss of cutaneous sensation for light touch, pain, and temperature. Histologic examination of the lesions shows multinucleated giant cells. Which of the following is most likely to be found on the surface of these cells?",
-    "options": ["A. CD3", "B. CD4", "C. CD8", "D. CD14", "E. CD20", "F. CD56"],
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD14",
+      "E. CD20",
+      "F. CD56"
+    ],
     "answer": "D",
     "explanation": "The correct answer is D. The disease in question is leprosy, or Hansen disease. Mycobacterium leprae has a predilection for the skin and cutaneous nerves, thereby producing the symptoms of depigmentation and anesthetic cutaneous lesions. This loss of peripheral nerve function leads to many of the disfiguring features of the disease: because the patients do not have normal pain sensation, they sustain repeated injuries. In addition, the organism attacks cartilage and causes granuloma formation in the skin, leading to some of the facial damage. The multinucleated giant cells that form in leprosy are modified macrophages or epithelioid cells. They possess CD14, the endotoxin receptor on their cell surface as well as CD16, the Fc receptor for the Fc tail of immunoglobulin G. CD3 (choice A) is the signal transduction complex molecule in T lymphocytes. Although T cells would be found in the granulomatous lesions of tuberculoid leprosy, these are not the cells that become multinucleated giant cells in these areas. CD4 (choice B) is the specific marker on the surface of T-helper lymphocytes. It would not be found on the multinucleated giant cells found in leprosy. CD8 (choice C) is the specific marker on the surface of cytotoxic T lymphocytes. These are not the cells that fuse together in the lesions of leprosy. CD20 (choice E) is part of the signal transduction complex in B lymphocytes. It would not be found on the surface of modified macrophages. CD56 (choice F) is one of two markers used to identify natural killer (NK) cells in tissues. The other marker on NK cells is CD16, the Fc receptor, by which NK cells carry out antibody-dependent, cell-mediated cytotoxicity. NK cells do not fuse together to form multinucleated giant cells in leprosy.",
     "index": 67
@@ -1230,7 +1249,13 @@
   },
   {
     "question": "A 14-year-old girl is brought to the emergency department because of dyspnea. tachycardia, and diaphoresis following a bee sting. Which of the following is the first immunoglobulin produced in response to this antigen?",
-    "options": ["A. lgA", "B. IgD", "C. IgE", "D. IgG", "E. IgM"],
+    "options": [
+      "A. lgA",
+      "B. IgD",
+      "C. IgE",
+      "D. IgG",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanation": "The correct answer is E. The first immunoglobulin produced in response to any immunogen is always IgM. This is because of the sequential transcription of the DNA coding for the immunoglobulin isotype genes. The first constant domain that is encoded downstream in the DNA from the idiotype coding is that for IgM and then IgD. These two isotypes are produced and expressed concomitantly. It is not possible for any other immunoglobulin to be made first. The symptoms that this patient is having are the result of a type | hypersensitivity reaction, but in these reactions the IgE antibody is preformed and already bound to mast cell receptors. IgE is not made during the hypersensitivity reaction itself. IgA (choice A), IgE (choice C) and IgG (choice D) can only be produced as a secondary response, i.e., one that follows the primary IgM response. The DNA coding for the IgD (choice B) heavy chain follows that of IgM in the lymphocyte germ-line DNA. Mature, naive B lymphocytes express both IgM and IgD on their surfaces because of alternative RNA splicing, but the complete IgM molecule is always produced first.",
     "index": 95
@@ -1315,7 +1340,13 @@
   },
   {
     "question": "A 33-year-old woman is brought to the emergency department because of a deep puncture wound in her right hand. A shard of glass is removed from the patient's hand, and the wound is appropriately cleaned and treated at the time of the accident. Twelve hours later, the wound becomes inflamed and swollen despite appropriate therapy. Which of the following molecules plays an important role in producing chemotaxis of white blood cells into this area?",
-    "options": ["A. C3b", "B. C5a", "C. IgM", "D. IL-2", "E. Lysozyme"],
+    "options": [
+      "A. C3b",
+      "B. C5a",
+      "C. IgM",
+      "D. IL-2",
+      "E. Lysozyme"
+    ],
     "answer": "B",
     "explanation": "The correct answer is B. In active inflammation, the complement system has been activated and C5a is being produced. C5a is a strong chemoattractant to neutrophils and other phagocytic cells. Other chemotactic factors for neutrophils include IL-8, fibrinopeptides, leukotriene B4, and formyl methionyl peptides from bacteria. C3b (choice A) acts as an opsonin for microorganisms. When the organism is coated with C3b, it is more easily phagocytized. C3b is formed via the classical and alternative complement pathways, but it is not chemotactic for neutrophils. IgM (choice C) is the large antibody produced in the primary immune response. It is not chemotactic for neutrophils. IL-2 (choice D) is a growth-promoting interleukin that stimulates the proliferation of natural killer cells, and T-cytotoxic cells, and T-helper lymphocytes, but it is not chemotactic for neutrophils. Lysozyme (choice E) is a natural antibacterial present in tears, mucus, vaginal secretions, and other body fluids. It is active against the peptidoglycan of bacterial cell walls, splitting the backbone structure of the peptidoglycan (N-acetylglucosamine and N-acetyl muramic acid polymers). It is not chemotactic for neutrophils.",
     "index": 102
@@ -1489,8 +1520,7 @@
     "answer": "A",
     "explanation": "The correct answer is A. The rash shown in the image is clearly unilateral and follows a dermatome, which is diagnostic of the rash of shingles, the second manifestation of infection with the varicella zoster virus. After the initial episode of chickenpox (primary infection), the varicella zoster virus develops a latent infection in the sensory ganglia. If the latent virus is reactivated, shingles develops. The majority of cases of chickenpox present in children, who will show an asynchronous pruritic rash consisting of papules, vesicles, pustules, and crusted lesions in crops in various stages. Shingles mainly presents in the elderly population as unilateral painful vesicles restricted to one dermatome. When shingles occurs in young children such as this one, it is typically due to the fact that the initial exposure to varicella zoster happened during a period of time when the child was passively protected by maternal antibodies acquired across the placenta or in breast milk. Because the child does not develop a robust active response to this infection, reactivational disease tends to onset at earlier than the normal age. Exposure of a 'naive' individual to chickenpox (choice B) or to shingles (choice C) would result in a case of chickenpox, which has different symptomatology from that described. The MMR is an attenuated live virus vaccine against measles, mumps, and rubella. Adverse reactions to the MMR include fever, arthralgia and rash, but the rash shown here is clearly shingles, which is caused by varicella zoster virus (choice D). Contamination with live virus (choice E) is not a possibility because any contamination of the MMR vaccine with varicella zoster virus would have resulted in a case of chickenpox, not shingles.",
     "index": 115,
-
-    "image": "mcqImages/Micro_reduced/6.png"
+    "image": "/images/mcqImages/Micro_reduced/6.png"
   },
   {
     "question": "A 4-year-old girl who is a Somalian refugee is brought to the emergency department by her mother because of inflamed and irritated eyelids. Physical examination shows an entropion and pannus formation. Examination of epithelial tissue obtained on biopsy of the eyelid shows iodine-staining, intracytoplasmic inclusion bodies Which of the following is most likely to be cultured from the affected eye?",
@@ -2117,12 +2147,19 @@
   },
   {
     "question": "A B-year-old girl is brought to the physician by her parents because of a severe sore throat. Her temperature is 38.9°C (102.0°F). Physical examination shows an erythematous posterior oropharynx with obvious abscesses on the tonsillar pillars, A rapid antigen test for Streptococcus pyogenes is positive. A beta-lactam antibiotic will have greatest efficacy at which of the following stages shown in the diagram?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "C",
     "explanation": "The correct answer is C. In the bacterial growth curve, rapid exponential growth occurs during the log (or logarithmic growth) phase. Within this period, the generation time equals the time it takes for one cell to divide into two. Beta-lactam drugs act by inhibiting cell wall synthesis. In a bacterial culture, cell wall synthesis will occur at a maximal rate during the period of exponential growth, which is marked on the graph by the letter C. The lag phase (choice A) is the initial phase of a bacterial culture during which there is no increase in cell number. Cells in a culture at this stage are activating enzymes necessary for metabolism, but are not undergoing cell wall synthesis. Choice B indicates the initial phase of bacterial multiplication, when cell division has not yet reached a maximum. Although cell wall synthesis would indeed make such cells sensitive to beta-lactam antibiotics, it is not the period of maximum sensitivity. Choice D indicates the phase of the bacterial growth curve when toxic metabolic products begin to accumulate and nutrient levels begin to be insufficient to support continued growth. New cell wall synthesis would begin to fall at this point. The stationary phase (choice E) is a period of the bacterial growth curve when the number of bacteria dividing in the culture equals the number of cells dying. This would not be a period of intense cell wall synthesis. The decline (choice F) and death (choice G) phases of the bacterial growth curve are periods when bacteria are dying more rapidly than they are dividing. Cell wall synthesis would be minimal.",
     "index": 163
   },
-
   {
     "question": "A 71-year-old woman with a history of type 1 diabetes comes to the physician because of left-sided hearing loss. She states that she also has pain and discharge from the left ear. Physical examination shows a tender pinna, swelling and erythema of the external auditory canal, as well as a purulent discharge. The tympanic membrane cannot be visualized A CT scan of the head shows temporal bone erosions and new bone formation. Culture of the discharge will most likely show which of the following?",
     "options": [
@@ -2219,7 +2256,13 @@
   },
   {
     "question": "A 38-year-old man with a history of hemophilia has had multiple infusions of clotting factors in his lifetime. Laboratory studies of ten batches of clotting factors administered to this patient show contamination with the human immunodeficiency virus, yet he has remained HIV-negative. The patient's CD4 count is 900/uL and reverse transcriptase polymerase chain reaction (RT-PCR) for the virus is negative. Absence of which of the following cell surface receptors best explains the findings in this patient?",
-    "options": ["A. CCR5", "B. CD4", "C. CD8", "D. Gp120", "E. TNF receptor"],
+    "options": [
+      "A. CCR5",
+      "B. CD4",
+      "C. CD8",
+      "D. Gp120",
+      "E. TNF receptor"
+    ],
     "answer": "A",
     "explanation": "The correct answer is A. Human immunodeficiency virus (HIV) infection does not always progress to avert acquired immunodeficiency syndrome (AIDS). In a few fortunate individuals (called nonprogressors) the infection remains asymptomatic, with a stable CD4 cell count and low or undetectable viremia. It is not entirely clear whether these patients will eventually develop AIDS. Some are resistant to HIV infection because they carry two defective copies of the gene encoding the CCR5 co-receptor. There are 15 known co-receptors, of which CCR5 and CXCR4 are the best characterized. CCR5 is a receptor for chemokines and serves as a co-receptor for HIV internalization into macrophages. CXCR4 is a chemokine receptor that serves as the co-receptor for HIV internalization into T lymphocytes. Approximately 1% of Caucasians in the United States are homozygous for such a protective CCR5 variant, and 20% are heterozygotes. HIV infection follows a slower course in heterozygotes. Homozygotes for this protective CCR5 variant are not present among Black and Asian populations. CD4 (choice B) is an important receptor of T-helper lymphocytes, macrophages, and Langerhans cells. It acts as the primary receptor for HIV binding. Binding to CD4, however, is not sufficient for the entry of HIV into the cells. Individuals without CD4 positive cells are defined as having a severe combined immunodeficiency (SCID) and such a condition was not mentioned in the stem. The viral envelope gp120 protein (choice D) first binds CD4. This results in a conformational change in gp120 that allows this protein to bind co-receptors. Such co-receptors are present on lymphocytes and macrophages and normally serve as binding sites for chemokines. Once gp120 binds to CD4 and a co-receptor, a second viral protein gp41 facilitates fusion of the viral envelope with the plasma membrane, allowing 'injection' of the viral core into the cell. Neither CD8 (choice C) nor the receptor for TNF (choice E) plays a role in HIV binding to cells. CD8 is the co-receptor on cytotoxic T lymphocytes that stabilizes the interaction between the T cell receptor and the major histocompatibility molecule. The TNF receptor is a molecule on T lymphocytes that receives stimulatory signals from macrophages or in other cases receives apoptotic signals in various cells.",
     "index": 172
@@ -2397,7 +2440,15 @@
   },
   {
     "question": "A 8-year-old girl is brought to the physician by her parents because of a severe sore throat. Her temperature is 38.9°C (102.0°F). Physical examination shows an erythematous posterior oropharynx with obvious abscesses on the tonsillar pillars, A rapid antigen test for Streptococcus pyogenes is positive. A beta-lactam antibiotic will have greatest efficacy at which of the following stages shown in the diagram?",
-    "options": ["A. A", "B. B", "C. C", "D. D", "E. E", "F. F", "G. G"],
+    "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+    ],
     "answer": "C",
     "explanation": "The correct answer is C. In the bacterial growth curve, rapid exponential growth occurs during the log (or logarithmic growth) phase. Within this period, the generation time equals the time it takes for one cell to divide into two. Beta-lactam drugs act by inhibiting cell wall synthesis. In a bacterial culture, cell wall synthesis will occur at a maximal rate during the period of exponential growth, which is marked on the graph by the letter C. The lag phase (choice A) is the initial phase of a bacterial culture during which there is no increase in cell number. Cells in a culture at this stage are activating enzymes necessary for metabolism, but are not undergoing cell wall synthesis. Choice B indicates the initial phase of bacterial multiplication, when cell division has not yet reached a maximum. Although cell wall synthesis would indeed make such cells sensitive to beta-lactam antibiotics, it is not the period of maximum sensitivity. Choice D indicates the phase of the bacterial growth curve when toxic metabolic products begin to accumulate and nutrient levels begin to be insufficient to support continued growth. New cell wall synthesis would begin to fall at this point. The stationary phase (choice E) is a period of the bacterial growth curve when the number of bacteria dividing in the culture equals the number of cells dying. This would not be a period of intense cell wall synthesis. The decline (choice F) and death (choice G) phases of the bacterial growth curve are periods when bacteria are dying more rapidly than they are dividing. Cell wall synthesis would be minimal.",
     "index": 186
@@ -2576,7 +2627,6 @@
     "explanation": "The patient is an older woman with alcoholism presenting with symptoms of severe pneumonia. The sputum culture grows gram-negative, lactose-fermenting rods, which strongly suggests Klebsiella pneumoniae (other possibilities like E. coli are less common causes of severe community-acquired pneumonia). Klebsiella pneumoniae pneumonia classically affects individuals with alcoholism, diabetes, or chronic lung disease. It typically causes a lobar pneumonia, often involving the upper lobes, and is characterized by extensive inflammation, necrosis, and abscess formation, frequently leading to cavitation visible on chest X-ray. The production of thick, mucoid, often bloody sputum ('currant jelly') is also characteristic. Aspergilloma (A) is a fungus ball in a pre-existing cavity. Ghon complex (B) is primary TB. Interstitial pattern (C) suggests atypical pneumonia. Mediastinal widening (D) suggests anthrax or lymphoma/mass.",
     "index": 199
   },
-
   {
     "question": "An 8-year-old boy is brought to the physician because of behavioral changes, mild intellectual deterioration. and \"laziness.\" Over the next several days. he develops progressive clumsiness and frequent involuntary, jerky movements. Examination of cerebrospinal fluid (CSF) does not show significant pleocytosis, but oligoclonal bands of IgG are present on CSF electrophoresis. He dies two years later. A prior infection with which of the following organisms is most likely responsible for this patient's illness?",
     "options": [
@@ -3261,7 +3311,13 @@
   },
   {
     "question": "A 26-year-old woman who is in the first trimester of pregnancy comes to the physician because of multiple symptoms including malaise, a low-grade fever, and myalgias. A heterophile antibody test is negative and an enzyme-linked immunosorbent assay (ELISA) is positive for antibodies to Toxoplasma gondii. Seven months later, the woman delivers a full-term baby with no obvious signs of infection. Measurement of which the following isotypes of immunoglobulin is most appropriate to defect acute infection in the neonate?",
-    "options": ["A. IgA", "B. IgE", "C. IgG1", "D. IgG4", "E. IgM"],
+    "options": [
+      "A. IgA",
+      "B. IgE",
+      "C. IgG1",
+      "D. IgG4",
+      "E. IgM"
+    ],
     "answer": "E",
     "explanation": "IgM immunoglobulin directed against Toxoplasma would provide evidence of infection in the newborn baby. Since IgG antibodies are actively transported across the placenta into the fetus, it is not possible to determine the origin of IgG antibodies in a neonate. The presence of an elevated IgG titer (including subclasses IgG1 and IgG4) in a neonate is simply a reflection of the response of the mother to the agent and passive transfer. IgM antibodies do not cross the placenta. Therefore, the presence of Toxoplasma-specific IgM in the neonate's serum indicates active production by the infant in response to infection, confirming congenital toxoplasmosis.\nIgA (choice A) is the antibody that is produced in response to mucosal infections. It cannot cross the placenta effectively. IgE (choice B) is the antibody produced in response to parasites or allergens; it does not cross the placenta.",
     "index": 253

@@ -1,6 +1,7 @@
 [
   {
-    "question": "A 10-year-old patient with sickle cell disease comes ta the physician for a routine visit. The patient has a\nhistory of multiple pain crises and pneumonias. He was started on hydroxyurea one year ago and has nat\nhad any further pain crises since then. He has had no recent illnesses or hospitalizations. His physical\nexamination is unremarkable. The patient's labaratory results are shawn below.\nComplete blood count\nHemaglohin                 90g\nErythrocyte count          2.2 min/mm?\nMCHC                      32%\nMCW                        10511\nReticulocytes               2.0%\nFlatelets                    212 000/mm?\nLeukocyte count            9500/mm?\nNeutrophils               56%\nEosinophils              3%\nLymphocytes            36%\nMonocytes               5%\nWhich of the following best describes the role of hydroxyurea in the treatment of patients with sickle cell\ndisease?",
+    "question": "A 10-year-old patient with sickle cell disease comes ta the physician for a routine visit. The patient has a\nhistory of multiple pain crises and pneumonias. He was started on hydroxyurea one year ago and has nat\nhad any further pain crises since then. He has had no recent illnesses or hospitalizations. His physical\nexamination is unremarkable. The patient's labaratory results are shawn above?",
+
     "options": [
       "A. Removes sickled red blood cells from the circulation",
       "B. Lyses microthrombi in the circulation",
@@ -24,7 +25,7 @@
     "index": 2
   },
   {
-    "question": "A B-month-old male is brought to your office for a routine check-up. He has met all of the expected\ndevelopmental milestones and all of his vaccinations are up-to-date. On physical examination, his peripheral\npulses are somewhat accentuated. Cardiac auscultation findings at the left sternal border are given below.\nWhat is the mast likely diagnosis?",
+    "question": "A 30-month-old male is brought to your office for a routine check-up. He has met all of the expected\ndevelopmental milestones and all of his vaccinations are up-to-date. On physical examination, his peripheral\npulses are somewhat accentuated. Cardiac auscultation findings at the left sternal border are given below.\nWhat is the mast likely diagnosis?",
     "options": [
       "A. Endocardial cushion defect",
       "B. Mitral valve prolapse",
@@ -36,7 +37,7 @@
     "index": 3
   },
   {
-    "question": "A Z-year-old child is brought to the physician far a routine visit. He is growing and developing appropriately.\nHe drinks 3-4 glasses of whale milk each day. He is starting to put words together into short sentences. His\nmather has no concerns. Physical examination shows mild pallor. Laboratory studies show the following:\nHemaglobin              9.5 gfdL\nRDW                    21%\nMCW                     701\nPlatelet count            284 000/mm?\nLeukocyte count         6 500/mm?\nWhich of the following additional findings is most likely in this patient?",
+    "question": "A 3-year-old child is brought to the physician far a routine visit. He is growing and developing appropriately.\nHe drinks 3-4 glasses of whale milk each day. He is starting to put words together into short sentences. His\nmather has no concerns. Physical examination shows mild pallor. Laboratory studies show the following:\nHemaglobin              9.5 gfdL\nRDW                    21%\nMCW                     701\nPlatelet count            284 000/mm?\nLeukocyte count         6 500/mm?\nWhich of the following additional findings is most likely in this patient?",
     "options": [
       "A. Abnormal hemoglobin electrophoresis",
       "B. Low reticulocyte count",
@@ -69,7 +70,8 @@
     ],
     "answer": "D",
     "explanation": "",
-    "index": 6
+    "index": 6,
+    "image": "mcqImages/Pediatrics/1.png"
   },
   {
     "question": "A 4-year-old female is brought to the emergency department for evaluation of vaginal discharge. She has had\nfoul-smelling vaginal discharge for 1 week. Her mother has also noted a small amount of vaginal bleeding.\nThe mother called her primary physician and was told to use an over-the-counter cream and to stop letting\nthe child take bubble baths. However, the symptoms have not improved. The child complains of pruritis in\nher vaginal area. She was potty trained at age 2. While mother is at work, the baby is with her stepfather.\nOn examination, the perineal area is erythematous with a purulent, foul-smelling vaginal discharge. Visual\ninspection of the vagina reveals a greenish fareign body inside the vagina. Which of the following is the next\nbest step?",
@@ -141,10 +143,11 @@
     ],
     "answer": "B",
     "explanation": "",
-    "index": 12
+    "index": 12,
+    "image": "mcqImages/Pediatrics/2.png"
   },
   {
-    "question": "A T-year-old boy was brought to the emergency department after falling onto his outstretched arm. He\ncomplains of pain in his left arm and refuses to move his arm at the elbow. On examination, the left arm is\nswollen, slightly pale, and edematous. His radial pulse is intact. The patient's radiograph is shown below.\nWhile the patient is waiting far the arthapedic resident an call ta examine him, he continues to complain of\nincreasing pain despite multiple doses of pain medication. Which of the following should you be most\nconcerned about in this patient?",
+    "question": "A 7-year-old boy was brought to the emergency department after falling onto his outstretched arm. He\ncomplains of pain in his left arm and refuses to move his arm at the elbow. On examination, the left arm is\nswollen, slightly pale, and edematous. His radial pulse is intact. The patient's radiograph is shown below.\nWhile the patient is waiting far the arthapedic resident an call ta examine him, he continues to complain of\nincreasing pain despite multiple doses of pain medication. Which of the following should you be most\nconcerned about in this patient?",
     "options": [
       "A. Displacement of the fracture",
       "B. Transient neuropraxia",
@@ -153,10 +156,11 @@
     ],
     "answer": "D",
     "explanation": "",
-    "index": 13
+    "index": 13,
+    "image": "mcqImages/Pediatrics/3.png"
   },
   {
-    "question": "A G-year-old male is brought to the emergency department with respiratory disease after being stung by a\nbee. He requires resuscitation with epinephrine injection. On discharge, which of the following\nrecommendations to the bay's mather is mast appropriate?",
+    "question": "A 9-year-old male is brought to the emergency department with respiratory disease after being stung by a\nbee. He requires resuscitation with epinephrine injection. On discharge, which of the following\nrecommendations to the bay's mather is mast appropriate?",
     "options": [
       "A. Da nat allow him to play outside",
       "B. Wear colorful clothes while outside",
@@ -168,7 +172,7 @@
     "index": 14
   },
   {
-    "question": "A 1-year-old boy is brought to the physician by his parents far evaluation of bruising and blood in his\nstool. The child has had multiple episodes of otitis media and has been hospitalized twice with pneumonia,\nbut has never had bleeding or easy bruising in the past. He has been eating and drinking well with no\nvomiting or diarrhea. He is afebrile with a heart rate of 150/min and a blood pressure of 80/40 mmHg. On\nexamination, he is well-developed, well-nourished, and has a fair complexion. There are dry, scaly patches\nan his cheeks and lower extremities. He also has bruising and purpura an his lower extremities. His diaper\ncontains a small amount of occult blood positive stool, but no fissures are seen on rectal examination. The\nremainder of the physical examination is unremarkable. Laboratory studies show:\nComplete blood\ncount\nHemoglohin             11.5 g/dL\nPlatelet count      a\nLeukocyte count        6 500/mm?\nMeutrophils            T6%\nEosinophils            1%\nLymphocytes          13%\nMonacytes             10%\nA peripheral smear reveals a low number of platelets, and the platelets that are seen are small. Which of the\nfallawing is the mast likely cause of his bleeding?",
+    "question": "A 1-year-old boy is brought to the physician by his parents far evaluation of bruising and blood in his stool. The child has had multiple episodes of otitis media and has been hospitalized twice with pneumonia, but has never had bleeding or easy bruising in the past. He has been eating and drinking well with no\nvomiting or diarrhea. He is afebrile with a heart rate of 150 min and a blood pressure of 80/40 mmHg. On\nexamination, he is well-developed, well-nourished, and has a fair complexion. There are dry, scaly patches an his cheeks and lower extremities. He also has bruising and purpura an his lower extremities. His diaper contains a small amount of occult blood positive stool, but no fissures are seen on rectal examination. The\nremainder of the physical examination is unremarkable. Laboratory studies show",
     "options": [
       "A. Bone marrow infiltration",
       "B. Platelet antibodies",
@@ -177,10 +181,11 @@
     ],
     "answer": "A",
     "explanation": "",
-    "index": 15
+    "index": 15,
+    "image": "mcqImages/Pediatrics/4.png"
   },
   {
-    "question": "A G-year-old boy is brought to the physician for evaluation of behavior problems. His parents report he is\n\"hyperactive all the time.\" They cannot get him to sit still. When he does sit, he fidgets and tries to get out of\nhis seat. He is easily distracted and frequently changes from one activity to anather. He does not seem to\nlisten when his parents talk to him, and often forgets to da his chores. He talks excessively and often\ninterrupts other people. His parents state that he has been like this for a few years, but they had originally\nassumed his behavior was normal for his age. His physical examination is unremarkable. Which of the\nfollowing will be of most help in establishing the diagnosis?",
+    "question": "A 6-year-old boy is brought to the physician for evaluation of behavior problems. His parents report he is\n\"hyperactive all the time.\" They cannot get him to sit still. When he does sit, he fidgets and tries to get out of\nhis seat. He is easily distracted and frequently changes from one activity to anather. He does not seem to\nlisten when his parents talk to him, and often forgets to da his chores. He talks excessively and often\ninterrupts other people. His parents state that he has been like this for a few years, but they had originally\nassumed his behavior was normal for his age. His physical examination is unremarkable. Which of the\nfollowing will be of most help in establishing the diagnosis?",
     "options": [
       "A. Family history of similar behavior",
       "B. Educational testing",
@@ -225,7 +230,8 @@
     ],
     "answer": "C",
     "explanation": "",
-    "index": 19
+    "index": 19,
+    "image": "mcqImages/Pediatrics/5.png"
   },
   {
     "question": "A 13-year-old male presents to the emergency department complaining of palpitations. He is diaphoretic and\nhas a heart rate of 210/min and blood pressure of 110/75 mmHg. An electrocardiogram is immediately\nobtained and shows narrow QRS complex supraventricular tachycardia. An intravenous bolus of medication\nis administered and results in cessation aof the supraventricular tachycardia. A follow-up electrocardiogram is\nshawn below.\nWhich of the following is the most likely underlying cause of this patient's supraventricular tachycardia?",
@@ -237,7 +243,8 @@
     ],
     "answer": "B",
     "explanation": "",
-    "index": 20
+    "index": 20,
+    "image": "mcqImages/Pediatrics/6.png"
   },
   {
     "question": "A previously healthy 18-manth-old male comes to the physician for evaluation of fever. His mother reports\nthat he has had a fever ranging from 102.2°F (39.0°C) to 104.0°F (40.0°C) far the past five days. He has also\nbecome increasingly irritable with decreased appetite. His mother reports that he does continue to take\nsome liquids. There are no known sick contacts. On examination, the infant's temperature is 102 5°F (392°\nC), pulse is 120/min, and respiratory rate is 20/min. He is irmtable during the examination. There is\ncanjunctival erythema bilaterally, with serous drainage from both eyes. His oropharynx is erythematous and\nhis lips are fissured. There is a 2 cm anterior cervical lymph node palpable on the right side. His neck is\natherwise supple and he is able to flex his chin to his chest without difficulty. There is mild abdominal\ntenderness to palpation. His hands and feet are slightly erythematous and edematous and there is a\nmaculopapular rash on the trunk.\nItem 1 of 2\nWhich of the following is the mast likely diagnosis?",
@@ -252,7 +259,7 @@
     "index": 21
   },
   {
-    "question": "Item 2 of 2\nWhich of the following is the most serious complication that may develop fram this disease?",
+    "question": "Which of the following is the most serious complication that may develop fram this disease?",
     "options": [
       "A. Orchitis",
       "B. Coronary artery aneurysm",
@@ -273,7 +280,8 @@
     ],
     "answer": "B",
     "explanation": "",
-    "index": 23
+    "index": 23,
+    "image": "mcqImages/Pediatrics/7.png"
   },
   {
     "question": "A 4-day-old infant is brought to the physician far an outpatient follow-up visit. The mather's pregnancy and\ndelivery were uncomplicated. The infant weighed 3.4 kg (7.5 Ib) and was 13 in (48.2 cm) long at birth. He did\nwell in the newborn nursery and was discharged from the hospital on day 2 of life. Today his mather reports\nthat he is exclusively breastfed, and nurses for 10 minutes every 3 hours. He has 3-4 wet diapers a day, and\nhas not had a bowel movement for two days. On examination, he weighs 295 kg (6.5 Ib) and is 19 in (48 2\ncm) long. He appears jaundiced on the face and chest. The remainder of the physical examination is\nunremarkable. Laboratory values are shown below.\nTotal bilirubin            15 mg/dL\nDirect bilirubin        1 mg/dL\nInfant's blood type        O positive\nMather's blood type      A positive\nItem 1 of 2\nWhich of the following is the mast likely cause of this infant's hyperbilirubinemia?",
@@ -288,7 +296,7 @@
     "index": 24
   },
   {
-    "question": "Item 2 of 2\nWhich of the following is the best next step in the management of this infant?",
+    "question": "Which of the following is the best next step in the management of this infant?",
     "options": [
       "A. Start phototherapy",
       "B. Perform exchange transfusion",
@@ -301,12 +309,7 @@
   },
   {
     "question": "A 16-year-old boy with a history of ulcerative colitis presents to the physician complaining of diarrhea and a\nrash. He states that his appetite has been decreased recently, and also complains of nausea and abdominal\npain in addition to watery diarrhea. He has an erythematous rash on his distal arms and legs that\n\"burns\". His mather reports that he has had poar concentration and has been irritable lately. Vital signs are\nstable. Examination reveals a beefy red tongue that appears swollen. Abdominal examination is\nnormal. The rash resembles a sunburn and is located on his distal arms and legs. It is symmetrical and\ntender to palpation. Neurological examination is normal. This patient's symptoms are most likely due to a\ndeficiency af which of the following vitamins?",
-    "options": [
-      "A. Thiamine",
-      "B. Riboflavin",
-      "C. Niacin",
-      "D. Pyridoxine"
-    ],
+    "options": ["A. Thiamine", "B. Riboflavin", "C. Niacin", "D. Pyridoxine"],
     "answer": "C",
     "explanation": "",
     "index": 26
@@ -333,7 +336,8 @@
     ],
     "answer": "D",
     "explanation": "",
-    "index": 28
+    "index": 28,
+    "image": "mcqImages/Pediatrics/8.png"
   },
   {
     "question": "An 18-year-old male undergoes elective hernia repair. During the operation, he suffers considerable blood\nlass, and receives a blood transfusion. He then experiences an anaphylactic transfusion reaction. He is\nresuscitated and further hospital course is uncomplicated. His past medical history is significant for recurrent\nsinopulmanary infections and intermittent episodes of diarrhea since childhood. Which of the following is the\nmast likely cause of his symptoms?",
@@ -393,7 +397,8 @@
     ],
     "answer": "D",
     "explanation": "",
-    "index": 33
+    "index": 33,
+    "image": "mcqImages/Pediatrics/9.png"
   },
   {
     "question": "A 2-month-old infant is brought to the physician for evaluation of fever. The infant was born at 37 weeks\ngestation via normal spontaneous vaginal delivery. His mother had an uncomplicated pregnancy and\ndelivery. He has been doing well until this marning when he developed a temperature of 101 5F (38 6C). His\nmaother reparts that he is still taking his formula well. He has some clear rhinorrhea and intermittent\nsneezing. His 3-year-old brother had an upper respiratory tract infection ane week ago. The patient's chest\nradiograph is shown below.\nWhich of the following best describes the findings on this patient's chest radiograph?",
@@ -405,10 +410,11 @@
     ],
     "answer": "D",
     "explanation": "",
-    "index": 34
+    "index": 34,
+    "image": "mcqImages/Pediatrics/10.png"
   },
   {
-    "question": "A full term neonate is being evaluated following an uncomplicated pregnancy and delivery on day 1 of life. He\nweighs 3.6kg (8b), is 20in (50.8cm) tall, and has a head circumference of 13.5in (34cm). His physical\nexamination is unremarkable. Initial laboratory data is shown below.\nComplete blood count\nHemaglohin           20g/L\nHematocrit            73%\nPlatelets               200,000/mm?\nLeukocyte count      5 500/mm?\nMeutrophils         56%\nEosinophils         1%\nLymphocytes       33%\nMonocytes          10%\nWhich of the following findings is most likely to be detected in this neonate?",
+    "question": "A full term neonate is being evaluated following an uncomplicated pregnancy and delivery on day 1 of life. He weighs 3.6kg (8b), is 20in (50.8cm) tall, and has a head circumference of 13.5in (34cm). His physical examination is unremarkable. Initial laboratory data is shown below.",
     "options": [
       "A. Respiratory distress",
       "B. Necrotizing enterocolitis",
@@ -417,7 +423,8 @@
     ],
     "answer": "A",
     "explanation": "",
-    "index": 35
+    "index": 35,
+    "image": "mcqImages/Pediatrics/11.png"
   },
   {
     "question": "A 1-year-old child is brought to the physician for a routine visit. He was born full term with a birth weight of 7lb\nBoz (3.4kg) and a birth length of 20 in (50.8cm). He has had no major illnesses or hospitalizations. His\nparents repart that he was breastfed exclusively for 6 months. He now eats a variety of baby foods and is\nbeing transitioned to whole milk. He can pull up to stand and cruise around holding onto objects, but cannot\nwalk independently yet. He can feed himself small pieces of table food with his thumb and first finger. The\nanly wards he knows are mama, dada, and ball. His parents are concerned about his growth because some\naf the other children in his daycare class are bigger than him. On physical examination, he weighs 22Ibs\n(10kg) and is 30 in (76 2cm) lang. A complete examination is unremarkable. Which of the following should\nyou tell his parents?",
@@ -432,7 +439,7 @@
     "index": 36
   },
   {
-    "question": "A T-year-old male is brought to the emergency department for a suspected femur fracture. He has had\nmultiple fractures in the past after minor trauma. Today, his mother states that he was running and fell. He\ncomplained of pain in his thigh after he fell. His examination is remarkable for tenderness to palpation and\nslight deformity of his right proximal thigh. He has decreased muscle tone throughout. His eye examination\nis shown below.\nWhich of the following is the most likely associated finding?",
+    "question": "A 7-year-old male is brought to the emergency department for a suspected femur fracture. He has had\nmultiple fractures in the past after minor trauma. Today, his mother states that he was running and fell. He\ncomplained of pain in his thigh after he fell. His examination is remarkable for tenderness to palpation and\nslight deformity of his right proximal thigh. He has decreased muscle tone throughout. His eye examination\nis shown below.\nWhich of the following is the most likely associated finding?",
     "options": [
       "A. Aortic root dilatation",
       "B. Horseshoe kidney",
@@ -441,10 +448,11 @@
     ],
     "answer": "C",
     "explanation": "",
-    "index": 37
+    "index": 37,
+    "image": "mcqImages/Pediatrics/12.png"
   },
   {
-    "question": "A J-year-old boy is hospitalized for severe pneumania requiring endotracheal intubation and mechanical\nventilation. His hemoglobin level is 13.2 mg/dL and his WBC count is 3,200/mm3. The absolute level of CD3-\npositive lymphocytes is normal but the level of CD18-paositive lymphacytes is very low. This patient would\nbenefit most from which of the following as a maintenance therapy?",
+    "question": "A 2-year-old boy is hospitalized for severe pneumania requiring endotracheal intubation and mechanical\nventilation. His hemoglobin level is 13.2 mg/dL and his WBC count is 3,200/mm3. The absolute level of CD3-\npositive lymphocytes is normal but the level of CD18-paositive lymphacytes is very low. This patient would\nbenefit most from which of the following as a maintenance therapy?",
     "options": [
       "A. Antiretroviral therapy",
       "B. Intravenous infusion of immune globulin",
@@ -529,12 +537,7 @@
   },
   {
     "question": "A 17-month-old boy presents with measles. He was born in the United States to recent immigrants and\nhas a history of recurrent respiratory infections over the last 6 months. The patient's family has recently\nemigrated from a rural Russian province. Which of the following forms of vitamin supplementation should be\nconsidered in this patient?",
-    "options": [
-      "A. Vitamin A",
-      "B. Vitamin K",
-      "C. Vitamin D",
-      "D. Vitamin E"
-    ],
+    "options": ["A. Vitamin A", "B. Vitamin K", "C. Vitamin D", "D. Vitamin E"],
     "answer": "A",
     "explanation": "",
     "index": 45
@@ -553,12 +556,7 @@
   },
   {
     "question": "A 10-year-old girl is brought to the physician after returning from a camping trip with her family because her\nparents are concerned about rabies.  This morning, they found a bat in the child's tent. There were no\nobvious bite marks on the child. Afterwards, the girl helped her father clean animals he had brought back\nfram a hunt, including squirrels, rabbits, and chipmunks. Later, while packing up the campsite, the child was\nbitten on the arm by a rat. Her encounter with which of the following animals most warrants post-exposure\nrabies prophylaxis?",
-    "options": [
-      "A. Squirrel",
-      "B. Rabbit",
-      "C. Bat",
-      "D. Rat"
-    ],
+    "options": ["A. Squirrel", "B. Rabbit", "C. Bat", "D. Rat"],
     "answer": "C",
     "explanation": "",
     "index": 47
@@ -1825,12 +1823,7 @@
   },
   {
     "question": "A child presents with ability to speak 2 to 3 word phrases, build a tower of six blocks, and obey two step commands. According to his\nmother, he can walk up and down the stairs without help. What is the most likely age of this child?",
-    "options": [
-      "A. 15 months",
-      "B. 18 months",
-      "C. 2 years",
-      "D. 3 years"
-    ],
+    "options": ["A. 15 months", "B. 18 months", "C. 2 years", "D. 3 years"],
     "answer": "C",
     "explanation": "",
     "index": 153
@@ -2595,19 +2588,7 @@
     "explanation": "Atlantoaxial instability is a malformation seen in 10-15% of patients with Down syndrome, and most\ncommonly occurs due to excessive laxity in the posterior transverse ligament, which causes increased\nmobility between the atlas (C1) and the axis (C2). Fortunately, only 1-2% of Down syndrome patients with\natlantoaxial instability are symptomatic. Symptoms usually progress over several weeks and result from\ncompression of the spinal cord. Presenting symptoms include behavioral changes, torticollis, urinary\nincontinence, and vertebrobasilar symptoms such as dizziness, vertigo, and diplopia. On examination, upper\nmotor neuron symptoms such as leg spasticity, hyperreflexia, a positive Babinski sign, and clonus are often\npresent. Patients with Down syndrome are normally hypotonic, and they may remain hypotonic or have\nincreased tone with symptomatic atlantoaxial instability.\nAtlantoaxial instability is suspected on physical examination and diagnosed with lateral radiographs of the\ncervical spine in flexion, extension, and in a neutral position. Open mouth radiographs can also be helpful in\nvisualizing the odontoid. Treatment consists of surgical fusion of the first cervical vertebrae (C1) to the\nsecond (C2).\n(Choice A) Although there is a higher prevalence of Alzheimer disease among individuals with Down\nsyndrome, it usually presents around ages 40-50.\n(Choice C) The risk of hypothyroidism is increased in individuals with Down syndrome. These patients\npresent with decreased growth velocity, weight gain, cold intolerance, fatigue, constipation, or declining\nschool performance. Neurologic symptoms can include delayed reflexes, but upper motor neuron signs\nshould not be present.\n(Choice D) Mental retardation is seen in individuals with Down syndrome and can vary in its\nseverity. However, progressive neurologic symptoms are not seen with mental retardation alone.\n(Choice E) Spinal cord infarction presents with the acute onset of severe pain, weakness, and\nparesthesias. This condition is rare and more commonly seen in adults, and there is no increased risk in\npatients with Down syndrome.\nEducational objective:\nAtlantoaxial instability should be suspected in any patient with Down syndrome who presents with upper\nmotor neuron findings.",
     "index": 208
   },
-  {
-    "question": "A 6-month-old Hispanic boy is brought to the office for a well-baby check-up and follow-up immunizations.\nHis mother denies any new complaints. Physical examination reveals lesions that do not fade into the\nsurrounding skin, shown in picture below.\n[Image showing Mongolian spot was referenced here but not provided in text]\nWhat is the most appropriate next step in the management of this patient?",
-    "options": [
-      "A. Perform fundoscopy to rule out retinal hemorrhages",
-      "B. Coagulation tests to rule out a coagulopathy",
-      "C. Immediately report to the authorities for child abuse",
-      "D. Do nothing, since it is likely that these lesions will disappear in the next few years",
-      "E. Schedule for excisional therapy with laser"
-    ],
-    "answer": "D",
-    "explanation": "This baby has a classic Mongolian spot, which is common among dark-skinned races. The cause is\nentrapment of the melanocytes in the dermis during their migration from the neural crest into the epidermis in\nfetal development. The lesion is a blue, bluish-gray, bluish-green or blue-black, flat skin marking that usually\nappears at birth. It is mostly located at the base of the spine, on the lower back, and on the buttocks,\nalthough it can also be seen in other parts of the body such as the shoulders, arms, wrists, legs, ankles or\nabdomen. The face, palms and soles are usually spared. The bluish discoloration usually fades after a few\nyears and almost always disappears within or after seven years. Most cases do not require any treatment.\n(Choices A and C) Retinal hemorrhages are common findings in child abuse. Multiple retinal hemorrhages\nthat differ in size and color support the suspicion of child abuse. A precipitating factor (stepfather/mother,\nfinancial issue) is usually present in the history. In addition, there may be bruises that usually have\nassociated swelling and tenderness. In this case, nothing in the history and physical findings is suggestive\nof child abuse; therefore, reporting to the authorities is not necessary.\n(Choice B) Even though bruises secondary to coagulation disorders are plausible, the characteristic location\nand size of this patient's lesions make coagulation tests unnecessary.\n(Choice E) Excisional therapy with laser is not necessary since Mongolian spots are usually self-limited\nlesions. It is usually indicated for giant cavernous hemangioma.\nEducational Objective:\nMongolian spots are most commonly found in dark-skinned populations, present at birth, and usually fade or\ndisappear in several years.",
-    "index": 209
-  },
+
   {
     "question": "A 2-year-old boy is brought to the clinic by his mother because he is lethargic and not as active as the other\nkids on their block. He has difficulty walking and getting up, and he always appears tired. His mother thinks\nthat she has a relative with a disorder that causes weakness. On examination, the child is alert but quiet. His\ncalves appear hypertrophied. His reflexes are depressed. When he gets up from the floor, he uses his\nhands to climb on his legs to assume an upright position. What is the most likely diagnosis of this child?",
     "options": [
@@ -3360,13 +3341,7 @@
   },
   {
     "question": "A term newborn infant from an uncomplicated pregnancy is being examined. He is pink, except for his\nextremities, which are blue. His heart rate is 150/min, and his respirations are irregular and slow at 40/min.\nHe coughs on nasal stimulation and has some flexion of the extremities. What is his Apgar score?",
-    "options": [
-      "A. 6/10",
-      "B. 7/10",
-      "C. 8/10",
-      "D. 9/10",
-      "E. 10/10"
-    ],
+    "options": ["A. 6/10", "B. 7/10", "C. 8/10", "D. 9/10", "E. 10/10"],
     "answer": "B",
     "explanation": "The Apgar score is measured in newborns at 0 and 5 minutes of life. It has five components, and is scored\nas follows:\nColor of the newborn:\n0 body and extremities are blue/pale\n1 body is pink and extremities are blue\n2 body and extremities are pink\nHeart rate:\n0 heart shows no activity\n1 HR < 100 beats/min\n2 HR >= 100 beats/min\nReaction to nasal stimulation:\n0 no response to stimulation\n1 grimace\n2 active cough\nTone/Activity:\n0 limp\n1 some flexion of extremities\n2 active flexion of extremities\nRespirations:\n0 completely absent\n1 slow and irregular\n2 good respiratory effort\nIn this newborn, the score for color is 1, heart rate is 2, reaction to nasal stimulation is 2, tone/activity is 1,\nand respirations is 1; therefore, his Apgar score is 7/10.\nEducational Objective:\nKnow how to calculate an Apgar score.",
     "index": 266
@@ -3599,19 +3574,7 @@
     "explanation": "Language development begins in infancy and increases rapidly between the ages of one and four. A 24-\nmonth-old child should have a vocabulary of about 150-300 words and be able to combine words into short\nsentences. These children are in the process of learning pronouns, although they frequently use \"me\"\ninstead of \"I\". They are also learning prepositions. A stranger should be able to understand half of the child's\nspeech at this age.\n(Choice A) A 12-month-old can usually say \"mama\", \"dada\", and one other word. They should also be able\nto follow simple commands with gestures.\n(Choice B) By 15 months, children can say \"mama\", \"dada\", and 3-5 other words. They can also\nunderstand simple commands even without a gesture.\n(Choice C) An 18-month-old typically has a vocabulary of approximately 5-20 words.\n(Choice E) By 3 years of age, a child's vocabulary has usually increased to close to 1000 words, and about\n75% of the child's speech can be understood by a stranger. In addition, they speak in 3-4 word sentences\nand use pronouns correctly.\nEducational objective:\nA 2-year-old should have a vocabulary of several hundred words and be able to combine words into short\nsentences. In addition, half of their speech should be understandable to a stranger.",
     "index": 283
   },
-  {
-    "question": "A 13-year-old female is brought to your office for evaluation of a limp. She has had mild left hip pain for\nseveral weeks. After falling off her bicycle today, her mother noticed that she was limping and brought her\ninto your office. Her weight is 77.2 kg (170 lbs) and height is 165 cm (65 in). She walks with a limp to the\nexamination table. As she sits down, her left leg is rotated externally. There is decreased range of motion\nand pain with internal rotation of her left hip. There is no leg length discrepancy. A lateral radiograph of her\nhip is shown below. What is the most likely diagnosis?\n[Image showing SCFE radiograph was referenced here but not provided in text]\n",
-    "options": [
-      "A. Avascular necrosis of the femoral head",
-      "B. Slipped capital femoral epiphysis",
-      "C. Femoral neck stress fracture",
-      "D. Legg-Calve-Perthes disease",
-      "E. Chronic developmental hip dysplasia"
-    ],
-    "answer": "B",
-    "explanation": "Slipped capital femoral epiphysis (SCFE) is a common hip disorder seen in adolescents. SCFE occurs\nwhen the capital femoral epiphysis displaces from the acetabulum. Boys are affected more often than girls,\nand the usual age of presentation is 10 to 16 years old. Obesity is a significant risk factor for the\ndevelopment of SCFE, and additional risk factors include endocrine issues such as hypothyroidism,\npanhypopituitarism, and growth hormone deficiency or supplementation. Children with endocrine issues in\nparticular are more likely to have bilateral disease and to present at an earlier age. Patients commonly\npresent with an insidious onset of knee or hip pain and a limp, usually without a history of\ntrauma. Sometimes, minor trauma can increase the pain and bring the patient to medical attention, similar to\nthis case. On examination, affected patients tend to hold the hip in passive external rotation and exhibit\ndecreased internal rotation, abduction, and flexion. Diagnosis is made with plain radiographs of the hip (AP\nand frog leg lateral views), which show the posteriorly and inferiorly displaced femoral head. Treatment\nconsists of emergent orthopedic consultation and surgical fixation at the current degree of slippage to avoid\nthe risk of avascular necrosis.\n(Choice A) Avascular necrosis of the femoral head can be a complication of SCFE because the displaced\nfemoral head can disrupt the blood supply. Avascular necrosis can also occur in Legg-Calve-Perthes\ndisease (Choice D), which is most commonly seen in younger children (ages 5-7) with idiopathic infarction\nof the femoral head.\n(Choice C) Femoral neck stress fractures occur most commonly in runners or other athletes doing\nextensive training. Patients typically present with a gradual increase in hip pain, especially with activity. They\nalso have pain with passive range of motion of the hip, especially internal and external rotation.\n(Choice E) Developmental hip dysplasia is caused by abnormal development of the hip in utero. It is usually\ndetected on the newborn physical exam, but can be diagnosed at a later age when a limp is noted. Leg\nlength discrepancy is present in developmental hip dysplasia and radiographs show a poorly formed femoral\nhead.\nEducational objective:\nSlipped capital femoral epiphysis is a common hip disorder seen in overweight adolescents.",
-    "index": 284
-  },
+
   {
     "question": "A one-month-old child is brought to the office due to persistent vomiting for the last six days. His mother\ncomplains of increasing episodes of projectile vomiting. These episodes occur every time she attempts to\nfeed him, and have persisted despite changing formulas. On physical examination, peristaltic waves are\nseen over the upper abdomen, and an olive-sized mass is palpated. Laboratory studies reveal a potassium\nlevel of 3.0mEq/mL. What is the most appropriate management for this patient?",
     "options": [

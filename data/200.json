@@ -9,7 +9,7 @@
     ],
     "answer": "C",
     "explanation": "They show intracranial hemorrhage. The image on the left shows an epidural hematoma. The image on the right shows a subdural hematoma. The epidural is from an arterial bleed and has higher pressure that more readily “pushes in” the brain, and the blood forms the shape of a lens. The subdural is from a venous bleed that forms the shape of a crescent.",
-    "image": "mcqImages/200/0.png",
+    "image": "/images/mcqImages/200/0.png",
     "index": 1
   },
   {
@@ -46,7 +46,7 @@
     ],
     "answer": "B",
     "explanation": "This is an MRI of the brain.",
-    "image": "mcqImages/200/1.png",
+    "image": "/images/mcqImages/200/1.png",
     "index": 4
   },
   {
@@ -59,7 +59,7 @@
     ],
     "answer": "C",
     "explanation": "The image on the left is normal. The image on the right shows a “ring” or contrast-enhancing lesion consistent with either cancer or infection.",
-    "image": "mcqImages/200/1.png",
+    "image": "/images/mcqImages/200/1.png",
     "index": 5
   },
   {
@@ -1572,7 +1572,7 @@
     ],
     "answer": "C",
     "explanation": "The left image shows a colon cancer, and the right image shows diverticulosis.",
-    "image": "mcqImages/200/2.png",
+    "image": "/images/mcqImages/200/2.png",
     "index": 131
   },
   {
@@ -1597,7 +1597,7 @@
     ],
     "answer": "B",
     "explanation": "This is an upper endoscopy showing Barrett's esophagus.",
-    "image": "mcqImages/200/3.png",
+    "image": "/images/mcqImages/200/3.png",
     "index": 133
   },
   {
@@ -1634,7 +1634,7 @@
     ],
     "answer": "B",
     "explanation": "This is an abdominal X ray.",
-    "image": "mcqImages/200/2.png",
+    "image": "/images/mcqImages/200/2.png",
     "index": 136
   },
   {

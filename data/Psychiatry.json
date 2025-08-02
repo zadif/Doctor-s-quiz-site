@@ -11,18 +11,7 @@
     "explanation": "",
     "index": 1
   },
-  {
-    "question": "A 32-year-old man presents to his family physician complaining of erectile dysfunction and decreased libido for the past month. He denies any pain or loss of sensation in his genitals, and has no problems with urination. He has never experienced these symptoms before and finds them very upsetting. The patient has a history of schizophrenia and was discharged fram the psychiatric hospital three months ago. He denies any current hallucinations or delusions, and his thoughts are well organized. Review of symptoms is negative except for a recent 3 kg (6.6 Ib) weight gain. Physical examination reveals bilateral breast enlargement. YWhich of the following accounts for these findings?",
-    "options": [
-      "A. Increased dopamine activity in the nigrostriatal pathway.",
-      "B. Increased dopamine activity in the mesolimbic pathway.",
-      "C. Increased dopamine activity in the tuberainfundibular pathway.",
-      "D. Decreased dopamine activity in the nigrostriatal pathway."
-    ],
-    "answer": "F",
-    "explanation": "",
-    "index": 2
-  },
+
   {
     "question": "A 39-year-old woman is brought to the emergency department after being invalved in a minor car accident. She sustained a small laceration to her hand and has a mild headache, but experienced no loss of consciousness during ar after the accident. While providing her medical history, she tells you that she has had cancer for more than five years. She does nat know what type of cancer she has, and says she is frustrated with her doctor because he has repeatedly told her that she has no evidence of cancer. She reports having seen multiple physicians over the past five years, and having undergone multiple imaging studies and blood tests that fail to reveal cancer. When you ask how she knows she has cancer, she replies, \"Believe me, when you have cancer, you know.\" Physical examination is unremarkable except for a minar laceration on her right hand. What is the patient's diagnasis?",
     "options": [
@@ -589,12 +578,7 @@
   },
   {
     "question": "A 22-year-old woman presents to the emergency department in an agitated state, certain that she is \"about to die\" Fifteen minutes ago, she developed heart palpitations and a severe \"viselike\" tightness in her chest. She experienced a similar episode last week, which resolved in twenty minutes. She denies using any drugs and her medical history is unremarkable. Her father has a histary of heart disease and her mother has diabetes mellitus. She takes no medications. Vital signs are temperature 37.0°C (98 6°F), blood pressure 132/74 mmHg, pulse 118/min, and respiratory rate 30/min. She is sweating profusely. EKG reveals sinus tachycardia. The most appropriate next step is administration of which of the following?",
-    "options": [
-      "A. Alprazalam",
-      "B. Aspirin",
-      "C.Buspirane",
-      "D. Fluoxetine"
-    ],
+    "options": ["A. Alprazalam", "B. Aspirin", "C.Buspirane", "D. Fluoxetine"],
     "answer": "A",
     "explanation": "",
     "index": 50
@@ -877,12 +861,7 @@
   },
   {
     "question": "A 21-year-old college junior requests an urgent appointment with her family physician to discuss a \"persanal concern.\" During her conversation with the doctor, the woman appears tense, speaks very little, and makes minimal eye contact. After gentle questioning, she breaks down and says that her father is taking lithium for a manic episode experienced two years ago. She had not realized this could have any bearing an her own situation until she encountered an article an the Internet that mentioned genetics appears to play a role in the pathogenesis of bipolar disorder. Since then, she has had disturbed sleep and has been very worried that she too will one day develop bipolar disarder. Based on clinical data, what is the likelihood that she will have a manic episade during her lifetime?",
-    "options": [
-      "A 1%",
-      "B. 10%",
-      "C.40%",
-      "D. 60%"
-    ],
+    "options": ["A 1%", "B. 10%", "C.40%", "D. 60%"],
     "answer": "B",
     "explanation": "",
     "index": 74

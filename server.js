@@ -674,7 +674,6 @@ app.get(
 
       const data = await fs.readFile(filePath, "utf8");
       const questions = JSON.parse(data);
-
       // Process the questions - assuming a format similar to other questions
       const processedQuestions = questions.map((q) => {
         // If the question has options array
@@ -689,6 +688,7 @@ app.get(
                 ? q.answer.charCodeAt(0) - "A".charCodeAt(0)
                 : 0,
             explanation: q.explanation || "No explanation provided.",
+            image: q.image || null, // Add image if present
           };
         }
         // If the question has A, B, C, D format
@@ -698,6 +698,7 @@ app.get(
             options: [q.A, q.B, q.C || "", q.D || ""],
             correctAnswer: ["A", "B", "C", "D"].indexOf(q.answer),
             explanation: q.explanation || `The correct answer is ${q.answer}.`,
+            image: q.image || null, // Add image if present
           };
         }
         // Default format

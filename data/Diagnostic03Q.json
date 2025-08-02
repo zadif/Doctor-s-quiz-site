@@ -22,7 +22,7 @@
     ],
     "answer": "A",
     "explanation": "Simvastatin is a competitive inhibitor of HMG-CoA reductase. A competitive inhibitor competes directly with the normal substrate for an enzyme's substrate-binding site. Increasing the concentration of substrate can eventually overcome the inhibition, at which point Vmax can be reached. On a Lineweaver-Burke plot (1/V vs 1/[S]), a competitive inhibitor increases the apparent Km but does not change Vmax. This means the x-intercept (-1/Km) moves closer to zero (Km increases), and the y-intercept (1/Vmax) remains the same. Line A shows the same y-intercept as the control but a less negative x-intercept, consistent with competitive inhibition. Line B shows the same x-intercept but a higher y-intercept (decreased Vmax), characteristic of noncompetitive inhibition. Line C shows decreased Km and increased Vmax (activator or different kinetics). Line D shows increased Vmax with the same Km (more enzyme or certain activators).",
-    "image": "mcqImages/Diagnostic03Q/0.png",
+    "image": "/images/mcqImages/Diagnostic03Q/0.png",
     "index": 2
   },
   {
@@ -324,7 +324,7 @@
     ],
     "answer": "D",
     "explanation": "The annual influenza vaccine is typically an inactivated (killed) vaccine. Killed vaccines primarily stimulate a humoral immune response, which involves B cells producing antibodies. This process requires help from CD4+ T helper cells. The vaccine antigens are processed by antigen-presenting cells (like B cells, macrophages, dendritic cells) and presented on MHC class II molecules to CD4+ T helper cells. These activated T helper cells then provide signals (like cytokines and CD40L interaction) to B cells, stimulating them to proliferate, differentiate into plasma cells, and produce antibodies (including isotype switching). Therefore, the CD4+ T cell population (helper T cells) is crucial for the response to this type of vaccine. On the flow cytometry plot, CD4+ T cells are found in quadrant D (CD4 positive, CD8 negative). Quadrant A contains CD8+ cytotoxic T cells (important for live vaccines/viral infections). Quadrant B contains double-positive cells (found in thymus). Quadrant C contains double-negative cells (various types, including B cells, NK cells, etc.).",
-    "image": "mcqImages/Diagnostic03Q/1.png",
+    "image": "/images/mcqImages/Diagnostic03Q/1.png",
     "index": 25
   },
   {

@@ -48,7 +48,7 @@
     ],
     "answer": "D",
     "explanation": "This axial CT image shows the abdomen near the L1 vertebral level. At this level, the renal arteries originate from the aorta. The inferior vena cava (IVC) [indicated by the arrow] lies just anterior to the right renal artery and to the right of the aorta. The IVC is formed by the union of the right and left common iliac veins at the level of L4-L5 and drains into the right atrium just above the level of the diaphragm at T8. The IVC returns venous blood to the right atrium from the lower extremities, portal system, and abdominal and pelvic viscera.\n(Choice A) The thoracic duct drains lymph from the entire left side of the body and all regions inferior to the umbilicus (including the gut structures). It enters the thorax through the aortic hiatus and empties into the left subclavian vein near its junction with the internal jugular vein.\n(Choice B) The cystic duct drains bile from the gallbladder into the common bile duct. The plane of this cross-sectional image is too low to see the gallbladder, but in higher sections it can be seen just below the liver in the anterior right abdomen.\n(Choice C) The image shows the abdominal aorta giving rise to the right and left renal arteries. The abdominal aorta lies posteromedial to the IVC within the abdomen.\n(Choice E) The superior mesenteric vein (SMV) joins the splenic vein to form the portal vein. The SMV can be seen vaguely near the head of the pancreas in this cross-sectional image.\nEducational objective:\nThe inferior vena cava (IVC) is formed by the union of the right and left common iliac veins at the level of L4-L5. The renal arteries and veins lie at the level of L1. The IVC returns venous blood to the heart from the lower extremities, portal system, and abdominal and pelvic viscera.",
-    "image": "mcqImages/CVS/0.png",
+    "image": "/images/mcqImages/CVS/0.png",
     "index": 4
   },
   {
@@ -138,7 +138,7 @@
     ],
     "answer": "C",
     "explanation": "This patient presents after trauma with signs/symptoms consistent with likely aortic rupture, which is most commonly caused by motor vehicle accidents. A motor vehicle accident with sudden deceleration can cause different rates of deceleration between the heart (in a fixed position) and the aorta. The most common site of injury is the aortic isthmus (site C on the figure), which is the relatively fixed portion of the aorta just distal to the origin of the left subclavian artery, near the insertion of the ligamentum arteriosum. This area is susceptible to shearing forces during rapid deceleration.\nPatients typically present with chest pain, back pain, or shortness of breath. However, there can be significant rupture, causing instant death after the trauma. Patients who survive the initial rupture may have a widened mediastinum on chest x-ray.\n(Choice A) Site A on the figure shows where the coronary arteries come off the aorta (aortic root). This is not a usual location for traumatic rupture.\n(Choice B) Site B on the figure shows the proximal aortic arch. This is a common site for aortic aneurysms from other causes, such as hypertension, syphilis, or vasculitis. It is a less common site for traumatic rupture.\n(Choice D) Site D represents the descending thoracic aorta further down. Traumatic rupture can occur here; however, it is a less common site for rupture than is the aortic isthmus.\nEducational objective:\nAortic rupture is most commonly due to motor vehicle accidents, and the most common site of injury is the aortic isthmus, which is the connection between the ascending and descending aorta distal to where the left subclavian artery branches off the aorta.",
-    "image": "mcqImages/CVS/1.png",
+    "image": "/images/mcqImages/CVS/1.png",
     "index": 11
   },
   {
@@ -152,7 +152,7 @@
     ],
     "answer": "B",
     "explanation": "The IVC filter is designed to prevent the travel of deep vein thrombosis (DVT) from the legs to the lung vasculature (pulmonary embolism). Inferior vena cava filters are used to prevent pulmonary embolism in patients who have contraindication to anticoagulation (like this patient with recent GI bleed) or who have recurrent PE despite anticoagulation. This abdominal computed tomography (CT) scan is taken at the level of L2. Choice B represents the inferior vena cava (IVC), which is the large vein located anterior to the right side of the vertebral body and medial to the duodenum. Filters are typically placed in the infrarenal IVC.\nChoice A represents the lumen of the second part of the duodenum.\nChoice C represents the abdominal aorta.\nChoice D represents loops of small bowel (ileum).\nChoice E represents the left renal vein crossing anterior to the aorta to drain into the IVC.\nEducational Objective:\nThe inferior vena cava courses through the abdomen and inferior thorax in a location anterior to the right half of the vertebral bodies. The renal veins join the IVC at the level of L1/L2, and the common iliac veins merge to become the IVC at the level of L4. IVC filters are placed within the IVC, usually below the renal veins, to prevent pulmonary embolism.",
-    "image": "mcqImages/CVS/2.png",
+    "image": "/images/mcqImages/CVS/2.png",
     "index": 12
   }
 ]
