@@ -557,7 +557,7 @@ body.dark-mode .explanation-toggle:hover {
 .chat-widget {
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  left: 20px;
   z-index: 1000;
 }
 
@@ -738,7 +738,7 @@ body.dark-mode .chat-input .btn-primary {
 .chat-widget-mobile {
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  left: 20px;
   z-index: 1000;
 }
 
