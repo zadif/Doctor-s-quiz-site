@@ -119,10 +119,39 @@ const aiLimiter = rateLimit({
 });
 
 // Initialize Gemini AI
-const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
-const model = genAI.getGenerativeModel({
-  model: "gemini-2.5-flash-lite-preview-06-17",
-});
+
+// List of API keys
+const apiKeys = [
+  process.env.GOOGLE_API_KEY_1,
+  process.env.GOOGLE_API_KEY_2,
+  process.env.GOOGLE_API_KEY_3,
+  process.env.GOOGLE_API_KEY_4,
+  process.env.GOOGLE_API_KEY_5,
+  process.env.GOOGLE_API_KEY_6,
+  process.env.GOOGLE_API_KEY_7,
+  process.env.GOOGLE_API_KEY_8,
+  process.env.GOOGLE_API_KEY_9,
+  process.env.GOOGLE_API_KEY_10,
+];
+
+// Index to keep track of current key
+let currentKeyIndex = 0;
+
+// Get the next API key in a round-robin manner
+function getNextApiKey() {
+  const key = apiKeys[currentKeyIndex];
+  currentKeyIndex = (currentKeyIndex + 1) % apiKeys.length;
+  return key;
+}
+
+// Create model instance using current API key
+function createModelInstance() {
+  const apiKey = getNextApiKey();
+  const genAI = new GoogleGenerativeAI(apiKey);
+  return genAI.getGenerativeModel({
+    model: "gemini-2.5-flash-lite-preview-06-17",
+  });
+}
 
 // Quiz categories (removed biology)
 const quizCategories = [
@@ -809,6 +838,7 @@ Use simple English. Always give short, clear answers:
       });
     }
 
+    const model = createModelInstance();
     // Start chat with history
     const chat = model.startChat({
       history: history,
