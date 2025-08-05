@@ -1,0 +1,1045 @@
+[
+  {
+    "question": "A 45-year-old man with a history of chronic alcohol use is brought to the emergency department due to altered mental status. His wife reports that he has been increasingly forgetful, especially regarding recent events, and often makes up elaborate stories to fill in the gaps in his memory. On examination, he is disoriented to time and place. Which of the following is the most likely diagnosis, and what is its characteristic underlying pathology?",
+    "options": [
+      "A. Delirium, characterized by diffuse background slowing on EEG.",
+      "B. Dissociative amnesia with fugue, typically following severe trauma or stress.",
+      "C. Korsakoff syndrome, associated with destruction of mammillary bodies and anterior thalamus.",
+      "D. Retrograde amnesia, defined as the inability to remember things that occurred before a CNS insult."
+    ],
+    "answer": "C",
+    "explanation": "The patient's presentation of anterograde amnesia (forgetfulness of recent events) that is more pronounced than retrograde amnesia, coupled with disorientation and confabulations in the context of chronic alcohol use, is characteristic of Korsakoff syndrome. The text specifies that Korsakoff syndrome is caused by vitamin B1 deficiency and is associated with the disruption and destruction of the limbic system, particularly the mammillary bodies and anterior thalamus. [13]"
+  },
+  {
+    "question": "A 28-year-old woman is in therapy for relationship difficulties. She tells her therapist that she sees her new boss as a perfect, flawless leader, much like she viewed her father during her childhood. However, after receiving her first minor criticism at work, she describes her boss as completely incompetent and malevolent. This rapid shift in perception, from viewing individuals as either entirely good or entirely bad, is characteristic of which immature ego defense?",
+    "options": [
+      "A. Splitting",
+      "B. Reaction Formation",
+      "C. Idealization",
+      "D. Projection"
+    ],
+    "answer": "A",
+    "explanation": "Splitting is an immature ego defense characterized by the belief that people are either all good or all bad at different times, reflecting an intolerance of ambiguity. This patient's shift from viewing her boss as perfect (idealization) to seeing him as entirely bad after a minor negative event is a classic example of splitting, which is common in borderline personality disorder. [10, 37, 40]"
+  },
+  {
+    "question": "A 9-year-old boy is referred for psychiatric evaluation due to persistent behavioral issues. His parents report that for the past year, he has been consistently argumentative with teachers, deliberately annoys others, and is often vindictive. He does not, however, engage in physical aggression towards animals, destruction of property, or theft. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Conduct disorder",
+      "B. Disruptive mood dysregulation disorder",
+      "C. Oppositional defiant disorder",
+      "D. Attention-deficit hyperactivity disorder"
+    ],
+    "answer": "C",
+    "explanation": "The patient's symptoms of a persistent pattern of anger, irritability, and defiant behavior toward authority figures for at least 6 months, without the more severe violations of societal norms or rights of others (like aggression to animals or theft), are characteristic of Oppositional Defiant Disorder. Conduct disorder involves more severe behaviors. Disruptive mood dysregulation disorder is characterized by severe, recurrent temper outbursts and a constantly angry or irritable mood between outbursts. ADHD's core features are inattention and/or hyperactivity-impulsivity."
+  },
+  {
+    "question": "A 30-year-old patient with a known psychiatric illness presents with delusions and auditory hallucinations that have been present for the last four months. During this period, she also experienced a three-week major depressive episode. However, for the majority of the time, she has had psychotic symptoms without any mood symptoms. What is the most likely diagnosis according to the duration of symptoms?",
+    "options": [
+      "A. Schizophrenia",
+      "B. Brief psychotic disorder",
+      "C. Major depressive disorder with psychotic features",
+      "D. Schizophreniform disorder"
+    ],
+    "answer": "D",
+    "explanation": "The patient has had active psychotic symptoms for four months. Schizophreniform disorder is diagnosed when a patient has ≥ 2 symptoms of schizophrenia lasting for 1–6 months. Brief psychotic disorder lasts less than one month, and schizophrenia requires a duration of over six months. Major depressive disorder with psychotic features would mean psychosis occurs only during the depressive episode. [7, 41, 43]"
+  },
+  {
+    "question": "A 25-year-old graduate student presents for a psychiatric evaluation. He reports feeling persistently anxious and worried about multiple aspects of his life, including his academic performance, finances, and relationships, for the past year. He finds it difficult to control the worry and also experiences muscle tension, fatigue, and difficulty concentrating. These symptoms are causing him significant distress. Which diagnosis best fits this clinical picture?",
+    "options": [
+      "A. Panic disorder",
+      "B. Social anxiety disorder",
+      "C. Generalized anxiety disorder",
+      "D. Adjustment disorder"
+    ],
+    "answer": "C",
+    "explanation": "Generalized anxiety disorder (GAD) is characterized by excessive anxiety and worry about different aspects of daily life for most days of ≥ 6 months. The patient must also have at least three of the following symptoms: difficulty Concentrating, Restlessness, Irritability, Muscle tension, low Energy (fatigue), or Sleep disturbance. This patient's chronic, multifaceted worry and associated physical symptoms align with the criteria for GAD."
+  },
+  {
+    "question": "A 5-year-old boy is brought to the pediatrician for a well-child visit. His mother is concerned because he is not yet able to use buttons or zippers on his clothing and cannot groom himself. According to the expected developmental milestones, at what age should these skills typically be mastered, and what other motor skill is expected at the same age?",
+    "options": [
+      "A. 3 years; can copy a circle",
+      "B. 4 years; can hop on one foot",
+      "C. 5 years; grooms self",
+      "D. 6 years; can stack 18 cubes"
+    ],
+    "answer": "C",
+    "explanation": "According to the provided text, at age 5, a child is expected to have the dexterity to use buttons or zippers and groom themselves. The mnemonic for preschool development (3-5 years) lists this under 'Dexterity' for age 5."
+  },
+  {
+    "question": "A 22-year-old woman with a history of recurrent urinary tract infections is found to have a congenital anomaly on imaging. Her ultrasound reveals a Y-shaped ureter on the right side. This finding is known as a duplex collecting system. What is the embryological basis for this anomaly, and what is its most significant clinical association?",
+    "options": [
+      "A. Failure of the ureteric bud to develop, leading to vesicoureteral reflux.",
+      "B. Aberrant interaction between the ureteric bud and metanephric mesenchyme, leading to renal stones.",
+      "C. Bifurcation of the ureteric bud before it enters the metanephric blastema, associated with an increased risk for UTIs.",
+      "D. Failure of the urachus to involute, associated with hydronephrosis."
+    ],
+    "answer": "C",
+    "explanation": "A duplex collecting system is caused by the bifurcation of the ureteric bud before it enters the metanephric blastema. The text explicitly states this anomaly is strongly associated with vesicoureteral reflux and/or ureteral obstruction, which increases the risk for urinary tract infections (UTIs)."
+  },
+  {
+    "question": "A 40-year-old woman with a history of Sjögren syndrome presents with fatigue and muscle weakness. Laboratory studies reveal a normal anion gap metabolic acidosis, a serum potassium of 2.9 mEq/L, and a urine pH of 6.5. Which of the following renal tubular acidoses is the most likely diagnosis given these findings?",
+    "options": [
+      "A. Type 1 (Distal) RTA",
+      "B. Type 2 (Proximal) RTA",
+      "C. Type 4 (Hyperkalemic) RTA",
+      "D. RTA secondary to acetazolamide use"
+    ],
+    "answer": "A",
+    "explanation": "Type 1 (Distal) RTA is characterized by the inability of α-intercalated cells to secrete H+, leading to an inability to acidify the urine (urine pH > 5.5). This condition results in hypokalemia and is associated with autoimmune diseases like Sjögren syndrome. Type 2 involves a defect in bicarbonate reabsorption and the urine can acidify. Type 4 is associated with hyperkalemia. [3, 4, 25, 31, 32]"
+  },
+  {
+    "question": "A patient with heart failure is being treated with a diuretic. The medication works by inhibiting the Na+/K+/2Cl− cotransporter in the thick ascending limb of the loop of Henle. In addition to its potent diuretic effect, which of the following sets of electrolyte disturbances is a well-known adverse effect profile for this class of drug?",
+    "options": [
+      "A. Hyperkalemia, hypercalcemia, metabolic acidosis",
+      "B. Hypokalemia, hypocalcemia, metabolic alkalosis",
+      "C. Hypokalemia, hypercalcemia, metabolic alkalosis",
+      "D. Hyperkalemia, hypocalcemia, metabolic acidosis"
+    ],
+    "answer": "B",
+    "explanation": "The medication described is a loop diuretic (e.g., furosemide). These drugs inhibit the Na+/K+/2Cl− cotransporter, which leads to increased excretion of Na+, K+, and Cl−. They also cause increased excretion of Ca2+ and Mg2+. The resulting volume depletion and potassium loss lead to a metabolic alkalosis. Therefore, hypokalemia, hypocalcemia, and metabolic alkalosis are characteristic side effects. [30, 48, 49, 50]"
+  },
+  {
+    "question": "A 60-year-old male with a history of poorly controlled hypertension is evaluated for worsening renal function. His GFR is significantly reduced. His physician considers initiating treatment with an ACE inhibitor. How would this medication affect the glomerular filtration rate (GFR) and filtration fraction (FF) by altering glomerular dynamics?",
+    "options": [
+      "A. It dilates the afferent arteriole, causing an increase in GFR and FF.",
+      "B. It constricts the afferent arteriole, causing a decrease in GFR and FF.",
+      "C. It dilates the efferent arteriole, causing a decrease in GFR and FF.",
+      "D. It constricts the efferent arteriole, causing an increase in GFR and FF."
+    ],
+    "answer": "C",
+    "explanation": "ACE inhibitors block the production of Angiotensin II. Angiotensin II preferentially constricts the efferent arteriole, which increases GFR and FF. By inhibiting this effect, ACE inhibitors cause vasodilation of the efferent arteriole. This reduces glomerular capillary hydrostatic pressure, leading to a decrease in both GFR and the filtration fraction. [2]"
+  },
+  {
+    "question": "A 24-year-old medical student is studying for his board exams. He finds that when he gets stressed, he has an unconscious habit of sucking his thumb, a behavior he exhibited as a young child. This return to a more childish level of development under stress, without completely losing the developmental progress he has made, is an example of which ego defense mechanism?",
+    "options": [
+      "A. Regression",
+      "B. Fixation",
+      "C. Acting out",
+      "D. Denial"
+    ],
+    "answer": "B",
+    "explanation": "Fixation is defined as partially remaining at a more childish level of development. The example provided in the text for fixation is a college student who sucks her thumb when studying for stressful exams. This is distinct from regression, which is an involuntary turning back of the maturational clock, such as a toilet-trained child bedwetting again after a sibling is born. [10, 21, 40]"
+  },
+  {
+    "question": "A 35-year-old man who has a strong desire to have an extramarital affair frequently accuses his wife of being unfaithful, despite a lack of any evidence. He confronts her daily about her whereabouts and checks her phone, projecting his own unacceptable impulses onto her. Which of the following ego defenses is this man demonstrating?",
+    "options": [
+      "A. Displacement",
+      "B. Rationalization",
+      "C. Reaction Formation",
+      "D. Projection"
+    ],
+    "answer": "D",
+    "explanation": "Projection is the ego defense mechanism of attributing an unacceptable internal impulse to an external source. The example provided in the text is a man who wants to cheat on his wife accusing his wife of being unfaithful. This is distinct from displacement, where emotions are redirected to a neutral object or person. [10, 21, 37, 40]"
+  },
+  {
+    "question": "A 10-year-old boy is brought to the pediatrician for evaluation. He has had multiple episodes of sudden, nonrhythmic, stereotyped movements including shoulder shrugging and facial grimacing, as well as repetitive throat-clearing sounds for the past 18 months. His parents are also concerned about his performance in school. Which of the following conditions is the most likely diagnosis, and what are the most commonly associated comorbid disorders?",
+    "options": [
+      "A. Intermittent explosive disorder, associated with depression and anxiety.",
+      "B. Tourette syndrome, associated with OCD and ADHD.",
+      "C. Persistent motor tic disorder, associated with specific learning disorder.",
+      "D. Stereotypic movement disorder, associated with autism spectrum disorder."
+    ],
+    "answer": "B",
+    "explanation": "Tourette syndrome is characterized by both motor and vocal tics that persist for more than one year, with an onset before age 18. The text explicitly states that Tourette syndrome is commonly associated with Obsessive-Compulsive Disorder (OCD) and Attention-Deficit Hyperactivity Disorder (ADHD)."
+  },
+  {
+    "question": "A 55-year-old man with a history of schizophrenia treated with haloperidol develops new, involuntary movements. His wife describes choreoathetoid movements of his mouth and tongue. These symptoms have developed after years of being on the medication. What is the most likely diagnosis for these movements, and what is the recommended treatment approach?",
+    "options": [
+      "A. Acute Dystonia, treated with benztropine or diphenhydramine.",
+      "B. Akathisia, treated with β-blockers or benzodiazepines.",
+      "C. Parkinsonism, treated with amantadine or benztropine.",
+      "D. Tardive dyskinesia, treated with valbenazine or deutetrabenazine."
+    ],
+    "answer": "D",
+    "explanation": "Tardive dyskinesia is a late-onset extrapyramidal symptom that occurs after months to years of antipsychotic treatment. It is characterized by chorea, especially orofacial movements. The text indicates that treatment includes benzodiazepines, botulinum toxin injections, valbenazine, or deutetrabenazine."
+  },
+  {
+    "question": "A 29-year-old woman is diagnosed with major depressive disorder. She is started on an SSRI. She reports that while her mood has improved slightly, she is now experiencing an inability to achieve orgasm, which is causing her significant distress. Which antidepressant could be considered as an alternative due to its lower risk of causing sexual dysfunction?",
+    "options": [
+      "A. Venlafaxine",
+      "B. Mirtazapine",
+      "C. Bupropion",
+      "D. Trazodone"
+    ],
+    "answer": "C",
+    "explanation": "Sexual dysfunction, including anorgasmia, is a common side effect of SSRIs. The text states that bupropion has a reduced risk of sexual adverse effects and weight gain compared to other antidepressants. Venlafaxine (an SNRI) and trazodone also carry a risk of sexual dysfunction."
+  },
+  {
+    "question": "A 32-year-old female presents to the emergency department with a severe, throbbing headache, nausea, and photophobia. She has a history of depression treated with phenelzine. She reports having attended a wine and cheese party earlier in the evening. Her blood pressure is 210/120 mm Hg. This presentation is most consistent with which psychiatric emergency, and what is the appropriate pharmacological treatment?",
+    "options": [
+      "A. Serotonin syndrome, treated with cyproheptadine.",
+      "B. Neuroleptic malignant syndrome, treated with dantrolene.",
+      "C. Hypertensive crisis, treated with phentolamine.",
+      "D. Tricyclic antidepressant toxicity, treated with sodium bicarbonate."
+    ],
+    "answer": "C",
+    "explanation": "This patient is experiencing a hypertensive crisis. It is caused by the ingestion of tyramine-rich foods (aged cheeses, wine) while taking a Monoamine Oxidase Inhibitor (MAOI) like phenelzine. Tyramine displaces norepinephrine in the synaptic cleft, leading to a massive sympathetic surge and dangerously high blood pressure. The recommended treatment is phentolamine."
+  },
+  {
+    "question": "A male infant is born with bilateral hydronephrosis and a dilated, thick-walled bladder detected on prenatal ultrasound. After birth, he has difficulty voiding. This clinical presentation is most suggestive of which congenital anomaly, which is also the most common cause of bladder outlet obstruction in male infants?",
+    "options": [
+      "A. Ureteropelvic junction obstruction",
+      "B. Vesicoureteral reflux",
+      "C. Duplex collecting system",
+      "D. Posterior urethral valves"
+    ],
+    "answer": "D",
+    "explanation": "Posterior urethral valves are a membrane remnant in the posterior urethra of males that can lead to urethral obstruction. The text states this is the most common cause of bladder outlet obstruction in male infants and is diagnosed prenatally by findings of bilateral hydronephrosis and a dilated or thick-walled bladder on ultrasound."
+  },
+  {
+    "question": "A 12-year-old girl with a family history of renal disease presents with hematuria, sensorineural hearing loss, and retinopathy. A kidney biopsy is performed. The electron microscopy findings are most likely to show which of the following characteristic changes to the glomerular basement membrane?",
+    "options": [
+      "A. Subepithelial immune complex humps",
+      "B. Effacement of podocyte foot processes",
+      "C. \"Spike and dome\" appearance of subepithelial deposits",
+      "D. \"Basket-weave\" appearance due to irregular thickening and splitting"
+    ],
+    "answer": "D",
+    "explanation": "The patient's constellation of symptoms (glomerulonephritis, hearing loss, eye problems) is classic for Alport syndrome, which is caused by a mutation in type IV collagen. Electron microscopy of the glomerular basement membrane in Alport syndrome characteristically shows a \"basket-weave\" appearance due to irregular thinning, thickening, and longitudinal splitting of the GBM. [8]"
+  },
+  {
+    "question": "A 4-year-old boy is brought to the clinic due to periorbital and lower extremity edema. Urinalysis reveals 4+ proteinuria, but no hematuria or red blood cell casts. His serum albumin is low. A renal biopsy is performed, which on light microscopy appears normal. However, electron microscopy reveals widespread effacement of podocyte foot processes. What is the most likely diagnosis?",
+    "options": [
+      "A. Focal segmental glomerulosclerosis",
+      "B. Membranous nephropathy",
+      "C. Minimal change disease",
+      "D. Membranoproliferative glomerulonephritis"
+    ],
+    "answer": "C",
+    "explanation": "Minimal change disease is the most common cause of nephrotic syndrome in children. It is characterized by normal glomeruli on light microscopy and negative immunofluorescence. The pathognomonic finding on electron microscopy is the effacement (flattening) of podocyte foot processes, which explains the massive proteinuria. [8, 35]"
+  },
+  {
+    "question": "A 65-year-old male with long-standing, poorly controlled type 2 diabetes presents with progressive renal insufficiency and albuminuria. A kidney biopsy is performed. Which of the following findings on light microscopy would be most characteristic of diabetic glomerulonephropathy?",
+    "options": [
+      "A. Crescent moon-shaped structures filling Bowman's space",
+      "B. \"Wire looping\" of capillaries with subendothelial deposits",
+      "C. Eosinophilic nodular glomerulosclerosis, known as Kimmelstiel-Wilson lesions",
+      "D. \"Tram-track\" appearance of the glomerular basement membrane"
+    ],
+    "answer": "C",
+    "explanation": "Diabetic glomerulonephropathy is the most common cause of end-stage renal disease in the US. The characteristic histopathological finding on light microscopy is eosinophilic nodular glomerulosclerosis, which are also known as Kimmelstiel-Wilson lesions. This is caused by nonenzymatic glycation of tissue proteins leading to mesangial expansion. [8]"
+  },
+  {
+    "question": "A 30-year-old woman with a history of Crohn disease develops recurrent, painful episodes of nephrolithiasis. Stone analysis reveals calcium oxalate crystals. Her 24-hour urine collection shows hypocitraturia. What is the most likely shape of the crystals seen on urine microscopy for this type of stone?",
+    "options": [
+      "A. Coffin lid",
+      "B. Rhomboid or rosettes",
+      "C. Hexagonal",
+      "D. Envelope or dumbbell"
+    ],
+    "answer": "D",
+    "explanation": "Calcium oxalate stones are the most common type of kidney stone. They are associated with conditions like malabsorption (Crohn disease) and hypocitraturia. The characteristic crystal shape on urine microscopy is described as being like an envelope or a dumbbell."
+  },
+  {
+    "question": "A patient with severe hypertension is prescribed a medication that directly inhibits the conversion of angiotensinogen to angiotensin I. Which of the following drugs fits this description?",
+    "options": [
+      "A. Lisinopril",
+      "B. Losartan",
+      "C. Spironolactone",
+      "D. Aliskiren"
+    ],
+    "answer": "D",
+    "explanation": "Aliskiren is a direct renin inhibitor. Renin is the enzyme that catalyzes the conversion of angiotensinogen to angiotensin I. Lisinopril is an ACE inhibitor (blocks conversion of AT I to AT II). Losartan is an angiotensin II receptor blocker. Spironolactone is an aldosterone antagonist. [2]"
+  },
+  {
+    "question": "A 2-year-old girl is brought to the emergency department after a brief, generalized seizure. She has a history of recurrent ear infections and oral candidiasis. On examination, she has low-set ears and a small jaw. Laboratory tests show hypocalcemia. A chest X-ray reveals an absent thymic shadow. This constellation of findings is most suggestive of a developmental failure of which pharyngeal structures?",
+    "options": [
+      "A. 1st and 2nd pharyngeal pouches",
+      "B. 2nd and 4th pharyngeal pouches",
+      "C. 3rd and 4th pharyngeal pouches",
+      "D. 1st and 2nd pharyngeal arches"
+    ],
+    "answer": "C",
+    "explanation": "This patient presents with features of DiGeorge syndrome (hypocalcemia due to absent parathyroids, recurrent infections due to thymic aplasia). The text states that the 3rd pharyngeal pouch gives rise to the inferior parathyroids and the thymus, while the 4th pouch gives rise to the superior parathyroids. Failure of the 3rd and 4th pouches to develop explains the clinical presentation."
+  },
+  {
+    "question": "A 46,XY individual is diagnosed with androgen insensitivity syndrome. The patient has developed breasts and has female external genitalia but is found to have testes in the labia majora and an absence of a uterus and fallopian tubes. Which of the following hormonal profiles is most consistent with this diagnosis?",
+    "options": [
+      "A. Low Testosterone, Low LH",
+      "B. High Testosterone, Low LH",
+      "C. Low Testosterone, High LH",
+      "D. High Testosterone, High LH"
+    ],
+    "answer": "D",
+    "explanation": "In androgen insensitivity syndrome, the defect is in the androgen receptor. The testes produce testosterone, but the body cannot respond to it. The lack of negative feedback from testosterone on the pituitary leads to increased secretion of LH. The high testosterone is then aromatized to estrogen, leading to breast development. Therefore, high testosterone and high LH are expected. [56]"
+  },
+  {
+    "question": "A 28-year-old G1P0 at 34 weeks of gestation presents with the sudden onset of painless, bright red vaginal bleeding. An ultrasound is performed, which confirms that the placenta is implanted over the internal cervical os. Which of the following placental disorders is the most likely diagnosis?",
+    "options": [
+      "A. Placenta accreta",
+      "B. Placental abruption",
+      "C. Vasa previa",
+      "D. Placenta previa"
+    ],
+    "answer": "D",
+    "explanation": "Placenta previa is the attachment of the placenta over the internal cervical os. The classic presentation is painless vaginal bleeding in the third trimester. Placental abruption typically presents with painful bleeding. Vasa previa presents with bleeding upon rupture of membranes. Placenta accreta is an issue of placental invasion into the uterine wall and presents with difficulty in placental separation after delivery. [17, 18, 19, 42, 44]"
+  },
+  {
+    "question": "A 22-year-old woman presents with a 2-day history of fever, suprapubic pain, and urinary frequency. A urine culture grows Escherichia coli. Urinalysis is positive for leukocyte esterase and nitrites but shows no casts. Which of the following is the most accurate diagnosis?",
+    "options": [
+      "A. Acute pyelonephritis",
+      "B. Acute cystitis",
+      "C. Acute interstitial nephritis",
+      "D. Nephrolithiasis with secondary infection"
+    ],
+    "answer": "B",
+    "explanation": "The patient's symptoms of suprapubic pain, dysuria, frequency, and urgency, along with positive leukocyte esterase and nitrites, are classic for acute cystitis (a bladder infection). The absence of fever and chills (systemic signs) and the absence of WBC casts makes pyelonephritis (a kidney infection) less likely. The text states that the presence of casts indicates a glomerular or renal tubular origin for pyuria. [19]"
+  },
+  {
+    "question": "A 33-year-old woman undergoes a hysterectomy for large, symptomatic uterine leiomyomas. On gross examination, the uterus is enlarged with multiple well-demarcated, solid masses. What is the most likely histological finding within these masses?",
+    "options": [
+      "A. Endometrial glands and stroma within the myometrium",
+      "B. Confluent endometrial glands without intervening stroma",
+      "C. Whorled pattern of smooth muscle bundles",
+      "D. Nests of urothelial-like epithelium with coffee bean nuclei"
+    ],
+    "answer": "C",
+    "explanation": "Leiomyomas, also known as fibroids, are benign tumors of the myometrium. The characteristic histological finding is a whorled pattern of smooth muscle bundles with well-demarcated borders. Adenomyosis is endometrial tissue in the myometrium. Endometrial carcinoma shows confluent glands. Brenner tumors have urothelial-like cells."
+  },
+  {
+    "question": "A 25-year-old man presents with a painless testicular mass. An orchiectomy is performed. Histological examination reveals large cells arranged in lobules with watery cytoplasm and a 'fried egg' appearance. Serum markers show an elevated placental alkaline phosphatase (PLAP). What is the most likely diagnosis?",
+    "options": [
+      "A. Yolk sac tumor",
+      "B. Choriocarcinoma",
+      "C. Seminoma",
+      "D. Embryonal carcinoma"
+    ],
+    "answer": "C",
+    "explanation": "Seminoma is the most common testicular tumor. The histology described—large cells in lobules with a watery cytoplasm and 'fried egg' appearance—is classic for this tumor. Elevated PLAP is also a characteristic marker. Yolk sac tumors would have Schiller-Duval bodies and high AFP. Choriocarcinoma would have high hCG."
+  },
+  {
+    "question": "A 58-year-old man presents with urinary frequency, nocturia, and a weak stream. On digital rectal exam, his prostate is symmetrically enlarged, firm, and smooth. A PSA level is elevated. If this patient has benign prostatic hyperplasia (BPH), the pathological process is primarily occurring in which zone of the prostate?",
+    "options": [
+      "A. Peripheral zone",
+      "B. Central zone",
+      "C. Transition zone",
+      "D. Fibromuscular zone"
+    ],
+    "answer": "C",
+    "explanation": "Benign prostatic hyperplasia is characterized by the hyperplasia of the transition zone of the prostate, which surrounds the urethra. This location explains the obstructive urinary symptoms. Prostatic adenocarcinoma, in contrast, most commonly arises from the peripheral zone."
+  },
+  {
+    "question": "A 26-year-old woman with polycystic ovary syndrome (PCOS) is seeking treatment for infertility due to anovulation. She is prescribed a medication that acts as an antagonist at estrogen receptors in the hypothalamus, thereby preventing negative feedback and increasing the release of LH and FSH. Which medication was she most likely prescribed?",
+    "options": [
+      "A. Leuprolide",
+      "B. Clomiphene",
+      "C. Letrozole",
+      "D. Ulipristal"
+    ],
+    "answer": "B",
+    "explanation": "Clomiphene is a selective estrogen receptor modulator (SERM) that acts as an antagonist at the hypothalamus. This action blocks the negative feedback of estrogen, leading to an increase in GnRH, FSH, and LH, which stimulates ovulation. It is a first-line treatment for infertility in PCOS. Letrozole, an aromatase inhibitor, is also used but works by a different mechanism. Leuprolide is a GnRH analog, and ulipristal is an antiprogestin."
+  },
+  {
+    "question": "A patient with metastatic prostate cancer is being treated with a GnRH analog in a continuous fashion. While this therapy is effective long-term at reducing testosterone levels, the physician warns the patient that his symptoms might briefly worsen after starting the medication. This initial 'tumor flare' is due to what mechanism?",
+    "options": [
+      "A. Antagonistic effect at the GnRH receptor, causing a surge in testosterone production.",
+      "B. Agonistic effect at the GnRH receptor, causing a transient increase in LH and FSH release.",
+      "C. Downregulation of 5α-reductase, leading to a temporary increase in testosterone.",
+      "D. Inhibition of androgen receptors, causing a compensatory surge in LH."
+    ],
+    "answer": "B",
+    "explanation": "When used in a continuous fashion, GnRH analogs like leuprolide initially act as agonists at the GnRH receptor in the pituitary. This causes a transient surge in the release of LH and FSH, which in turn stimulates the Leydig cells to produce more testosterone, potentially causing a 'tumor flare' in prostate cancer. Over time, this continuous stimulation leads to downregulation of the GnRH receptors and subsequent hypogonadism."
+  },
+  {
+    "question": "A 31-year-old woman is brought to the emergency department after being found in a state of confusion. She has a history of alcohol use disorder. She exhibits nystagmus, ataxia, and confusion. Her physician is concerned about Wernicke-Korsakoff syndrome and prepares to administer IV fluids. What is the most critical first step in management to prevent precipitating a more severe, irreversible neurologic condition?",
+    "options": [
+      "A. Administer IV dextrose immediately to correct potential hypoglycemia.",
+      "B. Administer IV vitamin B1 (thiamine) before administering any dextrose.",
+      "C. Administer a long-acting benzodiazepine to manage withdrawal.",
+      "D. Obtain a head CT to rule out other causes of confusion."
+    ],
+    "answer": "B",
+    "explanation": "The patient's symptoms constitute the classic triad of Wernicke encephalopathy (confusion, ophthalmoplegia [nystagmus], ataxia). This is caused by thiamine (vitamin B1) deficiency. The text explicitly states that symptoms can be precipitated by administering dextrose before vitamin B1, as glucose metabolism consumes thiamine, worsening the deficiency and potentially leading to irreversible Korsakoff syndrome. Therefore, IV thiamine must be given before dextrose."
+  },
+  {
+    "question": "A 16-year-old girl is brought to the physician by her mother due to concerns about her eating habits and weight loss. The patient has an intense fear of gaining weight and a distorted body image, believing she is overweight despite having a BMI of 17.0 kg/m². For the last four months, her primary method of weight control has been severe calorie restriction and excessive exercise. She has not engaged in binge eating or purging behaviors. What is the most specific diagnosis?",
+    "options": [
+      "A. Bulimia nervosa",
+      "B. Anorexia nervosa, binge-eating/purging type",
+      "C. Anorexia nervosa, restricting type",
+      "D. Binge-eating disorder"
+    ],
+    "answer": "C",
+    "explanation": "The patient meets the criteria for anorexia nervosa due to her inappropriately low body weight (BMI < 18.5), intense fear of weight gain, and body image distortion. Because her disordered behaviors are limited to dieting, fasting, and/or over-exercising without recurrent bingeing or purging, the specific subtype is restricting type."
+  },
+  {
+    "question": "A 28-year-old man comes to the clinic for a follow-up. He was recently fired from his job but tells the physician, \"It wasn't a good job anyway, and I was planning on quitting.\" This assertion of a plausible-sounding explanation to avoid self-blame is an example of which ego defense?",
+    "options": [
+      "A. Denial",
+      "B. Rationalization",
+      "C. Sublimation",
+      "D. Intellectualization"
+    ],
+    "answer": "B",
+    "explanation": "Rationalization is the ego defense of asserting plausible explanations for events that occurred for other reasons, typically to avoid self-blame. The text provides a very similar example: an employee who was recently fired claims that the job was not important anyway. [10, 21]"
+  },
+  {
+    "question": "A 4-year-old child is observed at a daycare center. He is playing with toy cars alongside another child who is also playing with toy cars. The two children do not interact or play together, but seem content to play in close proximity. What type of play is this, and at what age is it typically expected?",
+    "options": [
+      "A. Solitary play, expected by 18 months",
+      "B. Parallel play, expected by 24-36 months",
+      "C. Cooperative play, expected by 4 years",
+      "D. Onlooker play, expected by 12 months"
+    ],
+    "answer": "B",
+    "explanation": "Parallel play is when children play adjacent to each other but do not try to influence one another's behavior. The text indicates that this type of recreation is expected by 24-36 months. Cooperative play, where children play together with a common goal, develops later, around age 4."
+  },
+  {
+    "question": "A 20-year-old man presents to the emergency department with violent behavior, impulsivity, and psychomotor agitation. On physical examination, he has hypertension, tachycardia, and prominent nystagmus. His symptoms are most likely caused by intoxication with which of the following substances?",
+    "options": [
+      "A. Cocaine",
+      "B. Lysergic acid diethylamide (LSD)",
+      "C. Phencyclidine (PCP)",
+      "D. MDMA (ecstasy)"
+    ],
+    "answer": "C",
+    "explanation": "The combination of violence, impulsivity, agitation, and especially nystagmus is highly characteristic of phencyclidine (PCP) intoxication. PCP is an NMDA receptor antagonist. While other stimulants can cause agitation, nystagmus is a key distinguishing feature of PCP use. [11]"
+  },
+  {
+    "question": "A 68-year-old male with a history of BPH and type 2 diabetes presents with a decline in renal function. He is found to have a normal anion gap metabolic acidosis with a serum potassium of 6.2 mEq/L. His aldosterone levels are low. This clinical picture is most consistent with which type of renal tubular acidosis?",
+    "options": [
+      "A. Type 1 (Distal), due to inability to secrete H+",
+      "B. Type 2 (Proximal), due to a defect in HCO3- reabsorption",
+      "C. Type 3 RTA, which is a combination of Type 1 and 2",
+      "D. Type 4 (Hyperkalemic), due to hypoaldosteronism"
+    ],
+    "answer": "D",
+    "explanation": "Type 4 RTA is characterized by hypoaldosteronism or aldosterone resistance, which leads to hyperkalemia and a decreased ability to excrete acid. This results in a normal anion gap metabolic acidosis with elevated serum potassium. Diabetic hyporeninism is a common cause of hypoaldosteronism, making this the most likely diagnosis in this patient. [3, 4, 25, 31, 32]"
+  },
+  {
+    "question": "A 30-year-old pregnant woman at 32 weeks gestation is diagnosed with severe preeclampsia. To prevent progression to eclampsia, she is started on an IV infusion of magnesium sulfate. Which of the following signs would be the earliest indicator of magnesium toxicity and necessitate a reduction in the infusion rate?",
+    "options": [
+      "A. Hyperreflexia",
+      "B. Tachycardia",
+      "C. Decreased deep tendon reflexes (DTRs)",
+      "D. Seizures"
+    ],
+    "answer": "C",
+    "explanation": "Magnesium toxicity presents with a progression of symptoms. One of the earliest and most reliable signs is a decrease in or loss of deep tendon reflexes (DTRs). This is followed by lethargy, bradycardia, hypotension, and eventually cardiac arrest at very high levels. [9]"
+  },
+  {
+    "question": "A 21-year-old woman is brought to the emergency department by her friends after a party. She is euphoric, disinhibited, and hyperactive. On examination, she has mydriasis, hypertension, tachycardia, and is complaining of thirst. She has been grinding her teeth. These findings are most characteristic of intoxication with which substance?",
+    "options": [
+      "A. Cannabis",
+      "B. MDMA (ecstasy)",
+      "C. Opioids",
+      "D. Benzodiazepines"
+    ],
+    "answer": "B",
+    "explanation": "The combination of euphoria, hyperactivity, mydriasis, hypertension, tachycardia, increased thirst, and bruxism (teeth grinding) is characteristic of MDMA (ecstasy) intoxication. MDMA increases the release of monoamines, particularly serotonin. [11]"
+  },
+  {
+    "question": "A 40-year-old woman is diagnosed with schizophrenia. Her physician is considering starting an atypical antipsychotic. The physician explains that while this class of medication is effective for both positive and negative symptoms, certain agents carry a significant risk of weight gain, hyperglycemia, and dyslipidemia. Which two atypical antipsychotics are most associated with these metabolic adverse effects?",
+    "options": [
+      "A. Aripiprazole and Ziprasidone",
+      "B. Risperidone and Paliperidone",
+      "C. Clozapine and Olanzapine",
+      "D. Haloperidol and Fluphenazine"
+    ],
+    "answer": "C",
+    "explanation": "The text states that metabolic adverse effects, including weight gain, hyperglycemia, and dyslipidemia, are a known issue with atypical antipsychotypes. It specifically highlights that there is an increased risk with clozapine and olanzapine (obesit y)."
+  },
+  {
+    "question": "A 34-year-old man presents with a 2-month history of significant anxiety. He describes recurrent, unexpected episodes of intense fear accompanied by palpitations, sweating, trembling, and a fear of dying. These attacks peak within 10 minutes. Following the attacks, he has persistent concern about having more attacks, which has caused him to avoid going to the gym. Which is the most likely diagnosis?",
+    "options": [
+      "A. Generalized anxiety disorder",
+      "B. Social anxiety disorder",
+      "C. Panic disorder",
+      "D. Agoraphobia"
+    ],
+    "answer": "C",
+    "explanation": "Panic disorder is diagnosed based on recurrent, unexpected panic attacks followed by at least one month of either persistent concern about additional attacks or a significant behavioral change related to the attacks. This patient's presentation fits these criteria perfectly."
+  },
+  {
+    "question": "A 38-year-old woman with a history of multiple uterine surgeries presents for a scheduled C-section. After delivery of the infant, the placenta cannot be easily separated from the uterine wall and attempts at manual removal result in massive postpartum hemorrhage. Pathological examination of the uterus after hysterectomy reveals trophoblastic tissue that has invaded completely through the myometrium and serosa. Which of the following is the correct diagnosis?",
+    "options": [
+      "A. Placenta accreta",
+      "B. Placenta increta",
+      "C. Placenta percreta",
+      "D. Placental abruption"
+    ],
+    "answer": "C",
+    "explanation": "The placenta accreta spectrum describes abnormal invasion of trophoblastic tissue into the uterine wall. Placenta percreta is the most severe form, where the placenta completely invades through the myometrium and uterine serosa. This leads to difficulty with placental separation and a high risk of life-threatening hemorrhage. [17, 19, 44]"
+  },
+  {
+    "question": "A 45-year-old male with a history of alcohol use disorder is admitted to the hospital for an unrelated surgery. Three days after his last drink, he becomes agitated, confused, and develops visual hallucinations. He has marked autonomic hyperactivity, including tachycardia, hypertension, and tremors. What is the most likely diagnosis?",
+    "options": [
+      "A. Alcoholic hallucinosis",
+      "B. Serotonin syndrome",
+      "C. Delirium tremens",
+      "D. Acute dystonia"
+    ],
+    "answer": "C",
+    "explanation": "Delirium tremens (DTs) is a severe manifestation of alcohol withdrawal that typically occurs 2-4 days after the last drink. It is characterized by altered mental status (confusion, hallucinations), autonomic hyperactivity, and agitation. Alcoholic hallucinosis typically occurs earlier (12-48 hours) and involves hallucinations with a clear sensorium. [13, 27]"
+  },
+  {
+    "question": "A 28-year-old woman with a history of Turner syndrome (45,XO) presents with primary amenorrhea. Which of the following sets of findings is most consistent with her condition?",
+    "options": [
+      "A. Tall stature, webbed neck, low FSH, low LH, streak ovaries",
+      "B. Short stature, webbed neck, high FSH, high LH, streak ovaries",
+      "C. Short stature, normal ovaries, low FSH, low LH, coarctation of the aorta",
+      "D. Tall stature, streak ovaries, high FSH, low LH, bicuspid aortic valve"
+    ],
+    "answer": "B",
+    "explanation": "Turner syndrome (45,XO) is characterized by ovarian dysgenesis (streak ovaries), which leads to a lack of estrogen production. The absence of negative feedback from estrogen results in elevated levels of FSH and LH. Other classic features include short stature, a webbed neck, and cardiovascular anomalies like coarctation of the aorta. [55]"
+  },
+  {
+    "question": "A 35-year-old woman presents with heavy menstrual bleeding and dysmenorrhea. On physical examination, her uterus feels diffusely enlarged, soft, and globular. An endometrial biopsy is negative for malignancy. An MRI reveals the presence of endometrial glands and stroma within the myometrium. What is the most likely diagnosis?",
+    "options": [
+      "A. Leiomyoma (fibroid)",
+      "B. Endometriosis",
+      "C. Adenomyosis",
+      "D. Endometrial hyperplasia"
+    ],
+    "answer": "C",
+    "explanation": "Adenomyosis is the presence of endometrial tissue (glands and stroma) within the myometrium. This leads to a diffusely enlarged ('globular') and soft ('boggy') uterus, causing symptoms of abnormal uterine bleeding and dysmenorrhea. Leiomyomas typically cause a nodular, firm uterine contour. Endometriosis involves ectopic tissue outside the uterus."
+  },
+  {
+    "question": "A 2-year-old boy presents with a large, palpable, unilateral flank mass. His mother also notes that his blood pressure readings have been high. A CT scan confirms a large renal mass containing embryonic glomerular structures. This presentation is highly suggestive of a Wilms tumor. Which of the following genetic syndromes is associated with this malignancy, aniridia, and genitourinary malformations?",
+    "options": [
+      "A. Beckwith-Wiedemann syndrome",
+      "B. Denys-Drash syndrome",
+      "C. Von Hippel-Lindau syndrome",
+      "D. WAGR complex"
+    ],
+    "answer": "D",
+    "explanation": "Wilms tumor (nephroblastoma) is the most common renal malignancy of early childhood. The WAGR complex is a syndrome characterized by Wilms tumor, Aniridia, Genitourinary malformations, and a Range of developmental delays, and it is associated with a deletion of the WT1 gene."
+  },
+  {
+    "question": "A patient with refractory hypertension and heart failure is treated with a diuretic that works on the cortical collecting tubule. The drug is a competitive antagonist of aldosterone receptors. Which of the following medications was most likely administered, and what is a potential endocrine-related side effect?",
+    "options": [
+      "A. Amiloride; hyperkalemia",
+      "B. Hydrochlorothiazide; gynecomastia",
+      "C. Spironolactone; gynecomastia",
+      "D. Furosemide; hyperkalemia"
+    ],
+    "answer": "C",
+    "explanation": "Spironolactone is a potassium-sparing diuretic that acts as a competitive aldosterone receptor antagonist in the cortical collecting tubule. Because it is not entirely specific for the aldosterone receptor and can affect other steroid receptors, it can cause endocrine side effects such as gynecomastia and other antiandrogen effects. Amiloride also works in the collecting tubule but by blocking Na+ channels, not by antagonizing aldosterone. [49]"
+  },
+  {
+    "question": "A newborn is evaluated for ambiguous genitalia. The karyotype is 46,XY. The infant has male internal structures (epididymis, ductus deferens) but has a small phallus and a urogenital sinus. Laboratory studies show normal testosterone levels but markedly decreased dihydrotestosterone (DHT) levels. This condition is most likely caused by a deficiency in which enzyme?",
+    "options": [
+      "A. 17α-hydroxylase",
+      "B. Aromatase",
+      "C. 5α-reductase",
+      "D. 11β-hydroxylase"
+    ],
+    "answer": "C",
+    "explanation": "The conversion of testosterone to dihydrotestosterone (DHT) is required for the development of male external genitalia (penis, scrotum, prostate). A deficiency in the enzyme 5α-reductase prevents this conversion. Individuals with a 46,XY karyotype will have normal male internal genitalia (dependent on testosterone) but feminized or atypical external genitalia. [56]"
+  },
+  {
+    "question": "A 19-year-old woman presents to the clinic with an abnormal Pap smear showing high-grade squamous intraepithelial lesions (HSIL). A colposcopy with biopsy is performed. The biopsy shows disordered epithelial growth with atypical cells extending through more than two-thirds of the epithelial thickness. Histological examination also reveals cells with wrinkled, 'raisinoid' nuclei and a perinuclear halo. These cellular features are known as what?",
+    "options": [
+      "A. Psammoma bodies",
+      "B. Koilocytes",
+      "C. Call-Exner bodies",
+      "D. Schiller-Duval bodies"
+    ],
+    "answer": "B",
+    "explanation": "Koilocytes are squamous epithelial cells that have undergone structural changes due to infection with human papillomavirus (HPV). The text describes them as cells with a wrinkled 'raisinoid' nucleus and a perinuclear halo, and states they are pathognomonic of HPV infection, which is the cause of cervical dysplasia."
+  },
+  {
+    "question": "A 25-year-old male presents with a scrotal mass. On physical examination, there is a soft, non-tender swelling in the left scrotum that feels like a 'bag of worms' and increases in size with the Valsalva maneuver. The mass does not transilluminate. This clinical description is most characteristic of which condition?",
+    "options": [
+      "A. Hydrocele",
+      "B. Spermatocele",
+      "C. Testicular torsion",
+      "D. Varicocele"
+    ],
+    "answer": "D",
+    "explanation": "A varicocele is a dilation of the pampiniform plexus veins. It is most common on the left side and is classically described on palpation as feeling like a 'bag of worms'. It increases in size with standing or the Valsalva maneuver and does not transilluminate. Testicular torsion is an acute painful emergency. A hydrocele and spermatocele are fluid-filled and would transilluminate."
+  },
+  {
+    "question": "A 55-year-old woman presents with postmenopausal bleeding. An ultrasound reveals a thickened endometrium and a solid right ovarian mass. The mass is surgically removed. Histological analysis shows cells arranged haphazardly around collections of eosinophilic fluid, resembling primordial follicles. The tumor cells are positive for inhibin. What is the most likely diagnosis?",
+    "options": [
+      "A. Serous carcinoma",
+      "B. Dysgerminoma",
+      "C. Yolk sac tumor",
+      "D. Granulosa cell tumor"
+    ],
+    "answer": "D",
+    "explanation": "This patient's presentation of postmenopausal bleeding and an ovarian mass suggests an estrogen-producing tumor. The histological finding of Call-Exner bodies (granulosa cells arranged around eosinophilic fluid, resembling follicles) is pathognomonic for a granulosa cell tumor. This tumor is the most common malignant sex cord stromal tumor and often produces estrogen, leading to the patient's symptoms. It is also characteristically positive for inhibin."
+  },
+  {
+    "question": "A 48-year-old woman presents with a palpable breast mass. A mammogram shows a well-defined mass without calcifications. Biopsy of the mass reveals a fibroepithelial tumor with large, 'leaflike' lobulations of connective tissue and cysts. What is the most likely diagnosis?",
+    "options": [
+      "A. Fibroadenoma",
+      "B. Intraductal papilloma",
+      "C. Phyllodes tumor",
+      "D. Sclerosing adenosis"
+    ],
+    "answer": "C",
+    "explanation": "A phyllodes tumor is a large mass of connective tissue and cysts that is characterized by 'leaflike' lobulations on histology. They are most common in the 5th decade and can sometimes be malignant. Fibroadenomas are also fibroepithelial but are typically smaller and do not have the leaflike architecture."
+  },
+  {
+    "question": "A 33-year-old woman is being treated for a high-grade squamous intraepithelial lesion (HSIL) of the cervix. The development of this condition is most strongly associated with human papillomavirus (HPV), which promotes carcinogenesis primarily through the actions of its E6 and E7 gene products. What are the respective cellular targets of the E6 and E7 oncoproteins?",
+    "options": [
+      "A. E6 inhibits pRb, and E7 inhibits TP53",
+      "B. E6 inhibits TP53, and E7 inhibits pRb",
+      "C. E6 activates telomerase, and E7 activates cyclins",
+      "D. E6 inhibits apoptosis, and E7 promotes angiogenesis"
+    ],
+    "answer": "B",
+    "explanation": "High-risk HPV types (like 16 and 18) are associated with cervical cancer. The text states that they produce the E6 gene product, which inhibits the tumor suppressor protein TP53, and the E7 gene product, which inhibits the tumor suppressor protein pRb. The mnemonic '6 before 7; P before R' helps remember this order."
+  },
+  {
+    "question": "A 19-year-old male presents with a painful testicular mass. Radical orchiectomy is performed. The histology shows a hemorrhagic mass with necrosis. Serum tumor markers are drawn. Which of the following tumor types is most consistent with these findings and is associated with elevated hCG but normal AFP levels when it is a pure tumor?",
+    "options": [
+      "A. Seminoma",
+      "B. Yolk sac tumor",
+      "C. Teratoma",
+      "D. Embryonal carcinoma"
+    ],
+    "answer": "D",
+    "explanation": "Embryonal carcinoma is described as a painful, hemorrhagic mass with necrosis. The text notes that when it is a pure tumor, it may be associated with increased hCG and normal AFP levels, although it is most commonly found in mixed tumors where AFP can be elevated. It has a worse prognosis than seminoma."
+  },
+  {
+    "question": "A 6-year-old boy presents with sudden, recurrent verbal outbursts that are grossly out of proportion to the provocation. These episodes last less than 30 minutes, are not premeditated, and are followed by a sense of remorse. This pattern of behavior has been occurring for the past year. What is the most likely diagnosis?",
+    "options": [
+      "A. Oppositional defiant disorder",
+      "B. Conduct disorder",
+      "C. Intermittent explosive disorder",
+      "D. Disruptive mood dysregulation disorder"
+    ],
+    "answer": "C",
+    "explanation": "Intermittent explosive disorder is characterized by recurrent verbal or physical outbursts representing a failure to control aggressive impulses. The outbursts are out of proportion, not premeditated, and may provide immediate relief followed by remorse. The onset must be after age 6. This differs from ODD, which is a pattern of defiance, and DMDD, which involves constant irritability between outbursts."
+  },
+  {
+    "question": "A patient with bipolar I disorder is being managed with lithium. She is brought to the emergency department with nausea, vomiting, slurred speech, ataxia, and hyperreflexia. Her family reports she recently started taking a new medication for knee pain. Which of the following medications most likely precipitated this episode of lithium toxicity?",
+    "options": [
+      "A. Acetaminophen",
+      "B. An NSAID (e.g., ibuprofen)",
+      "C. A loop diuretic (e.g., furosemide)",
+      "D. A calcium channel blocker (e.g., amlodipine)"
+    ],
+    "answer": "B",
+    "explanation": "Lithium has a narrow therapeutic window and is almost exclusively excreted by the kidneys. Its clearance can be affected by other medications. The text specifically implicates NSAIDs, ACE inhibitors, and thiazide diuretics in causing lithium toxicity by reducing its renal elimination. Loop diuretics are less likely to cause this issue compared to thiazides."
+  },
+  {
+    "question": "A 30-year-old primigravida at 12 weeks gestation presents with vaginal bleeding, uterine size larger than gestational age, and hyperemesis. Her serum hCG level is exceedingly high. An ultrasound reveals a 'snowstorm' pattern with no fetal parts. This presentation is most characteristic of which gestational trophoblastic disease?",
+    "options": [
+      "A. Partial hydatidiform mole",
+      "B. Complete hydatidiform mole",
+      "C. Choriocarcinoma",
+      "D. Invasive mole"
+    ],
+    "answer": "B",
+    "explanation": "A complete hydatidiform mole is characterized by the fertilization of an enucleated egg, resulting in only paternal DNA. It presents with uterine size larger than dates, extremely high hCG levels (and associated sequelae like hyperemesis), and no fetal parts. The classic ultrasound finding is a 'snowstorm' or 'honeycombed' uterus/ 'clusters of grapes' appearance. A partial mole would have fetal parts and less pronounced findings. [59]"
+  },
+  {
+    "question": "A 40-year-old woman reports a long history of being socially inhibited and feeling inadequate. She is extremely sensitive to criticism and avoids social situations and occupational activities that involve significant interpersonal contact, despite having a strong desire for close relationships. This pervasive pattern of behavior is causing her significant distress. Which Cluster C personality disorder best describes this patient?",
+    "options": [
+      "A. Schizoid personality disorder",
+      "B. Avoidant personality disorder",
+      "C. Dependent personality disorder",
+      "D. Obsessive-compulsive personality disorder"
+    ],
+    "answer": "B",
+    "explanation": "Avoidant personality disorder is characterized by hypersensitivity to rejection and criticism, social inhibition, and feelings of inadequacy. A key feature that distinguishes it from schizoid personality disorder is that individuals with avoidant PD desire relationships with others but are too timid and afraid of rejection to pursue them. [82]"
+  },
+  {
+    "question": "A 22-year-old male is brought to the ED by police due to erratic behavior. Examination reveals mydriasis, diaphoresis, and tactile hallucinations, which he describes as 'bugs crawling on my skin.' His nasal septum is erythematous and shows early signs of erosion. Which substance is the most likely cause of his intoxication?",
+    "options": [
+      "A. Heroin",
+      "B. Cocaine",
+      "C. Cannabis",
+      "D. Alcohol"
+    ],
+    "answer": "B",
+    "explanation": "The combination of sympathetic stimulation (mydriasis, diaphoresis), paranoia, and tactile hallucinations (formication or 'cocaine crawlies') is highly indicative of cocaine intoxication. Furthermore, chronic use can lead to a perforated nasal septum due to vasoconstriction and ischemic necrosis, as noted in this patient. [11, 13]"
+  },
+  {
+    "question": "A patient with generalized anxiety disorder is prescribed a medication that is a partial agonist at the 5-HT1A receptor. The physician explains that this drug does not cause sedation or addiction and does not interact with alcohol, but it will take 1-2 weeks to become effective. Which medication fits this description?",
+    "options": [
+      "A. Lorazepam",
+      "B. Fluoxetine",
+      "C. Buspirone",
+      "D. Mirtazapine"
+    ],
+    "answer": "C",
+    "explanation": "Buspirone is a non-benzodiazepine anxiolytic that works as a partial 5-HT1A receptor agonist. The text highlights its use for generalized anxiety disorder and notes that it does not cause sedation, addiction, or tolerance, has a delayed onset of action (1-2 weeks), and does not interact with alcohol. The mnemonic provided is 'I get anxious if the bus doesn’t arrive at one, so I take buspirone.'"
+  },
+  {
+    "question": "A newborn presents with club feet, a flattened nose, low-set ears, and significant respiratory distress due to pulmonary hypoplasia. The pregnancy was complicated by profound oligohydramnios. This constellation of findings, known as Potter sequence, is triggered by oligohydramnios. Which of the following is a primary cause of reduced fetal urine output leading to this sequence?",
+    "options": [
+      "A. Esophageal atresia",
+      "B. Bilateral renal agenesis",
+      "C. Maternal diabetes",
+      "D. Fetal anemia"
+    ],
+    "answer": "B",
+    "explanation": "Potter sequence results from compression of the fetus due to oligohydramnios. A major cause of oligohydramnios is a lack of fetal urine production. The text lists bilateral renal agenesis, obstructive uropathy (like posterior urethral valves), and ARPKD as causes of reduced fetal urine output that can lead to Potter sequence."
+  },
+  {
+    "question": "A 35-year-old male is admitted to the ICU after a severe motor vehicle accident. He develops acute kidney injury. His labs are as follows: Urine osmolality 300 mOsm/kg, Urine Na+ 50 mEq/L, FENa 3%, and Serum BUN/Cr ratio of 12. His urine sediment contains muddy brown granular casts. Which of the following is the most likely cause of his AKI?",
+    "options": [
+      "A. Prerenal azotemia due to hypovolemia",
+      "B. Postrenal azotemia due to a ruptured bladder",
+      "C. Intrinsic renal failure due to acute tubular necrosis",
+      "D. Intrinsic renal failure due to acute interstitial nephritis"
+    ],
+    "answer": "C",
+    "explanation": "The patient's laboratory findings (urine osmolality <350, urine Na+ >40, FENa >2%, BUN/Cr <15) and the presence of muddy brown granular casts are all classic indicators of intrinsic renal failure due to acute tubular necrosis (ATN). Ischemia from the trauma and subsequent hypoperfusion is a common cause of ATN in hospitalized patients. [620]"
+  },
+  {
+    "question": "A 5-year-old boy presents with hematuria, periorbital edema, and hypertension. His mother reports that he had a sore throat and skin rash about 3 weeks ago. On urinalysis, RBC casts are present. An immunofluorescence study of a renal biopsy would most likely reveal which pattern of deposition?",
+    "options": [
+      "A. Linear deposition of IgG and C3 along the GBM",
+      "B. Granular ('starry sky') deposition of IgG, IgM, and C3 along the GBM and mesangium",
+      "C. IgA-based immune complex deposits in the mesangium",
+      "D. Negative immunofluorescence (pauci-immune)"
+    ],
+    "answer": "B",
+    "explanation": "This clinical presentation is classic for post-streptococcal glomerulonephritis (PSGN), a type of infection-related glomerulonephritis. It is a Type III hypersensitivity reaction. The characteristic finding on immunofluorescence is a granular or 'starry sky' appearance due to the lumpy-bumpy deposition of immune complexes (IgG, IgM, C3) along the glomerular basement membrane and in the mesangium. [8, 22]"
+  },
+  {
+    "question": "A 25-year-old woman with a history of intravenous drug use presents with a 1-week history of fatigue and jaundice. A renal biopsy shows a 'tram-track' appearance of the glomerular basement membrane on H&E and PAS stains. Immunofluorescence is granular, and electron microscopy reveals subendothelial immune complex deposits. This form of membranoproliferative glomerulonephritis (MPGN) is most commonly associated with which underlying infection?",
+    "options": [
+      "A. HIV",
+      "B. Hepatitis B or C",
+      "C. Syphilis",
+      "D. Group A Streptococcus"
+    ],
+    "answer": "B",
+    "explanation": "Membranoproliferative glomerulonephritis (MPGN) is characterized by a 'tram-track' appearance due to mesangial ingrowth splitting the GBM. The text specifies that Type I MPGN, which involves subendothelial deposits, may be secondary to Hepatitis B or Hepatitis C infection, both of which are risks for IV drug users. [8]"
+  },
+  {
+    "question": "A 40-year-old woman is evaluated for hypertension that is difficult to control. She has a history of hypokalemia and metabolic alkalosis. Her plasma renin activity is low, and her aldosterone levels are also low. She admits to eating large quantities of black licorice daily. The effects of licorice are mimicking a genetic condition caused by a deficiency in which enzyme?",
+    "options": [
+      "A. 5α-reductase",
+      "B. Aromatase",
+      "C. 11β-hydroxysteroid dehydrogenase",
+      "D. Carbonic anhydrase"
+    ],
+    "answer": "C",
+    "explanation": "This patient has symptoms of mineralocorticoid excess (hypertension, hypokalemia, metabolic alkalosis) but with low aldosterone. This is characteristic of the Syndrome of Apparent Mineralocorticoid Excess (SAME). In this condition, cortisol, which is in much higher concentration than aldosterone, activates the mineralocorticoid receptor. Normally, the enzyme 11β-hydroxysteroid dehydrogenase (11β-HSD) converts cortisol to inactive cortisone in renal cells. The text notes that glycyrrhetinic acid, found in licorice, blocks the activity of 11β-HSD, leading to an acquired form of this syndrome."
+  },
+  {
+    "question": "A patient with breast cancer is being treated with a selective estrogen receptor modulator (SERM) that acts as an antagonist at the breast but as a partial agonist at the uterus and bone. While this medication is effective for her cancer, she is counseled about an increased risk of which two major adverse events?",
+    "options": [
+      "A. Osteoporosis and uterine fibroids",
+      "B. Thromboembolic events and endometrial cancer",
+      "C. Hot flashes and ovarian cysts",
+      "D. Migraines and liver failure"
+    ],
+    "answer": "B",
+    "explanation": "The drug described is tamoxifen. As a SERM, it has tissue-specific effects. Its antagonist activity at the breast is therapeutic. However, its agonist activity at the uterus increases the risk of endometrial hyperplasia and cancer. Like estrogen, it also increases the risk of thromboembolic events such as DVT and pulmonary embolism. It is an agonist at the bone, which helps prevent osteoporosis, making option A incorrect."
+  },
+  {
+    "question": "A 1-year-old boy is brought for evaluation due to recurrent urinary tract infections. An imaging study reveals that the ureter on the left side enters the bladder at an abnormal angle, allowing retrograde flow of urine from the bladder into the ureter, especially during voiding. What is the term for this condition?",
+    "options": [
+      "A. Hydronephrosis",
+      "B. Posterior urethral valves",
+      "C. Vesicoureteral reflux",
+      "D. Duplex collecting system"
+    ],
+    "answer": "C",
+    "explanation": "Vesicoureteral reflux (VUR) is the retrograde flow of urine from the bladder toward the upper urinary tract. The text describes that primary VUR is due to an abnormal or insufficient insertion of the ureter within the bladder wall (ureterovesical junction). This condition is a significant risk factor for recurrent UTIs."
+  },
+  {
+    "question": "A patient is prescribed a diuretic for hypertension. The mechanism of action is inhibition of the NaCl cotransporter in the distal convoluted tubule. While effective for blood pressure control, this class of diuretics is known to cause several metabolic disturbances. Which of the following profiles is most characteristic of this diuretic class?",
+    "options": [
+      "A. Hypokalemia, Hyperuricemia, Hypercalcemia, Hyperglycemia",
+      "B. Hyperkalemia, Hypouricemia, Hypocalcemia, Hypoglycemia",
+      "C. Hypokalemia, Hypouricemia, Hypercalcemia, Hypoglycemia",
+      "D. Hyperkalemia, Hyperuricemia, Hypocalcemia, Hyperglycemia"
+    ],
+    "answer": "A",
+    "explanation": "The diuretic described is a thiazide diuretic (e.g., hydrochlorothiazide). The text lists the adverse effects as hypokalemic metabolic alkalosis, hyponatremia, hyperglycemia, hyperlipidemia, hyperuricemia, and hypercalcemia. Thus, the combination of hypokalemia, hyperuricemia, hypercalcemia, and hyperglycemia is characteristic."
+  },
+  {
+    "question": "A 47-year-old woman presents with several months of fatigue, weight gain, and constipation. Laboratory testing reveals a markedly elevated TSH. On further questioning, she reports that her menstrual cycles, which were previously regular, have become erratic over the last year. She has now been amenorrheic for 14 months. Blood tests reveal a dramatically elevated FSH level. What is the most likely diagnosis explaining her amenorrhea?",
+    "options": [
+      "A. Pregnancy",
+      "B. Polycystic ovary syndrome (PCOS)",
+      "C. Menopause",
+      "D. Hyperprolactinemia"
+    ],
+    "answer": "C",
+    "explanation": "Menopause is diagnosed by 12 months of amenorrhea. The average age of onset is 51. It is caused by a decline in ovarian follicles, leading to decreased estrogen production. The loss of negative feedback from estrogen on the pituitary results in a significant increase in FSH. The text states that 'qq FSH is specific for menopause'."
+  },
+  {
+    "question": "A 30-year-old male athlete presents with gynecomastia, acne, and aggressive behavior. Laboratory tests show elevated hematocrit, low LH, and low FSH. On examination, his testes are noted to be small. This clinical picture is most consistent with the use of which of the following substances?",
+    "options": [
+      "A. Cocaine",
+      "B. Anabolic-androgenic steroids",
+      "C. Marijuana",
+      "D. Growth hormone"
+    ],
+    "answer": "B",
+    "explanation": "The use of exogenous anabolic-androgenic steroids leads to a state of hyperandrogenism, causing acne and aggression. The excess androgens are aromatized to estrogens, causing gynecomastia. The exogenous testosterone suppresses the hypothalamic-pituitary-gonadal axis, leading to decreased LH and FSH, which results in decreased endogenous testosterone production and testicular atrophy (small testes)."
+  },
+  {
+    "question": "A 17-year-old male is brought to the clinic for evaluation. He is tall with eunuchoid proportions, has gynecomastia, and small, firm testes. Karyotyping is performed. Which of the following is the most likely karyotype, and what would be the expected levels of FSH and testosterone?",
+    "options": [
+      "A. 47,XYY; Normal FSH, Normal Testosterone",
+      "B. 45,XO; High FSH, Low Testosterone (as estrogen)",
+      "C. 47,XXY; High FSH, Low Testosterone",
+      "D. 46,XY; Low FSH, Low Testosterone"
+    ],
+    "answer": "C",
+    "explanation": "The patient's phenotype is classic for Klinefelter syndrome, which has a 47,XXY karyotype. The text states that in this condition, dysgenesis of the seminiferous tubules leads to decreased inhibin B, causing increased FSH. Additionally, abnormal Leydig cell function results in decreased testosterone, which leads to a compensatory increase in LH."
+  },
+  {
+    "question": "A 3-week-old male infant presents with vomiting, dehydration, and failure to thrive. On examination, he has ambiguous genitalia. Laboratory tests show hyponatremia, hyperkalemia, and metabolic acidosis. Which enzyme deficiency, leading to congenital adrenal hyperplasia, is the most likely cause of this presentation?",
+    "options": [
+      "A. 21-hydroxylase",
+      "B. 11β-hydroxylase",
+      "C. 17α-hydroxylase",
+      "D. 5α-reductase"
+    ],
+    "answer": "A",
+    "explanation": "While the provided text does not cover congenital adrenal hyperplasia in detail, this is a classic USMLE presentation. The most common form of CAH is 21-hydroxylase deficiency, which impairs the synthesis of both cortisol and aldosterone. Lack of aldosterone causes salt wasting (hyponatremia, hyperkalemia, hypotension), and lack of cortisol impairs the stress response. Precursors are shunted to androgen production, causing virilization in females (ambiguous genitalia) and normal genitalia in males. The salt-wasting crisis presents in the first few weeks of life."
+  },
+  {
+    "question": "A 22-year-old woman is admitted to the hospital with a first-episode manic episode characterized by grandiose delusions, pressured speech, and significantly impaired functioning requiring hospitalization. She has no prior history of depressive episodes. Based on these findings, what is the most accurate diagnosis?",
+    "options": [
+      "A. Bipolar II disorder",
+      "B. Cyclothymic disorder",
+      "C. Bipolar I disorder",
+      "D. Schizoaffective disorder"
+    ],
+    "answer": "C",
+    "explanation": "The diagnosis of Bipolar I disorder requires at least one manic episode. A manic episode is defined by a distinct period of abnormally elevated mood and increased energy causing marked functional impairment or necessitating hospitalization. The presence of even one such episode is sufficient for the diagnosis, regardless of whether there have been previous hypomanic or depressive episodes. Bipolar II requires a hypomanic and a depressive episode, with no history of mania. [9, 36, 39, 45, 47]"
+  },
+  {
+    "question": "A 28-year-old patient with borderline personality disorder is undergoing therapy. The therapist focuses on improving emotional regulation, teaching distress tolerance, and enhancing interpersonal effectiveness through a combination of individual and group sessions. This approach, which was specifically designed for this patient population, is known as what type of psychotherapy?",
+    "options": [
+      "A. Cognitive behavioral therapy (CBT)",
+      "B. Supportive therapy",
+      "C. Motivational interviewing",
+      "D. Dialectical behavioral therapy (DBT)"
+    ],
+    "answer": "D",
+    "explanation": "Dialectical behavioral therapy (DBT) is an evidence-based psychotherapy that was specifically designed for the treatment of borderline personality disorder. The text states it can be used in other conditions as well. Its core components include skills training in mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness."
+  },
+  {
+    "question": "A patient is brought to the emergency department with altered mental status, myoglobinuria, a temperature of 40.5°C (104.9°F), unstable vital signs, and 'lead pipe' muscle rigidity. He has a history of schizophrenia and his medications were recently adjusted. This clinical picture is highly suggestive of Neuroleptic Malignant Syndrome (NMS). What is the primary treatment for this life-threatening condition?",
+    "options": [
+      "A. Cyproheptadine",
+      "B. Dantrolene and/or Bromocriptine",
+      "C. Phentolamine",
+      "D. Longer-acting benzodiazepines"
+    ],
+    "answer": "B",
+    "explanation": "Neuroleptic Malignant Syndrome (NMS) is a psychiatric emergency associated with antipsychotic use. The mnemonic Malignant FEVER (Myoglobinuria, Fever, Encephalopathy, Vitals unstable, increased Enzymes, muscle Rigidity) describes its features. The text indicates that treatment involves dantrolene, dopaminergics (like bromocriptine), benzodiazepines, and discontinuation of the causative agent."
+  },
+  {
+    "question": "A 30-year-old woman presents for evaluation of infertility. She has a history of recurrent early pregnancy loss. A hysterosalpingogram reveals a uterine anomaly characterized by incomplete resorption of the central portion of the fused Müllerian ducts, creating a fibrous band that divides the uterine cavity. What is this common anomaly called?",
+    "options": [
+      "A. Uterus didelphys",
+      "B. Bicornuate uterus",
+      "C. Septate uterus",
+      "D. Müllerian agenesis"
+    ],
+    "answer": "C",
+    "explanation": "A septate uterus is the result of incomplete resorption of the septum between the two fused Müllerian ducts. The text identifies this as a common uterine anomaly and a cause of reduced fertility and pregnancy complications. It is treated with septoplasty."
+  },
+  {
+    "question": "A 29-year-old woman with a history of an autoimmune disorder presents with a rash on her nipple that appears eczematous, with erythema, crusting, and ulcers. A biopsy is performed, which shows intraepithelial adenocarcinoma cells. This condition, known as Paget disease of the nipple, is an extension of what underlying pathology?",
+    "options": [
+      "A. Fibroadenoma",
+      "B. Intraductal papilloma",
+      "C. Lobular carcinoma in situ",
+      "D. Ductal carcinoma in situ (DCIS) or invasive breast cancer"
+    ],
+    "answer": "D",
+    "explanation": "The text states that Paget disease of the nipple is an extension of an underlying DCIS or invasive breast cancer up the lactiferous ducts into the skin of the nipple. The presence of Paget cells (intraepithelial adenocarcinoma cells) is characteristic."
+  },
+  {
+    "question": "A 62-year-old man who is a heavy smoker presents with painless hematuria. A cystoscopy and biopsy confirm a diagnosis of urothelial carcinoma of the bladder. Besides smoking, which of the following occupational exposures is a major risk factor for this type of cancer?",
+    "options": [
+      "A. Asbestos",
+      "B. Aromatic amines (found in dyes)",
+      "C. Vinyl chloride",
+      "D. Radon"
+    ],
+    "answer": "B",
+    "explanation": "Urothelial carcinoma (transitional cell carcinoma) is the most common tumor of the urinary tract. The text provides the mnemonic 'Pee SAC' for risk factors, which include Tobacco Smoking, Aromatic amines (found in dyes), and Cyclophosphamide."
+  },
+  {
+    "question": "A 3-year-old girl is brought to the clinic due to a mass protruding from her vagina. On examination, a clear, grapelike, polypoid mass is seen emerging from the vagina. A biopsy reveals spindle-shaped tumor cells that are positive for desmin. What is the most likely diagnosis?",
+    "options": [
+      "A. Squamous cell carcinoma",
+      "B. Clear cell adenocarcinoma",
+      "C. Sarcoma botryoides",
+      "D. Vaginal adenosis"
+    ],
+    "answer": "C",
+    "explanation": "Sarcoma botryoides is an embryonal rhabdomyosarcoma variant that typically affects females under 4 years of age. It is characterized by a clear, grapelike polypoid mass that emerges from the vagina. The tumor cells are spindle-shaped and stain positive for desmin."
+  },
+  {
+    "question": "A 28-year-old G2P1 at 36 weeks gestation presents to the emergency department with the sudden onset of intense, constant abdominal pain and moderate vaginal bleeding. Her uterus is firm and tender on palpation. Fetal monitoring shows recurrent late decelerations, indicating fetal distress. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Placenta previa",
+      "B. Uterine rupture",
+      "C. Placental abruption",
+      "D. Vasa previa"
+    ],
+    "answer": "C",
+    "explanation": "Placental abruption, the premature separation of the placenta from the uterus, classically presents with painful vaginal bleeding, a tender and firm (hypertonic) uterus, and signs of fetal distress. This is in contrast to placenta previa, which typically causes painless bleeding. [42]"
+  },
+  {
+    "question": "A 16-year-old girl with primary amenorrhea is evaluated. She has well-developed breasts and female external genitalia. However, pelvic ultrasound reveals an absent uterus and a blind vaginal pouch. Her karyotype is 46,XX, and her ovaries are functional. This condition is known as Müllerian agenesis. Patients with this syndrome should also be evaluated for anomalies in which other organ system?",
+    "options": [
+      "A. Cardiac system",
+      "B. Gastrointestinal system",
+      "C. Skeletal system",
+      "D. Urinary tract system"
+    ],
+    "answer": "D",
+    "explanation": "Müllerian agenesis (Mayer-Rokitansky-Küster-Hauser syndrome) results from the failure of the paramesonephric ducts to develop, leading to an absent uterus and proximal vagina. The text explicitly states that this condition is associated with urinary tract anomalies, such as renal agenesis."
+  },
+  {
+    "question": "A 66-year-old male is being treated for benign prostatic hyperplasia. His physician prescribes a medication that acts as a 5α-reductase inhibitor. What is the primary mechanism of action of this drug in the treatment of BPH?",
+    "options": [
+      "A. It relaxes smooth muscle in the prostate and bladder neck.",
+      "B. It competitively inhibits testosterone binding to its receptor.",
+      "C. It prevents the conversion of testosterone to dihydrotestosterone (DHT).",
+      "D. It acts as a GnRH antagonist, reducing overall testosterone production."
+    ],
+    "answer": "C",
+    "explanation": "5α-reductase inhibitors, such as finasteride, work by blocking the enzyme 5α-reductase. This enzyme is responsible for converting testosterone to dihydrotestosterone (DHT) within the prostate. Since DHT is the more potent androgen responsible for prostate growth, inhibiting its production leads to a reduction in prostate size and an improvement in BPH symptoms. [76]"
+  },
+  {
+    "question": "A 27-year-old woman presents with severe dysmenorrhea, dyspareunia, and infertility. On physical exam, she has a fixed, immobile uterus and nodularity along the uterosacral ligaments. A laparoscopy is performed, which reveals yellow-brown 'powder burn' lesions on the pelvic peritoneum and a large, blood-filled cyst on the left ovary. What is the name for this type of ovarian cyst?",
+    "options": [
+      "A. Follicular cyst",
+      "B. Theca lutein cyst",
+      "C. Endometrioma",
+      "D. Serous cystadenoma"
+    ],
+    "answer": "C",
+    "explanation": "The patient's symptoms and findings are classic for endometriosis, the presence of ectopic endometrial tissue. When endometriosis involves the ovaries, it can form blood-filled cysts known as endometriomas, which are also called 'chocolate cysts' due to their dark, old-blood content."
+  },
+  {
+    "question": "A 23-year-old man presents with a scrotal mass. On ultrasound, a solid testicular tumor is identified, and a radical orchiectomy is performed. The pathology report describes Schiller-Duval bodies, which resemble primitive glomeruli. Serum marker analysis will most likely show a marked elevation in which of the following?",
+    "options": [
+      "A. hCG",
+      "B. LDH",
+      "C. AFP",
+      "D. PLAP"
+    ],
+    "answer": "C",
+    "explanation": "The Yolk sac tumor (also known as an endodermal sinus tumor) is a malignant germ cell tumor. Its pathognomonic histological feature is the Schiller-Duval body. This tumor is highly associated with a markedly elevated serum alpha-fetoprotein (AFP) level."
+  },
+  {
+    "question": "A 52-year-old woman presents for her annual checkup. She has been taking hormone replacement therapy (HRT) with estrogen only for the past 7 years since menopause. She has an intact uterus. This patient is at a significantly increased risk for developing which of the following malignancies?",
+    "options": [
+      "A. Ovarian cancer",
+      "B. Cervical cancer",
+      "C. Endometrial cancer",
+      "D. Vulvar cancer"
+    ],
+    "answer": "C",
+    "explanation": "The use of unopposed estrogen (estrogen without a progestin) in a woman with an intact uterus leads to chronic endometrial proliferation. This significantly increases the risk of developing endometrial hyperplasia and subsequent endometrial carcinoma. This is why progestins are always co-prescribed with estrogen for HRT in women who have not had a hysterectomy."
+  },
+  {
+    "question": "A 24-year-old woman is admitted to the labor and delivery unit at 32 weeks of gestation with regular, painful uterine contractions. The cervix is 3 cm dilated and 80% effaced. The physician decides to administer a tocolytic agent to delay delivery and allow for steroid administration. Which of the following medications acts as a β2-agonist to relax the uterus?",
+    "options": [
+      "A. Indomethacin",
+      "B. Nifedipine",
+      "C. Magnesium sulfate",
+      "D. Terbutaline"
+    ],
+    "answer": "D",
+    "explanation": "Tocolytics are medications used to suppress premature labor. The text lists Terbutaline (a β2-agonist), Indomethacin (an NSAID), and Nifedipine (a Ca2+ channel blocker) as examples. Terbutaline's mechanism is to stimulate β2-adrenergic receptors on the myometrium, leading to smooth muscle relaxation and cessation of contractions."
+  },
+  {
+    "question": "A 60-year-old woman presents with a new palpable breast mass. Biopsy confirms an invasive carcinoma. Immunohistochemical staining reveals that the tumor is estrogen receptor-positive, progesterone receptor-positive, and HER2-negative. Which of the following medications, which acts as an aromatase inhibitor, would be an appropriate treatment for this patient?",
+    "options": [
+      "A. Tamoxifen",
+      "B. Leuprolide",
+      "C. Anastrozole",
+      "D. Trastuzumab"
+    ],
+    "answer": "C",
+    "explanation": "In postmenopausal women, the primary source of estrogen is the peripheral conversion of androgens to estrogen by the aromatase enzyme. Aromatase inhibitors, such as anastrozole, letrozole, and exemestane, block this conversion and are a first-line treatment for ER-positive breast cancer in postmenopausal women. Tamoxifen is a SERM, leuprolide is a GnRH analog, and trastuzumab targets HER2."
+  }
+,
+    {
+        "question": "A premature infant is delivered at 26 weeks gestation and immediately shows signs of respiratory distress, including tachypnea and nasal flaring. At this stage of development, the infant's lungs are in the canalicular phase. Which of the following descriptions accurately reflects the structural and functional state of the lungs at this age, explaining the high risk for respiratory failure?",
+        "options": [
+            "A. The lungs are composed of endodermal tubules surrounded by a modest capillary network, making respiration completely impossible.",
+            "B. Terminal bronchioles have developed into respiratory bronchioles and alveolar ducts, and pneumocytes have recently begun to synthesize surfactant, making respiration capable, albeit with difficulty.",
+            "C. Terminal sacs are beginning to form from alveolar ducts, separated by primary septae, with mature surfactant levels already established.",
+            "D. The lung bud has fully differentiated into tertiary bronchi, but the capillary network is not yet developed enough to support any gas exchange.",
+            "E. Adult alveoli have formed through secondary septation, but the pulmonary vascular resistance remains too high for effective perfusion."
+        ],
+        "answer": "B",
+        "explanation": "At 26 weeks, lung development is in the canalicular phase (weeks 16-25), which transitions into the saccular phase. During the canalicular phase, terminal bronchioles differentiate into respiratory bronchioles and alveolar ducts, which are surrounded by a prominent capillary network. [3] Crucially, pneumocytes begin to develop around week 20, initiating surfactant synthesis. By week 25, respiration is considered capable. [3] The infant's distress is due to insufficient surfactant, not its complete absence or the immaturity seen in the pseudoglandular phase (Option A)."
+    },
+    {
+        "question": "A 6-year-old boy is brought to the emergency department after aspirating a small toy car wheel while playing. He is sitting upright. Given the anatomical structure of the respiratory tree, which specific lung segment is the most probable location for the foreign body to be lodged?",
+        "options": [
+            "A. Superior segment of the right lower lobe",
+            "B. Posterior segment of the right upper lobe",
+            "C. The lingula of the left upper lobe",
+            "D. Right upper lobe",
+            "E. Right lower lobe"
+        ],
+        "answer": "E",
+        "explanation": "The right main stem bronchus is wider, more vertical, and shorter than the left, making it the more common site for inhaled foreign bodies. When an individual aspirates an object while in an upright position, it is most likely to travel down this path and lodge in the right lower lobe."
+    },
+    {
+        "question": "A 45-year-old male is brought to the emergency department after being rescued from a house fire. He is confused, has cherry-red skin, and complains of a severe headache. Although his pulse oximetry reads 99% on room air, his total blood oxygen content is significantly decreased. This discrepancy is best explained by carbon monoxide's effect on the oxyhemoglobin dissociation curve and hemoglobin binding, which is characterized by:",
+        "options": [
+            "A. A rightward shift of the curve, decreasing hemoglobin's affinity for oxygen and a normal PaO2.",
+            "B. A leftward shift of the curve, increasing hemoglobin's affinity for oxygen and a reduced SaO2.",
+            "C. A leftward shift of the curve, increasing hemoglobin's affinity for O2, leading to reduced unloading in tissues, despite a normal PaO2.",
+            "D. Oxidation of heme iron to Fe3+, preventing oxygen binding and causing a rightward shift.",
+            "E. Competitive binding with oxygen, a normal PaO2, and a proportional decrease in both SaO2 and total oxygen content."
+        ],
+        "answer": "C",
+        "explanation": "Carbon monoxide (CO) poisoning is characterized by CO binding competitively to hemoglobin with over 200 times the affinity of oxygen. This forms carboxyhemoglobin, which reduces the number of available oxygen-binding sites. Crucially, the binding of CO to one site on hemoglobin causes a conformational change that increases the affinity of the remaining sites for oxygen, resulting in a leftward shift of the oxyhemoglobin dissociation curve. This increased affinity impairs the unloading of oxygen to the tissues. The partial pressure of dissolved oxygen in the arterial blood (PaO2) remains normal, and pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin, leading to a falsely high SaO2 reading. The total oxygen content, however, is significantly reduced due to the unavailability of hemoglobin for oxygen transport."
+    },
+    {
+        "question": "A 68-year-old retired sandblaster presents with progressively worsening dyspnea on exertion. A chest X-ray reveals multiple small, rounded nodular opacities predominantly in the upper lobes and 'eggshell' calcification of the hilar lymph nodes. This patient's occupation and radiological findings are highly suggestive of a specific pneumoconiosis, which also significantly increases his risk for which of the following infections?",
+        "options": [
+            "A. Aspergillosis",
+            "B. Tuberculosis",
+            "C. Nontypeable H. influenzae",
+            "D. Streptococcus pneumoniae",
+            "E. Cytomegalovirus"
+        ],
+        "answer": "B",
+        "explanation": "The patient's history of sandblasting and the characteristic findings of upper lobe nodules with 'eggshell' calcification of hilar lymph nodes are pathognomonic for silicosis. It is thought that silica disrupts phagolysosomes and impairs macrophage function, which increases the patient's susceptibility to Tuberculosis."
+    },
+    {
+        "question": "A 55-year-old man with a 40-pack-year smoking history is diagnosed with chronic bronchitis. His condition is clinically defined by a productive cough for at least three months over two consecutive years. Pathologically, this condition is primarily characterized by which of the following changes in the bronchi, leading to the observed symptoms?",
+        "options": [
+            "A. Destruction of alveolar walls and permanent airspace enlargement.",
+            "B. Hypertrophy and hyperplasia of mucus-secreting glands in the bronchi.",
+            "C. Formation of noncaseating granulomas in the bronchial walls.",
+            "D. Permanent dilation of airways due to destruction of the bronchial wall.",
+            "E. Reversible bronchoconstriction due to a type I hypersensitivity reaction."
+        ],
+        "answer": "B",
+        "explanation": "Chronic bronchitis, a form of COPD, is pathologically defined by the hypertrophy and hyperplasia of mucus-secreting glands within the large bronchi. This leads to an increase in the Reid index (the ratio of the thickness of the gland layer to the bronchial wall thickness) to over 50% and results in the characteristic chronic productive cough."
+    },
+    {
+        "question": "A 28-year-old woman with severe allergic asthma, which is poorly controlled despite using high-dose inhaled corticosteroids and a long-acting beta-agonist, is considered for biologic therapy. Her serum IgE levels are markedly elevated. Which of the following medications would be the most appropriate targeted therapy for this patient, given its specific mechanism of action?",
+        "options": [
+            "A. Montelukast, by blocking leukotriene receptors (CysLT1).",
+            "B. Omalizumab, by binding to unbound serum IgE and preventing its interaction with mast cells.",
+            "C. Tiotropium, by competitively blocking muscarinic receptors to prevent bronchoconstriction.",
+            "D. Theophylline, by inhibiting phosphodiesterase to increase cAMP levels.",
+            "E. Mepolizumab, by acting against IL-5 to prevent eosinophil differentiation and activation."
+        ],
+        "answer": "B",
+        "explanation": "For patients with severe allergic asthma and elevated IgE levels refractory to standard therapy, Omalizumab is a suitable treatment. [2] It is a monoclonal anti-IgE antibody that binds to unbound serum IgE. This action prevents IgE from binding to its receptor (FcεRI) on mast cells, thereby inhibiting mast cell degranulation and the subsequent release of inflammatory mediators."
+    },
+    {
+        "question": "A 62-year-old male with a significant smoking history presents with hoarseness, shoulder pain, and unilateral ptosis, miosis, and anhidrosis. A chest CT scan reveals a mass in the apex of the right lung. Which of the following structures is being compressed by the tumor to cause the constellation of eye-related symptoms observed in this patient?",
+        "options": [
+            "A. The recurrent laryngeal nerve",
+            "B. The phrenic nerve",
+            "C. The brachial plexus",
+            "D. The superior vena cava",
+            "E. The stellate ganglion"
+        ],
+        "answer": "E",
+        "explanation": "The patient is presenting with a Pancoast tumor, which is a carcinoma occurring in the apex of the lung. The specific symptoms of ipsilateral ptosis (drooping eyelid), miosis (constricted pupil), and anhidrosis (decreased sweating) constitute Horner syndrome. This syndrome is caused by the tumor's invasion and compression of the stellate ganglion, which is part of the sympathetic chain."
+    }
+]
+

@@ -1,0 +1,2236 @@
+[
+  {
+    "question": "A 4-week-old infant is brought to the clinic for evaluation. The mother reports that the infant has been beating spontaneously since birth. During embryonic development, a defect in the left-right dynein protein leads to dextrocardia. This condition is a result of an error in which of the following embryological processes that typically begins in week 4 of development?",
+    "options": [
+      "A. Septation of the atria",
+      "B. Cardiac looping",
+      "C. Outflow tract formation",
+      "D. Fusion of the endocardial cushions",
+      "E. Ventricular septation"
+    ],
+    "answer": "B",
+    "explanation": "Cardiac looping is the process where the primary heart tube loops to establish left-right polarity, beginning in week 4 of development. A defect in left-right dynein, which is involved in establishing left-right asymmetry, can lead to dextrocardia, as seen in Kartagener syndrome. [284]"
+  },
+  {
+    "question": "A newborn is diagnosed with a patent foramen ovale after an echocardiogram. The persistence of this shunt is due to the failure of which two structures to fuse after birth? This condition is asymptomatic in the majority of the 25% of the population who have it, but it can lead to paradoxical emboli.",
+    "options": [
+      "A. Septum primum and endocardial cushion",
+      "B. Septum secundum and the right horn of the sinus venosus",
+      "C. Septum primum and septum secundum",
+      "D. The muscular interventricular septum and the aorticopulmonary septum",
+      "E. The bulbus cordis and the primitive ventricle"
+    ],
+    "answer": "C",
+    "explanation": "The foramen ovale is sealed soon after birth due to increased left atrial pressure. The atrial septum is formed by the fusion of the septum secundum and the septum primum during infancy or early childhood. A patent foramen ovale results from the failure of these two structures to fuse after birth. [284]"
+  },
+  {
+    "question": "A 2-year-old child with Down syndrome is evaluated for a heart murmur. An echocardiogram reveals a complete atrioventricular septal defect (AVSD). This congenital anomaly, also known as an endocardial cushion defect, results from the failure of the endocardial cushions to properly grow and fuse. Which of the following sets of structures are all derived from the endocardial cushions?",
+    "options": [
+      "A. Atrial septum, muscular interventricular septum, and mitral valve",
+      "B. Atrial septum, membranous interventricular septum, and AV and semilunar valves",
+      "C. Trabeculated part of the ventricles, smooth part of the left ventricle, and coronary sinus",
+      "D. Ascending aorta, pulmonary trunk, and superior vena cava",
+      "E. Smooth part of the right atrium, coronary sinus, and primitive atrium"
+    ],
+    "answer": "B",
+    "explanation": "The endocardial cushions are crucial for heart septation. They give rise to the atrial septum, the membranous interventricular septum, and contribute to the formation of the atrioventricular (mitral/tricuspid) and semilunar (aortic/pulmonary) valves. AVSDs are commonly associated with Down syndrome. [285, 286]"
+  },
+  {
+    "question": "A neonate is diagnosed with Tetralogy of Fallot. This condition is classified as a conotruncal abnormality associated with the failure of a specific cell type to migrate properly during cardiac development. The failure of migration of which of the following cell types is responsible for this and other conotruncal defects like Transposition of Great Arteries and Persistent Truncus Arteriosus?",
+    "options": [
+      "A. Mesodermal cells",
+      "B. Endodermal cells",
+      "C. Neural crest cells",
+      "D. Ectodermal cells",
+      "E. Somatic mesoderm cells"
+    ],
+    "answer": "C",
+    "explanation": "The outflow tract of the heart is formed by the migration of neural crest cells, which contribute to the truncal and bulbar ridges. These ridges spiral and fuse to form the aorticopulmonary septum. Failure of these neural crest cells to migrate correctly leads to conotruncal abnormalities, including Tetralogy of Fallot, Transposition of Great Arteries, and Persistent Truncus Arteriosus. [285]"
+  },
+  {
+    "question": "A medical student is studying the embryological origins of the adult heart structures. They learn that the smooth part of the right atrium, known as the sinus venarum, is derived from a different embryonic structure than the trabeculated part of the right atrium. Which embryonic structure gives rise to the sinus venarum?",
+    "options": [
+      "A. Primitive atrium",
+      "B. Left horn of the sinus venosus",
+      "C. Bulbus cordis",
+      "D. Right horn of the sinus venosus",
+      "E. Primitive ventricle"
+    ],
+    "answer": "D",
+    "explanation": "The smooth part of the right atrium (sinus venarum) is derived from the right horn of the sinus venosus. The trabeculated part of the right and left atria is derived from the primitive atrium. [286]"
+  },
+  {
+    "question": "During a dissection of a cadaver, a fibrous cord is identified running from the left pulmonary artery to the aorta, located near the left recurrent laryngeal nerve. This structure is a remnant of a fetal vessel that played a critical role in shunting blood in the fetal circulation. What is the postnatal name of this derivative?",
+    "options": [
+      "A. Ligamentum venosum",
+      "B. Fossa ovalis",
+      "C. Median umbilical ligament",
+      "D. Ligamentum arteriosum",
+      "E. Ligamentum teres hepatis"
+    ],
+    "answer": "D",
+    "explanation": "The ductus arteriosus is a fetal structure that shunts deoxygenated blood from the pulmonary artery to the descending aorta. Postnatally, it closes and becomes the ligamentum arteriosum, which is located near the left recurrent laryngeal nerve. [286, 287]"
+  },
+  {
+    "question": "A premature infant is found to have a patent ductus arteriosus (PDA). The physician decides to administer a medication to help close it. The closure of the ductus arteriosus after birth is physiologically mediated by an increase in oxygen and a decrease in prostaglandins. Which of the following medications would be most appropriate to facilitate the closure of a PDA?",
+    "options": [
+      "A. Prostaglandin E1",
+      "B. Sildenafil",
+      "C. Indomethacin",
+      "D. Alprostadil",
+      "E. Bosentan"
+    ],
+    "answer": "C",
+    "explanation": "NSAIDs like indomethacin or ibuprofen help close a patent ductus arteriosus by inhibiting prostaglandin synthesis. Prostaglandins E1 and E2 are responsible for keeping the PDA open (kEEp open). [287]"
+  },
+  {
+    "question": "A 55-year-old male with a history of mitral stenosis presents with difficulty swallowing and a hoarse voice. An esophagram shows compression of the esophagus. The hoarseness is likely due to compression of the left recurrent laryngeal nerve. These symptoms are a direct consequence of the enlargement of which cardiac chamber, known to be the most posterior part of the heart?",
+    "options": [
+      "A. Right ventricle",
+      "B. Left ventricle",
+      "C. Right atrium",
+      "D. Left atrium"
+    ],
+    "answer": "D",
+    "explanation": "The left atrium is the most posterior part of the heart. Significant enlargement, as can occur in conditions like mitral stenosis, can lead to compression of the adjacent esophagus causing dysphagia, and compression of the left recurrent laryngeal nerve (Ortner syndrome) causing hoarseness. [288]"
+  },
+  {
+    "question": "A 45-year-old male with right-dominant coronary circulation suffers a myocardial infarction. He develops bradycardia and heart block. An angiogram would most likely reveal an occlusion in the posterior descending artery (PDA). In a right-dominant system, the PDA is responsible for supplying the posterior 1/3 of the interventricular septum and which other critical structures, explaining the patient's nodal dysfunction?",
+    "options": [
+      "A. Anterolateral papillary muscle and anterior surface of the LV",
+      "B. Right ventricle and the apex",
+      "C. SA and AV nodes",
+      "D. Anterolateral and posteromedial papillary muscles"
+    ],
+    "answer": "C",
+    "explanation": "In a right-dominant circulation (most common), the posterior descending artery (PDA) arises from the right coronary artery (RCA). The PDA supplies the posterior 1/3 of the interventricular septum, the posterior 2/3 of the ventricular walls, the posteromedial papillary muscle, and importantly, the SA and AV nodes. Infarction of the PDA can therefore cause nodal dysfunction like bradycardia or heart block. [288]"
+  },
+  {
+    "question": "A 60-year-old male with chronic hypertension presents with exertional dyspnea. An echocardiogram reveals left ventricular hypertrophy. This compensatory thickening of the LV wall is a response to increased afterload. According to Laplace's law, how does this hypertrophy help maintain normal cardiac function despite the increased pressure?",
+    "options": [
+      "A. It decreases the end-diastolic volume (preload).",
+      "B. It increases the contractility of the myocardial fibers.",
+      "C. It reduces the wall stress.",
+      "D. It increases the heart rate.",
+      "E. It reduces cardiac oxygen demand."
+    ],
+    "answer": "C",
+    "explanation": "Laplace's law for wall stress is Wall stress = (pressure × radius) / (2 × wall thickness). In chronic hypertension, the increased pressure (afterload) increases wall stress. The left ventricle compensates by thickening its wall (hypertrophy), which in turn reduces the overall wall stress, helping to preserve systolic function, at least initially. [289]"
+  },
+  {
+    "question": "A 70-year-old male with aortic stenosis is evaluated. His pulse pressure is noted to be significantly decreased. Pulse pressure is directly proportional to stroke volume and inversely proportional to arterial compliance. Which of the following conditions would also be expected to cause a decreased pulse pressure?",
+    "options": [
+      "A. Aortic regurgitation",
+      "B. Obstructive sleep apnea",
+      "C. Anemia",
+      "D. Cardiogenic shock",
+      "E. Exercise"
+    ],
+    "answer": "D",
+    "explanation": "Pulse pressure (PP) is the difference between systolic and diastolic blood pressure. It is decreased in conditions that lower stroke volume, such as aortic stenosis, cardiogenic shock, cardiac tamponade, and advanced heart failure. Conditions like aortic regurgitation, anemia, and exercise typically increase pulse pressure. [290]"
+  },
+  {
+    "question": "A patient with heart failure is given a positive inotropic agent like dobutamine. According to the Frank-Starling mechanism, how would this intervention affect the cardiac function curve, and what would be the resulting change in stroke volume for a given ventricular end-diastolic volume (preload)?",
+    "options": [
+      "A. The curve shifts downward, resulting in a decreased stroke volume.",
+      "B. The curve shifts upward and to the left, resulting in an increased stroke volume.",
+      "C. There is a movement along the same curve to the right, increasing stroke volume.",
+      "D. The curve shifts to the right, resulting in a decreased stroke volume.",
+      "E. The curve becomes flat, indicating no change in stroke volume."
+    ],
+    "answer": "B",
+    "explanation": "Positive inotropes like dobutamine increase myocardial contractility. On a Frank-Starling curve, which plots stroke volume against ventricular EDV (preload), increased contractility shifts the entire curve upward and to the left. This means that for any given preload, the heart can achieve a higher stroke volume. [290]"
+  },
+  {
+    "question": "During the cardiac cycle, the period of isovolumetric contraction is characterized by specific valve actions and has the highest myocardial oxygen consumption. Which of the following correctly describes the events during this phase in the left ventricle?",
+    "options": [
+      "A. It occurs between aortic valve opening and closing.",
+      "B. It occurs between mitral valve opening and aortic valve closing.",
+      "C. It occurs between mitral valve closing and aortic valve opening.",
+      "D. It occurs between aortic valve closing and mitral valve opening.",
+      "E. It is the period of rapid ventricular filling."
+    ],
+    "answer": "C",
+    "explanation": "Isovolumetric contraction is the phase of the cardiac cycle that begins with the closure of the mitral valve (S1) and ends with the opening of the aortic valve. During this phase, the ventricle contracts, but the volume of blood within it remains constant because both the mitral and aortic valves are closed. This period is also noted for having the highest myocardial oxygen consumption. [292]"
+  },
+  {
+    "question": "A patient is being evaluated for right-sided heart failure. Examination of the jugular venous pulse (JVP) is performed. The 'c' wave in the JVP tracing corresponds to a specific event in the cardiac cycle. What mechanical event in the right heart causes the 'c' wave?",
+    "options": [
+      "A. Atrial contraction",
+      "B. Atrial relaxation",
+      "C. RV contraction causing the closed tricuspid valve to bulge into the atrium",
+      "D. RA emptying into the RV",
+      "E. Increased RA pressure due to filling against a closed tricuspid valve"
+    ],
+    "answer": "C",
+    "explanation": "The jugular venous pulse reflects pressure changes in the right atrium. The 'c' wave is caused by the bulging of the closed tricuspid valve into the right atrium during right ventricular contraction (isovolumetric contraction phase). [292]"
+  },
+  {
+    "question": "A 68-year-old male presents with severe dyspnea and is diagnosed with heart failure with preserved ejection fraction (HFpEF). A pressure-volume loop analysis is performed. How would the pressure-volume loop in a patient with pure diastolic dysfunction (HFpEF) differ from a normal loop, assuming a normal end-diastolic volume?",
+    "options": [
+      "A. A rightward shift of the entire loop, indicating increased end-diastolic volume.",
+      "B. A decreased end-systolic pressure, indicating reduced contractility.",
+      "C. A significantly wider loop, indicating a larger stroke volume.",
+      "D. An upward shift of the diastolic pressure-volume relationship curve, indicating decreased compliance.",
+      "E. A significantly smaller end-systolic volume."
+    ],
+    "answer": "D",
+    "explanation": "Heart failure with preserved ejection fraction (HFpEF) is a form of diastolic dysfunction characterized by decreased ventricular compliance (a stiffer ventricle). On a pressure-volume loop, this is represented by an upward shift of the end-diastolic pressure-volume relationship curve. This means that for any given end-diastolic volume, the end-diastolic pressure is significantly higher than normal. [316]"
+  },
+  {
+    "question": "A patient with a history of an atrial septal defect (ASD) is noted to have a characteristic finding on cardiac auscultation. This finding is due to the left-to-right shunt causing increased volume in the right atrium and ventricle, which delays the closure of the pulmonic valve regardless of the phase of respiration. Which type of S2 splitting is expected in this patient?",
+    "options": [
+      "A. Physiologic splitting",
+      "B. Wide splitting",
+      "C. Fixed splitting",
+      "D. Paradoxical splitting"
+    ],
+    "answer": "C",
+    "explanation": "An atrial septal defect (ASD) causes a left-to-right shunt, leading to increased RA and RV volumes. This results in increased flow through the pulmonic valve, which delays its closure. Because the shunt equalizes pressures between the atria, the effect of respiration on venous return is minimized, leading to a delay in pulmonic valve closure that is 'fixed' and does not vary with respiration. This is known as a fixed split S2. [294]"
+  },
+  {
+    "question": "A young, asymptomatic woman is found to have a late crescendo murmur with a midsystolic click on a routine physical exam. The murmur is best heard at the apex. A maneuver that decreases left ventricular volume, such as standing up from a squatting position, would be expected to cause the click to occur earlier in systole and the murmur to increase in intensity. What is the most likely diagnosis?",
+    "options": [
+      "A. Aortic stenosis",
+      "B. Mitral regurgitation",
+      "C. Mitral valve prolapse",
+      "D. Hypertrophic cardiomyopathy",
+      "E. Ventricular septal defect"
+    ],
+    "answer": "C",
+    "explanation": "Mitral valve prolapse (MVP) is characterized by a late crescendo murmur with a midsystolic click. The click is due to the sudden tensing of the chordae tendineae as the mitral leaflets prolapse into the left atrium. Maneuvers that decrease preload (and thus LV volume), such as standing or Valsalva, cause the prolapse to happen earlier and more severely, moving the click earlier in systole and often making the murmur louder. [295, 296]"
+  },
+  {
+    "question": "A patient with severe aortic regurgitation is being evaluated. Which of the following sets of findings on the pressure-volume loop analysis would be most characteristic of this condition?",
+    "options": [
+      "A. Increased LV pressure, increased ESV, and no change in EDV.",
+      "B. Decreased EDV, decreased ESV, and decreased SV.",
+      "C. No true isovolumetric phases, increased EDV, increased SV, and loss of the dicrotic notch.",
+      "D. Increased LA pressure, decreased EDV, and decreased SV.",
+      "E. Decreased ESV, increased EDV, and a decreased forward stroke volume."
+    ],
+    "answer": "C",
+    "explanation": "In aortic regurgitation, the aortic valve does not close properly, leading to a backflow of blood into the LV during diastole. This eliminates a true isovolumetric relaxation phase. The LV volume increases significantly (increased EDV). The total stroke volume (forward flow + regurgitant flow) is also markedly increased. The aortic pressure tracing loses its dicrotic notch due to the incompetent valve. [293]"
+  },
+  {
+    "question": "A researcher is studying the myocardial action potential in ventricular myocytes. They observe a plateau phase (Phase 2) which is crucial for preventing tetany in cardiac muscle. This plateau is primarily maintained by a balance between the influx of one ion and the efflux of another. Which ion influx is responsible for triggering calcium-induced calcium release and is balanced by potassium efflux during this phase?",
+    "options": [
+      "A. Sodium (Na+)",
+      "B. Calcium (Ca2+)",
+      "C. Chloride (Cl-)",
+      "D. Magnesium (Mg2+)"
+    ],
+    "answer": "B",
+    "explanation": "Phase 2, the plateau phase of the myocardial action potential, is characterized by a balance between the influx of Ca2+ through L-type voltage-gated Ca2+ channels and the efflux of K+ through delayed-rectifier K+ channels. The Ca2+ influx during this phase is critical as it triggers the release of a larger amount of Ca2+ from the sarcoplasmic reticulum (calcium-induced calcium release), which is necessary for myocyte contraction. [297]"
+  },
+  {
+    "question": "The pacemaker action potential of the SA node differs significantly from the ventricular action potential, notably in its automaticity. This spontaneous diastolic depolarization (Phase 4) is primarily due to a specific ion current. Which channel is responsible for this 'funny current' (If) that allows for the slow, mixed Na+/K+ inward flow?",
+    "options": [
+      "A. Fast voltage-gated Na+ channels",
+      "B. L-type voltage-gated Ca2+ channels",
+      "C. Hyperpolarization-activated cyclic nucleotide-gated (HCN) channels",
+      "D. Voltage-gated slow delayed-rectifier K+ channels"
+    ],
+    "answer": "C",
+    "explanation": "The automaticity of SA and AV nodes is due to the slow, spontaneous diastolic depolarization in Phase 4. This is caused by the 'funny current' (If), a slow, mixed Na+/K+ inward current that flows through Hyperpolarization-activated cyclic nucleotide-gated (HCN) channels. The slope of this phase determines the heart rate. [297]"
+  },
+  {
+    "question": "A patient is undergoing an ECG. The cardiologist notes that the PR interval is 240 milliseconds. This interval represents the time from the start of atrial depolarization to the start of ventricular depolarization. The delay that this interval represents is crucial for allowing adequate ventricular filling and is primarily determined by the slow conduction velocity through which part of the conduction system?",
+    "options": [
+      "A. SA node",
+      "B. Atria",
+      "C. AV node",
+      "D. Bundle of His/Purkinje fibers",
+      "E. Ventricles"
+    ],
+    "answer": "C",
+    "explanation": "The speed of conduction is slowest through the AV node (He Parks At Ventura AVenue mnemonic). This creates a delay of about 100 milliseconds, which is the majority of the PR interval (normally 120-200 msec). This delay is crucial because it allows time for the ventricles to fill with blood from the atria before they contract. [298]"
+  },
+  {
+    "question": "A patient with acute decompensated heart failure is found to have elevated levels of B-type natriuretic peptide (BNP). This hormone is released in response to increased ventricular tension and has several physiological effects that counteract the processes leading to heart failure. What is the primary intracellular second messenger through which ANP and BNP exert their effects?",
+    "options": [
+      "A. cAMP",
+      "B. cGMP",
+      "C. IP3",
+      "D. DAG",
+      "E. Tyrosine Kinase"
+    ],
+    "answer": "B",
+    "explanation": "Atrial natriuretic peptide (ANP) and B-type natriuretic peptide (BNP) act via cGMP. They bind to their receptors, which activates guanylate cyclase, leading to the production of cGMP. This results in vasodilation and increased sodium and water excretion by the kidneys. [299, 341]"
+  },
+  {
+    "question": "A patient presents with presyncope after turning his head while wearing a tight shirt collar. This is suspected to be due to carotid sinus hypersensitivity. This reflex involves the transmission of afferent signals from the baroreceptors in the carotid sinus to the nucleus tractus solitarius in the medulla. Which cranial nerve is responsible for transmitting these afferent signals?",
+    "options": [
+      "A. Vagus nerve (CN X)",
+      "B. Glossopharyngeal nerve (CN IX)",
+      "C. Trigeminal nerve (CN V)",
+      "D. Facial nerve (CN VII)",
+      "E. Hypoglossal nerve (CN XII)"
+    ],
+    "answer": "B",
+    "explanation": "Baroreceptors in the carotid sinus respond to changes in blood pressure. The afferent signals from these receptors are transmitted to the nucleus tractus solitarius of the medulla via the glossopharyngeal nerve (CN IX). In carotid sinus hypersensitivity, external pressure on the sinus causes an exaggerated response, leading to bradycardia and vasodilation. [299]"
+  },
+  {
+    "question": "A patient with severe hypoxia is being managed in the ICU. The pulmonary vasculature exhibits a unique response to alveolar hypoxia compared to other organs in the body. What is the characteristic autoregulatory response of the pulmonary arteries to hypoxia?",
+    "options": [
+      "A. Vasodilation to increase blood flow to the hypoxic area.",
+      "B. Vasoconstriction to shunt blood away from poorly ventilated areas.",
+      "C. No significant change in vascular tone.",
+      "D. An initial vasodilation followed by prolonged vasoconstriction.",
+      "E. Release of nitric oxide leading to vasodilation."
+    ],
+    "answer": "B",
+    "explanation": "The pulmonary vasculature is unique in that alveolar hypoxia causes vasoconstriction. This physiological mechanism is crucial for matching perfusion to ventilation, ensuring that blood is shunted away from poorly ventilated areas of the lung and directed toward well-ventilated areas to optimize gas exchange. In other organs, hypoxia typically causes vasodilation. [300]"
+  },
+  {
+    "question": "A patient with nephrotic syndrome develops significant peripheral edema. This edema is primarily caused by an imbalance in the Starling forces across the capillary walls. Which of the following changes in Starling forces is the principal cause of edema in this patient's condition?",
+    "options": [
+      "A. Increased capillary hydrostatic pressure (Pc)",
+      "B. Increased capillary permeability (Kf)",
+      "C. Increased interstitial fluid oncotic pressure (πi)",
+      "D. Decreased plasma oncotic pressure (πc)"
+    ],
+    "answer": "D",
+    "explanation": "Edema is the excess outflow of fluid into the interstitium. In nephrotic syndrome, there is a massive loss of protein (especially albumin) in the urine. This leads to a significant decrease in plasma proteins, which reduces the plasma oncotic pressure (πc). A lower πc reduces the force pulling fluid back into the capillaries, leading to a net filtration of fluid into the interstitial space and causing generalized edema. [301]"
+  },
+  {
+    "question": "A newborn presents with cyanosis and a single loud second heart sound. A chest X-ray shows an 'egg on a string' appearance. An echocardiogram confirms D-transposition of the great arteries (TGA), where the aorta arises from the right ventricle and the pulmonary artery from the left ventricle. This life-threatening condition is caused by the failure of which embryological structure to develop correctly?",
+    "options": [
+      "A. The endocardial cushions to fuse.",
+      "B. The aorticopulmonary septum to spiral.",
+      "C. The sinus venosus to incorporate into the right atrium.",
+      "D. The primitive ventricle to divide.",
+      "E. The foramen ovale to close."
+    ],
+    "answer": "B",
+    "explanation": "D-transposition of the great arteries is a conotruncal abnormality that results from the failure of the aorticopulmonary septum to spiral during development. This leads to the aorta arising from the right ventricle and the pulmonary artery from the left ventricle, creating two separate parallel circuits, which is incompatible with life unless a shunt (like a VSD, PDA, or PFO) exists. [302]"
+  },
+  {
+    "question": "A 10-year-old child with a history of a large, unrepaired ventricular septal defect (VSD) presents with cyanosis, clubbing of the fingers, and polycythemia. Auscultation reveals a loud P2 sound. This clinical picture is consistent with Eisenmenger syndrome. What is the fundamental pathophysiological change that leads to the reversal of the shunt in this condition?",
+    "options": [
+      "A. A sudden increase in left ventricular pressure.",
+      "B. The development of severe left ventricular hypertrophy.",
+      "C. Pathologic remodeling of the pulmonary vasculature leading to severe pulmonary arterial hypertension.",
+      "D. Spontaneous closure of the VSD.",
+      "E. The development of a right-to-left shunt at the atrial level."
+    ],
+    "answer": "C",
+    "explanation": "Eisenmenger syndrome is the long-term consequence of an uncorrected left-to-right shunt (like a VSD, ASD, or PDA). The chronic increase in pulmonary blood flow leads to pathologic remodeling and thickening of the pulmonary vasculature, resulting in severe pulmonary arterial hypertension. When the pressure in the right ventricle exceeds the pressure in the left ventricle, the shunt reverses to become a right-to-left shunt, causing late-onset cyanosis, clubbing, and polycythemia. [303]"
+  },
+  {
+    "question": "A 15-year-old girl with Turner syndrome is evaluated for hypertension. Her blood pressure is elevated in her arms but is weak and delayed in her legs. A chest x-ray reveals rib-notching. This constellation of findings is highly suggestive of coarctation of the aorta. The rib-notching seen on the x-ray is a direct result of what compensatory mechanism?",
+    "options": [
+      "A. Dilation of the aorta proximal to the coarctation.",
+      "B. Hypertrophy of the left ventricle.",
+      "C. Dilation of the intercostal arteries due to collateral circulation.",
+      "D. Formation of berry aneurysms in the cerebral circulation.",
+      "E. Increased pressure in the pulmonary circulation."
+    ],
+    "answer": "C",
+    "explanation": "In coarctation of the aorta, there is a narrowing of the aortic lumen, typically near the ductus arteriosus. To bypass the obstruction and supply the lower body, collateral circulation develops. The internal thoracic arteries supply the anterior intercostal arteries, which then anastomose with the posterior intercostal arteries (arising from the aorta distal to the coarctation). The increased flow and pressure cause these intercostal arteries to enlarge and erode the inferior aspect of the ribs, leading to the characteristic 'rib-notching' seen on chest x-ray. [304]"
+  },
+  {
+    "question": "A 48-year-old woman is evaluated for resistant hypertension. An angiogram of her renal artery shows a 'string of beads' appearance. This finding is characteristic of fibromuscular dysplasia, a cause of secondary hypertension. Pathologically, what type of vessel is primarily affected in arteriosclerosis that can lead to this condition and others like it?",
+    "options": [
+      "A. Elastic arteries and large muscular arteries",
+      "B. Small arteries and arterioles",
+      "C. Capillaries",
+      "D. Large veins",
+      "E. Venules"
+    ],
+    "answer": "B",
+    "explanation": "Arteriolosclerosis affects small arteries and arterioles. The text mentions that secondary hypertension can be due to renal/renovascular diseases like fibromuscular dysplasia (which shows a 'string of beads' appearance) and atherosclerotic renal artery stenosis. These are diseases of the arteries leading to the kidneys. The text defines arteriolosclerosis as affecting small arteries and arterioles, fitting the description of renovascular disease. [304, 306]"
+  },
+  {
+    "question": "A 65-year-old male with a long history of uncontrolled hypertension and smoking presents with the sudden onset of a 'tearing' chest pain that radiates to his back. On examination, his blood pressure is significantly different between his right and left arms. A chest x-ray shows a widened mediastinum. This presentation is highly concerning for an aortic dissection. What is the most significant risk factor for this condition?",
+    "options": [
+      "A. Marfan syndrome",
+      "B. Bicuspid aortic valve",
+      "C. Hypertension",
+      "D. Atherosclerosis",
+      "E. Trauma"
+    ],
+    "answer": "C",
+    "explanation": "An aortic dissection is a longitudinal intimal tear that forms a false lumen. While it is associated with connective tissue disorders like Marfan syndrome and bicuspid aortic valves, the strongest and most common risk factor for aortic dissection is hypertension. [307]"
+  },
+  {
+    "question": "A 60-year-old male with known coronary artery disease undergoes a vasodilator stress test using adenosine. During the test, he develops chest pain and ECG changes consistent with ischemia. This phenomenon, known as coronary steal syndrome, occurs because the vasodilator affects healthy and diseased vessels differently. What is the underlying physiological mechanism of coronary steal?",
+    "options": [
+      "A. The vasodilator constricts the already stenosed coronary arteries, worsening the blockage.",
+      "B. The vasodilator causes a systemic drop in blood pressure, reducing overall coronary perfusion.",
+      "C. The vasodilator dilates normal coronary arteries, shunting blood away from the stenosed arteries that are already maximally dilated.",
+      "D. The vasodilator increases myocardial oxygen demand beyond the supply capacity of the stenosed arteries.",
+      "E. The vasodilator causes a paradoxical increase in coronary vascular resistance."
+    ],
+    "answer": "C",
+    "explanation": "In coronary steal syndrome, the coronary arteries distal to a significant stenosis are already maximally dilated at baseline to maintain blood flow. When a vasodilator like adenosine is administered, it primarily dilates the normal, healthy coronary arteries. This dilation reduces the pressure in these normal vessels, causing blood to be shunted or 'stolen' from the stenosed vessels and redirected to the well-perfused areas, thereby worsening the ischemia in the myocardium supplied by the diseased artery. [308]"
+  },
+  {
+    "question": "A 58-year-old male dies 5 days after a massive myocardial infarction. An autopsy is performed. Given the time frame, which of the following complications, resulting from macrophage-mediated structural degradation, would be the most likely finding responsible for his death?",
+    "options": [
+      "A. Ventricular arrhythmia",
+      "B. Postinfarction fibrinous pericarditis",
+      "C. Free wall rupture leading to cardiac tamponade",
+      "D. True ventricular aneurysm",
+      "E. Postcardiac injury syndrome (Dressler syndrome)"
+    ],
+    "answer": "C",
+    "explanation": "The period from 3 to 14 days post-MI is characterized by the infiltration of macrophages to clear the necrotic tissue. This process weakens the myocardial wall, making it susceptible to rupture. The most dangerous complications during this time (peaking around 5-7 days) are free wall rupture (leading to tamponade), papillary muscle rupture (leading to acute mitral regurgitation), and interventricular septal rupture. These are all due to macrophage-mediated degradation of the infarcted tissue before a stable scar can form. [309, 314]"
+  },
+  {
+    "question": "A patient presents with a suspected ST-elevation myocardial infarction (STEMI). The ECG shows ST-segment elevations in leads II, III, and aVF. An occlusion of which coronary artery is the most likely cause of these findings?",
+    "options": [
+      "A. Left anterior descending artery (LAD)",
+      "B. Left circumflex artery (LCX)",
+      "C. Right coronary artery (RCA)",
+      "D. Obtuse marginal artery (OMA)",
+      "E. Diagonal artery"
+    ],
+    "answer": "C",
+    "explanation": "The ECG leads II, III, and aVF provide a view of the inferior wall of the left ventricle. This territory is most commonly supplied by the right coronary artery (RCA), which gives rise to the posterior descending artery (PDA) in a right-dominant system. Therefore, ST-segment elevations in these leads indicate an inferior wall MI, caused by an occlusion of the RCA. [310]"
+  },
+  {
+    "question": "A 67-year-old male with a history of hypertension and coronary artery disease presents with an irregularly irregular heart rhythm and no discernible P waves on his ECG. The arrhythmia is believed to originate from automatic foci near the pulmonary vein ostia in the left atrium. This patient is at an increased risk of thromboembolic stroke. What is the most likely diagnosis?",
+    "options": [
+      "A. Atrial flutter",
+      "B. Multifocal atrial tachycardia",
+      "C. Atrial fibrillation",
+      "D. Paroxysmal supraventricular tachycardia",
+      "E. Wolff-Parkinson-White syndrome"
+    ],
+    "answer": "C",
+    "explanation": "Atrial fibrillation is characterized by an irregularly irregular rhythm and the absence of discrete P waves. The arrhythmogenic activity most commonly originates from foci near the pulmonary vein ostia in the left atrium. The stasis of blood in the left atrium, particularly the appendage, increases the risk of thrombus formation and subsequent thromboembolic events like stroke. [311]"
+  },
+  {
+    "question": "A 25-year-old patient presents to the emergency department with palpitations. The ECG shows a regular, narrow-complex tachycardia at a rate of 180 bpm. Vagal maneuvers successfully terminate the arrhythmia. The underlying cause is most likely a reentrant circuit. Which part of the heart's conduction system is most commonly the site of this reentrant tract in paroxysmal supraventricular tachycardia (PSVT)?",
+    "options": [
+      "A. SA node",
+      "B. AV node",
+      "C. Bundle of His",
+      "D. Purkinje fibers",
+      "E. Bundle of Kent"
+    ],
+    "answer": "B",
+    "explanation": "Paroxysmal supraventricular tachycardia (PSVT) is most often due to a reentrant circuit. The most common location for this reentry is within the AV node (AV nodal reentrant tachycardia or AVNRT). This is why maneuvers or drugs that slow AV nodal conduction, such as vagal maneuvers or adenosine, are effective in terminating the tachycardia. [311]"
+  },
+  {
+    "question": "A patient is started on a new antiarrhythmic medication and subsequently develops a polymorphic ventricular tachycardia with a shifting sinusoidal waveform on ECG. This arrhythmia, known as Torsades de pointes, is associated with a specific ECG abnormality. Which of the following conditions or drug classes is a well-known cause of the underlying ECG abnormality that predisposes to Torsades de pointes?",
+    "options": [
+      "A. Shortened QT interval",
+      "B. Class III antiarrhythmics (e.g., sotalol)",
+      "C. Hyperkalemia",
+      "D. Digoxin",
+      "E. Beta-blockers"
+    ],
+    "answer": "B",
+    "explanation": "Torsades de pointes is a polymorphic ventricular tachycardia that occurs in the setting of a prolonged QT interval. Many factors can cause long QT, including congenital syndromes, electrolyte abnormalities (hypokalemia, hypomagnesemia), and numerous drugs. Class III antiarrhythmics (like sotalol, ibutilide, dofetilide, amiodarone) and Class Ia antiarrhythmics are well-known for prolonging the QT interval by blocking potassium channels and are thus a common cause of drug-induced Torsades de pointes. [312, 328]"
+  },
+  {
+    "question": "An elderly patient with a history of degenerative heart disease presents with syncope. An ECG shows P waves and QRS complexes that are rhythmically dissociated, with the atrial rate being faster than the ventricular rate. The ventricles are being paced by an escape rhythm. This finding is characteristic of a third-degree (complete) AV block. Which of the following infectious diseases is a known cause of this type of heart block?",
+    "options": [
+      "A. Chagas disease",
+      "B. Lyme disease",
+      "C. Influenza",
+      "D. HIV",
+      "E. Coxsackie B virus"
+    ],
+    "answer": "B",
+    "explanation": "Third-degree or complete AV block is characterized by the complete dissociation of atrial and ventricular activity, as the electrical signal from the atria fails to conduct to the ventricles. While many causes are degenerative, Lyme disease is a well-known infectious cause of third-degree AV block, particularly in endemic areas. [313]"
+  },
+  {
+    "question": "A 50-year-old man with a history of alcohol abuse presents with signs of heart failure, including dyspnea and peripheral edema. An echocardiogram shows a dilated left ventricle with an ejection fraction of 30%. His condition is diagnosed as dilated cardiomyopathy. The eccentric hypertrophy seen in this condition involves the addition of sarcomeres in a specific orientation. Which of the following correctly describes this change?",
+    "options": [
+      "A. Sarcomeres added in parallel, leading to concentric hypertrophy.",
+      "B. Sarcomeres added in series, leading to eccentric hypertrophy.",
+      "C. Myofibrillar disarray and fibrosis.",
+      "D. Amyloid deposition between myocytes.",
+      "E. Infiltration of the myocardium by eosinophils."
+    ],
+    "answer": "B",
+    "explanation": "Dilated cardiomyopathy is the most common type of cardiomyopathy and leads to systolic dysfunction. Pathologically, it is characterized by eccentric hypertrophy, where new sarcomeres are added in series to the existing ones. This causes the ventricular chambers to dilate, leading to the classic 'balloon appearance' of the heart on imaging. [315]"
+  },
+  {
+    "question": "A young athlete collapses during a basketball game and cannot be resuscitated. An autopsy reveals a markedly thickened interventricular septum and myofibrillar disarray. The cause of death is determined to be a ventricular arrhythmia secondary to hypertrophic cardiomyopathy (HCM). The outflow tract obstruction sometimes seen in HCM is caused by asymmetric septal hypertrophy and what other dynamic component?",
+    "options": [
+      "A. Systolic anterior motion of the mitral valve.",
+      "B. Prolapse of the tricuspid valve.",
+      "C. Dilation of the aortic root.",
+      "D. Calcification of the aortic valve.",
+      "E. Apical ballooning of the left ventricle."
+    ],
+    "answer": "A",
+    "explanation": "Hypertrophic cardiomyopathy (HCM) is often caused by mutations in genes for sarcomeric proteins. When it causes outflow obstruction (HOCM), it is due to two main factors: the asymmetric hypertrophy of the interventricular septum, and the systolic anterior motion (SAM) of the anterior leaflet of the mitral valve, which moves toward the septum during systole, narrowing the left ventricular outflow tract. [315]"
+  },
+  {
+    "question": "A 65-year-old male is admitted to the hospital with a massive pulmonary embolism. He develops hypotension, distended neck veins, and tachycardia. His skin is cold and clammy. His hemodynamic measurements would likely show an increased CVP, a decreased PCWP, a decreased cardiac output, and an increased SVR. What type of shock is this patient experiencing?",
+    "options": [
+      "A. Hypovolemic shock",
+      "B. Cardiogenic shock",
+      "C. Obstructive shock",
+      "D. Distributive shock"
+    ],
+    "answer": "C",
+    "explanation": "Obstructive shock is caused by an impediment to cardiopulmonary blood flow despite normal cardiac function and volume status. A massive pulmonary embolism is a classic cause. It obstructs outflow from the right ventricle, leading to increased right-sided pressures (increased CVP), but decreased filling of the left heart (decreased PCWP) and decreased cardiac output. The body compensates with systemic vasoconstriction (increased SVR). [317]"
+  },
+  {
+    "question": "A patient involved in a motor vehicle accident presents with hypotension, distended neck veins, and distant heart sounds. An ECG shows low-voltage QRS complexes and electrical alternans. These findings, known as Beck's triad along with the ECG changes, are highly suggestive of cardiac tamponade. The underlying pathophysiology involves the equilibration of diastolic pressures in all four chambers due to fluid compression. Which finding is characteristic of cardiac tamponade on a jugular venous pressure tracing?",
+    "options": [
+      "A. Prominent 'a' waves",
+      "B. Absent 'x' descent",
+      "C. Prominent 'y' descent",
+      "D. Absent 'y' descent"
+    ],
+    "answer": "D",
+    "explanation": "Cardiac tamponade is the compression of the heart by pericardial fluid. This compression severely restricts ventricular filling during diastole. The 'y' descent of the JVP represents the passive emptying of the right atrium into the right ventricle after the tricuspid valve opens. In cardiac tamponade, this filling is impeded, leading to a blunted or absent 'y' descent. [292, 317]"
+  },
+  {
+    "question": "A 35-year-old IV drug user presents with fever, chills, and a new heart murmur. An echocardiogram reveals large, destructive vegetations on the tricuspid valve. Blood cultures are drawn. This presentation is consistent with acute infective endocarditis. Which of the following organisms is the most common cause of infective endocarditis in the setting of injection drug use?",
+    "options": [
+      "A. Viridans streptococci",
+      "B. Staphylococcus epidermidis",
+      "C. Staphylococcus aureus",
+      "D. Enterococcus",
+      "E. HACEK organisms"
+    ],
+    "answer": "C",
+    "explanation": "Infective endocarditis in persons who inject drugs often involves right-sided valves, particularly the tricuspid valve. Staphylococcus aureus is the most common causative organism in this population, often leading to an acute, aggressive presentation with large vegetations. [318]"
+  },
+  {
+    "question": "A 12-year-old child presents with a history of a recent sore throat, migratory polyarthritis, and a new murmur. Lab tests show elevated anti-streptolysin O (ASO) titers. The diagnosis is acute rheumatic fever. The cardiac manifestations of this disease are caused by a type II hypersensitivity reaction where antibodies against a bacterial protein cross-react with self-antigens. Which bacterial protein is implicated in this molecular mimicry?",
+    "options": [
+      "A. Lipopolysaccharide",
+      "B. M protein",
+      "C. Streptokinase",
+      "D. Hyaluronidase",
+      "E. DNAse B"
+    ],
+    "answer": "B",
+    "explanation": "Rheumatic fever is a nonsuppurative consequence of a pharyngeal infection with group A β-hemolytic streptococci. It is an immune-mediated disease where antibodies produced against the M protein of the streptococcus cross-react with self-antigens in the heart, particularly myosin, leading to pancarditis. [319]"
+  },
+  {
+    "question": "A 40-year-old man presents with a history of recurrent syncopal episodes. Echocardiography reveals a gelatinous mass in the left atrium that appears to be obstructing the mitral valve, consistent with a cardiac myxoma. These tumors can produce constitutional symptoms such as fever and weight loss due to the production of a specific cytokine. Which interleukin is commonly produced by myxomas, leading to these systemic effects?",
+    "options": [
+      "A. IL-1",
+      "B. IL-2",
+      "C. IL-4",
+      "D. IL-6",
+      "E. TNF-α"
+    ],
+    "answer": "D",
+    "explanation": "Myxomas are the most common primary cardiac tumor in adults, typically located in the left atrium. They can cause a 'ball valve' obstruction. In addition to mechanical effects, myxomas can produce Interleukin-6 (IL-6), which is responsible for the associated constitutional symptoms like fever and weight loss. [320]"
+  },
+  {
+    "question": "A 65-year-old woman with a history of hypertension is prescribed hydralazine. This drug is known to cause vasodilation of arterioles more than veins, leading to a reduction in afterload. What is the intracellular mechanism of action of hydralazine?",
+    "options": [
+      "A. It blocks voltage-dependent L-type calcium channels.",
+      "B. It increases cGMP, leading to smooth muscle relaxation.",
+      "C. It is a dopamine D1 receptor agonist.",
+      "D. It directly releases nitric oxide.",
+      "E. It inhibits the Na+/K+ ATPase."
+    ],
+    "answer": "B",
+    "explanation": "Hydralazine is an arterial vasodilator. Its mechanism involves increasing the concentration of cyclic GMP (cGMP) in arterial smooth muscle cells, which leads to relaxation and a decrease in total peripheral resistance (afterload). [289, 323]"
+  },
+  {
+    "question": "A patient with refractory angina is started on ranolazine. Unlike other antianginal agents such as beta-blockers or nitrates, ranolazine reduces myocardial oxygen consumption without significantly affecting heart rate or blood pressure. What is the unique mechanism of action of ranolazine?",
+    "options": [
+      "A. It causes coronary vasodilation by increasing nitric oxide.",
+      "B. It blocks beta-1 adrenergic receptors in the heart.",
+      "C. It inhibits the late phase of the inward sodium current.",
+      "D. It blocks L-type calcium channels in the myocardium.",
+      "E. It inhibits the funny current (If) in the SA node."
+    ],
+    "answer": "C",
+    "explanation": "Ranolazine exerts its antianginal effect by inhibiting the late phase of the inward sodium current (late INa). This reduces intracellular sodium and calcium overload in ischemic myocytes, which in turn reduces diastolic wall tension and myocardial oxygen consumption. It does not significantly affect heart rate or blood pressure. [324]"
+  },
+  {
+    "question": "A patient with hypertriglyceridemia is prescribed gemfibrozil. This medication is effective at lowering triglyceride levels and modestly increasing HDL levels. What is the primary mechanism by which fibrates like gemfibrozil achieve their lipid-lowering effects?",
+    "options": [
+      "A. They inhibit HMG-CoA reductase.",
+      "B. They activate PPAR-α, which upregulates lipoprotein lipase (LPL).",
+      "C. They inhibit cholesterol absorption at the small intestine brush border.",
+      "D. They bind bile acids in the intestine.",
+      "E. They inhibit PCSK9, preventing LDL-receptor degradation."
+    ],
+    "answer": "B",
+    "explanation": "Fibrates, such as gemfibrozil and fenofibrate, are agonists for the peroxisome proliferator-activated receptor-α (PPAR-α). Activating this nuclear receptor leads to the upregulation of lipoprotein lipase (LPL), which increases the clearance of triglycerides from the circulation. It also induces HDL synthesis. [325]"
+  },
+  {
+    "question": "A patient is being treated for supraventricular tachycardia with a Class IA antiarrhythmic agent. This class of drugs is known to moderately block sodium channels and also has potassium channel blocking effects. These actions lead to what specific changes in the ventricular action potential?",
+    "options": [
+      "A. Decreased AP duration and a shortened ERP.",
+      "B. No effect on AP duration or ERP.",
+      "C. Increased AP duration, increased ERP, and an increased QT interval.",
+      "D. A significant decrease in the slope of phase 0 with no effect on AP duration.",
+      "E. A shortening of the AP duration with no effect on the QT interval."
+    ],
+    "answer": "C",
+    "explanation": "Class IA antiarrhythmics (quinidine, procainamide, disopyramide) cause moderate sodium channel blockade, which decreases the slope of phase 0 depolarization. They also block some potassium channels, which prolongs repolarization. The net effect is an increase in the action potential duration (APD), an increase in the effective refractory period (ERP), and a prolongation of the QT interval on the ECG. [326]"
+  },
+  {
+    "question": "A patient suffers an acute myocardial infarction and develops ventricular tachycardia. The physician chooses to use a Class IB antiarrhythmic. What is the primary reason that Class IB agents, such as lidocaine, are particularly effective for ischemic-induced arrhythmias?",
+    "options": [
+      "A. They have the strongest sodium channel blockade.",
+      "B. They significantly prolong the action potential duration.",
+      "C. They preferentially affect ischemic or depolarized Purkinje and ventricular tissue.",
+      "D. They also block beta-adrenergic receptors.",
+      "E. They have no effect on the action potential."
+    ],
+    "answer": "C",
+    "explanation": "Class IB antiarrhythmics (lidocaine, mexiletine) have weak sodium channel blockade. Their unique characteristic is that they bind preferentially to sodium channels in the inactivated state. Ischemic tissue is depolarized, which means more sodium channels are in the inactivated state. Therefore, these drugs are more effective in ischemic or depolarized tissue, making them suitable for treating ventricular arrhythmias post-MI. [326]"
+  },
+  {
+    "question": "A patient with atrial fibrillation is treated with amiodarone. This drug is highly effective but has a complex side effect profile affecting multiple organ systems, partly because it is 40% iodine by weight and is lipophilic. Which of the following is NOT a well-known side effect of amiodarone?",
+    "options": [
+      "A. Pulmonary fibrosis",
+      "B. Hepatotoxicity",
+      "C. Hypothyroidism or hyperthyroidism",
+      "D. Reversible SLE-like syndrome",
+      "E. Blue/gray skin deposits"
+    ],
+    "answer": "D",
+    "explanation": "Amiodarone has numerous potential side effects due to its properties, including pulmonary fibrosis, hepatotoxicity, thyroid dysfunction (both hypo- and hyperthyroidism), corneal deposits, and blue/gray skin deposits (photodermatitis). A reversible SLE-like syndrome is characteristic of the Class IA antiarrhythmic procainamide, not amiodarone. [326, 328]"
+  },
+  {
+    "question": "A 2-day-old infant, born to a mother with poorly controlled type 1 diabetes, presents with hypoglycemia, hypocalcemia, and respiratory distress. The mother's hyperglycemia during pregnancy caused fetal hyperglycemia, leading to compensatory hyperinsulinemia in the fetus. How does fetal hyperinsulinism lead to decreased surfactant production and an increased risk of neonatal respiratory distress syndrome?",
+    "options": [
+      "A. Insulin directly inhibits the type II pneumocytes.",
+      "B. Insulin enhances the breakdown of existing surfactant.",
+      "C. High insulin levels antagonize the maturational effects of cortisol on the fetal lungs.",
+      "D. Fetal hyperinsulinemia causes pulmonary vasoconstriction.",
+      "E. Insulin promotes the development of hyaline membranes."
+    ],
+    "answer": "C",
+    "explanation": "Cortisol is essential for fetal lung maturation, including the production of surfactant by type II pneumocytes. In a fetus exposed to maternal hyperglycemia, the resulting fetal hyperinsulinemia antagonizes the effects of cortisol. This leads to delayed lung maturation and reduced surfactant production, increasing the risk of neonatal respiratory distress syndrome. (This concept integrates general endocrine principles with specific pathology. While not explicitly stated in the provided text, it's a core USMLE concept linked to maternal diabetes effects mentioned on page 304)."
+  },
+  {
+    "question": "An infant presents with ambiguous genitalia, hypertension, and hypokalemia. Laboratory studies show decreased levels of cortisol and androgens, but markedly elevated levels of mineralocorticoids, specifically 11-deoxycorticosterone. A genetic test would most likely reveal a deficiency in which of the following enzymes involved in steroidogenesis?",
+    "options": [
+      "A. 21-hydroxylase",
+      "B. 11β-hydroxylase",
+      "C. 17α-hydroxylase",
+      "D. 3β-hydroxysteroid dehydrogenase",
+      "E. Aldosterone synthase"
+    ],
+    "answer": "C",
+    "explanation": "A deficiency in 17α-hydroxylase prevents the synthesis of both cortisol and androgens. This shunts all steroid precursors down the mineralocorticoid pathway. The lack of cortisol leads to increased ACTH, which further drives the production of mineralocorticoids like 11-deoxycorticosterone, causing hypertension and hypokalemia. The lack of androgens leads to ambiguous genitalia in XY individuals and a lack of secondary sexual development in XX individuals. [339]"
+  },
+  {
+    "question": "A 45-year-old woman with a history of HIV-associated lipodystrophy is treated with tesamorelin. This drug is an analog of a hypothalamic-releasing hormone. Which hormone's release is stimulated by this medication to achieve its therapeutic effect?",
+    "options": [
+      "A. Growth hormone (GH)",
+      "B. Adrenocorticotropic hormone (ACTH)",
+      "C. Thyroid-stimulating hormone (TSH)",
+      "D. Luteinizing hormone (LH)",
+      "E. Prolactin"
+    ],
+    "answer": "A",
+    "explanation": "Tesamorelin is an analog of Growth Hormone-Releasing Hormone (GHRH). GHRH is a hypothalamic hormone that stimulates the anterior pituitary to release Growth Hormone (GH). Tesamorelin is used to treat HIV-associated lipodystrophy. [332]"
+  },
+  {
+    "question": "A patient with a pituitary prolactinoma presents with amenorrhea and galactorrhea. The elevated prolactin levels suppress the hypothalamic-pituitary-gonadal axis, leading to hypogonadism. Which hypothalamic hormone's release is directly inhibited by high levels of prolactin, causing the observed symptoms?",
+    "options": [
+      "A. Thyrotropin-releasing hormone (TRH)",
+      "B. Corticotropin-releasing hormone (CRH)",
+      "C. Gonadotropin-releasing hormone (GnRH)",
+      "D. Growth hormone-releasing hormone (GHRH)",
+      "E. Somatostatin"
+    ],
+    "answer": "C",
+    "explanation": "Prolactin has an inhibitory effect on the synthesis and release of Gonadotropin-releasing hormone (GnRH) from the hypothalamus. The resulting decrease in LH and FSH leads to hypogonadism, which manifests as amenorrhea in females and decreased libido/impotence in males. [332, 334]"
+  },
+  {
+    "question": "A patient with primary hypothyroidism is found to have galactorrhea. While this is an uncommon finding, it can be explained by the interplay between hypothalamic and pituitary hormones. The elevated levels of which hypothalamic hormone in primary hypothyroidism are responsible for stimulating the secretion of prolactin?",
+    "options": [
+      "A. Dopamine",
+      "B. Somatostatin",
+      "C. Gonadotropin-releasing hormone (GnRH)",
+      "D. Thyrotropin-releasing hormone (TRH)",
+      "E. Corticotropin-releasing hormone (CRH)"
+    ],
+    "answer": "D",
+    "explanation": "In primary hypothyroidism, the low levels of T3/T4 lead to a loss of negative feedback on the hypothalamus, causing an increase in Thyrotropin-releasing hormone (TRH). TRH not only stimulates the release of TSH but also stimulates the release of prolactin from the anterior pituitary. This can lead to hyperprolactinemia and subsequent galactorrhea. [332, 334]"
+  },
+  {
+    "question": "A patient being treated for hyperthyroidism experiences a sudden exposure to a large amount of iodine from a contrast agent. Paradoxically, her symptoms of hyperthyroidism temporarily improve. This phenomenon, known as the Wolff-Chaikoff effect, involves the temporary inhibition of an enzyme, leading to a decrease in thyroid hormone synthesis. Which enzyme is turned off by the excess iodine?",
+    "options": [
+      "A. 5'-deiodinase",
+      "B. Thyroid peroxidase",
+      "C. H+/K+-ATPase",
+      "D. Thyroglobulin",
+      "E. Sodium-iodide symporter"
+    ],
+    "answer": "B",
+    "explanation": "The Wolff-Chaikoff effect is a protective autoregulatory mechanism where a sudden, large dose of iodine temporarily inhibits thyroid hormone synthesis. It does this by turning off the thyroid peroxidase enzyme, which is responsible for the oxidation of iodide, organification (iodination of thyroglobulin), and the coupling of iodotyrosines (MIT and DIT) to form T3 and T4. [335]"
+  },
+  {
+    "question": "A patient with severe hypomagnesemia secondary to chronic alcohol use disorder presents with hypocalcemia that is refractory to calcium supplementation. The low magnesium level is impairing the function of the parathyroid glands. How does very severe hypomagnesemia affect the secretion of parathyroid hormone (PTH)?",
+    "options": [
+      "A. It causes a massive increase in PTH secretion.",
+      "B. It has no effect on PTH secretion.",
+      "C. It induces end-organ resistance to PTH.",
+      "D. It decreases PTH secretion.",
+      "E. It increases the secretion of PTH-related peptide (PTHrP)."
+    ],
+    "answer": "D",
+    "explanation": "Magnesium levels have a complex relationship with PTH secretion. Mild to moderate hypomagnesemia stimulates PTH secretion. However, severe hypomagnesemia paradoxically inhibits PTH synthesis and secretion from the chief cells of the parathyroid gland, leading to functional hypoparathyroidism and subsequent hypocalcemia. [336]"
+  },
+  {
+    "question": "A patient with suspected factitious hypoglycemia (surreptitious injection of insulin) is evaluated. Laboratory tests are ordered to differentiate this from an endogenous cause like an insulinoma. Which of the following lab findings would be most consistent with exogenous insulin administration rather than an insulinoma?",
+    "options": [
+      "A. High insulin, high C-peptide, low glucose",
+      "B. High insulin, low C-peptide, low glucose",
+      "C. Low insulin, low C-peptide, high glucose",
+      "D. High insulin, high C-peptide, high glucose",
+      "E. Low insulin, high C-peptide, low glucose"
+    ],
+    "answer": "B",
+    "explanation": "Proinsulin is cleaved into insulin and C-peptide in equal amounts before being secreted from pancreatic beta cells. Therefore, endogenous hyperinsulinism (from an insulinoma or sulfonylurea use) will result in high levels of both insulin and C-peptide. Commercially available injectable insulin does not contain C-peptide. Thus, factitious hypoglycemia from exogenous insulin injection will be characterized by high insulin levels but low (suppressed) C-peptide levels. [338]"
+  },
+  {
+    "question": "A patient is found to have a mutation in the GNAS gene that was inherited from his father. He exhibits the physical findings of Albright hereditary osteodystrophy, including short stature and shortened 4th/5th digits. However, his lab values for calcium, phosphate, and PTH are all normal. What is the diagnosis for this condition?",
+    "options": [
+      "A. Pseudohypoparathyroidism type 1A",
+      "B. Primary hyperparathyroidism",
+      "C. Pseudopseudohypoparathyroidism",
+      "D. Vitamin D resistant rickets",
+      "E. Familial hypocalciuric hypercalcemia"
+    ],
+    "answer": "C",
+    "explanation": "The GNAS gene is subject to genomic imprinting. When the inactivating mutation is inherited from the mother, it leads to Pseudohypoparathyroidism type 1A, with end-organ resistance to PTH (high PTH, low Ca2+) and the Albright phenotype. When the same mutation is inherited from the father, the patient develops the physical phenotype of Albright hereditary osteodystrophy but does not have end-organ resistance to PTH, resulting in normal calcium, phosphate, and PTH levels. This condition is called pseudopseudohypoparathyroidism. [348]"
+  },
+  {
+    "question": "A 45-year-old man presents with a painful, enlarging thyroid gland, jaw pain, and fever, which were preceded by a viral upper respiratory infection. Laboratory studies show an elevated ESR, low TSH, and high T4. A radioactive iodine uptake scan would show decreased uptake. Histological examination of a biopsy would most likely reveal which of the following findings?",
+    "options": [
+      "A. Hürthle cells and lymphoid aggregates with germinal centers",
+      "B. Granulomatous inflammation",
+      "C. Thyroid tissue replaced by fibrous tissue and inflammatory infiltrate",
+      "D. Tall, crowded follicular epithelial cells with scalloped colloid",
+      "E. Sheets of polygonal cells in an amyloid stroma"
+    ],
+    "answer": "B",
+    "explanation": "This clinical presentation is classic for subacute granulomatous thyroiditis (de Quervain thyroiditis). It is characterized by a very tender thyroid, jaw pain, and a transient hyperthyroid state due to follicular destruction following a viral illness. The key histological finding is granulomatous inflammation. [345]"
+  },
+  {
+    "question": "A 40-year-old woman is diagnosed with Graves disease. In addition to hyperthyroidism and a diffuse goiter, she has exophthalmos and pretibial myxedema. The pathogenesis of these extrathyroidal manifestations involves the stimulation of fibroblasts in the retro-orbital space and dermis by T-cells and cytokines. What substance, secreted by these activated fibroblasts, is responsible for the osmotic swelling and tissue expansion?",
+    "options": [
+      "A. Collagen",
+      "B. Keratin",
+      "C. Hydrophilic glycosaminoglycans (GAGs)",
+      "D. Amyloid",
+      "E. Fibrin"
+    ],
+    "answer": "C",
+    "explanation": "In Graves disease, the extrathyroidal manifestations like orbitopathy and pretibial myxedema are caused by an autoimmune process. T-cell activation leads to the release of cytokines that stimulate orbital and dermal fibroblasts. These fibroblasts then secrete large amounts of hydrophilic glycosaminoglycans (GAGs), which draw in water, leading to osmotic swelling, muscle inflammation, and edema in the retro-orbital space and pretibial areas. [346]"
+  },
+  {
+    "question": "A 50-year-old man undergoes a thyroidectomy for a suspicious nodule. The pathology report describes a tumor with empty-appearing nuclei with central clearing ('Orphan Annie' eyes) and psammoma bodies. The tumor has a good prognosis. What is the most likely diagnosis?",
+    "options": [
+      "A. Follicular carcinoma",
+      "B. Medullary carcinoma",
+      "C. Papillary carcinoma",
+      "D. Anaplastic carcinoma",
+      "E. Thyroid adenoma"
+    ],
+    "answer": "C",
+    "explanation": "Papillary carcinoma is the most common type of thyroid cancer and has a good prognosis. Its characteristic histological features include 'Orphan Annie' eye nuclei (empty-appearing nuclei with central clearing), psammoma bodies (laminated calcifications), and nuclear grooves. [347]"
+  },
+  {
+    "question": "A 60-year-old man with end-stage renal disease on dialysis for many years develops hypercalcemia despite his kidney failure. Lab tests show markedly elevated PTH levels. This condition, known as tertiary hyperparathyroidism, develops from a long-standing secondary hyperparathyroidism. What is the underlying pathophysiology of tertiary hyperparathyroidism?",
+    "options": [
+      "A. Ectopic production of PTH by a malignancy.",
+      "B. A genetic defect in the calcium-sensing receptor.",
+      "C. The development of a parathyroid adenoma.",
+      "D. Refractory, autonomous PTH secretion from hyperplastic parathyroid glands.",
+      "E. Excessive intake of calcium and vitamin D."
+    ],
+    "answer": "D",
+    "explanation": "Tertiary hyperparathyroidism occurs as a complication of chronic secondary hyperparathyroidism, most often in the setting of end-stage renal disease. The chronic stimulation of the parathyroid glands (due to hypocalcemia and hyperphosphatemia) leads to parathyroid hyperplasia. Eventually, one or more of these glands may become autonomous, secreting very high levels of PTH regardless of the serum calcium level, leading to hypercalcemia. [349]"
+  },
+  {
+    "question": "A 40-year-old patient with Type 2 diabetes develops cataracts and peripheral neuropathy. These complications are, in part, due to osmotic damage caused by the accumulation of a specific substance in tissues that have aldose reductase but limited sorbitol dehydrogenase activity. What is this substance that accumulates?",
+    "options": [
+      "A. Advanced glycation end-products (AGEs)",
+      "B. Fructose",
+      "C. Lactose",
+      "D. Sorbitol",
+      "E. Glycogen"
+    ],
+    "answer": "D",
+    "explanation": "In states of hyperglycemia, the enzyme aldose reductase converts excess glucose into sorbitol. In tissues that lack sufficient sorbitol dehydrogenase to convert sorbitol to fructose (such as the lens of the eye, nerves, and kidneys), sorbitol accumulates. As an osmotically active substance, it draws water into the cells, leading to osmotic damage, which contributes to the development of cataracts and neuropathy in diabetic patients. [350]"
+  },
+  {
+    "question": "A patient presents with a history of recurrent peptic ulcers, some in the jejunum, that are refractory to standard doses of proton pump inhibitors. He also has chronic diarrhea. A secretin stimulation test is performed, which results in a paradoxical increase in serum gastrin levels. This clinical picture is highly suggestive of Zollinger-Ellison syndrome. This syndrome is often a component of which multiple endocrine neoplasia (MEN) type?",
+    "options": [
+      "A. MEN1",
+      "B. MEN2A",
+      "C. MEN2B",
+      "D. von Hippel-Lindau syndrome",
+      "E. Neurofibromatosis type 1"
+    ],
+    "answer": "A",
+    "explanation": "Zollinger-Ellison syndrome is caused by a gastrin-secreting tumor (gastrinoma), most often located in the duodenum or pancreas. It is a key feature of Multiple Endocrine Neoplasia Type 1 (MEN1), which is characterized by the '3 P's': Pituitary tumors, Pancreatic endocrine tumors (like gastrinomas and insulinomas), and Parathyroid adenomas. [356, 357]"
+  },
+  {
+    "question": "A 55-year-old woman is diagnosed with primary biliary cholangitis. This autoimmune condition is characterized by the destruction of lobular bile ducts. A specific antibody is highly associated with this disease and is a key diagnostic marker. Which antibody is most characteristic of primary biliary cholangitis?",
+    "options": [
+      "A. Anti-smooth muscle antibody",
+      "B. Anti-liver/kidney microsomal-1 antibody",
+      "C. MPO-ANCA/p-ANCA",
+      "D. Antimitochondrial antibody",
+      "E. Anti-Saccharomyces cerevisiae antibody (ASCA)"
+    ],
+    "answer": "D",
+    "explanation": "Primary biliary cholangitis is an autoimmune disease, most common in middle-aged women, that leads to the destruction of small intralobular bile ducts. The serological hallmark of the disease is the presence of antimitochondrial antibodies (AMA), which are found in the vast majority of patients. [402]"
+  },
+  {
+    "question": "A 65-year-old patient presents with painless hematochezia. Colonoscopy reveals multiple tortuous, dilated vessels in the cecum, consistent with angiodysplasia. This condition is more common in older patients and is known to be associated with a specific valvular heart disease. Which cardiac condition has a known association with angiodysplasia?",
+    "options": [
+      "A. Mitral stenosis",
+      "B. Aortic stenosis",
+      "C. Tricuspid regurgitation",
+      "D. Pulmonic stenosis",
+      "E. Mitral valve prolapse"
+    ],
+    "answer": "B",
+    "explanation": "Angiodysplasia is a degenerative vascular lesion of the GI tract, most commonly in the right colon, that can cause lower GI bleeding. It has a known association with several conditions, including end-stage renal disease, von Willebrand disease, and aortic stenosis. [393]"
+  },
+  {
+    "question": "A patient with ulcerative colitis is being treated with sulfasalazine. This drug is a combination of two components that are cleaved by colonic bacteria to become active. One component is an anti-inflammatory agent, and the other is an antibacterial agent. What is the anti-inflammatory component of sulfasalazine?",
+    "options": [
+      "A. Sulfapyridine",
+      "B. 5-aminosalicylic acid (5-ASA)",
+      "C. Mesalamine",
+      "D. Metronidazole",
+      "E. Ciprofloxacin"
+    ],
+    "answer": "B",
+    "explanation": "Sulfasalazine is composed of sulfapyridine linked to 5-aminosalicylic acid (5-ASA). When the drug reaches the colon, bacterial enzymes cleave the bond. The sulfapyridine component has antibacterial effects, while the 5-ASA component (also known as mesalamine) has topical anti-inflammatory effects and is the active moiety for treating IBD. [407]"
+  },
+  {
+    "question": "A patient undergoing chemotherapy experiences severe nausea and vomiting. The physician prescribes ondansetron. This drug is effective because it blocks a specific receptor in the chemoreceptor trigger zone and on peripheral vagal nerve terminals. What is the receptor target of ondansetron?",
+    "options": [
+      "A. D2-receptor",
+      "B. NK1-receptor",
+      "C. H1-receptor",
+      "D. 5-HT3-receptor",
+      "E. Muscarinic receptor"
+    ],
+    "answer": "D",
+    "explanation": "Ondansetron and other '-setron' drugs are 5-HT3 receptor antagonists. They exert their antiemetic effects by blocking 5-HT3 receptors both centrally in the chemoreceptor trigger zone of the area postrema and peripherally on vagal afferent nerves in the GI tract. [407]"
+  },
+  {
+    "question": "A patient with chronic constipation and irritable bowel syndrome is prescribed linaclotide. This medication works by activating an enzyme on the luminal surface of the intestinal epithelium, which leads to increased fluid and electrolyte secretion. Which enzyme does linaclotide activate?",
+    "options": [
+      "A. Adenylate cyclase",
+      "B. Guanylate cyclase-C",
+      "C. Carbonic anhydrase",
+      "D. Na+/K+-ATPase",
+      "E. NHE3 exchanger"
+    ],
+    "answer": "B",
+    "explanation": "Linaclotide and plecanatide are guanylate cyclase-C agonists. By activating this receptor on the intestinal epithelium, they increase the intracellular concentration of cGMP. This, in turn, activates the CFTR ion channel, leading to increased secretion of chloride and bicarbonate into the intestinal lumen, which brings water with it, softening stool and increasing motility. [408]"
+  },
+  {
+    "question": "A newborn presents with cyanosis that is exacerbated by crying and exercise. Auscultation reveals a harsh systolic ejection murmur. A chest X-ray shows a 'boot-shaped' heart. This classic presentation is indicative of Tetralogy of Fallot. The prognosis and severity of cyanosis in this condition are most importantly determined by the degree of which of its four components?",
+    "options": [
+      "A. Ventricular septal defect (VSD)",
+      "B. Overriding aorta",
+      "C. Right ventricular hypertrophy (RVH)",
+      "D. Pulmonary infundibular stenosis"
+    ],
+    "answer": "D",
+    "explanation": "Tetralogy of Fallot consists of four defects (PROVe): Pulmonary stenosis, Right ventricular hypertrophy, Overriding aorta, and VSD. The degree of pulmonary infundibular stenosis is the most critical determinant of the clinical severity. Severe stenosis causes a significant obstruction to right ventricular outflow, forcing more deoxygenated blood across the VSD into the systemic circulation (right-to-left shunt), leading to more profound cyanosis. [302]"
+  },
+  {
+    "question": "A 4-year-old child presents with a firm, irregular abdominal mass that crosses the midline. Further workup reveals elevated levels of homovanillic acid (HVA) and vanillylmandelic acid (VMA) in the urine. A biopsy of the mass shows small, round blue cells forming Homer-Wright rosettes. This tumor originates from which of the following cell types?",
+    "options": [
+      "A. Chromaffin cells of the adrenal medulla",
+      "B. Neural crest cells of the sympathetic chain",
+      "C. Mesenchymal cells of the kidney",
+      "D. Hepatocytes",
+      "E. Pancreatic islet cells"
+    ],
+    "answer": "B",
+    "explanation": "This presentation is classic for a neuroblastoma, the most common extracranial solid tumor in children. Neuroblastomas arise from neural crest cells anywhere along the sympathetic chain, though they most commonly arise in the adrenal medulla. They are characterized by elevated catecholamine metabolites (HVA, VMA) in the urine and the presence of Homer-Wright rosettes on histology. [354]"
+  },
+  {
+    "question": "A patient with familial adenomatous polyposis (FAP) is found to have multiple osteomas of the mandible and congenital hypertrophy of the retinal pigment epithelium. This specific constellation of findings, in addition to the colonic polyps, constitutes which named syndrome?",
+    "options": [
+      "A. Turcot syndrome",
+      "B. Peutz-Jeghers syndrome",
+      "C. Gardner syndrome",
+      "D. Lynch syndrome",
+      "E. Juvenile polyposis syndrome"
+    ],
+    "answer": "C",
+    "explanation": "Gardner syndrome is a variant of familial adenomatous polyposis (FAP). In addition to the thousands of colonic adenomatous polyps characteristic of FAP, patients with Gardner syndrome also present with extracolonic manifestations, including osseous tumors (like osteomas of the skull and mandible), soft tissue tumors, and congenital hypertrophy of the retinal pigment epithelium (CHRPE). [394]"
+  },
+  {
+    "question": "A 50-year-old male with a history of alcohol use disorder presents with a painful, partial-thickness longitudinal laceration at the gastroesophageal junction after an episode of severe vomiting. He reports hematemesis. This condition is known as Mallory-Weiss syndrome. What layer of the esophageal wall is typically spared in this condition?",
+    "options": [
+      "A. Mucosa",
+      "B. Submucosa",
+      "C. Muscularis externa",
+      "D. Adventitia"
+    ],
+    "answer": "C",
+    "explanation": "Mallory-Weiss syndrome is characterized by partial thickness, longitudinal tears at the gastroesophageal junction. These lacerations are confined to the mucosa and submucosa. Unlike Boerhaave syndrome, which is a transmural rupture, the muscularis externa and adventitia are not breached in Mallory-Weiss syndrome. [384]"
+  },
+  {
+    "question": "A 3-week-old firstborn male infant presents with postprandial nonbilious projectile vomiting. On physical examination, an olive-shaped mass is palpated in the epigastric region. The infant's electrolyte panel would most likely show which pattern of acid-base and electrolyte disturbance?",
+    "options": [
+      "A. Metabolic acidosis with hyperkalemia and hyperchloremia",
+      "B. Metabolic alkalosis with hypokalemia and hypochloremia",
+      "C. Respiratory acidosis with normal electrolytes",
+      "D. Respiratory alkalosis with hypokalemia",
+      "E. Normal acid-base status with isolated hypokalemia"
+    ],
+    "answer": "B",
+    "explanation": "The infant has hypertrophic pyloric stenosis. The persistent projectile vomiting leads to the loss of large amounts of gastric acid (HCl). This loss of H+ and Cl- directly causes a hypochloremic metabolic alkalosis. The subsequent volume contraction activates the renin-angiotensin-aldosterone system, which leads to renal excretion of K+ in an attempt to retain Na+ and water, resulting in hypokalemia. [366]"
+  },
+  {
+    "question": "A 60-year-old male is diagnosed with carcinoid syndrome secondary to a metastatic intestinal carcinoid tumor. He presents with episodic flushing, diarrhea, and wheezing. The tumor is producing excessive amounts of serotonin. The overproduction of serotonin can deplete its precursor amino acid, leading to a deficiency of another essential substance. Which vitamin deficiency can result from this condition, potentially causing pellagra?",
+    "options": [
+      "A. Vitamin B6 (Pyridoxine)",
+      "B. Vitamin B12 (Cobalamin)",
+      "C. Vitamin C (Ascorbic acid)",
+      "D. Vitamin B3 (Niacin)",
+      "E. Vitamin B1 (Thiamine)"
+    ],
+    "answer": "D",
+    "explanation": "Serotonin (5-HT) is synthesized from the amino acid tryptophan. The body also uses tryptophan to synthesize niacin (vitamin B3). In carcinoid syndrome, the tumor can divert a large portion of the body's tryptophan toward serotonin production. This depletes the available tryptophan, leading to a deficiency in niacin synthesis, which can manifest as pellagra (dermatitis, diarrhea, dementia). [357]"
+  },
+  {
+    "question": "A 30-year-old woman with Crohn disease affecting her terminal ileum presents with recurrent kidney stones. Urinalysis confirms the stones are made of calcium oxalate. The malabsorption of which substance in her inflamed ileum is the primary driver for her increased risk of forming these stones?",
+    "options": [
+      "A. Vitamin B12",
+      "B. Iron",
+      "C. Fat",
+      "D. Glucose",
+      "E. Folic acid"
+    ],
+    "answer": "C",
+    "explanation": "In patients with terminal ileum disease (like Crohn), there is malabsorption of bile salts, which leads to malabsorption of fat (steatorrhea). Normally, calcium in the gut lumen binds to dietary oxalate, forming an unabsorbable complex that is excreted. In steatorrhea, the unabsorbed fatty acids bind to calcium instead. This leaves oxalate free to be absorbed by the colon, leading to hyperoxaluria and an increased risk of forming calcium oxalate kidney stones. [382, 389]"
+  },
+  {
+    "question": "A 60-year-old male with a history of cirrhosis presents with ascites. A diagnostic paracentesis is performed. Analysis of the ascitic fluid is crucial to determine if the ascites is due to portal hypertension. Which of the following findings in the ascitic fluid is most indicative of portal hypertension?",
+    "options": [
+      "A. A low protein concentration (<2.5 g/dL)",
+      "B. An absolute neutrophil count > 250 cells/mm3",
+      "C. A serum-to-ascites albumin gradient (SAAG) ≥ 1.1 g/dL",
+      "D. A serum-to-ascites albumin gradient (SAAG) < 1.1 g/dL",
+      "E. The presence of malignant cells"
+    ],
+    "answer": "C",
+    "explanation": "The serum-to-ascites albumin gradient (SAAG) is the best test for determining the cause of ascites. It is calculated by subtracting the ascitic fluid albumin concentration from the serum albumin concentration. A SAAG of ≥ 1.1 g/dL indicates that the ascites is due to portal hypertension with high accuracy. [396]"
+  },
+  {
+    "question": "A patient is diagnosed with Dubin-Johnson syndrome after presenting with mild jaundice. Lab tests show a conjugated hyperbilirubinemia. A liver biopsy is performed, and the liver appears grossly black. This pigmentation is due to the accumulation of metabolites of which endogenous substance that cannot be properly excreted into the bile?",
+    "options": [
+      "A. Bilirubin",
+      "B. Iron",
+      "C. Copper",
+      "D. Epinephrine",
+      "E. Porphyrins"
+    ],
+    "answer": "D",
+    "explanation": "Dubin-Johnson syndrome is a benign autosomal recessive disorder causing conjugated hyperbilirubinemia due to a defect in the canalicular membrane transport protein (MRP2) responsible for excreting conjugated bilirubin and other substances into bile. The characteristic black (Dark) color of the liver is caused by the accumulation of polymerised epinephrine metabolites within lysosomes of the hepatocytes. [401]"
+  },
+  {
+    "question": "A patient with cirrhosis and esophageal varices presents with a massive upper GI bleed. After stabilization, he is given octreotide to help control the bleeding. What is the mechanism of action of octreotide in this setting?",
+    "options": [
+      "A. It directly causes vasoconstriction of the esophageal varices.",
+      "B. It inhibits the secretion of various splanchnic vasodilatory hormones, reducing portal inflow.",
+      "C. It promotes the formation of a blood clot over the bleeding site.",
+      "D. It increases the tone of the lower esophageal sphincter.",
+      "E. It neutralizes gastric acid to prevent further erosion."
+    ],
+    "answer": "B",
+    "explanation": "Octreotide is a long-acting analog of somatostatin. In the setting of variceal bleeding, it works by inhibiting the release of various vasodilatory hormones in the splanchnic circulation (like glucagon). This leads to splanchnic vasoconstriction, which reduces blood flow into the portal system, thereby lowering portal pressure and helping to control the bleeding from the varices. [378, 407]"
+  },
+  {
+    "question": "An infant is born with a congenital umbilical hernia. This type of hernia is caused by a delay in the closure of the umbilical ring following the physiological herniation of the midgut. How is a congenital umbilical hernia distinguished from an omphalocele on physical examination?",
+    "options": [
+      "A. An umbilical hernia is not covered by any membrane, whereas an omphalocele is.",
+      "B. An umbilical hernia is covered by skin, whereas an omphalocele is covered by peritoneum and amnion.",
+      "C. An umbilical hernia is located to the right of the umbilicus, whereas an omphalocele is midline.",
+      "D. An umbilical hernia is always associated with chromosomal abnormalities, whereas an omphalocele is not.",
+      "E. An umbilical hernia is not reducible, whereas an omphalocele is."
+    ],
+    "answer": "B",
+    "explanation": "A congenital umbilical hernia is a defect in the closure of the umbilical ring, but it is covered by the overlying skin. An omphalocele is a more severe defect where abdominal contents herniate through the umbilical ring itself and are covered by a sac composed of peritoneum and amnion, but not skin. [365]"
+  },
+  {
+    "question": "A 50-year-old male with a history of hypertension presents with severe, episodic hyperadrenergic symptoms including headaches, palpitations, and diaphoresis. His blood pressure is markedly elevated during these spells. A 24-hour urine collection shows elevated metanephrines. These findings are consistent with a pheochromocytoma. Before surgical resection of the tumor, what is the essential first step in medical management to prevent a hypertensive crisis?",
+    "options": [
+      "A. Administration of a beta-blocker like propranolol.",
+      "B. Administration of an irreversible alpha-antagonist like phenoxybenzamine.",
+      "C. Administration of a loop diuretic to reduce volume.",
+      "D. Administration of an ACE inhibitor.",
+      "E. Immediate surgical resection without medical pre-treatment."
+    ],
+    "answer": "B",
+    "explanation": "In a patient with a pheochromocytoma, the tumor secretes large amounts of catecholamines (epinephrine, norepinephrine). If a beta-blocker is given first, it will block the vasodilatory effects of beta-2 receptors, leaving the vasoconstrictive effects of alpha-1 receptors unopposed. This can lead to a severe, life-threatening hypertensive crisis. Therefore, it is critical to first block the alpha-receptors with an agent like phenoxybenzamine, and only then, after adequate alpha-blockade is achieved, can a beta-blocker be safely added to control tachycardia. 'A before B'. [355]"
+  },
+  {
+    "question": "A patient presents with necrolytic migratory erythema, diabetes, and significant weight loss. Lab tests show markedly elevated levels of a specific pancreatic hormone. A CT scan reveals a tumor in the pancreas. This constellation of findings is characteristic of a glucagonoma. What are the '6 D's' associated with this rare neuroendocrine tumor?",
+    "options": [
+      "A. Dermatitis, Diabetes, DVT, Declining weight, Depression, Diarrhea",
+      "B. Dysphagia, Dyspnea, Dizziness, Deafness, Dementia, Dehydration",
+      "C. Diaphoresis, Dilated pupils, Dry mouth, Diplopia, Dysarthria, Dystonia",
+      "D. Dermatitis, Dyslipidemia, Dilated cardiomyopathy, Duodenal ulcers, Diarrhea, Dehydration"
+    ],
+    "answer": "A",
+    "explanation": "A glucagonoma is a rare tumor of the pancreatic alpha cells that overproduces glucagon. The classic presentation includes the '6 D's': Dermatitis (specifically necrolytic migratory erythema), Diabetes (hyperglycemia), DVT (deep vein thrombosis), Declining weight, Depression, and Diarrhea. [357]"
+  },
+  {
+    "question": "A 25-year-old male is diagnosed with type 1 diabetes mellitus. His condition is caused by an autoimmune T-cell-mediated destruction of the pancreatic beta cells. This autoimmune process is strongly associated with which pair of HLA serotypes?",
+    "options": [
+      "A. HLA-B27",
+      "B. HLA-A3",
+      "C. HLA-DR2",
+      "D. HLA-DR4 and HLA-DR3",
+      "E. HLA-DQ1"
+    ],
+    "answer": "D",
+    "explanation": "Type 1 diabetes mellitus is an autoimmune disease with a strong genetic predisposition linked to the HLA system. The strongest associations are with HLA-DR4 and HLA-DR3. The mnemonic '4 - 3 = type 1' can be used to remember this association. [351]"
+  },
+  {
+    "question": "A patient with long-standing Crohn disease undergoes a partial colectomy. The surgeon notes that the mesentery appears to wrap around the serosal surface of the inflamed bowel. This finding is a characteristic gross morphological feature of Crohn disease. What is this finding called?",
+    "options": [
+      "A. Cobblestone mucosa",
+      "B. String sign",
+      "C. Lead pipe appearance",
+      "D. Creeping fat",
+      "E. Pseudopolyps"
+    ],
+    "answer": "D",
+    "explanation": "Crohn disease is characterized by transmural inflammation. One of the classic gross findings is 'creeping fat,' where the mesenteric fat extends from the mesentery to wrap around the serosal surface of the bowel. Other features include cobblestone mucosa, linear ulcers, and bowel wall thickening ('string sign'). [389]"
+  },
+  {
+    "question": "A 55-year-old man presents with an ulcer on the lesser curvature of his stomach. A biopsy is taken to rule out malignancy. Histology shows signet ring cells, which are mucin-filled cells with peripheral nuclei, and the stomach wall is grossly thickened and leathery (linitis plastica). This is characteristic of the diffuse type of gastric adenocarcinoma. This type of gastric cancer is most strongly associated with a mutation in which gene?",
+    "options": [
+      "A. KRAS",
+      "B. TP53",
+      "C. APC",
+      "D. E-cadherin",
+      "E. BRAF"
+    ],
+    "answer": "D",
+    "explanation": "The diffuse type of gastric adenocarcinoma is characterized by signet ring cells and a linitis plastica appearance. Unlike the intestinal type, it is not associated with H. pylori. Instead, it is strongly associated with loss-of-function mutations in the E-cadherin (CDH1) gene, which disrupts cell-to-cell adhesion and allows for the diffuse infiltration of the stomach wall by malignant cells. [386]"
+  },
+  {
+    "question": "A 35-year-old woman with a history of celiac disease presents with a vesicular skin rash on her elbows and knees. This rash, known as dermatitis herpetiformis, is an extracolonic manifestation of her underlying autoimmune condition. The pathogenesis involves the deposition of a specific antibody in the dermal papillae. Which antibody is associated with this skin condition?",
+    "options": [
+      "A. IgG",
+      "B. IgM",
+      "C. IgE",
+      "D. IgA",
+      "E. IgD"
+    ],
+    "answer": "D",
+    "explanation": "Dermatitis herpetiformis is a cutaneous manifestation strongly associated with celiac disease. It is caused by the deposition of IgA antibodies against tissue transglutaminase (tTG) at the tips of the dermal papillae, which triggers an inflammatory response leading to the characteristic pruritic vesicles. [388]"
+  },
+  {
+    "question": "A 65-year-old woman is found to have a calcified gallbladder on an incidental abdominal x-ray. This condition, known as a porcelain gallbladder, is a result of chronic inflammation. What is the primary clinical concern and recommended management for a porcelain gallbladder?",
+    "options": [
+      "A. High risk of gallstone ileus, managed with observation.",
+      "B. High risk of perforation, managed with antibiotics.",
+      "C. Increased risk of gallbladder cancer, managed with prophylactic cholecystectomy.",
+      "D. High risk of pancreatitis, managed with ERCP.",
+      "E. It is a benign finding with no clinical significance."
+    ],
+    "answer": "C",
+    "explanation": "A porcelain gallbladder is characterized by intramural calcification of the gallbladder wall, usually resulting from chronic cholecystitis. This condition is clinically significant because it is associated with a markedly increased risk of developing gallbladder cancer (most commonly adenocarcinoma). Due to this risk, prophylactic cholecystectomy is generally recommended. [403]"
+  },
+  {
+    "question": "A patient with cirrhosis develops hepatic encephalopathy. This neuropsychiatric syndrome is caused by the accumulation of neurotoxins in the blood, primarily ammonia, due to impaired liver function and portosystemic shunting. The treatment for this condition includes lactulose. How does lactulose work to lower ammonia levels?",
+    "options": [
+      "A. It is an antibiotic that kills ammonia-producing bacteria.",
+      "B. It directly chelates ammonia in the bloodstream.",
+      "C. It acidifies the gut lumen, converting ammonia (NH3) to ammonium (NH4+), which is then trapped and excreted.",
+      "D. It stimulates the liver to increase its metabolism of ammonia.",
+      "E. It acts as an osmotic diuretic, increasing renal excretion of ammonia."
+    ],
+    "answer": "C",
+    "explanation": "Lactulose is a non-absorbable disaccharide that is metabolized by colonic bacteria into acidic metabolites (like lactic acid). This lowers the pH of the colon. The acidic environment promotes the conversion of absorbable ammonia (NH3) into non-absorbable ammonium (NH4+). This 'ion trapping' prevents ammonia from entering the portal circulation and facilitates its excretion in the feces. [399, 408]"
+  },
+  {
+    "question": "A patient is admitted for an acute variceal bleed. Endoscopy is performed to band the varices. The varices in the esophagus are a result of portosystemic anastomoses that form in the setting of portal hypertension. The esophageal varices represent an anastomosis between which two venous systems?",
+    "options": [
+      "A. Superior rectal vein and middle rectal vein",
+      "B. Paraumbilical vein and epigastric veins",
+      "C. Left gastric vein and esophageal vein",
+      "D. Splenic vein and left renal vein",
+      "E. Inferior mesenteric vein and superior mesenteric vein"
+    ],
+    "answer": "C",
+    "explanation": "In portal hypertension, blood is shunted from the high-pressure portal system to the low-pressure systemic circulation through several points of anastomosis. Esophageal varices form at the anastomosis between the left gastric vein (part of the portal system) and the esophageal veins (which drain into the azygos vein, part of the systemic circulation). [372]"
+  },
+  {
+    "question": "A male infant is born with herniation of his abdominal contents through the umbilical ring. The herniated organs are covered by a light gray, shiny sac made of peritoneum and amnion. This ventral wall defect is known as an omphalocele. This condition has a high association with which of the following?",
+    "options": [
+      "A. Maternal smoking",
+      "B. Trisomies 13 and 18",
+      "C. Fetal alcohol syndrome",
+      "D. Gestational diabetes",
+      "E. Post-term delivery"
+    ],
+    "answer": "B",
+    "explanation": "An omphalocele is a congenital ventral wall defect where abdominal contents herniate through the umbilical ring and are covered by a peritoneal sac. Unlike gastroschisis, omphalocele is frequently associated with other congenital anomalies, including chromosomal abnormalities such as trisomy 13 (Patau syndrome) and trisomy 18 (Edwards syndrome), as well as Beckwith-Wiedemann syndrome. [365]"
+  },
+  {
+    "question": "A patient with severe GERD is treated with omeprazole, a proton pump inhibitor (PPI). This class of drugs is highly effective at reducing gastric acid secretion. What is the specific molecular target that is irreversibly inhibited by PPIs?",
+    "options": [
+      "A. H2 receptors on parietal cells",
+      "B. Muscarinic M3 receptors on parietal cells",
+      "C. The H+/K+-ATPase pump on parietal cells",
+      "D. Gastrin receptors on ECL cells",
+      "E. Carbonic anhydrase within parietal cells"
+    ],
+    "answer": "C",
+    "explanation": "Proton pump inhibitors (PPIs) like omeprazole work by irreversibly inhibiting the H+/K+-ATPase pump, which is the final common pathway for gastric acid secretion from parietal cells into the stomach lumen. This makes them more potent acid suppressors than H2-blockers. [405, 406]"
+  },
+  {
+    "question": "A 30-year-old male with a history of Crohn's disease presents with recurrent urinary tract infections and pneumaturia (air in the urine). This presentation is highly suggestive of a fistula between the bowel and the bladder. What is the term for this type of fistula?",
+    "options": [
+      "A. Enterocutaneous fistula",
+      "B. Colovesical fistula",
+      "C. Enteroenteric fistula",
+      "D. Rectovaginal fistula",
+      "E. Anal fistula"
+    ],
+    "answer": "B",
+    "explanation": "Crohn's disease is characterized by transmural inflammation, which can lead to the formation of fistulas. A fistula between the colon and the bladder is called a colovesical fistula. The passage of bowel contents and gas into the bladder leads to recurrent UTIs and pneumaturia. [389]"
+  },
+  {
+    "question": "A medical student is learning about the layers of the gut wall. They are told that the muscularis externa is responsible for motility and contains a specific nerve plexus. Which nerve plexus is located between the inner circular and outer longitudinal layers of the muscularis externa?",
+    "options": [
+      "A. Submucosal nerve plexus (Meissner)",
+      "B. Myenteric nerve plexus (Auerbach)",
+      "C. Celiac plexus",
+      "D. Superior mesenteric plexus",
+      "E. Inferior hypogastric plexus"
+    ],
+    "answer": "B",
+    "explanation": "The gut wall has four main layers. The muscularis externa, responsible for peristalsis and segmentation, is composed of an inner circular and an outer longitudinal layer of smooth muscle. Located between these two muscle layers is the myenteric nerve plexus, also known as Auerbach's plexus, which controls motility. [369]"
+  },
+  {
+    "question": "A 6-month-old infant presents with intermittent, severe abdominal pain, during which he draws his legs to his chest. He has passed a stool described as 'currant jelly.' A sausage-shaped mass is palpated in the right abdomen. An ultrasound shows a 'target sign.' What is the most likely diagnosis?",
+    "options": [
+      "A. Volvulus",
+      "B. Meckel diverticulum",
+      "C. Intussusception",
+      "D. Hirschsprung disease",
+      "E. Pyloric stenosis"
+    ],
+    "answer": "C",
+    "explanation": "This is a classic presentation of intussusception, which is the telescoping of one segment of the bowel into a distal segment, most commonly at the ileocecal junction. It leads to obstruction and vascular compromise, causing intermittent severe pain and the passage of bloody, mucoid 'currant jelly' stool. The 'target sign' on ultrasound is pathognomonic. [392]"
+  },
+  {
+    "question": "A 70-year-old man presents with colicky abdominal pain and constipation. An abdominal X-ray reveals a dilated loop of the sigmoid colon that has a 'coffee bean' appearance. This finding is characteristic of which of the following conditions?",
+    "options": [
+      "A. Small bowel obstruction",
+      "B. Intussusception",
+      "C. Sigmoid volvulus",
+      "D. Acute mesenteric ischemia",
+      "E. Necrotizing enterocolitis"
+    ],
+    "answer": "C",
+    "explanation": "A volvulus is the twisting of a portion of the bowel around its mesentery. A sigmoid volvulus is most common in older adults and creates a large, closed-loop obstruction. On an abdominal x-ray, the massively dilated, air-filled sigmoid colon often has a characteristic 'coffee bean' or inverted U-shape. [392]"
+  },
+  {
+    "question": "A patient with Wilson disease presents with neurological symptoms and Kayser-Fleischer rings. This autosomal recessive disorder is caused by a mutation in the ATP7B gene, which impairs copper transport. This defect leads to a failure of copper to be incorporated into apoceruloplasmin and a failure of copper to be excreted into bile. As a result, what is the expected level of serum ceruloplasmin in this disease?",
+    "options": [
+      "A. Increased",
+      "B. Decreased",
+      "C. Normal",
+      "D. Fluctuating"
+    ],
+    "answer": "B",
+    "explanation": "In Wilson disease, the defective ATP7B protein prevents the incorporation of copper into apoceruloplasmin to form ceruloplasmin. The apoceruloplasmin that is secreted into the blood without its copper component is rapidly degraded. This leads to a characteristic finding of decreased serum ceruloplasmin levels, despite the total body copper overload. [402]"
+  }
+,
+  {
+    "question": "A full-term infant is born to an O-negative mother and is found to be blood type A-positive. Within 24 hours of birth, the neonate develops mild jaundice. Which of the following best describes the underlying mechanism for this infant's condition, distinguishing it from Rh hemolytic disease?",
+    "options": [
+      "A. Maternal exposure to fetal blood during the first pregnancy leads to the formation of maternal anti-A IgG antibodies that cross the placenta.",
+      "B. Preexisting maternal anti-A IgM antibodies cross the placenta and attack fetal red blood cells, leading to hemolysis.",
+      "C. Preexisting maternal anti-A and/or anti-B IgG antibodies cross the placenta and attack fetal red blood cells, causing mild hemolysis.",
+      "D. The firstborn is typically unaffected, as sensitization occurs at delivery, leading to severe hemolysis in subsequent pregnancies.",
+      "E. Maternal anti-D IgG antibodies, formed from a previous Rh-positive pregnancy, cross the placenta and cause severe jaundice and hydrops fetalis."
+    ],
+    "answer": "C",
+    "explanation": "This neonate is experiencing ABO hemolytic disease. Unlike Rh disease, which requires prior sensitization, ABO incompatibility can affect the firstborn baby. It occurs because most type O individuals have preexisting anti-A and anti-B antibodies, some of which are of the IgG class and can therefore cross the placenta. This leads to hemolysis of fetal RBCs, although the resulting jaundice is typically milder than in Rh disease. Anti-A/B IgM antibodies (Option B) do not cross the placenta."
+  },
+  {
+    "question": "A researcher is studying the contents of neutrophil granules. A sample is prepared from a patient with an acute bacterial infection, showing toxic granulation and Döhle bodies. Which of the following sets of substances is correctly localized to the specific granules, as opposed to the azurophilic granules, of a mature neutrophil?",
+    "options": [
+      "A. Myeloperoxidase, β-glucuronidase, and acid phosphatase",
+      "B. Leukocyte alkaline phosphatase (LAP), collagenase, lysozyme, and lactoferrin",
+      "C. C5a, IL-8, and LTB4",
+      "D. Proteinases, myeloperoxidase, and lactoferrin",
+      "E. Platelet-activating factor, kallikrein, and lysozyme"
+    ],
+    "answer": "B",
+    "explanation": "Neutrophils contain two main types of granules. The specific granules contain leukocyte alkaline phosphatase (LAP), collagenase, lysozyme, and lactoferrin. The azurophilic granules (lysosomes) contain proteinases, acid phosphatase, myeloperoxidase, and β-glucuronidase. The substances in option C are chemotactic agents, not granule contents."
+  },
+  {
+    "question": "A 45-year-old male cyclist presents with numbness and tingling in his 4th and 5th digits after a long-distance race. A nerve conduction study confirms compression of the ulnar nerve. Which anatomical location is the most likely site of compression given this patient's history?",
+    "options": [
+      "A. Carpal tunnel",
+      "B. Cubital tunnel at the medial epicondyle",
+      "C. Guyon canal, due to a fractured hook of the hamate",
+      "D. Guyon canal, from pressure against the handlebars",
+      "E. Axilla, from improper use of crutches"
+    ],
+    "answer": "D",
+    "explanation": "Compression of the ulnar nerve at the wrist as it passes through the Guyon canal is a common injury in cyclists due to prolonged pressure from the handlebars. While a fracture of the hook of the hamate can also cause Guyon canal syndrome, the history of cycling makes direct pressure the most probable cause."
+  },
+  {
+    "question": "During hemoglobin electrophoresis, a sample from a patient with HbC disease is analyzed. Which of the following best explains the migration pattern of HbC relative to HbA, HbS, and HbF?",
+    "options": [
+      "A. HbC migrates the farthest toward the anode because the substitution of lysine for glutamic acid makes it more negatively charged.",
+      "B. HbC migrates the least distance toward the anode because the substitution of lysine for glutamic acid results in a more positively charged molecule.",
+      "C. HbC migrates farther than HbS but less than HbA because the valine substitution in HbS has a greater impact on charge than the lysine substitution in HbC.",
+      "D. HbC migrates the same distance as HbS because both involve the substitution of a neutral amino acid for glutamic acid.",
+      "E. HbC migrates faster than HbA because its neutral charge allows it to move through the gel with less resistance."
+    ],
+    "answer": "B",
+    "explanation": "In hemoglobin electrophoresis, migration is from the negative cathode to the positive anode. The speed of migration depends on the net negative charge. HbA has a glutamic acid (negative charge). In HbS, this is replaced by valine (neutral). In HbC, it's replaced by lysine (positive charge). This makes HbC the most positively charged (least negatively charged) of the hemoglobins, so it migrates the shortest distance toward the anode. The mnemonic 'A Fat Santa Claus' helps remember the order from fastest to slowest: HbA > HbF > HbS > HbC."
+  },
+  {
+    "question": "A 50-year-old woman is started on warfarin for atrial fibrillation. A few days later, she develops painful, purpuric skin lesions on her extremities, consistent with warfarin-induced skin necrosis. Which of the following underlying conditions would most significantly predispose a patient to this adverse reaction?",
+    "options": [
+      "A. Factor V Leiden mutation",
+      "B. Antithrombin deficiency",
+      "C. Protein C or S deficiency",
+      "D. Prothrombin G20210A mutation",
+      "E. Hemophilia A"
+    ],
+    "answer": "C",
+    "explanation": "Warfarin inhibits the synthesis of vitamin K-dependent factors II, VII, IX, and X, as well as the anticoagulant proteins C and S. Protein C has a shorter half-life than factors II and X. In a patient with a preexisting deficiency of Protein C or S, the initial drop in these anticoagulants is profound, leading to a transient hypercoagulable state that can cause microthrombosis in small vessels of the skin, resulting in necrosis. Heparin bridging is used to prevent this complication."
+  },
+  {
+    "question": "A peripheral blood smear from a patient with end-stage renal disease (ESRD) on dialysis shows abnormally shaped red blood cells. The cells are described as having small, uniform, evenly spaced projections over their entire surface. Which of the following terms best describes these cells, and what other condition is commonly associated with them?",
+    "options": [
+      "A. Acanthocytes (spur cells), associated with abetalipoproteinemia",
+      "B. Dacrocytes (teardrop cells), associated with bone marrow infiltration",
+      "C. Schistocytes (helmet cells), associated with microangiopathic hemolytic anemia",
+      "D. Echinocytes (burr cells), associated with pyruvate kinase deficiency",
+      "E. Spherocytes, associated with autoimmune hemolytic anemia"
+    ],
+    "answer": "D",
+    "explanation": "The description matches echinocytes, or burr cells, which have small, uniform projections. They are associated with ESRD, liver disease, and pyruvate kinase deficiency. Acanthocytes, in contrast, have larger projections of varying size at irregular intervals and are associated with liver disease and abetalipoproteinemia."
+  },
+  {
+    "question": "A 4-year-old boy of Mediterranean descent is brought in for evaluation of severe anemia, which became apparent after 6 months of age. Physical exam reveals marked hepatosplenomegaly and frontal bossing. An X-ray of the skull shows a 'crew cut' appearance. Hemoglobin electrophoresis would be most likely to show a significant elevation of which hemoglobin types?",
+    "options": [
+      "A. HbA1 and HbA2",
+      "B. HbS and HbF",
+      "C. HbF and HbA2",
+      "D. HbH (β4 tetramers)",
+      "E. Hb Barts (γ4 tetramers)"
+    ],
+    "answer": "C",
+    "explanation": "The presentation is classic for β-thalassemia major (Cooley anemia), caused by mutations leading to absent β-globin synthesis (β0/β0). The severe microcytic anemia becomes symptomatic after 6 months as fetal hemoglobin (HbF) production declines. The bone marrow's compensatory response is to increase the production of γ chains (leading to high HbF = α2γ2) and δ chains (leading to high HbA2 = α2δ2), as it cannot produce β chains for HbA1 (α2β2). The marrow expansion leads to the characteristic skeletal deformities."
+  },
+  {
+    "question": "A 6-year-old boy is diagnosed with an anemia characterized by an intrinsic defect in erythroid progenitor cells, leading to a rapid-onset pure red cell aplasia within his first year of life. He also presents with short stature and triphalangeal thumbs. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Fanconi anemia",
+      "B. Aplastic anemia",
+      "C. Diamond-Blackfan anemia",
+      "D. Megaloblastic anemia",
+      "E. Sideroblastic anemia"
+    ],
+    "answer": "C",
+    "explanation": "Diamond-Blackfan anemia is a congenital form of pure red cell aplasia caused by an intrinsic defect in erythroid progenitor cells. It is distinct from Fanconi anemia, which causes pancytopenia due to a DNA repair defect, and aplastic anemia, which involves failure of all hematopoietic stem cells. The presentation of anemia in the first year of life along with congenital anomalies like short stature and upper extremity malformations (especially triphalangeal thumbs) is characteristic of Diamond-Blackfan anemia."
+  },
+  {
+    "question": "A 25-year-old African American male presents to the emergency department with severe back pain and hemoglobinuria. He reports eating fava beans for the first time two days ago. A peripheral blood smear is likely to show red blood cell inclusions that are composed of denatured hemoglobin and are visualized with a supravital stain, as well as RBCs with portions of their membrane removed. What are these respective findings called?",
+    "options": [
+      "A. Howell-Jolly bodies and Spherocytes",
+      "B. Pappenheimer bodies and Target cells",
+      "C. Heinz bodies and Degmacytes (bite cells)",
+      "D. Basophilic stippling and Schistocytes",
+      "E. Ringed sideroblasts and Dacrocytes"
+    ],
+    "answer": "C",
+    "explanation": "The patient's presentation after exposure to an oxidative stressor (fava beans) is classic for G6PD deficiency. In this condition, oxidative stress leads to the denaturation and precipitation of hemoglobin, forming Heinz bodies. These inclusions are removed by splenic macrophages, which 'bite' them out of the RBCs, resulting in degmacytes or bite cells. Heinz bodies require a supravital stain like crystal violet to be visualized."
+  },
+  {
+    "question": "A 30-year-old female presents with recurrent episodes of venous thrombosis. Laboratory studies reveal a genetic mutation that results in her Factor V being resistant to degradation by activated protein C. Which of the following best describes the molecular basis of this condition?",
+    "options": [
+      "A. A point mutation in the 3' untranslated region leading to increased production of prothrombin.",
+      "B. An X-linked recessive deficiency of Factor VIII.",
+      "C. A guanine to adenine point mutation resulting in an Arg506Gln substitution near the cleavage site.",
+      "D. An autosomal recessive defect in the GpIb receptor, leading to impaired platelet adhesion.",
+      "E. A deficiency of the ADAMTS13 metalloprotease, leading to large vWF multimers."
+    ],
+    "answer": "C",
+    "explanation": "This patient has Factor V Leiden, the most common hereditary thrombophilia. It is caused by a specific point mutation (guanine to adenine) in the Factor V gene. This results in the substitution of glutamine for arginine at position 506 (Arg506Gln), which is the site where activated protein C normally cleaves and inactivates Factor V. This resistance to inactivation leads to a hypercoagulable state."
+  },
+  {
+    "question": "A 14-year-old boy from Africa presents with a large, rapidly growing mass in his jaw. A biopsy of the mass reveals sheets of lymphocytes with interspersed macrophages, creating a 'starry sky' appearance. Cytogenetic analysis is performed. Which chromosomal translocation and associated oncogene is most characteristic of this patient's condition?",
+    "options": [
+      "A. t(14;18) involving BCL-2",
+      "B. t(11;14) involving Cyclin D1",
+      "C. t(9;22) involving BCR-ABL",
+      "D. t(15;17) involving PML-RARA",
+      "E. t(8;14) involving c-myc"
+    ],
+    "answer": "E",
+    "explanation": "The presentation of a jaw lesion in an African adolescent with a 'starry sky' histology is classic for the endemic form of Burkitt lymphoma. This aggressive B-cell lymphoma is characterized by the translocation of the c-myc oncogene on chromosome 8 to the immunoglobulin heavy chain locus on chromosome 14, t(8;14), leading to overexpression of c-myc and unregulated cell proliferation."
+  },
+  {
+    "question": "A 68-year-old male is diagnosed with multiple myeloma after presenting with back pain and fatigue. Which of the following findings, known as the CRAB criteria, would be most indicative of end-organ damage requiring the initiation of therapy?",
+    "options": [
+      "A. Creatinine elevation, Rouleaux formation, Anemia, Bone marrow plasma cells >10%",
+      "B. HyperCalcemia, Renal insufficiency, Anemia, Bone lytic lesions",
+      "C. HyperCalcemia, Rouleaux formation, Amyloidosis, Bence Jones proteinuria",
+      "D. Cytopenias, Renal insufficiency, Amyloidosis, Bone marrow plasma cells >10%",
+      "E. HyperCoagulability, Renal insufficiency, Anemia, Bone pain"
+    ],
+    "answer": "B",
+    "explanation": "The CRAB criteria are used to identify end-organ damage in multiple myeloma and are an indication for treatment. The acronym stands for: hyperCalcemia (serum calcium >11 mg/dL), Renal insufficiency (creatinine >2 mg/dL), Anemia (hemoglobin <10 g/dL or >2 g/dL below normal), and Bone lytic lesions or osteoporosis. [4, 12, 25, 35, 41]"
+  },
+  {
+    "question": "A 65-year-old male is diagnosed with Chronic Myelogenous Leukemia (CML). His peripheral blood smear shows a marked leukocytosis with a spectrum of maturing granulocytes, including myelocytes, metamyelocytes, and basophils. A bone marrow analysis is also performed. Which of the following laboratory findings would be most helpful in distinguishing CML from a leukemoid reaction?",
+    "options": [
+      "A. Presence of the Philadelphia chromosome t(9;22)",
+      "B. A white blood cell count greater than 50,000 cells/mm3",
+      "C. The presence of pseudo-Pelger-Huët anomaly",
+      "D. A low leukocyte alkaline phosphatase (LAP) score",
+      "E. Increased numbers of eosinophils and basophils"
+    ],
+    "answer": "D",
+    "explanation": "While the Philadelphia chromosome (A) is diagnostic for CML, the leukocyte alkaline phosphatase (LAP) score is a key test to differentiate it from a leukemoid reaction (a reactive neutrophilia). In CML, the malignant neutrophils are biochemically abnormal and have very low levels of LAP. In a leukemoid reaction, the mature, benign neutrophils are functionally active and have a high LAP score."
+  },
+  {
+    "question": "A patient with acute promyelocytic leukemia (APL) begins induction chemotherapy and rapidly develops hyperkalemia, hyperphosphatemia, hypocalcemia, and hyperuricemia, leading to acute kidney injury. Which of the following best describes the pathophysiology of this oncologic emergency?",
+    "options": [
+      "A. Tumor lysis syndrome, resulting from the massive release of intracellular contents from dying cancer cells.",
+      "B. Disseminated intravascular coagulation, triggered by the release of procoagulants from Auer rods.",
+      "C. Sepsis, resulting from chemotherapy-induced neutropenia and subsequent infection.",
+      "D. Aplastic anemia, caused by the cytotoxic effects of chemotherapy on the bone marrow.",
+      "E. A leukemoid reaction, due to an overwhelming inflammatory response to chemotherapy."
+    ],
+    "answer": "A",
+    "explanation": "This patient is experiencing tumor lysis syndrome (TLS), an oncologic emergency triggered by the massive and rapid lysis of tumor cells, often after the initiation of chemotherapy. The breakdown of cells releases large amounts of intracellular contents, leading to the characteristic metabolic disturbances: hyperkalemia, hyperphosphatemia (which sequesters calcium, causing hypocalcemia), and hyperuricemia (from the breakdown of nucleic acids). [2, 13, 34, 43, 44]"
+  },
+  {
+    "question": "A 62-year-old male receiving unfractionated heparin for a pulmonary embolism develops a platelet count of 45,000/mm3 on day 7 of therapy. He is also noted to have a new deep vein thrombosis in his right leg. What is the most likely mechanism underlying this patient's thrombocytopenia and paradoxical thrombosis?",
+    "options": [
+      "A. Direct bone marrow suppression by heparin, leading to decreased platelet production.",
+      "B. Development of IgG antibodies against heparin-platelet factor 4 (PF4) complexes, leading to platelet activation.",
+      "C. A transient, non-immunologic drop in platelet count that is clinically insignificant.",
+      "D. Sequestration of platelets in the spleen due to heparin-induced splenomegaly.",
+      "E. Consumption of platelets due to heparin-induced disseminated intravascular coagulation (DIC)."
+    ],
+    "answer": "B",
+    "explanation": "This clinical picture is classic for Heparin-Induced Thrombocytopenia (HIT) type 2. It is an immune-mediated disorder occurring 5-10 days after heparin initiation. IgG antibodies form against the heparin-PF4 complex. These immune complexes then bind to and activate platelets via their FcγRIIa receptors, leading to widespread platelet consumption (thrombocytopenia) and activation, which causes a prothrombotic state."
+  },
+  {
+    "question": "A patient being treated for testicular cancer with a chemotherapy regimen that includes bleomycin develops progressive dyspnea and a nonproductive cough. A chest CT scan shows bilateral interstitial fibrosis. Which of the following mechanisms is primarily responsible for this specific drug toxicity?",
+    "options": [
+      "A. Inhibition of topoisomerase II, leading to cardiomyocyte apoptosis.",
+      "B. Cross-linking of DNA, causing hemorrhagic cystitis.",
+      "C. Generation of free radicals that cause DNA strand breaks, leading to oxidative damage and inflammation in the lungs.",
+      "D. Inhibition of dihydrofolate reductase, resulting in myelosuppression.",
+      "E. Hyperstabilization of microtubules, causing peripheral neuropathy."
+    ],
+    "answer": "C",
+    "explanation": "Bleomycin's primary toxicity is pulmonary fibrosis. Its mechanism of action involves generating free radicals, which cause breaks in DNA strands. This same mechanism can lead to oxidative damage to alveolar cells, triggering an inflammatory response that can progress to fibrosis. [8, 32, 48, 49, 50]"
+  },
+  {
+    "question": "A 22-year-old male sustains a midshaft fracture of the humerus during a football game. Upon examination in the emergency department, he is unable to extend his wrist, thumb, and fingers on the affected side. However, his triceps function and sensation over the posterior arm are intact. Which nerve is most likely injured, and why is triceps function spared?",
+    "options": [
+      "A. Axillary nerve; it is protected by the deltoid muscle.",
+      "B. Median nerve; the branches to the triceps originate more proximally.",
+      "C. Ulnar nerve; it runs medially and is rarely affected by this type of fracture.",
+      "D. Musculocutaneous nerve; it primarily controls flexion, not extension.",
+      "E. Radial nerve; the nerve branches to the triceps arise proximal to the spiral groove."
+    ],
+    "answer": "E",
+    "explanation": "A midshaft humeral fracture is classically associated with an injury to the radial nerve as it courses through the spiral groove. This results in the characteristic 'wrist drop' due to paralysis of the extensor muscles of the wrist and digits. The branches of the radial nerve that supply the triceps muscle originate higher in the axilla, proximal to the site of injury in the spiral groove, thus sparing elbow extension."
+  },
+  {
+    "question": "A 25-year-old presents after a fall on an outstretched hand. He has tenderness to palpation in the anatomic snuff box. Initial X-rays of the wrist are negative for any fracture. Due to the high clinical suspicion of a scaphoid fracture, he is placed in a thumb spica cast. What is the most feared long-term complication of a proximal scaphoid fracture that justifies this cautious management?",
+    "options": [
+      "A. Ulnar nerve compression",
+      "B. Carpal tunnel syndrome",
+      "C. Avascular necrosis",
+      "D. Complex regional pain syndrome",
+      "E. Early-onset osteoarthritis of the radiocarpal joint"
+    ],
+    "answer": "C",
+    "explanation": "The scaphoid bone has a tenuous, retrograde blood supply that enters from its distal pole. A fracture, especially of the proximal pole, can disrupt this blood supply, leading to avascular necrosis and nonunion of the fracture. Because initial X-rays can miss a nondisplaced fracture, clinical suspicion based on the mechanism of injury and physical exam findings (tenderness in the anatomic snuff box) warrants immobilization and follow-up imaging."
+  },
+  {
+    "question": "An 8-year-old girl is brought to the pediatrician for a gait abnormality. The exam reveals that when she stands on her right leg, her left hip drops. This finding, known as the Trendelenburg sign, is caused by weakness of the hip abductor muscles. Which nerve is most likely injured, and what is a common iatrogenic cause of this injury?",
+    "options": [
+      "A. Inferior gluteal nerve; posterior hip dislocation",
+      "B. Superior gluteal nerve; intramuscular injection into the superomedial gluteal region",
+      "C. Femoral nerve; pelvic fracture",
+      "D. Obturator nerve; pelvic surgery",
+      "E. Sciatic nerve; herniated disc"
+    ],
+    "answer": "B",
+    "explanation": "The Trendelenburg sign is caused by weakness of the gluteus medius and minimus muscles, which are responsible for hip abduction and stabilizing the pelvis during the stance phase of gait. These muscles are innervated by the superior gluteal nerve (L4-S1). This nerve is vulnerable to iatrogenic injury during intramuscular injections if the injection is given in the superomedial quadrant of the buttock, instead of the safer superolateral quadrant."
+  },
+  {
+    "question": "A physiology student is studying the molecular basis of skeletal muscle contraction. During the process, a specific event causes the myosin head to detach from the actin filament, allowing the cycle to reset for another contraction. Which of the following events is directly responsible for this detachment?",
+    "options": [
+      "A. The release of ADP and Pi from the myosin head",
+      "B. The binding of a new ATP molecule to the myosin head",
+      "C. The hydrolysis of ATP into ADP and Pi",
+      "D. The binding of Ca2+ to troponin C",
+      "E. The release of Ca2+ from the sarcoplasmic reticulum"
+    ],
+    "answer": "B",
+    "explanation": "In the cross-bridge cycle, the binding of a new ATP molecule to the myosin head is the critical step that causes the myosin to release its hold on the actin filament. This detachment is necessary for the muscle to relax or for the myosin head to recock and bind to a new site on actin to continue the contraction. The absence of ATP is what leads to the sustained contraction seen in rigor mortis."
+  },
+  {
+    "question": "A 55-year-old man presents with an enlarging, painless mass on his distal femur. An X-ray reveals a bony projection continuous with the marrow space, covered by a cartilaginous cap, and pointing away from the knee joint. This is the most common benign bone tumor. What is the diagnosis, and what is the most significant potential complication?",
+    "options": [
+      "A. Osteoid osteoma; pain unresponsive to NSAIDs",
+      "B. Giant cell tumor; pathologic fracture",
+      "C. Ewing sarcoma; early metastasis",
+      "D. Osteochondroma; transformation to chondrosarcoma",
+      "E. Osteoma; association with Gardner syndrome"
+    ],
+    "answer": "D",
+    "explanation": "The description is characteristic of an osteochondroma (exostosis), which is a benign tumor featuring a lateral bony projection of the growth plate. While they are benign, the most significant risk, although rare, is malignant transformation of the cartilaginous cap into a chondrosarcoma, particularly in patients with hereditary multiple exostoses."
+  },
+  {
+    "question": "A 16-year-old male presents with a painful, enlarging mass in the metaphysis of his distal femur. An X-ray shows a destructive lesion with cortical disruption, a periosteal reaction forming a Codman triangle, and a 'sunburst' pattern of spiculation. What is the most likely diagnosis?",
+    "options": [
+      "A. Ewing sarcoma",
+      "B. Osteochondroma",
+      "C. Giant cell tumor",
+      "D. Osteosarcoma",
+      "E. Chondrosarcoma"
+    ],
+    "answer": "D",
+    "explanation": "Osteosarcoma is the most common primary malignant bone tumor in adolescents. It typically arises in the metaphysis of long bones, such as the distal femur. The radiographic findings of a destructive mass, elevation of the periosteum (Codman triangle), and a sunburst pattern due to calcified tumor spicules radiating outward are classic for osteosarcoma."
+  },
+  {
+    "question": "A 45-year-old woman with a long history of rheumatoid arthritis presents with new-onset shortness of breath. Her joint disease is characterized by symmetric polyarthritis, morning stiffness, and the presence of rheumatoid factor. Which of the following is a potential extra-articular manifestation of her disease that could explain her respiratory symptoms?",
+    "options": [
+      "A. Ankylosis of the costovertebral joints leading to restrictive lung disease",
+      "B. Interstitial lung disease or pleuritis",
+      "C. Aortic regurgitation leading to pulmonary edema",
+      "D. Necrotizing vasculitis involving the pulmonary arteries",
+      "E. Formation of rheumatoid nodules in the diaphragm"
+    ],
+    "answer": "B",
+    "explanation": "Rheumatoid arthritis is a systemic disease with numerous extra-articular manifestations. [10, 17, 24, 28, 33] Pulmonary involvement is common and can include interstitial lung disease, pleuritis with pleural effusions, and rheumatoid nodules within the lung parenchyma (Caplan syndrome when present with pneumoconiosis). While other options describe manifestations of other rheumatologic diseases, interstitial lung disease and pleuritis are well-recognized complications of RA."
+  },
+  {
+    "question": "A 60-year-old man with a history of hemochromatosis presents with an acutely swollen and painful right knee. A joint aspiration is performed, and synovial fluid analysis under polarized light reveals rhomboid-shaped crystals that are weakly positively birefringent (blue when parallel to the light). What is the diagnosis?",
+    "options": [
+      "A. Gout",
+      "B. Septic arthritis",
+      "C. Calcium pyrophosphate deposition (CPPD) disease",
+      "D. Osteoarthritis",
+      "E. Psoriatic arthritis"
+    ],
+    "answer": "C",
+    "explanation": "The patient's presentation is classic for calcium pyrophosphate deposition (CPPD) disease, also known as pseudogout. The key diagnostic finding is the presence of rhomboid-shaped, weakly positively birefringent crystals in the synovial fluid. CPPD can be idiopathic but is also associated with metabolic disorders such as hemochromatosis and hyperparathyroidism."
+  },
+  {
+    "question": "A 25-year-old man presents with a one-month history of lower back pain that is worse in the morning and improves with activity. He also reports pain in his heels. On exam, he has limited spinal flexion. A plain film of the spine reveals fusion of the sacroiliac joints and vertebral bodies, described as a 'bamboo spine.' This patient's condition is strongly associated with which of the following genetic markers?",
+    "options": [
+      "A. HLA-DR4",
+      "B. HLA-B27",
+      "C. HLA-DQ2/DQ8",
+      "D. PTPN22",
+      "E. GNAQ mutation"
+    ],
+    "answer": "B",
+    "explanation": "The patient's symptoms of inflammatory back pain, enthesitis (heel pain), and radiographic findings of sacroiliitis and vertebral fusion are characteristic of ankylosing spondylitis. This is one of the seronegative spondyloarthropathies, which have a very strong association with the HLA-B27 allele."
+  },
+  {
+    "question": "A 40-year-old woman is diagnosed with the limited form of systemic sclerosis. In addition to sclerodactyly and Raynaud phenomenon, which of the following antibodies and clinical features are characteristic of the associated CREST syndrome?",
+    "options": [
+      "A. Anti-Scl-70 antibodies, widespread skin involvement, and early visceral fibrosis",
+      "B. Anti-dsDNA antibodies, malar rash, and renal disease",
+      "C. Anti-centromere antibodies, calcinosis cutis, and esophageal dysmotility",
+      "D. Anti-Jo-1 antibodies, proximal muscle weakness, and Gottron papules",
+      "E. Anti-U1 RNP antibodies, arthritis, and myositis"
+    ],
+    "answer": "C",
+    "explanation": "Limited systemic sclerosis is strongly associated with anti-centromere antibodies and the features of CREST syndrome. The acronym CREST stands for Calcinosis cutis, Raynaud phenomenon, Esophageal dysmotility, Sclerodactyly, and Telangiectasias."
+  },
+  {
+    "question": "A 55-year-old man with a history of hepatitis C infection presents with palpable purpura on his lower extremities, weakness, and arthralgias. Laboratory tests are positive for rheumatoid factor, and urinalysis shows proteinuria and hematuria. Serum studies reveal immunoglobulins that precipitate in the cold. What is the most likely diagnosis?",
+    "options": [
+      "A. Immunoglobulin A vasculitis (Henoch-Schönlein purpura)",
+      "B. Polyarteritis nodosa",
+      "C. Granulomatosis with polyangiitis",
+      "D. Microscopic polyangiitis",
+      "E. Mixed cryoglobulinemia"
+    ],
+    "answer": "E",
+    "explanation": "The triad of palpable purpura, weakness, and arthralgias, especially in the context of a chronic hepatitis C infection, is highly suggestive of mixed cryoglobulinemia. This is a small-vessel vasculitis caused by the deposition of immune complexes (cryoglobulins, typically mixed IgG and IgM) that precipitate in colder temperatures, leading to vasculitis and potential renal disease (glomerulonephritis)."
+  },
+  {
+    "question": "A patient with myasthenia gravis experiences worsening muscle weakness. To distinguish a myasthenic crisis from a cholinergic crisis, a test is performed. If the symptoms improve with the administration of edrophonium (a short-acting acetylcholinesterase inhibitor), what is the underlying pathophysiology of the patient's primary disease?",
+    "options": [
+      "A. Autoantibodies against presynaptic calcium channels, leading to reduced acetylcholine release.",
+      "B. Autoantibodies against postsynaptic acetylcholine receptors, leading to their blockade and degradation.",
+      "C. A defect in the ryanodine receptor, causing excessive calcium release from the sarcoplasmic reticulum.",
+      "D. Destruction of Schwann cells, leading to demyelination of peripheral nerves.",
+      "E. Degeneration of motor neurons in the anterior horn of the spinal cord."
+    ],
+    "answer": "B",
+    "explanation": "Myasthenia gravis is an autoimmune disorder caused by autoantibodies that target the postsynaptic acetylcholine receptors at the neuromuscular junction. This leads to receptor blockade, complement-mediated damage, and increased receptor degradation, resulting in fewer available receptors for acetylcholine to bind, causing muscle weakness. An improvement with an acetylcholinesterase inhibitor indicates that increasing the amount of acetylcholine in the synapse overcomes the receptor blockade, which is characteristic of a myasthenic crisis."
+  },
+  {
+    "question": "A 65-year-old woman is evaluated for a blistering skin disease. The examination reveals large, tense bullae on the trunk and extremities, with no mucosal involvement. A skin biopsy shows a subepidermal split with a linear deposition of IgG and C3 at the dermal-epidermal junction on immunofluorescence. The autoantibodies in this condition are directed against which of the following structures?",
+    "options": [
+      "A. Desmoglein 1 and 3",
+      "B. Type IV collagen in the basement membrane",
+      "C. Keratin intermediate filaments",
+      "D. Hemidesmosomes",
+      "E. Transglutaminase"
+    ],
+    "answer": "D",
+    "explanation": "This presentation is classic for bullous pemphigoid. The key features are tense bullae, lack of mucosal involvement, and a subepidermal split on histology. The underlying cause is autoantibodies (IgG) directed against components of the hemidesmosome, which anchors the basal keratinocytes of the epidermis to the underlying basement membrane. This leads to the separation of the entire epidermis from the dermis."
+  },
+  {
+    "question": "A 5-year-old child presents with fever and a generalized erythematous rash. The skin is exquisitely tender, and large, flaccid bullae form, followed by sloughing of the upper layers of the epidermis, revealing a moist erythematous base. The Nikolsky sign is positive. Mucous membranes are not involved. What is the mechanism of this condition?",
+    "options": [
+      "A. A type IV hypersensitivity reaction to a drug, causing full-thickness epidermal necrosis.",
+      "B. A poxvirus infection leading to umbilicated papules with central caseous material.",
+      "C. An IgA-mediated autoimmune reaction at the tips of the dermal papillae.",
+      "D. A staphylococcal exotoxin that cleaves desmoglein 1, destroying keratinocyte attachments in the stratum granulosum.",
+      "E. An autoimmune reaction against hemidesmosomes, leading to a subepidermal split."
+    ],
+    "answer": "D",
+    "explanation": "This is a classic description of Staphylococcal Scalded Skin Syndrome (SSSS). It is caused by an exfoliative exotoxin produced by certain strains of S. aureus. The toxin acts as a protease that specifically cleaves desmoglein 1, a component of desmosomes that connects cells in the stratum granulosum of the epidermis. This superficial split within the epidermis explains the flaccid bullae and lack of mucosal involvement, distinguishing it from the deeper, dermo-epidermal split seen in Toxic Epidermal Necrolysis (TEN). [3, 18, 23, 26, 46]"
+  },
+  {
+    "question": "A 24-year-old woman presents with multiple hypopigmented macules on her upper back and chest that become more noticeable after sun exposure. The lesions are slightly scaly. A KOH preparation of skin scrapings is performed. Which of the following microscopic findings would be expected?",
+    "options": [
+      "A. Branching septate hyphae only",
+      "B. Pseudohyphae and budding yeasts",
+      "C. Spherules containing endospores",
+      "D. Large, thick-walled yeasts with broad-based budding",
+      "E. A combination of short, cigar-shaped hyphae and spherical yeast cells"
+    ],
+    "answer": "E",
+    "explanation": "The clinical presentation is characteristic of tinea (pityriasis) versicolor, a superficial fungal infection caused by Malassezia species. The classic microscopic finding on a KOH prep is a 'spaghetti and meatballs' appearance, which consists of short hyphae and spherical yeast cells."
+  },
+  {
+    "question": "A 70-year-old man with a history of gastric adenocarcinoma suddenly develops dozens of well-demarcated, 'stuck-on' verrucous plaques on his trunk. What is the name of this sign, and what does it indicate?",
+    "options": [
+      "A. Auspitz sign, indicating psoriasis",
+      "B. Nikolsky sign, indicating a blistering disorder",
+      "C. Leser-Trélat sign, indicating a possible internal malignancy",
+      "D. Wickham striae, indicating lichen planus",
+      "E. Asboe-Hansen sign, indicating pemphigus vulgaris"
+    ],
+    "answer": "C",
+    "explanation": "The rapid eruption of multiple seborrheic keratoses is known as the sign of Leser-Trélat. While seborrheic keratoses are themselves benign, this paraneoplastic sign is associated with an underlying internal malignancy, most commonly a GI adenocarcinoma."
+  },
+  {
+    "question": "A patient with rheumatoid arthritis is prescribed celecoxib for pain management to minimize gastrointestinal side effects. Which of the following best describes the mechanism of action of celecoxib and a major potential adverse effect associated with its class?",
+    "options": [
+      "A. Irreversibly inhibits COX-1 and COX-2; increased risk of Reye syndrome.",
+      "B. Reversibly inhibits COX-1 and COX-2; increased risk of renal ischemia.",
+      "C. Selectively and reversibly inhibits COX-2; increased risk of thrombosis.",
+      "D. Blocks leukotriene receptors; increased risk of hepatotoxicity.",
+      "E. Inhibits phospholipase A2; increased risk of Cushing syndrome."
+    ],
+    "answer": "C",
+    "explanation": "Celecoxib is a selective COX-2 inhibitor. By sparing COX-1, it reduces the risk of GI ulceration compared to non-selective NSAIDs. However, selective COX-2 inhibition can tip the balance between prothrombotic thromboxane A2 (a COX-1 product) and antithrombotic prostacyclin (a COX-2 product) in favor of thrombosis, leading to an increased risk of cardiovascular events like myocardial infarction and stroke."
+  },
+  {
+    "question": "A 68-year-old woman with postmenopausal osteoporosis is prescribed alendronate. She is counseled to take the medication with a full glass of water and to remain upright for at least 30 minutes after ingestion. This counseling is crucial to prevent which of the following significant adverse effects?",
+    "options": [
+      "A. Osteonecrosis of the jaw",
+      "B. Atypical femoral fractures",
+      "C. Hypocalcemia",
+      "D. Pill-induced esophagitis",
+      "E. Nephrotoxicity"
+    ],
+    "answer": "D",
+    "explanation": "Bisphosphonates like alendronate are known to cause severe esophageal irritation and ulceration if they do not pass quickly into the stomach or if reflux occurs. Therefore, patients must take them with adequate water and remain upright after taking the pill to minimize contact time with the esophageal mucosa and prevent pill-induced esophagitis."
+  },
+  {
+    "question": "A 55-year-old man with chronic tophaceous gout and a history of urate nephropathy is being considered for long-term preventative therapy. He has an overproduction of uric acid. Which medication works by competitively inhibiting xanthine oxidase, thereby reducing the synthesis of uric acid?",
+    "options": [
+      "A. Probenecid",
+      "B. Colchicine",
+      "C. Allopurinol",
+      "D. Indomethacin",
+      "E. Pegloticase"
+    ],
+    "answer": "C",
+    "explanation": "Allopurinol and febuxostat are xanthine oxidase inhibitors. They block the final two steps in purine metabolism, the conversion of hypoxanthine to xanthine and xanthine to uric acid. This makes them ideal for the chronic management of gout, particularly in patients who are overproducers of uric acid."
+  },
+  {
+    "question": "A patient with severe rheumatoid arthritis refractory to methotrexate is started on etanercept. Before initiating this therapy, the patient should be screened for latent tuberculosis. Why is this screening necessary?",
+    "options": [
+      "A. The drug can induce a lupus-like syndrome that mimics tuberculosis.",
+      "B. The drug is metabolized by the liver, and co-infection can lead to hepatotoxicity.",
+      "C. TNF-α is crucial for the formation and maintenance of granulomas that contain the TB infection.",
+      "D. The drug causes profound lymphopenia, increasing susceptibility to all opportunistic infections.",
+      "E. The drug can cause reactivation of Epstein-Barr virus, which can be confused with TB."
+    ],
+    "answer": "C",
+    "explanation": "Etanercept is a TNF-α inhibitor. Tumor necrosis factor-alpha (TNF-α) is a key cytokine involved in the inflammatory response and is essential for the formation and maintenance of granulomas, which serve to wall off infections like Mycobacterium tuberculosis. By blocking TNF-α, etanercept can disrupt these granulomas, leading to the reactivation of latent tuberculosis."
+  },
+  {
+    "question": "A 3-week-old male infant presents with a 'floppy' appearance, marked hypotonia, and tongue fasciculations. His parents report he has been feeding poorly. The condition is diagnosed as spinal muscular atrophy type 1. This disease results from the degeneration of which specific population of cells?",
+    "options": [
+      "A. Upper motor neurons in the primary motor cortex",
+      "B. Neurons in the substantia nigra pars compacta",
+      "C. Neurons in the dorsal root ganglia",
+      "D. Anterior horn cells of the spinal cord",
+      "E. Schwann cells in the peripheral nervous system"
+    ],
+    "answer": "D",
+    "explanation": "Spinal muscular atrophy (SMA) is a genetic disorder characterized by the degeneration of lower motor neurons in the anterior horns of the spinal cord and brainstem. This leads to progressive muscle weakness and atrophy, resulting in the classic 'floppy baby' presentation with purely LMN signs (hypotonia, fasciculations, areflexia)."
+  },
+  {
+    "question": "A 45-year-old woman is diagnosed with amyotrophic lateral sclerosis (ALS). Her symptoms include progressive weakness, fasciculations, and atrophy in her hands, as well as spasticity and hyperreflexia in her legs. The presence of both upper and lower motor neuron signs is a hallmark of this disease. Which of the following spinal cord tracts are degenerating in this condition?",
+    "options": [
+      "A. Dorsal columns and spinocerebellar tracts",
+      "B. Lateral corticospinal tracts and anterior horn cells",
+      "C. Spinothalamic tracts and dorsal columns",
+      "D. Anterior horn cells only",
+      "E. Lateral corticospinal tracts only"
+    ],
+    "answer": "B",
+    "explanation": "Amyotrophic lateral sclerosis (ALS) is defined by the combined degeneration of both upper motor neurons and lower motor neurons. The upper motor neuron signs (spasticity, hyperreflexia) are due to the degeneration of the lateral corticospinal tracts. The lower motor neuron signs (weakness, fasciculations, atrophy) are due to the degeneration of the anterior horn cells in the spinal cord and motor nuclei in the brainstem."
+  },
+  {
+    "question": "A patient suffers a spinal cord hemisection at the T10 level on the right side (Brown-Séquard syndrome). Which of the following neurological deficits would be expected below the level of the lesion?",
+    "options": [
+      "A. Loss of pain and temperature sensation on the right side and loss of proprioception and vibration on the left side.",
+      "B. Loss of pain, temperature, proprioception, and vibration on the right side only.",
+      "C. Loss of proprioception and vibration on the right side and loss of pain and temperature sensation on the left side.",
+      "D. Loss of all sensation bilaterally.",
+      "E. UMN signs on the left side and LMN signs on the right side."
+    ],
+    "answer": "C",
+    "explanation": "In Brown-Séquard syndrome, the deficits below the lesion are split. The lateral corticospinal tract (motor) and dorsal columns (proprioception/vibration) have already crossed or ascend ipsilaterally, so their loss is ipsilateral to the lesion (right side). The spinothalamic tract (pain/temperature) crosses at the level of the spinal cord, so its loss is contralateral to the lesion (left side)."
+  },
+  {
+    "question": "A 12-year-old boy presents with progressive gait ataxia, dysarthria, and loss of deep tendon reflexes. Physical exam reveals pes cavus and kyphoscoliosis. An echocardiogram shows hypertrophic cardiomyopathy. This autosomal recessive condition is caused by a trinucleotide repeat expansion that leads to a deficiency in a mitochondrial protein. What is the diagnosis?",
+    "options": [
+      "A. Huntington disease",
+      "B. Myotonic dystrophy",
+      "C. Charcot-Marie-Tooth disease",
+      "D. Friedreich ataxia",
+      "E. Ataxia-telangiectasia"
+    ],
+    "answer": "D",
+    "explanation": "This constellation of findings is classic for Friedreich ataxia, an autosomal recessive trinucleotide (GAA) repeat disorder. It affects the frataxin gene, leading to mitochondrial dysfunction. Neurologically, it involves the spinocerebellar tracts (ataxia), dorsal columns (loss of proprioception/vibration), dorsal root ganglia (loss of DTRs), and lateral corticospinal tracts (UMN signs). The associated non-neurological findings, particularly hypertrophic cardiomyopathy and diabetes mellitus, are key features."
+  },
+  {
+    "question": "A 28-year-old woman presents with a three-day history of ascending bilateral muscle weakness and tingling in her feet. On examination, she has absent deep tendon reflexes in her lower extremities. A lumbar puncture is performed. Which of the following CSF findings would be most consistent with the suspected diagnosis?",
+    "options": [
+      "A. High protein, high glucose, low WBC count",
+      "B. Normal protein, low glucose, high WBC count (neutrophils)",
+      "C. High protein, normal cell count",
+      "D. The presence of oligoclonal bands",
+      "E. Xanthochromia and an elevated RBC count"
+    ],
+    "answer": "C",
+    "explanation": "The patient's presentation of ascending paralysis with areflexia is classic for Guillain-Barré syndrome (acute inflammatory demyelinating polyneuropathy). The characteristic finding in the cerebrospinal fluid (CSF) is 'albuminocytologic dissociation,' which means a high protein level (due to inflammation and demyelination of nerve roots) with a normal or near-normal white blood cell count."
+  },
+  {
+    "question": "A 2-year-old boy is brought to the clinic due to seizures and developmental delay. On physical exam, he has several hypopigmented 'ash-leaf' spots on his trunk and angiofibromas on his face. An MRI of the brain reveals subependymal giant cell astrocytomas. This patient's condition is caused by a mutation in which of the following gene pairs?",
+    "options": [
+      "A. NF1 on chromosome 17",
+      "B. NF2 on chromosome 22",
+      "C. VHL on chromosome 3",
+      "D. GNAQ",
+      "E. TSC1 on chromosome 9 or TSC2 on chromosome 16"
+    ],
+    "answer": "E",
+    "explanation": "This is a classic presentation of Tuberous Sclerosis Complex. It is an autosomal dominant neurocutaneous disorder characterized by hamartomas in various organs. The key findings are the dermatologic signs (ash-leaf spots, angiofibromas) and CNS tumors (subependymal giant cell astrocytomas). The disease is caused by mutations in the tumor suppressor genes TSC1 (encoding hamartin) or TSC2 (encoding tuberin)."
+  },
+  {
+    "question": "A 60-year-old man presents with a one-year history of progressive memory loss, visual hallucinations of small people in his room, and fluctuating levels of alertness. His wife also notes that he has started acting out his dreams. On examination, he has mild parkinsonism with rigidity and bradykinesia. What is the most likely diagnosis?",
+    "options": [
+      "A. Alzheimer disease",
+      "B. Vascular dementia",
+      "C. Frontotemporal dementia",
+      "D. Lewy body dementia",
+      "E. Creutzfeldt-Jakob disease"
+    ],
+    "answer": "D",
+    "explanation": "The core features for the diagnosis of Lewy body dementia are present: dementia, prominent visual hallucinations, fluctuating cognition, and features of parkinsonism. The presence of REM sleep behavior disorder (acting out dreams) is also highly suggestive. In Lewy body dementia, cognitive and motor symptoms begin within one year of each other."
+  },
+  {
+    "question": "A 45-year-old man presents with a severe, unilateral periorbital headache that has occurred daily for the past week, often waking him from sleep. The pain is excruciating and is accompanied by ipsilateral tearing, rhinorrhea, and conjunctival injection. Which of the following is the most appropriate acute treatment for this patient's condition?",
+    "options": [
+      "A. Oral propranolol",
+      "B. Intravenous dihydroergotamine",
+      "C. Sumatriptan and 100% oxygen",
+      "D. Oral amitriptyline",
+      "E. Intravenous steroids"
+    ],
+    "answer": "C",
+    "explanation": "This patient's presentation is classic for a cluster headache, characterized by severe, unilateral, short-lasting headaches with prominent autonomic symptoms. The standard abortive (acute) therapies are subcutaneous or intranasal sumatriptan and inhalation of 100% oxygen, both of which are highly effective."
+  },
+  {
+    "question": "A 50-year-old woman with a history of recurrent breast cancer presents with severe back pain and bilateral leg weakness. An MRI of the spine is performed. Where in the vertebral column are metastatic lesions most commonly found?",
+    "options": [
+      "A. Intradural-intramedullary (within the spinal cord)",
+      "B. Intradural-extramedullary (in the subarachnoid space)",
+      "C. Epidural space, arising from the vertebral bodies",
+      "D. In the intervertebral discs",
+      "E. In the ligamentum flavum"
+    ],
+    "answer": "C",
+    "explanation": "Metastatic tumors are the most common tumors of the spine in adults. They most frequently spread hematogenously to the vertebral bodies, which are rich in red marrow. From there, they can grow to invade the epidural space, causing compression of the spinal cord and/or nerve roots, leading to pain and neurological deficits."
+  },
+  {
+    "question": "A 25-year-old woman is brought to the emergency department after a motor vehicle accident. She is comatose, and on neurologic exam, her arms are flexed at the elbows and her legs are extended when a painful stimulus is applied. This posturing indicates a lesion at what level of the central nervous system?",
+    "options": [
+      "A. Below the red nucleus, in the brainstem",
+      "B. Above the red nucleus, in the cerebral hemispheres or internal capsule",
+      "C. In the spinal cord at the cervical level",
+      "D. In the basal ganglia",
+      "E. In the cerebellum"
+    ],
+    "answer": "B",
+    "explanation": "This patient is exhibiting decorticate (flexor) posturing, characterized by upper limb flexion and lower limb extension. This indicates that the lesion is located above the red nucleus, severing the connection from the cerebral cortex but leaving the rubrospinal tract (which facilitates upper limb flexion) and the vestibulospinal tract (which facilitates lower limb extension) intact. Lesions at or below the red nucleus would result in decerebrate (extensor) posturing."
+  },
+  {
+    "question": "An MRI of a 68-year-old patient with rapidly progressive dementia shows multiple infarcts of varying ages in different arterial territories, consistent with an embolic source. Which of the following is the most common cardiac cause of embolic stroke?",
+    "options": [
+      "A. Aortic stenosis",
+      "B. Mitral valve prolapse",
+      "C. Atrial fibrillation",
+      "D. Ventricular septal defect",
+      "E. Infective endocarditis"
+    ],
+    "answer": "C",
+    "explanation": "Atrial fibrillation is the most common cause of cardioembolic stroke. The lack of coordinated atrial contraction leads to blood stasis, particularly in the left atrial appendage, which promotes the formation of thrombi. These clots can then dislodge and travel to the cerebral circulation, causing ischemic strokes."
+  },
+  {
+    "question": "A neonate born at 28 weeks gestation develops seizures and a bulging fontanelle on day 3 of life. A cranial ultrasound is performed, which reveals an intraventricular hemorrhage. This type of hemorrhage in premature infants most commonly originates from which of the following structures?",
+    "options": [
+      "A. The choroid plexus",
+      "B. Rupture of a saccular aneurysm",
+      "C. The germinal matrix",
+      "D. The superior sagittal sinus",
+      "E. The middle cerebral artery"
+    ],
+    "answer": "C",
+    "explanation": "In premature infants, the germinal matrix, a highly vascular and fragile region in the subventricular zone where neurons and glial cells migrate from during development, is the most common site of origin for intraventricular hemorrhage. The immature vasculature in this area is prone to rupture, especially with fluctuations in blood pressure."
+  },
+  {
+    "question": "A 30-year-old woman with a known seizure disorder presents for follow-up. Her seizures are characterized by a blank stare and last about 10 seconds, during which she is unresponsive. She has no postictal confusion. This type of seizure is associated with which characteristic finding on an electroencephalogram (EEG)?",
+    "options": [
+      "A. Hypsarrhythmia",
+      "B. Periodic sharp wave complexes",
+      "C. Generalized polyspike-and-wave discharges",
+      "D. 3-Hz spike-and-wave discharges",
+      "E. Focal epileptiform discharges"
+    ],
+    "answer": "D",
+    "explanation": "The patient is describing absence seizures (formerly petit mal), a type of generalized seizure common in childhood but can persist. The pathognomonic EEG finding for absence seizures is generalized 3-Hz spike-and-wave discharges, which can often be provoked by hyperventilation during the EEG recording."
+  },
+  {
+    "question": "A 40-year-old patient with a history of alcohol use disorder presents with confusion, ataxia, and ophthalmoplegia. You suspect Wernicke encephalopathy. A lesion in which of the following brain structures is responsible for the memory impairment and confabulation seen in the chronic form of this condition (Korsakoff syndrome)?",
+    "options": [
+      "A. Hippocampus",
+      "B. Amygdala",
+      "C. Subthalamic nucleus",
+      "D. Cerebellar vermis",
+      "E. Mammillary bodies"
+    ],
+    "answer": "E",
+    "explanation": "Wernicke-Korsakoff syndrome is caused by thiamine (vitamin B1) deficiency. The acute encephalopathy (Wernicke) can progress to a chronic amnestic state (Korsakoff syndrome) characterized by anterograde and retrograde amnesia with confabulation. The pathology involves damage to several midline structures, but the damage to the mammillary bodies and dorsal medial nucleus of the thalamus is most strongly associated with the profound memory deficits."
+  },
+  {
+    "question": "A patient with multiple sclerosis has difficulty adducting her right eye on left lateral gaze, with associated nystagmus of the abducting left eye. Her convergence is intact. This sign, known as internuclear ophthalmoplegia (INO), is caused by a lesion in which of the following structures?",
+    "options": [
+      "A. The oculomotor nerve (CN III)",
+      "B. The abducens nucleus (CN VI)",
+      "C. The paramedian pontine reticular formation (PPRF)",
+      "D. The medial longitudinal fasciculus (MLF)",
+      "E. The frontal eye field"
+    ],
+    "answer": "D",
+    "explanation": "Internuclear ophthalmoplegia (INO) is caused by a lesion in the medial longitudinal fasciculus (MLF), a heavily myelinated tract that connects the abducens nucleus (CN VI) on one side with the contralateral oculomotor nucleus (CN III). This connection is necessary for coordinating horizontal gaze. A lesion in the right MLF, for example, prevents the signal from the left abducens nucleus (for left gaze) from reaching the right oculomotor nucleus, resulting in failure of the right eye to adduct. MS is a common cause of bilateral INO in young adults."
+  },
+  {
+    "question": "A 6-year-old boy presents with a headache and vomiting. An MRI reveals a well-circumscribed, cystic tumor with a mural nodule in the cerebellum. Histological examination shows bipolar cells with long, thin, 'hairlike' processes and Rosenthal fibers. What is the most likely diagnosis?",
+    "options": [
+      "A. Medulloblastoma",
+      "B. Ependymoma",
+      "C. Pilocytic astrocytoma",
+      "D. Craniopharyngioma",
+      "E. Glioblastoma"
+    ],
+    "answer": "C",
+    "explanation": "Pilocytic astrocytoma is the most common primary brain tumor in children. It is typically benign (WHO grade I) and has a good prognosis. The classic location is the cerebellum, and the characteristic appearance on MRI is a cyst with a contrast-enhancing mural nodule. Histologically, it is composed of GFAP-positive astrocytes with pilocytic ('hairlike') processes and eosinophilic Rosenthal fibers."
+  },
+  {
+    "question": "A 7-year-old boy presents with truncal ataxia and signs of increased intracranial pressure, such as headache and papilledema. An MRI shows a solid, midline mass arising from the roof of the 4th ventricle and causing obstructive hydrocephalus. Histology reveals small, round, blue cells forming Homer-Wright rosettes. What is the most likely diagnosis?",
+    "options": [
+      "A. Pilocytic astrocytoma",
+      "B. Medulloblastoma",
+      "C. Ependymoma",
+      "D. Hemangioblastoma",
+      "E. Craniopharyngioma"
+    ],
+    "answer": "B",
+    "explanation": "Medulloblastoma is the most common malignant brain tumor of childhood. It is a type of primitive neuroectodermal tumor (PNET) that typically arises in the cerebellum, often in the vermis (midline), leading to truncal ataxia and obstructive hydrocephalus. The histology of densely packed, small round blue cells forming rosettes (Homer-Wright rosettes) is characteristic."
+  },
+  {
+    "question": "A patient is being treated for Parkinson disease with a combination of levodopa and carbidopa. What is the primary reason for including carbidopa in this regimen?",
+    "options": [
+      "A. To directly stimulate dopamine receptors in the striatum.",
+      "B. To inhibit the monoamine oxidase-B (MAO-B) enzyme in the brain.",
+      "C. To block the peripheral conversion of levodopa to dopamine, thereby increasing its CNS availability.",
+      "D. To block central COMT, preventing the breakdown of dopamine in the brain.",
+      "E. To act as an anticholinergic agent to reduce tremor."
+    ],
+    "answer": "C",
+    "explanation": "Levodopa is a precursor to dopamine that can cross the blood-brain barrier. However, much of it is converted to dopamine in the periphery by the enzyme DOPA decarboxylase, leading to side effects like nausea and preventing an adequate amount from reaching the brain. Carbidopa is a peripheral DOPA decarboxylase inhibitor that does not cross the blood-brain barrier. By blocking this peripheral conversion, it increases the amount of levodopa available to enter the CNS and reduces peripheral side effects."
+  },
+  {
+    "question": "A patient with refractory focal seizures is being treated with a broad-spectrum anticonvulsant. The patient must be monitored closely, as this drug is known to be a potent teratogen, causing neural tube defects, and can also cause rare but serious side effects like fatal hepatotoxicity and pancreatitis. Which anticonvulsant is this?",
+    "options": [
+      "A. Phenytoin",
+      "B. Carbamazepine",
+      "C. Ethosuximide",
+      "D. Valproate",
+      "E. Lamotrigine"
+    ],
+    "answer": "D",
+    "explanation": "Valproate (valproic acid) is a broad-spectrum anticonvulsant effective for both focal and generalized seizures. However, it carries a significant risk of teratogenicity, particularly neural tube defects. It also has black box warnings for potentially fatal hepatotoxicity and pancreatitis, requiring careful monitoring."
+  },
+  {
+    "question": "A patient presents with acute angle-closure glaucoma, characterized by severe eye pain, a fixed mid-dilated pupil, and conjunctival injection. In addition to agents that decrease aqueous humor production like timolol and acetazolamide, which of the following agents is used to increase trabecular outflow by causing ciliary muscle contraction and miosis?",
+    "options": [
+      "A. Latanoprost",
+      "B. Brimonidine",
+      "C. Epinephrine",
+      "D. Pilocarpine",
+      "E. Atropine"
+    ],
+    "answer": "D",
+    "explanation": "In acute angle-closure glaucoma, the iris is physically blocking the trabecular meshwork. Pilocarpine is a direct cholinomimetic (M3 agonist) that causes contraction of the ciliary muscle, which pulls on the scleral spur and opens the trabecular meshwork. It also causes miosis (pupillary constriction), which pulls the peripheral iris away from the angle, helping to relieve the pupillary block. This combination of effects makes it a key component of acute management."
+  },
+    {
+    "question": "A 55-year-old patient with a history of recurrent DVTs is found to have a Factor V Leiden mutation. This mutation makes Factor V resistant to inactivation by activated protein C (APC). What is the specific molecular change responsible for this resistance?",
+    "options": [
+      "A. A deletion of the Factor V gene",
+      "B. An Arg506Gln substitution at the APC cleavage site",
+      "C. Increased expression of Factor V due to a promoter mutation",
+      "D. A frameshift mutation leading to a truncated, non-functional protein",
+      "E. A mutation that enhances the binding of Factor V to Factor Xa"
+    ],
+    "answer": "B",
+    "explanation": "Factor V Leiden is caused by a single nucleotide substitution (Guanine to Adenine) in the Factor V gene, which results in the replacement of Arginine (Arg) with Glutamine (Gln) at position 506. This specific amino acid is the primary cleavage site for activated protein C (APC), a natural anticoagulant. The substitution prevents APC from effectively inactivating Factor V, leading to a hypercoagulable state. [1, 37, 42, 45, 47]"
+  },
+  {
+    "question": "A 62-year-old male presents with fatigue and is found to have a hemoglobin of 8.5 g/dL. He has a history of rheumatoid arthritis and chronic kidney disease. Iron studies are performed, revealing low serum iron, low TIBC, and high ferritin. What is the most likely diagnosis and the primary pathophysiological mechanism?",
+    "options": [
+      "A. Iron deficiency anemia due to chronic blood loss",
+      "B. Sideroblastic anemia due to a defect in heme synthesis",
+      "C. Anemia of chronic disease, driven by increased hepcidin levels",
+      "D. Hemolytic anemia, suggested by the high ferritin level",
+      "E. Vitamin B12 deficiency, leading to ineffective erythropoiesis"
+    ],
+    "answer": "C",
+    "explanation": "The lab pattern of low iron, low TIBC (transferrin), and high ferritin is classic for anemia of chronic disease. Chronic inflammation (from RA and CKD) increases cytokine levels (e.g., IL-6), which stimulates the liver to produce hepcidin. Hepcidin inhibits iron transport by degrading ferroportin on intestinal mucosal cells and macrophages. This traps iron within macrophages (leading to high ferritin) and reduces iron absorption, making it unavailable for erythropoiesis."
+  },
+  {
+    "question": "A 2-year-old child presents with failure to thrive, developmental delay, and a megaloblastic anemia that is refractory to both folate and vitamin B12 supplementation. Urinalysis reveals a large amount of orotic acid. There is no hyperammonemia. This condition is caused by a defect in which of the following enzymes?",
+    "options": [
+      "A. Ornithine transcarbamylase",
+      "B. Dihydrofolate reductase",
+      "C. UMP synthase",
+      "D. ALA synthase",
+      "E. G6PD"
+    ],
+    "answer": "C",
+    "explanation": "This is a classic presentation of orotic aciduria, an autosomal recessive disorder of de novo pyrimidine synthesis. A defect in UMP synthase prevents the conversion of orotic acid to UMP, leading to an accumulation of orotic acid in the urine. This impairs DNA synthesis, causing megaloblastic anemia. The absence of hyperammonemia distinguishes it from ornithine transcarbamylase deficiency, a urea cycle disorder that also presents with elevated orotic acid."
+  },
+  {
+    "question": "A 35-year-old female presents with the triad of Coombs-negative hemolytic anemia, pancytopenia, and venous thrombosis, particularly in the hepatic vein (Budd-Chiari syndrome). Flow cytometry analysis of her red blood cells is ordered. The absence of which two cell surface proteins would confirm the diagnosis of paroxysmal nocturnal hemoglobinuria (PNH)?",
+    "options": [
+      "A. Spectrin and ankyrin",
+      "B. Glycophorin A and Band 3",
+      "C. GpIb and GpIIb/IIIa",
+      "D. CD55 (DAF) and CD59 (MIRL)",
+      "E. CD15 and CD30"
+    ],
+    "answer": "D",
+    "explanation": "Paroxysmal nocturnal hemoglobinuria (PNH) is caused by an acquired somatic mutation in the PIGA gene in a hematopoietic stem cell. This gene is necessary for the synthesis of the GPI anchor, which attaches many proteins to the cell surface. The absence of GPI-anchored proteins, particularly the complement inhibitors CD55 (decay-accelerating factor) and CD59 (membrane inhibitor of reactive lysis), leaves RBCs susceptible to complement-mediated intravascular hemolysis."
+  },
+  {
+    "question": "A 4-year-old child presents with recurrent bacterial infections. Physical exam reveals partial albinism and peripheral neuropathy. A peripheral blood smear shows giant cytoplasmic granules in neutrophils and platelets. This patient's condition, Chédiak-Higashi syndrome, is caused by a defect in which of the following cellular processes?",
+    "options": [
+      "A. Lysosomal trafficking and phagolysosome formation",
+      "B. The respiratory burst via NADPH oxidase",
+      "C. DNA repair mechanisms",
+      "D. Myeloperoxidase production",
+      "E. T-cell maturation in the thymus"
+    ],
+    "answer": "A",
+    "explanation": "Chédiak-Higashi syndrome is an autosomal recessive disorder caused by a mutation in the LYST gene, which is involved in lysosomal trafficking. This defect impairs the fusion of phagosomes with lysosomes (phagolysosome formation) in neutrophils, leading to recurrent pyogenic infections. It also affects other granular cells like melanocytes (causing partial albinism) and platelets (causing bleeding diathesis), and leads to the characteristic giant granules."
+  },
+  {
+    "question": "A 28-year-old pregnant woman in her third trimester presents with hypertension, proteinuria, and hemolysis with a peripheral smear showing schistocytes, elevated liver enzymes, and a low platelet count. What is the most likely diagnosis?",
+    "options": [
+      "A. Thrombotic thrombocytopenic purpura (TTP)",
+      "B. Hemolytic uremic syndrome (HUS)",
+      "C. Disseminated intravascular coagulation (DIC)",
+      "D. Aplastic crisis",
+      "E. HELLP syndrome"
+    ],
+    "answer": "E",
+    "explanation": "This patient's presentation in the third trimester of pregnancy is classic for HELLP syndrome, which stands for Hemolysis, Elevated Liver enzymes, and Low Platelets. It is a severe form of preeclampsia. The peripheral smear shows schistocytes, indicative of a microangiopathic hemolytic anemia, which is a key feature of the syndrome."
+  },
+  {
+    "question": "A 66-year-old male presents with fatigue, massive splenomegaly, and pancytopenia. A bone marrow aspiration results in a 'dry tap'. The peripheral smear shows lymphocytes with filamentous, hair-like projections. Flow cytometry is performed. Which stain, which is largely now replaced by flow cytometry, would be characteristically positive in this patient's malignant cells?",
+    "options": [
+      "A. Myeloperoxidase",
+      "B. Terminal deoxynucleotidyl transferase (TdT)",
+      "C. Tartrate-Resistant Acid Phosphatase (TRAP)",
+      "D. Leukocyte Alkaline Phosphatase (LAP)",
+      "E. Prussian blue"
+    ],
+    "answer": "C",
+    "explanation": "The clinical picture of massive splenomegaly, pancytopenia, dry tap on bone marrow aspirate, and characteristic cell morphology describes Hairy Cell Leukemia. These mature B-cell tumors are classically positive for the enzyme Tartrate-Resistant Acid Phosphatase (TRAP), a finding that was historically crucial for diagnosis."
+  },
+  {
+    "question": "A 5-year-old child with a history of Down syndrome presents with fatigue, bleeding gums, and recurrent infections. A CBC shows pancytopenia, and a peripheral smear reveals over 20% circulating myeloblasts. Some of these blasts contain distinctive needle-like cytoplasmic inclusions that stain positive for myeloperoxidase. What are these inclusions called?",
+    "options": [
+      "A. Döhle bodies",
+      "B. Auer rods",
+      "C. Howell-Jolly bodies",
+      "D. Heinz bodies",
+      "E. Pappenheimer bodies"
+    ],
+    "answer": "B",
+    "explanation": "The presence of >20% blasts in the bone marrow or peripheral blood is diagnostic of acute leukemia. The needle-like, MPO-positive cytoplasmic inclusions are Auer rods, which are pathognomonic for acute myelogenous leukemia (AML). Children with Down syndrome have an increased risk of developing AML, particularly the acute megakaryoblastic leukemia subtype."
+  },
+  {
+    "question": "A 58-year-old woman presents with intense itching, especially after a hot shower, and a ruddy complexion. She also complains of severe burning pain and red-blue discoloration in her hands. Labs show an elevated hematocrit and RBC mass, with a very low erythropoietin (EPO) level. A mutation in which of the following is most likely responsible for her condition?",
+    "options": [
+      "A. BCR-ABL fusion gene",
+      "B. c-KIT",
+      "C. MPL",
+      "D. CALR",
+      "E. JAK2"
+    ],
+    "answer": "E",
+    "explanation": "This patient has classic symptoms of polycythemia vera (PV), including aquagenic pruritus, plethora, and erythromelalgia. PV is a myeloproliferative neoplasm characterized by uncontrolled RBC production independent of EPO. The vast majority of cases are caused by an activating mutation in the JAK2 tyrosine kinase (most commonly the V617F mutation), which leads to constitutive signaling through the EPO receptor pathway."
+  },
+  {
+    "question": "A 40-year-old man ingests an unknown substance and presents to the emergency department with abdominal pain, a port wine-colored urine, and polyneuropathy. His wife reports he has been experiencing psychological disturbances recently. The symptoms are precipitated by his recent attempt at a crash diet and alcohol consumption. A defect in which enzyme is the most likely cause of his condition?",
+    "options": [
+      "A. Ferrochelatase",
+      "B. Porphobilinogen deaminase",
+      "C. Uroporphyrinogen decarboxylase",
+      "D. ALA dehydratase",
+      "E. ALA synthase"
+    ],
+    "answer": "B",
+    "explanation": "The patient's symptoms align with the classic '5 Ps' of Acute Intermittent Porphyria (AIP): Painful abdomen, Port wine-colored Pee, Polyneuropathy, Psychological disturbances, and Precipitated by factors that increase ALA synthase activity (like drugs, alcohol, and starvation). AIP is an autosomal dominant disorder caused by a deficiency in porphobilinogen deaminase, leading to the accumulation of ALA and porphobilinogen."
+  },
+  {
+    "question": "A patient with end-stage renal disease develops uremic platelet dysfunction. Which of the following best describes the primary defect in hemostasis in this condition?",
+    "options": [
+      "A. A quantitative decrease in platelet count due to splenic sequestration.",
+      "B. A defect in GpIb leading to impaired platelet-to-vWF adhesion.",
+      "C. A defect in GpIIb/IIIa leading to impaired platelet-to-platelet aggregation.",
+      "D. A qualitative defect in platelet function, impairing both adhesion and aggregation due to circulating uremic toxins.",
+      "E. A deficiency of von Willebrand factor."
+    ],
+    "answer": "D",
+    "explanation": "In uremic platelet dysfunction, the platelet count is typically normal, but their function is impaired. Circulating uremic toxins interfere with multiple aspects of platelet function, including adhesion to the subendothelium and subsequent aggregation, leading to a qualitative platelet defect and an increased bleeding time."
+  },
+  {
+    "question": "A 28-year-old woman with systemic lupus erythematosus develops a deep vein thrombosis. Laboratory testing reveals a prolonged PTT that does not correct upon mixing with normal plasma. She also has a history of recurrent miscarriages. Which of the following antibodies is most likely present?",
+    "options": [
+      "A. Anti-dsDNA",
+      "B. Anti-Smith",
+      "C. Anti-centromere",
+      "D. Lupus anticoagulant",
+      "E. Anti-Ro (SSA)"
+    ],
+    "answer": "D",
+    "explanation": "This patient's presentation of thrombosis and recurrent fetal loss, along with a prolonged PTT that fails to correct with a mixing study, is highly suggestive of antiphospholipid syndrome, which can be secondary to SLE. The lupus anticoagulant is an antibody that binds to phospholipids and proteins associated with the cell membrane, paradoxically causing a hypercoagulable state in vivo but prolonging phospholipid-dependent clotting assays like the PTT in vitro."
+  },
+  {
+    "question": "A 22-year-old college student presents with a sore throat, fever, and posterior cervical lymphadenopathy. A peripheral blood smear shows atypical lymphocytes. The patient is prescribed ampicillin for a suspected bacterial pharyngitis, after which she develops a maculopapular rash. The presence of which type of antibody is characteristic of this patient's underlying condition?",
+    "options": [
+      "A. Warm-agglutinating IgG antibodies",
+      "B. Cold-agglutinating IgM antibodies",
+      "C. Anti-nuclear antibodies (ANA)",
+      "D. Anti-streptolysin O (ASO) antibodies",
+      "E. Heterophile antibodies"
+    ],
+    "answer": "B",
+    "explanation": "The patient's clinical syndrome is classic for infectious mononucleosis, caused by the Epstein-Barr virus (EBV). While heterophile antibodies are used for diagnosis (Monospot test), EBV infection is also a common cause of cold autoimmune hemolytic anemia (AIHA). This is mediated by IgM antibodies that bind to RBCs in the colder temperatures of the extremities, leading to complement activation and hemolysis."
+  },
+  {
+    "question": "A patient is prescribed the vinca alkaloid vincristine for lymphoma. The oncologist carefully monitors for neurologic side effects. Which component of the cell cycle and cellular structure is directly targeted by this class of drugs, leading to its characteristic neurotoxicity?",
+    "options": [
+      "A. DNA replication in the S phase, by inhibiting topoisomerase.",
+      "B. DNA integrity in the G2 phase, by causing strand breaks.",
+      "C. Mitotic spindle formation in the M phase, by inhibiting microtubule polymerization.",
+      "D. Mitotic spindle breakdown in the M phase, by hyperstabilizing microtubules.",
+      "E. Ribonucleotide synthesis in the S phase, by inhibiting ribonucleotide reductase."
+    ],
+    "answer": "C",
+    "explanation": "Vinca alkaloids, such as vincristine and vinblastine, exert their cytotoxic effect by binding to β-tubulin and inhibiting its polymerization into microtubules. This disrupts the formation of the mitotic spindle, arresting cells in the M phase. Because microtubules are also essential for axonal transport in neurons, this disruption leads to the dose-limiting neurotoxicity (especially peripheral neuropathy) characteristic of vincristine."
+  },
+  {
+    "question": "A 45-year-old woman receiving chemotherapy for breast cancer develops severe nausea and vomiting several hours after her infusion. Which medication would be most effective for this acute-onset, chemotherapy-induced nausea and vomiting by blocking 5-HT3 receptors in the periphery and in the chemoreceptor trigger zone?",
+    "options": [
+      "A. Aprepitant",
+      "B. Prochlorperazine",
+      "C. Dexamethasone",
+      "D. Ondansetron",
+      "E. Lorazepam"
+    ],
+    "answer": "D",
+    "explanation": "Acute chemotherapy-induced nausea and vomiting (within 24 hours) is primarily mediated by the release of serotonin (5-HT) from enterochromaffin cells in the gut, which then stimulates 5-HT3 receptors on vagal afferent nerves and in the chemoreceptor trigger zone. 5-HT3 receptor antagonists like ondansetron are the first-line and most effective agents for preventing and treating this type of emesis."
+  },
+  {
+    "question": "A 25-year-old woman with a history of recurrent DVTs is diagnosed with antithrombin deficiency. She is started on a standard dose of unfractionated heparin, but her PTT does not increase as expected. Why is heparin therapy less effective in this patient?",
+    "options": [
+      "A. Heparin is rapidly cleared by the kidneys in this condition.",
+      "B. The patient has developed antibodies against the heparin-PF4 complex.",
+      "C. Heparin's anticoagulant effect requires the presence of antithrombin to inhibit Factors IIa and Xa.",
+      "D. The patient's Factor V is resistant to degradation.",
+      "E. Heparin cannot inhibit the extrinsic pathway, which is overactive in this patient."
+    ],
+    "answer": "C",
+    "explanation": "Heparin exerts its anticoagulant effect primarily by binding to and potentiating the activity of antithrombin. The heparin-antithrombin complex then inactivates thrombin (Factor IIa) and Factor Xa. In a patient with antithrombin deficiency, there is insufficient antithrombin for heparin to bind to, resulting in heparin resistance and a diminished anticoagulant effect."
+  },
+  {
+    "question": "A 1-day-old premature infant develops respiratory distress. The infant has an immature nervous system and is susceptible to brain bleeds. A bleed originating from the germinal matrix is most likely to result in which of the following?",
+    "options": [
+        "A. Subdural hematoma",
+        "B. Epidural hematoma",
+        "C. Subarachnoid hemorrhage",
+        "D. Intraventricular hemorrhage",
+        "E. Intraparenchymal hemorrhage"
+    ],
+    "answer": "D",
+    "explanation": "The germinal matrix is a highly vascularized region in the brains of premature infants from which neurons and glial cells migrate. Due to its fragile blood vessels, it is a common site of hemorrhage, which can rupture into the lateral ventricles, causing an intraventricular hemorrhage."
+    },
+  {
+    "question": "A 45-year-old woman complains of a 'pins and needles' sensation in her hands and feet. She has a history of gastric bypass surgery. Neurological examination reveals loss of proprioception and vibration sense in the lower extremities, and a positive Romberg sign. Laboratory tests would most likely reveal an elevation of which two substances?",
+    "options": [
+        "A. Homocysteine and methylmalonic acid",
+        "B. Porphobilinogen and ALA",
+        "C. Uric acid and phosphate",
+        "D. Lactate and pyruvate",
+        "E. Homocysteine only"
+    ],
+    "answer": "A",
+    "explanation": "The patient's symptoms of subacute combined degeneration (demyelination of the dorsal columns, lateral corticospinal, and spinocerebellar tracts) are characteristic of vitamin B12 deficiency. Vitamin B12 is a cofactor for two enzymes: methionine synthase (which converts homocysteine to methionine) and methylmalonyl-CoA mutase (which converts methylmalonyl-CoA to succinyl-CoA). Deficiency leads to the accumulation of both homocysteine and methylmalonic acid."
+  },
+  {
+    "question": "A patient with a history of smoking presents with a tumor in the apex of the lung. He develops ptosis, miosis, and anhidrosis on the ipsilateral side of his face. This constellation of symptoms, known as Horner syndrome, is due to the interruption of the sympathetic chain. Which specific structure is being compressed by the Pancoast tumor?",
+    "options": [
+        "A. The first neuron of the oculosympathetic pathway in the hypothalamus",
+        "B. The second neuron of the oculosympathetic pathway as it exits the spinal cord to the superior cervical ganglion",
+        "C. The third neuron of the oculosympathetic pathway as it travels along the internal carotid artery",
+        "D. The Edinger-Westphal nucleus",
+        "E. The abducens nerve in the cavernous sinus"
+    ],
+    "answer": "B",
+    "explanation": "Horner syndrome results from a lesion anywhere along the three-neuron oculosympathetic pathway. A Pancoast tumor, located at the lung apex, classically compresses the sympathetic chain as the second-order neuron (preganglionic) exits the spinal cord (at T1) and ascends to synapse in the superior cervical ganglion. This interrupts the signal to the face, causing the characteristic triad."
+  },
+  {
+    "question": "A 60-year-old man with uncontrolled hypertension presents with a sudden onset of contralateral hemiplegia and sensory loss, without any cortical signs such as aphasia or neglect. An MRI of the brain is most likely to show a small, deep infarct in which of the following locations?",
+    "options": [
+        "A. The primary motor cortex",
+        "B. The occipital lobe",
+        "C. A watershed area between the ACA and MCA",
+        "D. The striatum or internal capsule",
+        "E. The cerebellum"
+    ],
+    "answer": "D",
+    "explanation": "This presentation describes a pure motor or sensorimotor lacunar stroke. Lacunar infarcts are small infarcts in the deep penetrating arteries (such as the lenticulostriate arteries) that supply the basal ganglia, internal capsule, and pons. Chronic hypertension leads to hyaline arteriosclerosis in these small vessels, making them prone to occlusion. The resulting stroke affects these deep structures without involving the cerebral cortex, hence the absence of cortical signs."
+  },
+  {
+    "question": "A 40-year-old woman presents with sudden onset of 'the worst headache of her life.' A non-contrast CT scan of the head shows blood in the subarachnoid space, particularly in the basal cisterns. A cerebral angiogram is performed. A saccular (berry) aneurysm is most likely to be found at which of the following locations?",
+    "options": [
+        "A. The junction of the anterior communicating artery and the anterior cerebral artery",
+        "B. The middle of the M1 segment of the middle cerebral artery",
+        "C. The junction of the vertebral arteries to form the basilar artery",
+        "D. The origin of the posterior inferior cerebellar artery (PICA)",
+        "E. The cavernous portion of the internal carotid artery"
+    ],
+    "answer": "A",
+    "explanation": "Saccular (berry) aneurysms, the most common cause of non-traumatic subarachnoid hemorrhage, typically occur at the branch points of arteries in the circle of Willis where the vessel wall is congenitally weaker. The most common location is the junction of the anterior communicating artery (ACom) with the anterior cerebral artery (ACA)."
+  },
+  {
+    "question": "A 25-year-old woman presents with episodes of unilateral, pulsating headaches that are associated with nausea and photophobia. She sometimes experiences a preceding aura of flashing lights. This condition is thought to involve the activation of the trigeminal nerve and the release of vasoactive peptides. Which of the following is a key neuropeptide implicated in the pathophysiology of this type of headache?",
+    "options": [
+        "A. Acetylcholine",
+        "B. Dopamine",
+        "C. Endorphin",
+        "D. Calcitonin gene-related peptide (CGRP)",
+        "E. Substance P"
+    ],
+    "answer": "D",
+    "explanation": "The patient is describing migraine headaches. The pathophysiology is complex, but a key element is the activation of the trigeminal nervous system, which leads to the release of vasoactive neuropeptides, including calcitonin gene-related peptide (CGRP). CGRP causes vasodilation of cranial blood vessels and promotes neurogenic inflammation, contributing to the pain of a migraine attack. This is evidenced by the efficacy of CGRP antagonists and monoclonal antibodies against CGRP or its receptor in treating migraines."
+  },
+  {
+    "question": "A 4-month-old infant is noted to have a port-wine stain (nevus flammeus) covering the right side of his face in the V1 and V2 distribution. He has also been having seizures. An MRI of the brain shows an ipsilateral leptomeningeal angioma. This constellation of findings is characteristic of which neurocutaneous disorder?",
+    "options": [
+        "A. Tuberous sclerosis",
+        "B. Neurofibromatosis type 1",
+        "C. Sturge-Weber syndrome",
+        "D. von Hippel-Lindau disease",
+        "E. Neurofibromatosis type 2"
+    ],
+    "answer": "C",
+    "explanation": "Sturge-Weber syndrome, also known as encephalotrigeminal angiomatosis, is a congenital neurocutaneous disorder characterized by the triad of a facial port-wine stain (typically in the V1/V2 distribution), ipsilateral leptomeningeal angiomatosis (which can lead to seizures, intellectual disability, and contralateral hemiparesis), and glaucoma."
+  },
+  {
+    "question": "A 50-year-old woman with a history of breast cancer treated with radiation therapy develops a painless, enlarging mass in her left breast. Biopsy reveals a highly malignant tumor of endothelial origin. Which of the following is the most likely diagnosis?",
+    "options": [
+        "A. Kaposi sarcoma",
+        "B. Angiosarcoma",
+        "C. Bacillary angiomatosis",
+        "D. Hemangioblastoma",
+        "E. Glomus tumor"
+    ],
+    "answer": "B",
+    "explanation": "Angiosarcoma is a rare, aggressive malignancy of endothelial cells. In the skin, it is associated with radiation therapy and chronic lymphedema (e.g., post-mastectomy lymphedema, known as Stewart-Treves syndrome). The history of radiation therapy to the breast is a major risk factor for developing cutaneous angiosarcoma in that area."
+  },
+  {
+    "question": "A 30-year-old woman with known celiac disease presents with a severely pruritic rash consisting of papules and vesicles on her elbows and knees. A skin biopsy with direct immunofluorescence is performed. What is the characteristic finding that would confirm the diagnosis of dermatitis herpetiformis?",
+    "options": [
+        "A. Linear IgG deposits at the dermal-epidermal junction",
+        "B. Reticular IgG deposits around keratinocytes",
+        "C. Granular IgA deposits at the tips of the dermal papillae",
+        "D. Subepidermal split with numerous eosinophils",
+        "E. Acantholysis of the stratum spinosum"
+    ],
+    "answer": "C",
+    "explanation": "Dermatitis herpetiformis is the cutaneous manifestation of celiac disease. It is an autoimmune blistering disorder characterized by the deposition of IgA antibodies at the tips of the dermal papillae. This triggers an inflammatory response that leads to the intensely pruritic vesicles and papules."
+  },
+  {
+    "question": "A 70-year-old man with a history of smoking presents with a non-healing ulcer on his lower lip. A biopsy is taken. Histological examination reveals atypical keratinocytes invading the dermis and the formation of keratin pearls. What is the most likely diagnosis?",
+    "options": [
+        "A. Basal cell carcinoma",
+        "B. Melanoma",
+        "C. Squamous cell carcinoma",
+        "D. Keratoacanthoma",
+        "E. Actinic keratosis"
+    ],
+    "answer": "C",
+    "explanation": "Squamous cell carcinoma (SCC) is a common skin cancer strongly associated with sun exposure and smoking, particularly for lesions on the lower lip. The key histological features are invasive nests of atypical squamous cells and the formation of keratin pearls, which represent abnormal keratinization."
+  },
+  {
+    "question": "A patient undergoing general anesthesia develops muscle rigidity, hyperthermia, and hypercapnia shortly after the administration of sevoflurane and succinylcholine. This life-threatening condition is caused by massive calcium release from the sarcoplasmic reticulum. What is the mechanism of action of dantrolene, the specific antidote for this condition?",
+    "options": [
+        "A. It acts as a competitive antagonist at nicotinic acetylcholine receptors.",
+        "B. It is a GABAB receptor agonist in the spinal cord.",
+        "C. It is a centrally acting α2 agonist.",
+        "D. It prevents calcium release by inhibiting the ryanodine receptor.",
+        "E. It chelates excess calcium in the cytoplasm."
+    ],
+    "answer": "D",
+    "explanation": "The patient is experiencing malignant hyperthermia, a pharmacogenetic disorder. It is triggered by volatile anesthetics and succinylcholine in susceptible individuals, leading to uncontrolled calcium release from the sarcoplasmic reticulum. Dantrolene is the specific antidote. It works by binding to and inhibiting the ryanodine receptor (RyR1) on the sarcoplasmic reticulum, thereby preventing the release of calcium and allowing the muscles to relax."
+  },
+  {
+    "question": "A 50-year-old man is admitted to the ICU with sepsis. He develops widespread weakness, particularly of the diaphragm, which makes it difficult to wean him from the ventilator. Deep tendon reflexes are decreased. This condition, known as critical illness polyneuropathy, is primarily characterized by what type of nerve injury?",
+    "options": [
+      "A. Segmental demyelination",
+      "B. Axonal degeneration",
+      "C. Compression neuropathy",
+      "D. Ischemic neuropathy",
+      "E. Inflammatory infiltrate of the endoneurium"
+    ],
+    "answer": "B",
+    "explanation": "Critical illness polyneuropathy is a common complication in ICU patients, particularly those with sepsis and multi-organ failure. The primary pathology is a distal axonal degeneration of both motor and sensory fibers, likely caused by inflammatory mediators and microcirculatory disturbances that disrupt axonal transport and integrity."
+  },
+  {
+    "question": "A 35-year-old man presents with bilateral weakness of his facial muscles, making it difficult to close his eyes or smile symmetrically. He also reports having had a large, circular rash on his back a few weeks ago after a hiking trip. This presentation is highly suggestive of which infectious etiology?",
+    "options": [
+      "A. Herpes simplex virus",
+      "B. Varicella-zoster virus",
+      "C. Borrelia burgdorferi",
+      "D. Sarcoidosis",
+      "E. Poliovirus"
+    ],
+    "answer": "C",
+    "explanation": "Bilateral facial nerve palsy is an uncommon but highly specific finding for neuroborreliosis, a neurologic manifestation of Lyme disease, which is caused by the spirochete Borrelia burgdorferi. The history of a preceding rash consistent with erythema migrans further supports this diagnosis."
+  },
+  {
+    "question": "A patient with a history of atrial fibrillation on warfarin has an INR of 8.0 and is actively bleeding. In addition to stopping the warfarin, which of the following interventions will provide the most rapid reversal of his coagulopathy?",
+    "options": [
+      "A. Administering a large dose of Vitamin K intravenously",
+      "B. Administering protamine sulfate",
+      "C. Administering fresh frozen plasma (FFP) or prothrombin complex concentrate (PCC)",
+      "D. Administering desmopressin (DDAVP)",
+      "E. Platelet transfusion"
+    ],
+    "answer": "C",
+    "explanation": "For life-threatening bleeding due to warfarin, rapid reversal is crucial. While Vitamin K will eventually reverse the effects by allowing the synthesis of new clotting factors, this process takes several hours. Fresh frozen plasma (FFP) or prothrombin complex concentrate (PCC) provides an immediate supply of functional clotting factors (II, VII, IX, X), rapidly correcting the coagulopathy."
+  },
+  {
+    "question": "A 5-year-old boy presents with a limp. X-ray of the hip reveals avascular necrosis of the femoral head. There is no history of trauma, sickle cell disease, or steroid use. What is the most likely diagnosis for this idiopathic avascular necrosis of the femoral head in a child?",
+    "options": [
+      "A. Slipped capital femoral epiphysis",
+      "B. Developmental dysplasia of the hip",
+      "C. Legg-Calvé-Perthes disease",
+      "D. Osgood-Schlatter disease",
+      "E. Septic arthritis"
+    ],
+    "answer": "C",
+    "explanation": "Legg-Calvé-Perthes disease is the idiopathic avascular necrosis of the capital femoral epiphysis in children, typically occurring in boys between the ages of 5 and 7. It presents with an insidious onset of hip pain and a limp."
+  },
+  {
+    "question": "A 13-year-old obese male presents with a painful limp and knee pain that has been worsening over several weeks. An x-ray of the hip shows posterior and inferior displacement of the femoral head epiphysis relative to the femoral neck. What is the diagnosis?",
+    "options": [
+      "A. Legg-Calvé-Perthes disease",
+      "B. Slipped capital femoral epiphysis (SCFE)",
+      "C. Osgood-Schlatter disease",
+      "D. Patellofemoral syndrome",
+      "E. Avascular necrosis"
+    ],
+    "answer": "B",
+    "explanation": "Slipped capital femoral epiphysis (SCFE) is a condition that occurs in adolescents, particularly those who are obese, where the femoral head (epiphysis) slips off the femoral neck through the weakened growth plate. The classic presentation is an obese adolescent with hip, groin, or referred knee pain and an altered gait. The radiographic findings are diagnostic."
+  },
+  {
+    "question": "A 30-year-old woman presents with anxiety and panic attacks. She is prescribed a benzodiazepine. How does this class of drugs exert its anxiolytic effect at the molecular level?",
+    "options": [
+      "A. By increasing the duration of chloride channel opening on the GABAA receptor",
+      "B. By blocking the reuptake of serotonin and norepinephrine",
+      "C. By acting as a direct agonist at the GABAA receptor",
+      "D. By increasing the frequency of chloride channel opening on the GABAA receptor",
+      "E. By blocking voltage-gated sodium channels"
+    ],
+    "answer": "D",
+    "explanation": "Benzodiazepines are positive allosteric modulators of the GABAA receptor. They bind to a site distinct from the GABA binding site and enhance the effect of GABA by increasing the frequency of chloride channel opening when GABA is bound. This leads to increased chloride influx, hyperpolarization of the neuron, and a generalized CNS depressant effect. Barbiturates, in contrast, increase the duration of channel opening."
+  },
+  {
+    "question": "A patient with newly diagnosed focal seizures is started on a medication that is known to induce cytochrome P450 enzymes, cause gingival hyperplasia, hirsutism, and is teratogenic, causing fetal hydantoin syndrome. Which anticonvulsant is this?",
+    "options": [
+      "A. Valproate",
+      "B. Lamotrigine",
+      "C. Levetiracetam",
+      "D. Gabapentin",
+      "E. Phenytoin"
+    ],
+    "answer": "E",
+    "explanation": "Phenytoin is a narrow-spectrum anticonvulsant with a distinctive side effect profile. It is a potent inducer of the CYP450 system, leading to numerous drug interactions. Its characteristic adverse effects include gingival hyperplasia, hirsutism, nystagmus, ataxia, and folate depletion. It is also a known teratogen."
+  }
+]
+

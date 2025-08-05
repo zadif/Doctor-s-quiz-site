@@ -1,0 +1,1503 @@
+[
+  {
+    "question": "A medical student preparing for the USMLE Step 1 exam is creating a study plan. He is concerned about common pitfalls that could lead to suboptimal performance. According to a guide on efficient exam preparation, which of the following is a frequently cited mistake that students make, leading to burnout and inefficient studying?",
+    "options": [
+      "A. Starting to study intensely too early in the preparation period.",
+      "B. Using a limited number of high-yield resources to avoid information overload.",
+      "C. Integrating question banks early in the study schedule to build a strong foundation.",
+      "D. Focusing on mastering high-yield subjects before moving to less frequently tested material.",
+      "E. Reviewing First Aid alongside medical school classes to build familiarity."
+    ],
+    "answer": "A",
+    "explanation": "The provided text explicitly lists 'Starting to study intensely too early and burning out' as a common mistake. The other options are generally recommended strategies for effective studying."
+  },
+  {
+    "question": "A second-year medical student is familiarizing herself with the structure and format of the USMLE Step 1 Computer-Based Test (CBT). She learns that the exam has specific rules about navigating between blocks. Which of the following accurately describes the rules regarding block completion and answer modification on the Step 1 exam?",
+    "options": [
+      "A. Examinees can return to a previously completed block to change answers as long as they have remaining total exam time.",
+      "B. Once an examinee clicks to continue to the next block, they cannot go back to change answers in any prior block.",
+      "C. The exam software provides a 5-minute review period after each block is completed to allow for last-minute answer changes.",
+      "D. If time is remaining within a specific block, examinees can use that extra time to work on questions in the subsequent block.",
+      "E. A test-taker can pause the timer within a block to review previous questions before ending the block."
+    ],
+    "answer": "B",
+    "explanation": "The text states, 'Examinees cannot go back and change their answers to questions from any previously completed block. However, changing answers is allowed within a block of questions as long as the block has not been ended and if time permits.' This makes option B the only correct statement."
+  },
+  {
+    "question": "During the USMLE Step 1 exam, a student encounters a question with an audio clip of heart sounds. To answer the question, he needs to use the digital stethoscope provided in the interface. Which of the following functionalities should the student be aware of to ensure he can correctly interpret the audio-based question and manage his exam time effectively?",
+    "options": [
+      "A. The volume for the headphones can only be adjusted by the proctor at the testing center.",
+      "B. The tutorial at the beginning of the exam is mandatory and includes a section to test headphone functionality.",
+      "C. If a student plans to skip the tutorial, they should first navigate to the headphone check section within the tutorial to ensure proper function before starting the exam.",
+      "D. The normal lab values window automatically opens whenever a media clip is presented.",
+      "E. Keyboard shortcuts are disabled during questions that feature media clips to prevent accidental navigation."
+    ],
+    "answer": "C",
+    "explanation": "The text advises, 'If you are already familiar with the tutorial and planning on skipping it, first skip ahead to the section where you can test your headphones. After you are sure the headphones are working properly, proceed to the exam.' This highlights the importance of checking the equipment even when skipping the main tutorial."
+  },
+  {
+    "question": "A student is planning his study schedule for the USMLE Step 1 and wants to incorporate various learning strategies. Based on evidence regarding efficacy, which of the following approaches combines two 'high efficacy' strategies that are known to strengthen long-term retention and improve exam performance?",
+    "options": [
+      "A. Rereading the textbook multiple times and then summarizing the key concepts in a notebook.",
+      "B. Highlighting important facts in a review book and creating detailed concept maps for each topic.",
+      "C. Using a flash card application with spaced-repetition software to actively recall information from interleaved topics.",
+      "D. Creating self-made mnemonics for complex pathways and then rereading them daily.",
+      "E. Watching video lectures and simultaneously underlining the corresponding sections in a review book."
+    ],
+    "answer": "C",
+    "explanation": "The text identifies 'Practice Testing (retrieval practice)' and 'Distributed Practice (spaced repetition)' as high-efficacy strategies. Using flash cards with a spaced-repetition system (like Anki) is a direct application of both principles. The text also notes that interleaving topics during practice enhances learning. Rereading, highlighting, and summarization are listed as low-efficacy strategies."
+  },
+  {
+    "question": "A researcher is studying the structure of chromatin in eukaryotic cells, focusing on the mechanisms that regulate gene transcription. She is particularly interested in the post-translational modifications of histone proteins. Which of the following modifications is most directly associated with the formation of euchromatin and increased transcriptional activity?",
+    "options": [
+      "A. Histone methylation at lysine residues.",
+      "B. Histone deacetylation.",
+      "C. Binding of H1 histone to linker DNA.",
+      "D. Histone acetylation.",
+      "E. DNA methylation at CpG islands."
+    ],
+    "answer": "D",
+    "explanation": "The text states that histone acetylation involves the 'Removal of histone’s ⊕ charge → relaxed DNA coiling → ↑ transcription.' This relaxed state is characteristic of euchromatin. In contrast, histone deacetylation tightens DNA coiling, and both DNA and histone methylation are generally associated with transcriptional repression (heterochromatin)."
+  },
+  {
+    "question": "A 1-year-old boy is brought to the pediatrician due to developmental delay, repetitive self-mutilating behaviors including biting his fingers and lips, and aggression. Lab work reveals hyperuricemia. His diaper contains reddish-orange crystalline deposits. This patient's condition is caused by a deficiency in an enzyme involved in which of the following metabolic pathways?",
+    "options": [
+      "A. De novo pyrimidine synthesis.",
+      "B. De novo purine synthesis.",
+      "C. Purine salvage pathway.",
+      "D. The urea cycle.",
+      "E. Folic acid metabolism."
+    ],
+    "answer": "C",
+    "explanation": "This clinical presentation is classic for Lesch-Nyhan syndrome, an X-linked recessive disorder caused by a deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRT). HGPRT is a key enzyme in the purine salvage pathway. The deficiency leads to an inability to salvage hypoxanthine and guanine, causing their degradation to uric acid and a compensatory increase in de novo purine synthesis."
+  },
+  {
+    "question": "A patient undergoing chemotherapy for acute lymphoblastic leukemia develops severe immunosuppression. The chemotherapeutic agent he is receiving is a prodrug of 6-mercaptopurine (6-MP). This drug exerts its cytotoxic effects by inhibiting the de novo synthesis of which class of molecules?",
+    "options": [
+      "A. Pyrimidines, by inhibiting dihydroorotate dehydrogenase.",
+      "B. Purines, by inhibiting PRPP amidotransferase.",
+      "C. Pyrimidines, by inhibiting thymidylate synthase.",
+      "D. Purines, by inhibiting inosine monophosphate dehydrogenase.",
+      "E. Both purines and pyrimidines, by inhibiting ribonucleotide reductase."
+    ],
+    "answer": "B",
+    "explanation": "The text shows that 6-mercaptopurine (6-MP) and its prodrug azathioprine inhibit de novo purine synthesis. This is achieved by negative feedback inhibition of the rate-limiting enzyme, glutamine-phosphoribosylpyrophosphate (PRPP) amidotransferase, after being converted to purine analogues."
+  },
+  {
+    "question": "A molecular biologist is investigating a patient with xeroderma pigmentosum. This patient has an extreme sensitivity to sunlight and a high predisposition to skin cancers. The underlying molecular defect in this condition impairs the cell's ability to repair a specific type of DNA damage. Which of the following DNA repair mechanisms is deficient in this patient?",
+    "options": [
+      "A. Mismatch repair, which corrects replication errors.",
+      "B. Base excision repair, which removes single altered bases like deaminated cytosine.",
+      "C. Nucleotide excision repair, which repairs bulky helix-distorting lesions.",
+      "D. Nonhomologous end joining, which repairs double-strand breaks.",
+      "E. Homologous recombination, which uses a sister chromatid to repair double-strand breaks."
+    ],
+    "answer": "C",
+    "explanation": "Xeroderma pigmentosum is the classic example of a disease caused by a defect in nucleotide excision repair. This pathway is responsible for repairing bulky lesions that distort the DNA double helix, such as the pyrimidine dimers caused by UV radiation from sunlight."
+  },
+  {
+    "question": "A researcher is studying gene regulation in E. coli using the lac operon as a model. She wants to create conditions that will lead to the highest possible level of transcription of the lac genes (lacZ, lacY, lacA). Which of the following environmental conditions would result in the strongest induction of the lac operon?",
+    "options": [
+      "A. High glucose and high lactose.",
+      "B. High glucose and low lactose.",
+      "C. Low glucose and low lactose.",
+      "D. Low glucose and high lactose.",
+      "E. The absence of both glucose and lactose."
+    ],
+    "answer": "D",
+    "explanation": "The text explains that strong expression of the lac operon requires two conditions: 1) Low glucose, which leads to high cAMP, activation of CAP, and binding to the CAP site to promote transcription. 2) High lactose, which is converted to allolactose, which then binds to and inactivates the repressor protein, preventing it from blocking transcription. The combination of low glucose and high lactose results in the strongest expression."
+  },
+  {
+    "question": "A patient with a severe fungal infection is treated with α-amanitin, a potent toxin isolated from the Amanita phalloides mushroom. This toxin has a very specific molecular target within eukaryotic cells, leading to a complete shutdown of messenger RNA synthesis and subsequent cell death. Which of the following enzymes is directly inhibited by α-amanitin?",
+    "options": [
+      "A. RNA polymerase I.",
+      "B. RNA polymerase II.",
+      "C. RNA polymerase III.",
+      "D. DNA polymerase III.",
+      "E. Primase."
+    ],
+    "answer": "B",
+    "explanation": "The text explicitly states that 'α-amanitin, found in Amanita phalloides (death cap mushrooms), inhibits RNA polymerase II.' RNA polymerase II is responsible for synthesizing mRNA, microRNA (miRNA), and small nuclear RNA (snRNA)."
+  },
+  {
+    "question": "A 4-month-old infant presents with hypotonia, coarse facial features, corneal clouding, and restricted joint movements. Laboratory tests reveal markedly elevated plasma levels of several lysosomal enzymes. The underlying defect in this patient's condition involves the failure of a specific post-translational modification in the Golgi apparatus, which is necessary for targeting enzymes to the lysosome. What is the deficient enzyme in this disorder?",
+    "options": [
+      "A. Lysosomal acid α-1,4-glucosidase.",
+      "B. Sphingomyelinase.",
+      "C. N-acetylglucosaminyl-1-phosphotransferase.",
+      "D. Galactocerebrosidase.",
+      "E. α-L-iduronidase."
+    ],
+    "answer": "C",
+    "explanation": "This clinical presentation is characteristic of I-cell disease (mucolipidosis type II). The text explains that this disorder is caused by a defect in N-acetylglucosaminyl-1-phosphotransferase, which leads to a 'failure of the Golgi to phosphorylate mannose residues (↓ mannose-6-phosphate) on glycoproteins.' As a result, lysosomal enzymes are secreted extracellularly instead of being delivered to lysosomes."
+  },
+  {
+    "question": "A patient diagnosed with Kartagener syndrome presents with a history of recurrent sinusitis, bronchiectasis, and infertility. A semen analysis confirms immotile spermatozoa, and imaging studies show situs inversus. The underlying molecular defect responsible for the immotile cilia and flagella in this syndrome affects which of the following cytoskeletal components?",
+    "options": [
+      "A. The actin and myosin filaments within microvilli.",
+      "B. The dynein arms in the 9+2 microtubule arrangement of cilia.",
+      "C. The keratin-containing intermediate filaments in epithelial cells.",
+      "D. The assembly of the 9 microtubule triplets in the basal body.",
+      "E. The clathrin proteins involved in vesicular transport."
+    ],
+    "answer": "B",
+    "explanation": "Primary ciliary dyskinesia (PCD), of which Kartagener syndrome is a subtype, is caused by a defect in the dynein arms. The text states that 'Dynein arm defect → immotile cilia.' Axonemal dynein is the ATPase that links the peripheral 9 doublets and causes the bending of the cilium."
+  },
+  {
+    "question": "A 7-year-old boy presents with multiple fractures after minimal trauma, blue sclerae, and opalescent teeth that wear down easily. His father has a similar but milder condition. This genetic disorder is most likely caused by a defect in the synthesis or structure of which of the following types of collagen?",
+    "options": [
+      "A. Type I collagen.",
+      "B. Type II collagen.",
+      "C. Type III collagen.",
+      "D. Type IV collagen.",
+      "E. Type V collagen."
+    ],
+    "answer": "A",
+    "explanation": "This is a classic presentation of osteogenesis imperfecta (OI). The text states that OI is a genetic bone disorder most commonly caused by defects in COL1A1 and COL1A2, leading to decreased production of type I collagen. Type I collagen is the most abundant type in the body and is a primary component of bone, skin, tendon, and dentin, which explains the patient's symptoms (brittle bones, blue sclerae, and dentinogenesis imperfecta)."
+  },
+  {
+    "question": "A geneticist is evaluating a family with a history of a rare autosomal dominant disorder. She notes that individuals with the same pathogenic genotype exhibit a wide range of clinical signs and symptoms, from very mild skin findings to severe systemic disease. For instance, in neurofibromatosis type 1, some family members may only have café-au-lait spots, while others have neurofibromas and optic gliomas. Which genetic principle best describes this phenomenon?",
+    "options": [
+      "A. Incomplete penetrance.",
+      "B. Pleiotropy.",
+      "C. Locus heterogeneity.",
+      "D. Variable expressivity.",
+      "E. Mosaicism."
+    ],
+    "answer": "D",
+    "explanation": "Variable expressivity is defined as 'Patients with the same genotype have varying phenotypes.' The example given in the text, where two patients with NF1 have varying disease severity, perfectly illustrates this concept. Incomplete penetrance means not all individuals with the genotype express the phenotype at all, while pleiotropy is one gene affecting multiple organ systems."
+  },
+  {
+    "question": "A newborn is diagnosed with cystic fibrosis after a positive newborn screen showing elevated immunoreactive trypsinogen. The underlying genetic defect is a ΔF508 deletion in the CFTR gene. This mutation leads to an improperly folded CFTR protein, which is then retained in the endoplasmic reticulum and targeted for degradation, preventing its transport to the cell membrane. Which of the following is the direct consequence of the absent CFTR channel at the apical surface of respiratory epithelial cells?",
+    "options": [
+      "A. Increased secretion of chloride and water, leading to thin, watery mucus.",
+      "B. Decreased secretion of chloride and water, leading to abnormally thick mucus.",
+      "C. Increased reabsorption of sodium and water, leading to dilute mucus.",
+      "D. Decreased reabsorption of sodium, leading to a more positive transepithelial potential difference.",
+      "E. Failure to reabsorb chloride in sweat glands, leading to hypotonic sweat."
+    ],
+    "answer": "B",
+    "explanation": "The text explains that the absence of the CFTR protein from the cell membrane leads to '↓ Cl− (and H2O and HCO3–) secretion.' This lack of ion and water movement into the airway lumen results in the 'abnormally thick mucus secreted into lungs/GI tract' that is characteristic of cystic fibrosis. The sweat gland defect is a failure to reabsorb chloride, leading to hypertonic (salty) sweat."
+  },
+  {
+    "question": "A 12-year-old boy presents with progressive muscle weakness. His mother notes he has difficulty climbing stairs and uses his hands to push himself up from the floor (Gowers sign). Physical exam reveals pseudohypertrophy of the calf muscles. A muscle biopsy is performed. This X-linked recessive disorder is characterized by a frameshift deletion in the largest protein-coding gene in humans. What is the name of this condition?",
+    "options": [
+      "A. Becker muscular dystrophy.",
+      "B. Myotonic dystrophy.",
+      "C. Limb-girdle muscular dystrophy.",
+      "D. Duchenne muscular dystrophy.",
+      "E. Rett syndrome."
+    ],
+    "answer": "D",
+    "explanation": "The combination of X-linked inheritance, onset before age 5, pelvic girdle weakness, calf pseudohypertrophy, and the Gowers sign is classic for Duchenne muscular dystrophy. The text specifies it is 'typically due to frameshift deletions or nonsense mutations → truncated or absent dystrophin protein.' Becker dystrophy is less severe and typically caused by non-frameshift deletions."
+  },
+  {
+    "question": "A 19-year-old man presents with a history of intellectual disability, a long face with a large jaw, large everted ears, and hypermobile joints. On physical examination, he is noted to have post-pubertal macroorchidism. His family history is significant for a maternal uncle with similar features and a sister with premature ovarian failure. This condition is caused by a trinucleotide repeat expansion in the FMR1 gene. What is the specific trinucleotide repeat involved?",
+    "options": [
+      "A. (CAG)n",
+      "B. (CTG)n",
+      "C. (CGG)n",
+      "D. (GAA)n",
+      "E. (GCC)n"
+    ],
+    "answer": "C",
+    "explanation": "This clinical picture is characteristic of Fragile X syndrome. The text explicitly states that this condition is caused by an X-linked trinucleotide repeat expansion of (CGG)n in the FMR1 gene, which leads to hypermethylation and decreased expression of the gene. The mnemonic provided is 'Chin (protruding), Giant Gonads.'"
+  },
+  {
+    "question": "A newborn presents with microcephaly, rocker-bottom feet, clenched fists with overlapping fingers, and a prominent occiput. A cardiac workup reveals a ventricular septal defect (VSD). Prenatal screening in the second trimester likely would have shown a specific pattern of maternal serum markers. Which of the following quad screen results is most consistent with this infant's condition?",
+    "options": [
+      "A. Increased hCG, increased inhibin A, decreased estriol, decreased AFP.",
+      "B. Decreased hCG, decreased estriol, decreased AFP, with inhibin A being variable.",
+      "C. Normal levels for all four markers.",
+      "D. Markedly increased AFP.",
+      "E. Increased hCG, normal inhibin A, normal estriol, normal AFP."
+    ],
+    "answer": "B",
+    "explanation": "The clinical findings describe Edwards syndrome (trisomy 18). The text provides a table of prenatal screening results, which shows that for trisomy 18, hCG, estriol, and AFP are all decreased ('every prenatal screening marker decreases'). The mnemonic 'Election age (18)' helps recall the trisomy number."
+  },
+  {
+    "question": "A 24-year-old pregnant woman is prescribed a medication for severe cystic acne. The prescribing physician emphasizes that the drug is a known teratogen and requires enrollment in a strict risk management program, including two forms of contraception and monthly pregnancy tests. This drug is a derivative of a vitamin whose deficiency can cause night blindness and xerophthalmia. Which vitamin's toxicity profile necessitates these stringent precautions?",
+    "options": [
+      "A. Vitamin D",
+      "B. Vitamin K",
+      "C. Vitamin E",
+      "D. Vitamin A",
+      "E. Vitamin C"
+    ],
+    "answer": "D",
+    "explanation": "The drug described is isotretinoin, a derivative of Vitamin A used for severe acne. The text clearly states that excess Vitamin A is 'Teratogenic (interferes with homeobox gene; cleft palate, cardiac abnormalities), therefore a ⊝ pregnancy test and two forms of contraception are required before isotretinoin (vitamin A derivative) is prescribed.'"
+  },
+  {
+    "question": "A 55-year-old man with a long history of chronic alcohol abuse is brought to the emergency department with confusion, nystagmus, and ataxia. He is given an intravenous infusion of 5% dextrose in normal saline. Shortly after the infusion begins, his neurological symptoms acutely worsen. This patient's condition is likely caused by a deficiency in a vitamin that serves as an essential cofactor for which of the following enzymes?",
+    "options": [
+      "A. Pyruvate carboxylase.",
+      "B. Acetyl-CoA carboxylase.",
+      "C. Phenylalanine hydroxylase.",
+      "D. Pyruvate dehydrogenase.",
+      "E. Glycogen phosphorylase."
+    ],
+    "answer": "D",
+    "explanation": "The patient is presenting with Wernicke encephalopathy, caused by thiamine (Vitamin B1) deficiency, which is common in chronic alcohol overuse. The text explains that thiamine, as thiamine pyrophosphate (TPP), is a critical cofactor for the pyruvate dehydrogenase (PDH) complex. Administering dextrose to a thiamine-deficient patient worsens the condition because it drives glycolysis, increasing the flux of pyruvate that cannot be metabolized by the dysfunctional PDH complex, thus depleting any remaining thiamine and exacerbating ATP depletion in the brain."
+  },
+  {
+    "question": "An infant being fed an exclusive diet of raw egg whites develops dermatitis, enteritis, and alopecia. The protein avidin, found in raw egg whites, is known to bind avidly to a specific vitamin, preventing its absorption and leading to a deficiency state. This vitamin is an essential cofactor for carboxylase enzymes. Which of the following metabolic conversions would be impaired in this infant?",
+    "options": [
+      "A. Pyruvate to acetyl-CoA.",
+      "B. Homocysteine to methionine.",
+      "C. Pyruvate to oxaloacetate.",
+      "D. Fructose-6-phosphate to fructose-1,6-bisphosphate.",
+      "E. Glucose-6-phosphate to 6-phosphogluconolactone."
+    ],
+    "answer": "C",
+    "explanation": "The condition described is biotin (Vitamin B7) deficiency, caused by excessive consumption of avidin in raw egg whites. The text lists the key carboxylation reactions requiring biotin, including 'Pyruvate carboxylase (gluconeogenesis): pyruvate (3C) → oxaloacetate (4C)'. This is a critical anaplerotic reaction and the first step of gluconeogenesis."
+  },
+  {
+    "question": "A 45-year-old woman with a history of Crohn disease and a prior terminal ileum resection presents with a several-month history of progressive numbness and tingling in her hands and feet, along with an unsteady gait. A complete blood count reveals a macrocytic, megaloblastic anemia. Further lab testing would most likely reveal an elevation of which two serum metabolites?",
+    "options": [
+      "A. Homocysteine and orotic acid.",
+      "B. Methylmalonic acid and homocysteine.",
+      "C. Phenylalanine and phenyl ketones.",
+      "D. Branched-chain alpha-ketoacids and lactate.",
+      "E. Uric acid and propionyl-CoA."
+    ],
+    "answer": "B",
+    "explanation": "The clinical picture of subacute combined degeneration (neurologic symptoms) and megaloblastic anemia in a patient with terminal ileum resection is classic for Vitamin B12 (cobalamin) deficiency. The text explains that B12 is a cofactor for two enzymes: methionine synthase (which converts homocysteine to methionine) and methylmalonyl-CoA mutase (which converts methylmalonyl-CoA to succinyl-CoA). Deficiency of B12 leads to the accumulation of both substrates, causing elevated serum levels of homocysteine and methylmalonic acid."
+  },
+  {
+    "question": "A malnourished individual who consumes a diet consisting primarily of corn develops a symmetric, hyperpigmented rash on sun-exposed areas of the skin, along with diarrhea and dementia. This presentation is characteristic of pellagra, which is caused by a deficiency of Vitamin B3 (niacin). The synthesis of niacin from its amino acid precursor requires which two other B vitamins as cofactors?",
+    "options": [
+      "A. B1 and B5",
+      "B. B2 and B6",
+      "C. B7 and B9",
+      "D. B9 and B12",
+      "E. B1 and B2"
+    ],
+    "answer": "B",
+    "explanation": "The text states that Vitamin B3 (niacin) is 'Derived from tryptophan. Synthesis requires vitamins B2 and B6.' Therefore, a deficiency in either riboflavin (B2) or pyridoxine (B6) can impair endogenous niacin synthesis and contribute to pellagra-like symptoms."
+  },
+  {
+    "question": "A 5-year-old child presents with bowed legs (genu varum) and a history of poor growth. His diet is noted to be deficient in milk and fish, and he has limited sun exposure. This condition results from a deficiency of a vitamin that undergoes hydroxylation in two separate organs to become its active form, calcitriol. The final activation step, which is stimulated by parathyroid hormone, occurs in which organ?",
+    "options": [
+      "A. Skin",
+      "B. Liver",
+      "C. Kidney",
+      "D. Small intestine",
+      "E. Bone"
+    ],
+    "answer": "C",
+    "explanation": "The condition is rickets, caused by Vitamin D deficiency. The text describes the activation pathway: 'Both converted to 25-OH D3 (storage form) in liver and to the active form 1,25-(OH)2 D3 (calcitriol) in kidney.' The diagram and regulation notes specify that 1α-hydroxylase in the renal tubular cells is the enzyme for this final step, and its activity is increased by PTH."
+  },
+  {
+    "question": "A 2-year-old boy presents to the emergency department with severe hypoglycemia, lactic acidosis, hepatomegaly, and hyperlipidemia after a period of fasting. Physical exam reveals doll-like facies and thin extremities. His parents report that he becomes irritable and lethargic if he misses a meal. This glycogen storage disease is caused by a deficiency in an enzyme that is normally located in the endoplasmic reticulum of hepatocytes and is essential for the final step of both glycogenolysis and gluconeogenesis. Which enzyme is deficient?",
+    "options": [
+      "A. Glycogen phosphorylase.",
+      "B. Debranching enzyme (α-1,6-glucosidase).",
+      "C. Glucose-6-phosphatase.",
+      "D. Branching enzyme.",
+      "E. Lysosomal acid α-1,4-glucosidase."
+    ],
+    "answer": "C",
+    "explanation": "This is a classic presentation of Von Gierke disease (Type I glycogen storage disease). The text confirms that it is caused by a deficiency in Glucose-6-phosphatase. This deficiency prevents the liver from releasing free glucose into the bloodstream, leading to severe fasting hypoglycemia. The other findings (lactic acidosis, hyperlipidemia, hepatomegaly) are direct consequences of this metabolic block."
+  },
+  {
+    "question": "An 18-year-old male presents with painful muscle cramps and red-colored urine following strenuous exercise. He mentions that if he rests for a short period, he can often resume activity with less pain, a phenomenon known as 'second wind.' A forearm ischemic exercise test reveals a flat venous lactate curve with a normal rise in ammonia levels. This condition is caused by a deficiency in which of the following enzymes?",
+    "options": [
+      "A. Hepatic glycogen phosphorylase.",
+      "B. Skeletal muscle glycogen phosphorylase.",
+      "C. Debranching enzyme.",
+      "D. Glucose-6-phosphatase.",
+      "E. Phosphofructokinase-1."
+    ],
+    "answer": "B",
+    "explanation": "This presentation is characteristic of McArdle disease (Type V glycogen storage disease). The text states it is caused by a deficiency of 'Skeletal muscle glycogen phosphorylase (myophosphorylase).' This defect prevents muscle from utilizing its glycogen stores, leading to cramps and myoglobinuria with exercise. The flat lactate curve confirms the block in glycogenolysis. The mnemonic 'McArdle = muscle' is helpful."
+  },
+  {
+    "question": "An infant of Ashkenazi Jewish descent presents with progressive neurodegeneration, developmental regression, an exaggerated startle response (hyperacusis), and a cherry-red spot on the macula. Physical examination is notable for the absence of hepatosplenomegaly. This autosomal recessive disorder results from the accumulation of GM2 ganglioside due to a deficiency in which lysosomal enzyme?",
+    "options": [
+      "A. Sphingomyelinase.",
+      "B. Hexosaminidase A.",
+      "C. Glucocerebrosidase.",
+      "D. α-galactosidase A.",
+      "E. Arylsulfatase A."
+    ],
+    "answer": "B",
+    "explanation": "This is the classic description of Tay-Sachs disease. The text confirms that it presents with progressive neurodegeneration, a cherry-red spot on the macula, and NO hepatosplenomegaly (a key distinguishing feature from Niemann-Pick disease). The deficient enzyme is Hexosaminidase A, leading to the accumulation of GM2 ganglioside. The mnemonic 'TAy-SaX' points to Hexosaminidase A deficiency."
+  },
+  {
+    "question": "A 4-year-old boy presents with hepatosplenomegaly, pancytopenia, and bone pain. A bone marrow aspirate reveals lipid-laden macrophages with a characteristic 'crumpled tissue paper' appearance. This is the most common lysosomal storage disease and is caused by a deficiency of glucocerebrosidase. What is this condition called?",
+    "options": [
+      "A. Niemann-Pick disease",
+      "B. Krabbe disease",
+      "C. Fabry disease",
+      "D. Hurler syndrome",
+      "E. Gaucher disease"
+    ],
+    "answer": "E",
+    "explanation": "The clinical and histological findings are pathognomonic for Gaucher disease. The text describes it as the most common lysosomal storage disease, with features of hepatosplenomegaly, pancytopenia, and bone crises. It explicitly mentions the characteristic 'Gaucher cells (lipid-laden macrophages resembling crumpled tissue paper)' and the deficient enzyme, glucocerebrosidase."
+  },
+  {
+    "question": "A 6-month-old infant presents with failure to thrive and severe fat malabsorption with steatorrhea. A peripheral blood smear shows acanthocytosis (spur cells). Neurological examination is notable for spinocerebellar degeneration and retinitis pigmentosa. Laboratory studies show extremely low levels of plasma triglycerides and cholesterol, and an absence of all apolipoprotein B-containing lipoproteins (chylomicrons, VLDL, and LDL). This condition is caused by a mutation in the gene encoding which protein?",
+    "options": [
+      "A. Lipoprotein lipase (LPL).",
+      "B. Lecithin-cholesterol acyltransferase (LCAT).",
+      "C. Microsomal transfer protein (MTP).",
+      "D. ApoC-II.",
+      "E. LDL receptor."
+    ],
+    "answer": "C",
+    "explanation": "This presentation describes Abetalipoproteinemia. The text states it is an 'Autosomal recessive. Mutation in gene that encodes microsomal transfer protein (MTP).' This defect prevents the assembly and secretion of chylomicrons from enterocytes and VLDL from hepatocytes, leading to a deficiency in both apoB-48 and apoB-100 containing lipoproteins and the resulting malabsorption and neurological sequelae from vitamin E deficiency."
+  },
+  {
+    "question": "A 40-year-old man presents with Achilles tendon xanthomas and a strong family history of premature myocardial infarction. His fasting lipid panel shows a total cholesterol level of 350 mg/dL and an LDL cholesterol level of 280 mg/dL, with normal triglycerides. This autosomal dominant condition is most likely caused by a defect in which of the following?",
+    "options": [
+      "A. Lipoprotein lipase.",
+      "B. ApoE.",
+      "C. ApoC-II.",
+      "D. LDL receptors.",
+      "E. Hepatic overproduction of VLDL."
+    ],
+    "answer": "D",
+    "explanation": "This is a classic presentation of Type IIa familial hypercholesterolemia. The text indicates that this condition is caused by 'Absent or defective LDL receptors.' This impairs the clearance of LDL from the circulation, leading to markedly elevated LDL cholesterol, accelerated atherosclerosis, and characteristic findings like tendon xanthomas. The patient described is likely a heterozygote."
+  },
+  {
+    "question": "A researcher is studying the spleen's role in the immune system. She identifies a specific region located between the red pulp and the white pulp that is rich in macrophages and specialized B cells. This area is critical for capturing blood-borne antigens and presenting them to lymphocytes. What is this specific anatomical region of the spleen called?",
+    "options": [
+      "A. The periarteriolar lymphoid sheath (PALS).",
+      "B. The germinal center of a follicle.",
+      "C. The marginal zone.",
+      "D. The medullary sinus.",
+      "E. The splenic cords of Billroth."
+    ],
+    "answer": "C",
+    "explanation": "The text describes the spleen's microanatomy, stating that the marginal zone 'Contains macrophages and specialized B cells. Site where antigen-presenting cells (APCs) capture blood-borne antigens for recognition by lymphocytes. Located between red pulp and white pulp.'"
+  },
+  {
+    "question": "A thymocyte is undergoing maturation within the thymic medulla. To prevent autoimmunity, it is exposed to self-antigens derived from various peripheral tissues. This process, which leads to the elimination of T cells that bind too strongly to self-peptides, is dependent on the expression of a specific protein. A genetic deficiency of this protein leads to Autoimmune Polyendocrine Syndrome Type 1. What is this critical protein for negative selection?",
+    "options": [
+      "A. CD28",
+      "B. FOXP3",
+      "C. AIRE (Autoimmune regulator)",
+      "D. RAG1",
+      "E. TdT (Terminal deoxynucleotidyl transferase)"
+    ],
+    "answer": "C",
+    "explanation": "The text explains the process of negative selection in the thymic medulla. It states, 'The autoimmune regulator (AIRE) protein drives negative selection, and deficiency leads to autoimmune polyendocrine syndrome.' AIRE promotes the expression of tissue-specific antigens in the thymus, allowing for the deletion of self-reactive T cells."
+  },
+  {
+    "question": "A naive T helper cell is circulating through a lymph node. For it to become fully activated and proliferate, it requires two distinct signals from an antigen-presenting cell (APC). The first signal is the interaction between the T-cell receptor (TCR) and the antigen-MHC complex. Which of the following molecular interactions constitutes the essential second, or costimulatory, signal?",
+    "options": [
+      "A. CD4 on the T cell binding to MHC class II on the APC.",
+      "B. CD40L on the T cell binding to CD40 on the APC.",
+      "C. LFA-1 on the T cell binding to ICAM-1 on the APC.",
+      "D. B7 protein (CD80/86) on the APC binding to CD28 on the T cell.",
+      "E. IL-2 secreted by the T cell binding to the IL-2 receptor on its own surface."
+    ],
+    "answer": "D",
+    "explanation": "The text explicitly describes the two-signal model for T-cell activation. It states that signal 2 is the 'costimulatory signal via interaction of B7 protein (CD80/86) on dendritic cell and CD28 on naïve T cell.' Without this second signal, the T cell may become anergic."
+  },
+  {
+    "question": "A patient with a severe bacterial infection mounts a robust humoral immune response. The primary antibody produced in the initial phase of this response is a pentameric immunoglobulin that is highly effective at activating the classical complement pathway due to its high avidity. Which immunoglobulin isotype is being described?",
+    "options": [
+      "A. IgG",
+      "B. IgA",
+      "C. IgM",
+      "D. IgD",
+      "E. IgE"
+    ],
+    "answer": "C",
+    "explanation": "The text describes IgM as the 'First antibody to be produced during an immune response.' It further characterizes it as a 'pentamer with J chain when secreted' which 'enables avid binding to antigen' and 'Fixes complement.' This combination of features is unique to IgM."
+  },
+  {
+    "question": "A patient with recurrent episodes of angioedema without urticaria is evaluated. Laboratory studies reveal a decreased C4 level, but normal C1q and C3 levels. The patient's symptoms are exacerbated by ACE inhibitors. This condition is caused by a deficiency in a protein that regulates the activation of the complement system and the kallikrein-kinin system. What is the deficient protein?",
+    "options": [
+      "A. Decay-accelerating factor (DAF/CD55).",
+      "B. C1 inhibitor.",
+      "C. C3 convertase.",
+      "D. C5 convertase.",
+      "E. Factor H."
+    ],
+    "answer": "B",
+    "explanation": "This is a classic presentation of hereditary angioedema (HAE). The text states that 'C1 inhibitor deficiency causes hereditary angioedema due to unregulated activation of kallikrein → ↑ bradykinin. Characterized by ↓ C4 levels.' ACE inhibitors are contraindicated because they also increase bradykinin, worsening the edema."
+  },
+  {
+    "question": "A researcher is studying the differentiation of naive CD4+ T helper cells. She finds that in the presence of IL-12 and IFN-γ, the naive T cells differentiate into a subset that is crucial for activating macrophages and cell-mediated immunity against intracellular pathogens. This T-cell subset primarily secretes IFN-γ. Which T helper cell subset is being described?",
+    "options": [
+      "A. Th1",
+      "B. Th2",
+      "C. Th17",
+      "D. Treg",
+      "E. Tfh (follicular helper)"
+    ],
+    "answer": "A",
+    "explanation": "The text and diagram show that in the presence of IFN-γ and IL-12, naive T cells differentiate into Th1 cells. The function of Th1 cells is listed as 'Activate macrophages and cytotoxic T cells,' and they are shown to secrete IFN-γ and IL-2."
+  },
+  {
+    "question": "A 5-year-old boy has a history of recurrent, severe skin and sinopulmonary infections with catalase-positive organisms such as Staphylococcus aureus and Aspergillus. He is diagnosed with chronic granulomatous disease (CGD). A dihydrorhodamine test shows reduced fluorescence. The fundamental defect in this patient's neutrophils is the inability to generate reactive oxygen species due to a deficiency in which of the following enzymes?",
+    "options": [
+      "A. Myeloperoxidase.",
+      "B. Superoxide dismutase.",
+      "C. NADPH oxidase.",
+      "D. Glucose-6-phosphate dehydrogenase.",
+      "E. Catalase."
+    ],
+    "answer": "C",
+    "explanation": "The text defines chronic granulomatous disease as a 'Defect of NADPH oxidase → ↓ reactive oxygen species (eg, superoxide) and ↓ respiratory burst in neutrophils.' This enzyme is responsible for the first step of the respiratory burst, converting oxygen to superoxide radicals. Its deficiency leads to an inability to kill catalase-positive organisms."
+  },
+  {
+    "question": "A patient presents with fever, urticaria, and arthralgia one week after receiving an infusion of a horse-derived antitoxin for a snake bite. Laboratory studies show decreased serum levels of C3 and C4. This clinical syndrome is a classic example of a hypersensitivity reaction mediated by the deposition of antigen-antibody complexes in various tissues. Which type of hypersensitivity is this?",
+    "options": [
+      "A. Type I Hypersensitivity",
+      "B. Type II Hypersensitivity",
+      "C. Type III Hypersensitivity",
+      "D. Type IV Hypersensitivity",
+      "E. Antibody-dependent cell-mediated cytotoxicity (ADCC)"
+    ],
+    "answer": "C",
+    "explanation": "This is the classic presentation of serum sickness, which the text describes as the 'prototypic immune complex disease' and a form of Type III hypersensitivity. The pathophysiology involves the formation of antigen-antibody complexes that deposit in tissues, activate complement (leading to low C3/C4), and cause systemic symptoms like fever, urticaria, and arthralgia 1-2 weeks after exposure to the foreign antigen."
+  },
+  {
+    "question": "An 8-month-old boy presents with a history of recurrent bacterial infections, including pneumonia and otitis media, since he was 6 months old. His mother's IgG levels had provided protection initially. Physical examination is notable for the absence of palpable tonsils and lymph nodes. Flow cytometry of his peripheral blood shows a near-total absence of CD19+ and CD20+ cells, but normal T-cell counts. All immunoglobulin levels (IgG, IgA, IgM) are markedly decreased. This X-linked condition is caused by a defect in a tyrosine kinase essential for B-cell maturation. What is the diagnosis?",
+    "options": [
+      "A. Common Variable Immunodeficiency (CVID)",
+      "B. Selective IgA Deficiency",
+      "C. Severe Combined Immunodeficiency (SCID)",
+      "D. X-linked (Bruton) Agammaglobulinemia",
+      "E. Hyper-IgM Syndrome"
+    ],
+    "answer": "D",
+    "explanation": "The presentation of recurrent bacterial infections after 6 months of age (when maternal IgG wanes), absent B cells (CD19+), agammaglobulinemia, and absent lymphoid tissue (tonsils) in a male infant is pathognomonic for X-linked (Bruton) Agammaglobulinemia. The text confirms it is a 'Defect in BTK, a tyrosine kinase gene → no B-cell maturation' and is X-linked recessive."
+  },
+  {
+    "question": "A 3-year-old boy is brought to the clinic for recurrent 'cold' skin abscesses caused by Staphylococcus aureus. His primary teeth have not yet been shed. Physical examination reveals coarse facial features and severe eczema. Laboratory tests show markedly elevated serum IgE levels and eosinophilia. This syndrome is caused by a deficiency in Th17 cells due to a mutation in the STAT3 gene. What is this condition?",
+    "options": [
+      "A. Chédiak-Higashi syndrome",
+      "B. Wiskott-Aldrich syndrome",
+      "C. Chronic granulomatous disease",
+      "D. Autosomal dominant hyper-IgE syndrome (Job syndrome)",
+      "E. Leukocyte adhesion deficiency"
+    ],
+    "answer": "D",
+    "explanation": "The text describes Job syndrome using the mnemonic 'learn the ABCDEFs to get a Job STAT!': cold staphylococcal Abscesses, retained Baby teeth, Coarse facies, Dermatologic problems (eczema), increased IgE, and bone Fractures. It also specifies the underlying defect is a STAT3 mutation leading to a deficiency of Th17 cells."
+  },
+  {
+    "question": "A 2-year-old girl is diagnosed with ataxia-telangiectasia. Her parents are concerned about her long-term prognosis and risks. In addition to her presenting symptoms of cerebellar ataxia and the characteristic spider angiomas on her conjunctiva, she has a deficiency in IgA. The underlying genetic defect in the ATM gene, which plays a critical role in DNA repair, predisposes her to which of the following major complications?",
+    "options": [
+      "A. Increased risk of thrombosis and stroke.",
+      "B. Increased risk of lymphoma and leukemia.",
+      "C. Increased risk of severe pyogenic bacterial infections only.",
+      "D. Increased risk of developing severe autoimmune diseases like SLE.",
+      "E. Increased risk of opportunistic fungal infections like PCP."
+    ],
+    "answer": "B",
+    "explanation": "The text for ataxia-telangiectasia, caused by a defect in the ATM gene involved in DNA damage detection, explicitly states there is an '↑ risk of lymphoma and leukemia.' This is a direct consequence of the cell's inability to properly repair DNA, leading to the accumulation of mutations."
+  },
+  {
+    "question": "A patient who has received a kidney transplant is being managed with immunosuppressive therapy to prevent rejection. Her regimen includes a drug that is a structural analog of a calcineurin inhibitor and also binds to FK506 binding protein (FKBP). However, instead of inhibiting calcineurin, this drug inhibits the mTOR pathway, thereby blocking the T-cell response to IL-2. A key advantage of this drug is its lack of nephrotoxicity. Which drug is being described?",
+    "options": [
+      "A. Cyclosporine",
+      "B. Tacrolimus",
+      "C. Sirolimus (Rapamycin)",
+      "D. Mycophenolate mofetil",
+      "E. Azathioprine"
+    ],
+    "answer": "C",
+    "explanation": "The text describes Sirolimus (Rapamycin) as an 'mTOR inhibitor; binds FKBP' that 'Blocks T-cell activation and B-cell differentiation by preventing response to IL-2.' Critically, it notes that Sirolimus is 'not nephrotoxic,' distinguishing it from the calcineurin inhibitors cyclosporine and tacrolimus. The mnemonic 'Kidney sir-vives' reinforces this point."
+  },
+  {
+    "question": "An infant presents with vomiting, poor feeding, and urine that smells like burnt sugar or maple syrup. Laboratory analysis shows elevated plasma concentrations of leucine, isoleucine, and valine, as well as their corresponding α-ketoacids. This autosomal recessive disorder results from a deficiency in a mitochondrial enzyme complex that requires five cofactors for its function. Which of the following vitamins is one of the essential cofactors for the deficient enzyme?",
+    "options": [
+      "A. Vitamin C (Ascorbic acid)",
+      "B. Vitamin B12 (Cobalamin)",
+      "C. Vitamin B6 (Pyridoxine)",
+      "D. Vitamin B1 (Thiamine)",
+      "E. Vitamin K"
+    ],
+    "answer": "D",
+    "explanation": "The condition described is Maple Syrup Urine Disease (MSUD), caused by a deficiency in the branched-chain α-ketoacid dehydrogenase complex. This enzyme complex is similar to the pyruvate dehydrogenase complex and α-ketoglutarate dehydrogenase complex, requiring five cofactors: Thiamine pyrophosphate (from B1), Lipoic acid, CoA (from B5), FAD (from B2), and NAD+ (from B3). The mnemonic 'I Love Vermont maple syrup from maple trees (with B1ranches)' highlights the amino acids and the key vitamin, B1 (thiamine)."
+  },
+  {
+    "question": "A 30-year-old man presents with black discoloration of his urine upon standing and bluish-black pigmentation of his sclerae and ear cartilage. He also complains of debilitating joint pain, particularly in his spine and large joints. This rare autosomal recessive disorder is caused by the deficiency of an enzyme in the degradative pathway of tyrosine. What is the accumulating substance that causes the pigmentation and arthritis?",
+    "options": [
+      "A. Phenylalanine",
+      "B. Fumarate",
+      "C. Homogentisic acid",
+      "D. Maleylacetoacetic acid",
+      "E. Tyrosine"
+    ],
+    "answer": "C",
+    "explanation": "This is a classic presentation of Alkaptonuria. The text states it is a 'Congenital deficiency of homogentisate oxidase in the degradative pathway of tyrosine to fumarate → pigment-forming homogentisic acid builds up in tissue.' This accumulation leads to ochronosis (the bluish-black pigmentation) and arthritis."
+  },
+  {
+    "question": "A 10-year-old girl presents with a Marfanoid habitus, downward and inward lens subluxation, intellectual disability, and a history of a deep vein thrombosis. Laboratory studies show markedly elevated levels of homocysteine in her plasma and urine. The most common cause of this condition is a deficiency in cystathionine synthase. The appropriate dietary management for this patient would include which of the following modifications?",
+    "options": [
+      "A. Increased intake of methionine and decreased intake of cysteine and vitamin B6.",
+      "B. Decreased intake of methionine and increased intake of cysteine, vitamin B6, and folate.",
+      "C. Increased intake of branched-chain amino acids and thiamine.",
+      "D. Decreased intake of phenylalanine and increased intake of tyrosine.",
+      "E. A diet low in all protein and supplemented with potassium citrate."
+    ],
+    "answer": "B",
+    "explanation": "The patient has Homocystinuria, most commonly due to cystathionine synthase deficiency. This enzyme converts homocysteine to cystathionine, a step that requires vitamin B6. Its deficiency causes homocysteine to accumulate and makes cysteine an essential amino acid. Therefore, treatment, as stated in the text, involves restricting the precursor (methionine) and supplementing with the product (cysteine) and the necessary cofactor (vitamin B6). Folate and B12 are also supplemented as they are involved in the alternative remethylation pathway for homocysteine."
+  },
+  {
+    "question": "An infant born to consanguineous parents presents in the first few days of life with vomiting, lethargy, and signs of cerebral edema. Laboratory tests show a markedly elevated ammonia level and a very low blood urea nitrogen (BUN). Urinalysis reveals a significant elevation of orotic acid. There is no megaloblastic anemia. This presentation is most consistent with a deficiency in which urea cycle enzyme?",
+    "options": [
+      "A. Carbamoyl phosphate synthetase I",
+      "B. Arginase",
+      "C. Argininosuccinate synthetase",
+      "D. Ornithine transcarbamylase",
+      "E. N-acetylglutamate synthetase"
+    ],
+    "answer": "D",
+    "explanation": "Ornithine transcarbamylase (OTC) deficiency is the most common urea cycle disorder and is uniquely X-linked recessive (though it can present in females). The text explains that in OTC deficiency, excess carbamoyl phosphate from the mitochondria spills into the cytoplasm and is converted to orotic acid via the pyrimidine synthesis pathway. This leads to the key findings of hyperammonemia combined with elevated orotic acid. A deficiency in CPS I would also cause hyperammonemia but would not lead to orotic aciduria, as carbamoyl phosphate would not be produced."
+  },
+  {
+    "question": "A researcher is studying the regulation of glycolysis and gluconeogenesis in hepatocytes. She focuses on a key bifunctional enzyme that synthesizes and degrades fructose-2,6-bisphosphate (F2,6BP), a potent allosteric regulator. In the fasting state, when glucagon levels are high, which of the following correctly describes the state and activity of this enzyme?",
+    "options": [
+      "A. The enzyme is dephosphorylated, the PFK-2 domain is active, F2,6BP levels rise, and glycolysis is stimulated.",
+      "B. The enzyme is phosphorylated, the FBPase-2 domain is active, F2,6BP levels fall, and gluconeogenesis is stimulated.",
+      "C. The enzyme is dephosphorylated, the FBPase-2 domain is active, F2,6BP levels fall, and glycolysis is stimulated.",
+      "D. The enzyme is phosphorylated, the PFK-2 domain is active, F2,6BP levels rise, and gluconeogenesis is inhibited.",
+      "E. The enzyme's activity is unaffected by glucagon and is primarily regulated by substrate availability."
+    ],
+    "answer": "B",
+    "explanation": "The text explains that in the fasting state, high glucagon leads to increased cAMP and activation of protein kinase A. This 'phosphorylates the bifunctional enzyme, activating the FBPase-2 domain and inactivating the PFK-2 domain. This leads to lower levels of F2,6BP, which in turn relieves inhibition of Fructose-1,6-bisphosphatase 1 (stimulating gluconeogenesis) and reduces activation of PFK-1 (inhibiting glycolysis). The mnemonic 'FaBian the Peasant (FBP) has to work hard when starving' reinforces this."
+  },
+  {
+    "question": "A 3-day-old infant develops jaundice, vomiting, and hepatomegaly after beginning breastfeeding. Urinalysis is positive for a reducing substance but negative on the urine dipstick for glucose. Laboratory tests show elevated levels of galactose-1-phosphate in the blood. If left untreated, the infant is at risk for E. coli sepsis, intellectual disability, and infantile cataracts. What is the deficient enzyme in this patient?",
+    "options": [
+      "A. Fructokinase",
+      "B. Aldolase B",
+      "C. Galactokinase",
+      "D. Galactose-1-phosphate uridyltransferase",
+      "E. Lactase"
+    ],
+    "answer": "D",
+    "explanation": "This is the classic presentation of classic galactosemia. The text specifies that it is caused by a deficiency of Galactose-1-phosphate uridyltransferase. This leads to the accumulation of toxic substances, including galactose-1-phosphate and galactitol (which causes cataracts). The symptoms begin with the consumption of lactose (from breast milk or formula), which is broken down into glucose and galactose."
+  },
+  {
+    "question": "A 40-year-old male with chronic alcoholism presents with episodes of confusion, especially after high-protein meals. On examination, he exhibits asterixis (a flapping tremor). His symptoms are attributed to hyperammonemia secondary to liver cirrhosis. The accumulation of ammonia in the central nervous system is neurotoxic primarily because it depletes which of the following key TCA cycle intermediates, thereby inhibiting cellular respiration in the brain?",
+    "options": [
+      "A. Citrate",
+      "B. α-ketoglutarate",
+      "C. Succinyl-CoA",
+      "D. Fumarate",
+      "E. Oxaloacetate"
+    ],
+    "answer": "B",
+    "explanation": "The text explains that excess ammonia (NH3) is detoxified in the brain by combining with α-ketoglutarate to form glutamate, which can then be further converted to glutamine. This process depletes the brain's supply of α-ketoglutarate, a critical intermediate in the TCA cycle. This 'TCA cycle inhibition (↓α-ketoglutarate)' is a primary mechanism of ammonia's neurotoxicity."
+  },
+  {
+    "question": "A scientist is designing a small interfering RNA (siRNA) molecule for a gene therapy experiment to 'knock down' the expression of a specific oncogene. Which of the following statements accurately describes the mechanism of action and characteristics of therapeutic siRNA?",
+    "options": [
+      "A. It is a naturally produced hairpin structure that broadly targets related mRNAs for translational blockage.",
+      "B. It requires complete nucleotide pairing with its target mRNA, leading to highly specific mRNA cleavage prior to translation.",
+      "C. It functions by binding to the gene's promoter region, causing transcriptional repression through DNA methylation.",
+      "D. It is a form of antisense oligonucleotide that binds to the ribosome and stalls the process of translation.",
+      "E. It is processed by the spliceosome and incorporated into the mature mRNA, creating a frameshift mutation."
+    ],
+    "answer": "B",
+    "explanation": "The text distinguishes between miRNA and siRNA. It states that siRNA is 'Usually derived from an exogenous dsRNA source' and 'requires complete nucleotide pairing, leading to highly specific mRNA targeting. Results in mRNA cleavage prior to translation.' This specificity and mechanism of cleavage are key to its use as an experimental and therapeutic tool."
+  },
+  {
+    "question": "A 22-year-old man presents to the clinic with complaints of joint instability, particularly in his shoulders and knees, and hyperextensible skin that is soft and bruises easily. His Beighton score is 8/9, confirming generalized joint hypermobility. He is diagnosed with the hypermobility type of Ehlers-Danlos syndrome. This group of disorders is fundamentally caused by defects in the synthesis or structure of which of the following proteins?",
+    "options": [
+      "A. Fibrillin",
+      "B. Elastin",
+      "C. Laminin",
+      "D. Collagen",
+      "E. Dystrophin"
+    ],
+    "answer": "D",
+    "explanation": "The text states that Ehlers-Danlos syndrome is due to 'Faulty collagen synthesis.' Different types are associated with defects in different collagen types (e.g., type V in classical, type III in vascular) or enzymes involved in collagen processing, like procollagen peptidase."
+  },
+  {
+    "question": "A researcher is studying gene transcription in a eukaryotic cell line. She identifies a DNA sequence located several thousand base pairs upstream of a gene's promoter. When a specific regulatory protein binds to this distant sequence, the rate of transcription of the target gene increases dramatically. This DNA element can function in either orientation and from various distances. What is this regulatory DNA element called?",
+    "options": [
+      "A. Promoter",
+      "B. Operator",
+      "C. Silencer",
+      "D. Enhancer",
+      "E. TATA box"
+    ],
+    "answer": "D",
+    "explanation": "The text defines an enhancer as a 'DNA locus where regulatory proteins ('activators') bind, increasing expression of a gene on the same chromosome.' A key feature mentioned is that enhancers 'may be located close to, far from, or even within (in an intron) the gene whose expression they regulate.'"
+  },
+  {
+    "question": "A 2-month-old infant presents with a high-pitched, cat-like cry, microcephaly, and a ventricular septal defect. Karyotype analysis is performed to confirm the suspected diagnosis. This syndrome is caused by which of the following chromosomal abnormalities?",
+    "options": [
+      "A. A microdeletion on the long arm of chromosome 7.",
+      "B. A microdeletion on the short arm of chromosome 5.",
+      "C. A microdeletion on chromosome 22q11.",
+      "D. Trisomy 18.",
+      "E. Trisomy 13."
+    ],
+    "answer": "B",
+    "explanation": "The clinical features, particularly the characteristic 'cry of the cat,' are pathognomonic for Cri-du-chat syndrome. The text states that this condition is caused by a 'Congenital deletion on short arm of chromosome 5 (46,XX or XY, 5p−).'"
+  },
+  {
+    "question": "A patient is started on the immunosuppressant cyclosporine following a renal transplant. This drug is highly effective at preventing acute rejection by suppressing T-cell mediated immunity. What is the specific intracellular mechanism of action by which cyclosporine exerts its effect?",
+    "options": [
+      "A. It reversibly inhibits IMP dehydrogenase, blocking purine synthesis in lymphocytes.",
+      "B. It inhibits mTOR, preventing the cellular response to Interleukin-2.",
+      "C. It binds to cyclophilin, and this complex inhibits calcineurin, thereby blocking the transcription of Interleukin-2.",
+      "D. It is a precursor to 6-mercaptopurine, which blocks de novo purine synthesis.",
+      "E. It acts as a monoclonal antibody that blocks the IL-2 receptor."
+    ],
+    "answer": "C",
+    "explanation": "The table of immunosuppressants clearly states that cyclosporine is a 'Calcineurin inhibitor; binds cyclophilin' and that it 'Blocks T-cell activation by preventing IL-2 transcription.' Inhibition of calcineurin prevents the dephosphorylation and activation of NFAT, a key transcription factor for IL-2."
+  },
+  {
+    "question": "A 25-year-old woman with Grave's disease presents with anxiety, palpitations, and weight loss. Her condition is caused by an autoantibody that mimics the action of a natural hormone, leading to uncontrolled stimulation of the thyroid gland. This pathogenic mechanism is an example of which type of hypersensitivity reaction?",
+    "options": [
+      "A. Type I, IgE-mediated degranulation.",
+      "B. Type II, antibody-mediated cellular dysfunction.",
+      "C. Type III, immune complex deposition.",
+      "D. Type IV, T-cell mediated inflammation.",
+      "E. Type II, antibody-mediated cellular destruction."
+    ],
+    "answer": "B",
+    "explanation": "Grave's disease is a classic example of a Type II hypersensitivity reaction where the mechanism is cellular dysfunction, not destruction. The text describes this subtype as when 'antibodies bind to cell-surface receptors → abnormal blockade or activation of downstream process.' In Grave's disease, the anti-TSH receptor antibody activates the receptor, leading to hyperthyroidism."
+  },
+  {
+    "question": "A 3-year-old boy presents with severe pyogenic infections, mild thrombocytopenia, and eczema. His laboratory results show very low levels of IgG and IgA, but markedly elevated levels of IgM. His B cells are unable to undergo isotype switching. This X-linked recessive disorder is most commonly caused by a defect in which of the following molecules, which is essential for the interaction between B cells and T helper cells?",
+    "options": [
+      "A. CD28",
+      "B. B7 (CD80/86)",
+      "C. CD40L (CD154) on T cells",
+      "D. BTK (Bruton tyrosine kinase)",
+      "E. The IL-2 receptor gamma chain"
+    ],
+    "answer": "C",
+    "explanation": "This clinical scenario describes Hyper-IgM syndrome. The text states that the most common cause is a 'defective CD40L on Th cells → class switching defect; X-linked recessive.' The interaction between CD40 on B cells and CD40L on activated T helper cells is the critical second signal for B cells to undergo class switching and affinity maturation. Without it, B cells can only produce IgM."
+  },
+  {
+    "question": "A patient receives a blood transfusion and within 2 hours develops fever, chills, and a headache, but no signs of hemolysis or anaphylaxis. The reaction is self-limited. This common type of transfusion reaction is caused by cytokines that accumulate in the blood product during storage. Which of the following blood components is the primary source of these cytokines?",
+    "options": [
+      "A. Donor red blood cells",
+      "B. Donor platelets",
+      "C. Donor plasma proteins",
+      "D. Donor white blood cells",
+      "E. Donor immunoglobulins"
+    ],
+    "answer": "D",
+    "explanation": "The table on immunologic blood transfusion reactions describes the Febrile Nonhemolytic Transfusion Reaction (FNHTR) as being caused by 'Cytokines created by donor WBCs accumulate during storage of blood products.' This is why leukoreduction (filtering out white blood cells) of blood products can prevent these reactions."
+  },
+  {
+    "question": "A medical student is analyzing the organization of a eukaryotic gene. She notes that the region immediately upstream of the transcription start site contains specific consensus sequences, such as the TATA box and CAAT box, which are crucial for the binding of RNA polymerase II and general transcription factors. A mutation in one of these core sequences would most likely result in which of the following outcomes?",
+    "options": [
+      "A. A frameshift mutation in the resulting protein.",
+      "B. Incorrect splicing of the pre-mRNA.",
+      "C. A dramatic decrease in the level of gene transcription.",
+      "D. Production of a protein with an altered amino acid sequence.",
+      "E. Failure of the mRNA to be polyadenylated."
+    ],
+    "answer": "C",
+    "explanation": "The text defines the promoter as the 'Site where RNA polymerase II and multiple other transcription factors bind to DNA upstream from gene locus (AT-rich upstream sequence with TATA and CAAT boxes).' It then explicitly states that a 'Promoter mutation commonly results in dramatic ↓ in level of gene transcription.'"
+  },
+  {
+    "question": "A 1-year-old child presents with recurrent skin and mucosal bacterial infections that are notable for a lack of pus formation. His umbilical cord stump was also noted to have separated abnormally late, at 5 weeks of age. A complete blood count reveals a marked neutrophilia, but a biopsy of an infected site shows a paucity of neutrophils. This condition is caused by a defect in a protein on the surface of phagocytes that is critical for their adhesion to the endothelium and subsequent migration into tissues. Which protein is most likely deficient?",
+    "options": [
+      "A. NADPH oxidase",
+      "B. Myeloperoxidase",
+      "C. LFA-1 integrin (CD18)",
+      "D. Lysosomal trafficking regulator (LYST)",
+      "E. STAT3"
+    ],
+    "answer": "C",
+    "explanation": "This is a classic presentation of Leukocyte Adhesion Deficiency (LAD) Type 1. The text states that LAD is caused by a 'defect in LFA-1 integrin (CD18) protein on phagocytes leads to impaired migration and chemotaxis.' This explains the late separation of the umbilical cord, lack of pus (neutrophils can't get to the site of infection), and the high neutrophil count in the blood (they can't exit the vasculature)."
+  },
+  {
+    "question": "A scientist is studying the process of splicing pre-mRNA into mature mRNA. This process involves the removal of introns and the joining of exons, a reaction catalyzed by a large RNA-protein complex. This complex is composed of several small nuclear RNAs (snRNAs) bound to proteins. What is the name of this catalytic complex?",
+    "options": [
+      "A. Ribosome",
+      "B. Proteasome",
+      "C. Spliceosome",
+      "D. Peroxisome",
+      "E. Chaperone"
+    ],
+    "answer": "C",
+    "explanation": "The text under 'Splicing of pre-mRNA' clearly describes the process: 'Primary transcript combines with small nuclear ribonucleoproteins (snRNPs) and other proteins to form spliceosome.' and 'snRNPs are snRNA bound to proteins...to form a spliceosome that cleaves pre-mRNA.'"
+  },
+  {
+    "question": "A patient with a history of seizures is being treated with phenytoin. Over time, she develops a macrocytic, megaloblastic anemia. Her neurological examination is normal. Phenytoin is known to interfere with the absorption and metabolism of a specific vitamin that is crucial for the synthesis of nitrogenous bases in DNA and RNA. A deficiency of which vitamin is likely responsible for her anemia?",
+    "options": [
+      "A. Vitamin B12 (Cobalamin)",
+      "B. Vitamin B6 (Pyridoxine)",
+      "C. Vitamin C (Ascorbic acid)",
+      "D. Vitamin B9 (Folate)",
+      "E. Vitamin B1 (Thiamine)"
+    ],
+    "answer": "D",
+    "explanation": "The text states under Vitamin B9 (Folate) deficiency that it can be caused by several drugs, including 'phenytoin, trimethoprim, methotrexate.' Folate deficiency leads to a macrocytic, megaloblastic anemia without the neurologic symptoms seen in B12 deficiency, matching the patient's presentation."
+  },
+  {
+    "question": "During a prolonged fast lasting more than 3 days, the brain adapts to use an alternative fuel source to glucose to preserve vital protein stores. The liver begins producing this fuel source in large quantities from the breakdown of fatty acids. Which of the following substances becomes the main source of energy for the brain during this state of starvation?",
+    "options": [
+      "A. Glucogenic amino acids",
+      "B. Lactate",
+      "C. Free fatty acids",
+      "D. Ketone bodies",
+      "E. Glycerol"
+    ],
+    "answer": "D",
+    "explanation": "The text on 'Fasting and starvation' explains the metabolic adaptations. For 'Starvation after day 3,' it states: 'Adipose stores (ketone bodies become the main source of energy for the brain).'"
+  },
+  {
+    "question": "A scientist is investigating the initiation of translation in prokaryotic cells. She identifies a specific sequence in the mRNA, located upstream of the AUG start codon, that is responsible for aligning the mRNA with the ribosome. This sequence is complementary to a portion of the 16S rRNA within the small ribosomal subunit. What is this ribosomal binding site called?",
+    "options": [
+      "A. The Kozak sequence",
+      "B. The TATA box",
+      "C. The Shine-Dalgarno sequence",
+      "D. The polyadenylation signal",
+      "E. The Pribnow box"
+    ],
+    "answer": "C",
+    "explanation": "The text under 'Protein synthesis' defines the 'Shine-Dalgarno sequence—ribosomal binding site in prokaryotic mRNA. Recognized by 16S RNA in ribosomal subunit. Enables protein synthesis initiation by aligning ribosome with start codon so that code is read correctly.' The Kozak sequence serves a similar function in eukaryotes."
+  },
+  {
+    "question": "A patient is found to have a rare genetic disorder that results in a complete absence of apolipoprotein B-100, but normal levels of apolipoprotein B-48. Based on the functions of these apolipoproteins in lipid transport, which of the following lipoproteins would be absent from this patient's circulation?",
+    "options": [
+      "A. Chylomicrons",
+      "B. Chylomicron remnants",
+      "C. VLDL, IDL, and LDL",
+      "D. HDL",
+      "E. Chylomicrons and VLDL"
+    ],
+    "answer": "C",
+    "explanation": "The table of major apolipoproteins indicates that ApoB-100 'Binds LDL receptor' and is found 'Only on particles originating from the liver'. This includes VLDL, IDL, and LDL. ApoB-48, in contrast, 'Mediates chylomicron secretion' and is found 'Only on particles originating from the intestines'. Therefore, a selective deficiency of ApoB-100 would prevent the formation and secretion of VLDL from the liver, and consequently, IDL and LDL would also be absent. Chylomicron formation would be unaffected."
+  },
+  {
+    "question": "In the process of cholesterol synthesis, the rate-limiting step is catalyzed by an enzyme that is the target of statin medications. This enzyme converts HMG-CoA to mevalonate. What is this rate-determining enzyme?",
+    "options": [
+      "A. HMG-CoA synthase",
+      "B. HMG-CoA lyase",
+      "C. Acetyl-CoA carboxylase",
+      "D. HMG-CoA reductase",
+      "E. Thiolase"
+    ],
+    "answer": "D",
+    "explanation": "The table 'Rate-determining enzymes of metabolic processes' clearly lists 'HMG-CoA reductase' as the rate-limiting enzyme for cholesterol synthesis. It is also mentioned as the target of statins, which are widely known cholesterol-lowering drugs."
+  },
+  {
+    "question": "A 10-year-old girl is diagnosed with Williams syndrome. She has the characteristic 'elfin' facies, a friendly and outgoing personality, and intellectual disability. A cardiovascular workup is performed because of the high risk of specific vascular abnormalities associated with this condition. The genetic basis of this syndrome is a microdeletion on the long arm of chromosome 7, which includes the gene for which of the following structural proteins?",
+    "options": [
+      "A. Collagen type I",
+      "B. Dystrophin",
+      "C. Fibrillin",
+      "D. Elastin",
+      "E. Spectrin"
+    ],
+    "answer": "D",
+    "explanation": "The text for Williams syndrome states it is a 'Congenital microdeletion of long arm of chromosome 7 (deleted region includes elastin gene).' The loss of the elastin gene explains the cardiovascular problems, such as supravalvular aortic stenosis, that are common in these patients."
+  },
+  {
+    "question": "A patient with a solid organ transplant is treated with basiliximab to prevent acute rejection. This medication is a monoclonal antibody that provides targeted immunosuppression by interfering with a critical step in T-cell proliferation. What is the specific molecular target of basiliximab?",
+    "options": [
+      "A. Calcineurin",
+      "B. The mTOR protein",
+      "C. The IL-2 receptor",
+      "D. The B7 costimulatory molecule",
+      "E. TNF-α"
+    ],
+    "answer": "C",
+    "explanation": "The table of immunosuppressants clearly identifies basiliximab as a 'Monoclonal antibody; blocks IL-2R' (Interleukin-2 receptor). This prevents activated T cells from receiving the key proliferation signal from IL-2."
+  },
+  {
+    "question": "A 1-year-old boy of Northern European descent is brought to the pediatrician. He has fair skin, blue eyes, and a musty body odor. He has also been exhibiting developmental delay and seizures. A diagnosis of phenylketonuria (PKU) is made. This condition is caused by a deficiency of phenylalanine hydroxylase, which makes a specific amino acid essential for this patient. Which amino acid must be supplied in his diet?",
+    "options": [
+      "A. Phenylalanine",
+      "B. Tryptophan",
+      "C. Tyrosine",
+      "D. Threonine",
+      "E. Histidine"
+    ],
+    "answer": "C",
+    "explanation": "In phenylketonuria (PKU), the enzyme phenylalanine hydroxylase is deficient, meaning phenylalanine cannot be converted to tyrosine. The text explains that in this case, 'Tyrosine becomes essential.' Treatment involves restricting phenylalanine in the diet and supplementing with tyrosine."
+  },
+  {
+    "question": "In the fed state, after a carbohydrate-rich meal, insulin levels rise and promote the storage of glucose in the liver. Which of the following enzymes, found primarily in the liver and pancreatic β-cells, has a high Km and high Vmax, allowing it to efficiently phosphorylate glucose and trap it in the liver when blood glucose levels are high?",
+    "options": [
+      "A. Hexokinase",
+      "B. Glucokinase",
+      "C. Phosphofructokinase-1",
+      "D. Pyruvate kinase",
+      "E. Glucose-6-phosphatase"
+    ],
+    "answer": "B",
+    "explanation": "The table comparing Hexokinase and Glucokinase highlights these key differences. Glucokinase is found in the liver and pancreatic β-cells, has a 'Higher (↓ affinity)' Km and a 'Higher (↑ capacity)' Vmax, and is induced by insulin. These properties allow it to function effectively only when glucose concentrations are high, such as after a meal, to facilitate glycogen storage."
+  },
+  {
+    "question": "A 4-year-old child presents with partial albinism, recurrent pyogenic infections with Staphylococcus and Streptococcus, and progressive peripheral neuropathy. A peripheral blood smear reveals giant granules within neutrophils and platelets. This constellation of findings is characteristic of which autosomal recessive immunodeficiency?",
+    "options": [
+      "A. Chronic granulomatous disease (CGD)",
+      "B. Leukocyte adhesion deficiency (LAD)",
+      "C. Wiskott-Aldrich syndrome",
+      "D. Ataxia-telangiectasia",
+      "E. Chédiak-Higashi syndrome"
+    ],
+    "answer": "E",
+    "explanation": "Chédiak-Higashi syndrome is described with the mnemonic 'PLAIN: Progressive neurodegeneration, Lymphohistiocytosis, Albinism (partial), recurrent pyogenic Infections, peripheral Neuropathy.' The text also explicitly mentions the pathognomonic finding of 'Giant granules in granulocytes and platelets,' which is caused by a defect in the lysosomal trafficking regulator gene (LYST)."
+  },
+  {
+    "question": "A patient with acute promyelocytic leukemia (APL) is treated with all-trans retinoic acid (ATRA). This therapy induces differentiation of the malignant promyelocytes, leading to remission. ATRA is a derivative of which vitamin?",
+    "options": [
+      "A. Vitamin C",
+      "B. Vitamin D",
+      "C. Vitamin K",
+      "D. Vitamin B12",
+      "E. Vitamin A"
+    ],
+    "answer": "E",
+    "explanation": "The text under Vitamin A notes its clinical uses, stating 'Use all-trans retinoic acid to treat acute promyelocytic leukemia.' All-trans retinoic acid is a form of Vitamin A."
+  },
+  {
+    "question": "A 35-year-old man who recently emigrated from a region with high rates of tuberculosis presents with a chronic cough and weight loss. A chest X-ray shows a granuloma in the right upper lobe. The formation and maintenance of this granuloma, which is essential for containing the mycobacterial infection, is heavily dependent on the interaction between macrophages and Th1 cells, and is mediated primarily by which cytokine?",
+    "options": [
+      "A. Interleukin-4",
+      "B. Interleukin-5",
+      "C. Interleukin-10",
+      "D. Interferon-gamma",
+      "E. Interleukin-1"
+    ],
+    "answer": "D",
+    "explanation": "The text describes the function of Interferon-gamma (IFN-γ) as being 'Secreted by NK cells and T cells...stimulates macrophages to kill phagocytosed pathogens.' and 'Activates macrophages to induce granuloma formation.' This cytokine is critical for the cell-mediated immune response required to control intracellular pathogens like Mycobacterium tuberculosis."
+  },
+  {
+    "question": "A patient undergoing treatment for rheumatoid arthritis is prescribed a monoclonal antibody that targets B cells, leading to their depletion. The antibody is specific for a cell surface protein that is expressed on most B cells but not on plasma cells, making it an effective therapeutic target. Which of the following CD markers is the likely target of this drug?",
+    "options": [
+      "A. CD3",
+      "B. CD4",
+      "C. CD8",
+      "D. CD20",
+      "E. CD34"
+    ],
+    "answer": "D",
+    "explanation": "The text lists CD19, CD20, and CD21 as key B-cell markers. Rituximab is a well-known monoclonal antibody used in rheumatoid arthritis and lymphomas that targets CD20. This depletes B cells from circulation. Plasma cells, which are terminally differentiated and responsible for antibody production, often lose CD20 expression, which is why pre-existing antibody levels may not fall immediately."
+  },
+  {
+    "question": "A researcher is developing a new live attenuated vaccine against a viral pathogen. Which of the following statements accurately describes a primary advantage of using a live attenuated vaccine compared to a killed vaccine?",
+    "options": [
+      "A. It poses no risk of reverting to a virulent form.",
+      "B. It is safe to administer to immunocompromised individuals and pregnant women.",
+      "C. It primarily induces a humoral (antibody-mediated) response.",
+      "D. It induces a strong cell-mediated (T-cell) immune response in addition to a humoral response.",
+      "E. It never requires a booster shot."
+    ],
+    "answer": "D",
+    "explanation": "The vaccination table in the text lists a key advantage of live attenuated vaccines as inducing 'cellular and humoral responses' and 'strong, often lifelong immunity.' In contrast, killed vaccines 'mainly induces a humoral response' and has a 'weaker cell-mediated immune response.'"
+  },
+  {
+    "question": "A 22-year-old man presents to a clinic with a painful rash on his wrist that appeared two days after wearing a new watch with a metal buckle. The rash is erythematous, vesicular, and intensely pruritic. A patch test is positive for nickel. This reaction is a classic example of a delayed-type hypersensitivity reaction, which is mediated by which of the following immune components?",
+    "options": [
+      "A. IgE and mast cells",
+      "B. IgG and complement",
+      "C. Antigen-antibody immune complexes",
+      "D. T-cells and macrophages",
+      "E. NK cells and IgM"
+    ],
+    "answer": "D",
+    "explanation": "Contact dermatitis, such as a nickel allergy, is a classic example of a Type IV, or delayed-type, hypersensitivity reaction. The text states that this type is 'cell-mediated' and involves two mechanisms, both involving T cells: direct cytotoxicity by CD8+ T cells, and an inflammatory reaction driven by effector CD4+ T cells that release cytokines to activate macrophages. It explicitly does not involve antibodies. The mnemonic '4T’s: T cells, Transplant rejections, TB skin tests, Touching (contact dermatitis)' is useful."
+  },
+  {
+    "question": "An infant is born with a heart defect known as truncus arteriosus, a cleft palate, and hypocalcemia causing tetany. A chest X-ray reveals the absence of a thymic shadow. This constellation of findings is highly suggestive of DiGeorge syndrome. This condition results from the failure of development of which of the following embryological structures?",
+    "options": [
+      "A. The 1st and 2nd pharyngeal arches",
+      "B. The 3rd and 4th pharyngeal pouches",
+      "C. The neural crest cells",
+      "D. The ductus arteriosus",
+      "E. The foramen ovale"
+    ],
+    "answer": "B",
+    "explanation": "The text on DiGeorge syndrome states that it is caused by a '22q11 microdeletion; failure to develop 3rd and 4th pharyngeal pouches → absent thymus and parathyroids.' The mnemonic CATCH-22 links the chromosomal defect to the key features: Cardiac defects, Abnormal facies, Thymic hypoplasia, Cleft palate, and Hypocalcemia."
+  },
+  {
+    "question": "A laboratory is performing DNA analysis using a Southern blot. This technique is useful for identifying specific DNA sequences and determining their size. Which of the following describes the correct initial steps of the Southern blotting procedure?",
+    "options": [
+      "A. An RNA sample is separated by gel electrophoresis and transferred to a membrane, then probed with labeled DNA.",
+      "B. A protein sample is separated by gel electrophoresis and transferred to a membrane, then probed with a labeled antibody.",
+      "C. A DNA sample is enzymatically cleaved, separated by gel electrophoresis, and transferred to a membrane.",
+      "D. A DNA sample is amplified using heat-stable polymerase, and the products are visualized on a gel.",
+      "E. A DNA sample is sequenced directly using fluorescently labeled dideoxynucleotides."
+    ],
+    "answer": "C",
+    "explanation": "The text describes the Southern blot procedure: 'DNA sample is enzymatically cleaved into smaller pieces, which are separated by gel electrophoresis, and then transferred to a membrane.' It is then probed with a labeled DNA probe. The mnemonic SNoW DRoP helps remember that Southern blots are for DNA."
+  },
+  {
+    "question": "A genetic counselor is explaining the inheritance pattern of myotonic dystrophy to a family. She notes that in their family, the disease has become more severe and has appeared at an earlier age in each successive generation. This phenomenon, which is characteristic of trinucleotide repeat disorders, is known by what term?",
+    "options": [
+      "A. Pleiotropy",
+      "B. Variable expressivity",
+      "C. Locus heterogeneity",
+      "D. Anticipation",
+      "E. Uniparental disomy"
+    ],
+    "answer": "D",
+    "explanation": "The text defines anticipation as 'Increased severity or earlier onset of disease in succeeding generations' and lists 'Trinucleotide repeat diseases (eg, Huntington disease)' as the classic example. Myotonic dystrophy is another major trinucleotide repeat disorder that exhibits anticipation."
+  },
+  {
+    "question": "A 25-year-old male is diagnosed with Fabry disease after presenting with episodic burning pain in his hands and feet, decreased sweating (hypohidrosis), and small, reddish-purple skin lesions called angiokeratomas. This X-linked recessive lysosomal storage disease is caused by a deficiency in which of the following enzymes?",
+    "options": [
+      "A. Hexosaminidase A",
+      "B. Glucocerebrosidase",
+      "C. α-galactosidase A",
+      "D. Sphingomyelinase",
+      "E. Galactocerebrosidase"
+    ],
+    "answer": "C",
+    "explanation": "The table of lysosomal storage diseases clearly identifies Fabry disease as being caused by a deficiency of α-galactosidase A. This leads to the accumulation of ceramide trihexoside and the characteristic triad of peripheral neuropathy, angiokeratomas, and hypohidrosis. It is also noted as being X-linked recessive."
+  },
+  {
+    "question": "A patient with Type 1 diabetes is experiencing an episode of diabetic ketoacidosis (DKA). Her body is producing large amounts of ketone bodies as an alternative fuel source. While the liver produces ketone bodies, it cannot utilize them for energy. This is because hepatocytes lack which of the following crucial enzymes required for ketone body breakdown?",
+    "options": [
+      "A. HMG-CoA synthase",
+      "B. HMG-CoA lyase",
+      "C. β-hydroxybutyrate dehydrogenase",
+      "D. Acetoacetate decarboxylase",
+      "E. β-ketoacyl-CoA transferase (Thiophorase)"
+    ],
+    "answer": "E",
+    "explanation": "The text on ketone bodies states: 'Liver cells lack β-ketoacyl-CoA transferase → cannot use ketone bodies as fuel.' This enzyme is required to convert acetoacetate into acetoacetyl-CoA, which can then be broken down into acetyl-CoA for the TCA cycle in extrahepatic tissues like the brain and muscle."
+  },
+  {
+    "question": "A patient taking the anti-gout medication allopurinol is also prescribed the immunosuppressant azathioprine. The co-administration of these two drugs is contraindicated without significant dose reduction of azathioprine due to a high risk of severe myelosuppression. This drug-drug interaction occurs because allopurinol inhibits which enzyme that is responsible for the metabolism of azathioprine's active metabolite?",
+    "options": [
+      "A. IMP dehydrogenase",
+      "B. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)",
+      "C. Xanthine oxidase",
+      "D. Adenosine deaminase",
+      "E. Cytochrome P-450"
+    ],
+    "answer": "C",
+    "explanation": "The text under 'Immunosuppressants' for Azathioprine notes: '6-MP [the active metabolite] degraded by xanthine oxidase; toxicity ↑ by allopurinol.' Allopurinol is a xanthine oxidase inhibitor, so it prevents the breakdown of 6-mercaptopurine, leading to toxic accumulation and severe pancytopenia."
+  },
+  {
+    "question": "A 50-year-old man with a history of dyslipidemia presents with several yellowish, nodular lesions on his elbows and knees (tuberoeruptive xanthomas) and yellowish streaks on his palmar creases (palmar xanthomas). A lipid panel shows significant elevations in both cholesterol and triglycerides. Analysis of his apolipoproteins reveals a defect that impairs the uptake of chylomicron and VLDL remnants by the liver. A defect in which of the following apolipoproteins is the cause of this patient's condition (Type III familial dyslipidemia)?",
+    "options": [
+      "A. ApoC-II",
+      "B. ApoA-I",
+      "C. ApoB-48",
+      "D. ApoE",
+      "E. ApoB-100"
+    ],
+    "answer": "D",
+    "explanation": "The table on familial dyslipidemias describes Type III (Dysbetalipoproteinemia) as being caused by 'ApoE (defective in type thrEE).' The text also notes that ApoE 'Mediates remnant uptake.' A defect in ApoE leads to the accumulation of chylomicron and VLDL remnants, causing elevations in both triglycerides and cholesterol, and the characteristic tuberoeruptive and palmar xanthomas."
+  },
+  {
+    "question": "A researcher is studying the pentose phosphate pathway (HMP shunt). This pathway is crucial for producing NADPH, which is required for reductive biosynthesis and for protecting cells from oxidative damage. The rate-limiting, irreversible step of this pathway is catalyzed by which of the following enzymes?",
+    "options": [
+      "A. Transketolase",
+      "B. Transaldolase",
+      "C. Phosphopentose isomerase",
+      "D. Glucose-6-phosphate dehydrogenase (G6PD)",
+      "E. 6-phosphogluconate dehydrogenase"
+    ],
+    "answer": "D",
+    "explanation": "The text and the diagram of the pentose phosphate pathway identify the conversion of Glucose-6-phosphate to 6-phosphogluconolactone as the first, irreversible (oxidative) step. The table of 'Rate-determining enzymes' confirms that 'Glucose-6-phosphate dehydrogenase (G6PD)' is the rate-limiting enzyme for the HMP shunt."
+  },
+  {
+    "question": "A patient with severe rheumatoid arthritis is treated with a biologic agent that is a monoclonal antibody against TNF-α. Before starting this therapy, the patient must be screened for latent tuberculosis infection. This precaution is necessary because TNF-α plays a critical role in which of the following immunological processes?",
+    "options": [
+      "A. Promoting IgE production by B cells.",
+      "B. Activating eosinophils for parasitic defense.",
+      "C. Suppressing T-cell effector functions to maintain tolerance.",
+      "D. Forming and maintaining granulomas to contain infections.",
+      "E. Inducing the differentiation of Th2 cells."
+    ],
+    "answer": "D",
+    "explanation": "The text lists the functions of Tumor Necrosis Factor-α (TNF-α), including 'Maintains granulomas in TB.' Blocking TNF-α with a therapeutic antibody can cause the breakdown of existing granulomas and lead to the reactivation of latent tuberculosis. This is why screening is mandatory before initiating therapy."
+  }
+,
+{
+"question": "A 55-year-old male with a history of alcohol overuse is admitted to the hospital with a productive cough of thick, mucoid, blood-tinged sputum described as 'currant jelly.' A chest X-ray reveals a lobar pneumonia with abscess formation. The causative organism is a gram-negative rod that forms mucoid colonies on culture. Based on the provided text, which virulence factor is most directly responsible for the characteristic mucoid appearance of the colonies and the organism's ability to cause aspiration pneumonia?",
+"options": ["A. K capsule", "B. Fimbriae (P pili)", "C. LPS endotoxin", "D. Abundant polysaccharide capsule", "E. Shiga toxin"],
+"answer": "D",
+"explanation": "The clinical presentation of lobar pneumonia with 'currant jelly' sputum in a patient with a history of alcohol overuse is classic for Klebsiella pneumoniae. The text states that Klebsiella produces 'very mucoid colonies caused by abundant polysaccharide capsules.' This capsule is a key virulence factor, contributing to the mucoid appearance and protecting the bacterium from phagocytosis, facilitating its role in aspiration pneumonia and abscess formation."
+},
+{
+"question": "A researcher is studying a gram-negative bacterium that is a common cause of healthcare-associated infections. This bacterium possesses a unique outer membrane structure that is critical to its pathogenicity. Which component of this outer membrane is a complex lipopolysaccharide that contains a lipid A moiety responsible for inducing a potent inflammatory response, including the release of TNF and IL-1, leading to fever and shock in infected patients?",
+"options": ["A. Lipoteichoic acids", "B. Porin proteins", "C. Endotoxin (LPS/LOS)", "D. Peptidoglycan", "E. Pilin glycoproteins"],
+"answer": "C",
+"explanation": "The outer membrane of gram-negative bacteria contains endotoxin, which is a lipopolysaccharide (LPS) or lipooligosaccharide (LOS). The text specifies that the lipid A component of endotoxin is responsible for inducing TNF and IL-1, which mediate the systemic effects of sepsis. Lipoteichoic acids are found in gram-positive bacteria, not gram-negative."
+},
+{
+"question": "A 28-year-old female presents with a urinary tract infection. The cultured organism is a gram-positive coccus that is catalase-positive, coagulase-negative, and urease-positive. Laboratory testing reveals resistance to novobiocin. Based on these findings and the provided text, which organism is the most likely cause of her UTI, and what is its typical source?",
+"options": ["A. Staphylococcus epidermidis, from skin contamination of a catheter", "B. Staphylococcus aureus, from colonization of the nares", "C. Staphylococcus saprophyticus, from the normal microbiota of the female genital tract", "D. Enterococcus faecalis, from the normal colonic microbiota", "E. Streptococcus agalactiae, from colonization of the vagina"],
+"answer": "C",
+"explanation": "The laboratory findings (gram-positive cocci, catalase-positive, coagulase-negative, novobiocin-resistant) are characteristic of Staphylococcus saprophyticus. The text identifies S. saprophyticus as the 'second most common cause of uncomplicated UTI in young females' and states that it is part of the 'normal microbiota of female genital tract and perineum'."
+},
+{
+"question": "A 4-year-old child presents with pharyngitis, a fine, blanching, sandpaper-like rash that spares the palms and soles, and a strawberry tongue. The physician suspects scarlet fever. Which specific virulence factor, produced by the causative organism, is responsible for this toxigenic manifestation of the infection?",
+"options": ["A. M protein", "B. Streptolysin O", "C. Hyaluronic acid capsule", "D. Erythrogenic exotoxin A", "E. Protein A"],
+"answer": "D",
+"explanation": "Scarlet fever is a toxigenic disease caused by Streptococcus pyogenes (group A streptococci). The text states that the 'fine, blanching, generalized sandpaperlike rash...strawberry tongue, and circumoral pallor' are manifestations of scarlet fever, which is caused by the Erythrogenic exotoxin A."
+},
+{
+"question": "A scientist is investigating the mechanism of action of a newly discovered bacterial toxin that causes massive watery diarrhea. The toxin is found to overactivate adenylate cyclase by permanently activating the Gs protein subunit, leading to a significant increase in intracellular cAMP and massive chloride and water efflux into the gut lumen. Which known bacterial toxin does this mechanism most closely resemble?",
+"options": ["A. Shiga toxin", "B. Diphtheria toxin", "C. Tetanospasmin", "D. Cholera toxin", "E. Heat-stable toxin (ST) of ETEC"],
+"answer": "D",
+"explanation": "The text describes the mechanism of Cholera toxin from Vibrio cholerae as 'Overactivates adenylate cyclase (↑cAMP) by permanently activating Gs,' which leads to 'Voluminous “rice-water” diarrhea.' This perfectly matches the mechanism described in the question. Heat-stable (ST) toxin activates guanylate cyclase, not adenylate cyclase."
+},
+{
+"question": "A graduate student is working on a project involving bacterial genetics and observes that a strain of Streptococcus pneumoniae, when placed in a medium containing naked DNA from a lysed, encapsulated strain, acquires the ability to produce a capsule. The addition of deoxyribonuclease to the medium prevents this genetic change. Which mechanism of horizontal gene transfer is being demonstrated?",
+"options": ["A. Generalized transduction", "B. Specialized transduction", "C. Hfr conjugation", "D. Transformation", "E. Transposition"],
+"answer": "D",
+"explanation": "The text defines transformation as the process where competent bacteria 'bind and import short pieces of environmental naked bacterial chromosomal DNA (from bacterial cell lysis).' It explicitly mentions S. pneumoniae as a bacterium capable of transformation and states that 'Adding deoxyribonuclease degrades naked DNA, preventing transformation,' which matches the experimental observation."
+},
+{
+"question": "A patient with cystic fibrosis develops a severe, chronic pneumonia that is difficult to treat due to biofilm formation in the respiratory tree. The causative organism is a gram-negative rod known for its production of a blue-green pigment and a characteristic grape-like odor. Which of the following organisms is most likely responsible for this infection and its associated biofilm production in this patient population?",
+"options": ["A. Nontypeable H. influenzae", "B. Staphylococcus epidermidis", "C. Viridans streptococci", "D. Pseudomonas aeruginosa", "E. Klebsiella pneumoniae"],
+"answer": "D",
+"explanation": "The text explicitly lists Pseudomonas aeruginosa as a biofilm-producing bacterium, specifically mentioning its role in 'Respiratory tree colonization in patients with cystic fibrosis.' It also notes that P. aeruginosa produces a 'blue-green pigment (pyocyanin and pyoverdin)' and has a 'grapelike odor,' which are classic identifiers for this organism."
+},
+{
+"question": "An immunocompromised patient develops a pulmonary infection that can mimic tuberculosis, but the PPD test is negative. A lung biopsy reveals long, branching, filamentous gram-positive organisms that are found to be weakly acid-fast and catalase-positive. The infection is believed to have been acquired from the soil. What is the most likely causative agent, and what is the standard treatment?",
+"options": ["A. Actinomyces israelii; treated with penicillin", "B. Nocardia; treated with sulfonamides (TMP-SMX)", "C. Mycobacterium tuberculosis; treated with RIPE therapy", "D. Staphylococcus aureus; treated with nafcillin", "E. Bacillus anthracis; treated with ciprofloxacin"],
+"answer": "B",
+"explanation": "The description of a gram-positive, branching filament that is weakly acid-fast and found in soil is characteristic of Nocardia. The text contrasts it with Actinomyces, which is not acid-fast and is an anaerobe. It also notes that Nocardia can cause 'pulmonary infections in immunocompromised (can mimic TB but with ⊝ PPD).' The mnemonic provided confirms the treatment: 'SNAP: Sulfonamides—Nocardia; Actinomyces—Penicillin'."
+},
+{
+"question": "A patient is diagnosed with leprosy presenting with diffuse skin lesions, a leonine facies, and a high bacterial load on skin biopsy. The cell-mediated immune response is low, characterized primarily by a Th2 response. According to the provided text, which form of leprosy does this patient have, and what is the recommended multi-drug treatment regimen?",
+"options": ["A. Tuberculoid leprosy; treated with dapsone and rifampin", "B. Lepromatous leprosy; treated with dapsone, rifampin, and clofazimine", "C. Primary tuberculosis; treated with RIPE", "D. Cutaneous anthrax; treated with ciprofloxacin", "E. Nocardiosis; treated with TMP-SMX"],
+"answer": "B",
+"explanation": "The text describes the lepromatous form of leprosy as presenting 'diffusely over the skin, with leonine (lionlike) facies,' being 'communicable (high bacterial load),' and characterized by 'low cell-mediated immunity with a largely Th2 response.' The treatment for the lepromatous form is specified as adding clofazimine to the dapsone and rifampin regimen used for the tuberculoid form. The mnemonic 'Daring rifles target cloaked leprechauns' supports this."
+},
+{
+"question": "A sexually active young woman presents with septic arthritis in her knee. A culture of the synovial fluid grows a gram-negative diplococcus that metabolizes glucose but not maltose. This organism is known to lack a polysaccharide capsule, which has hindered vaccine development. What is the most likely causative organism?",
+"options": ["A. Neisseria meningitidis", "B. Neisseria gonorrhoeae", "C. Moraxella catarrhalis", "D. Haemophilus influenzae", "E. Staphylococcus aureus"],
+"answer": "B",
+"explanation": "The table comparing Neisseria species indicates that Neisseria gonorrhoeae causes 'septic arthritis,' does not ferment maltose ('No maltose acid detection'), and has 'No polysaccharide capsule,' leading to 'No vaccine due to antigenic variation of pilus proteins.' This combination of features is specific to N. gonorrhoeae as described in the text."
+},
+{
+"question": "A patient with a recent history of antibiotic use for a skin infection develops severe, watery diarrhea, and a colonoscopy reveals pseudomembranous colitis. A stool PCR test is positive for toxins A and B. Which organism is the most likely cause, and what is the primary mechanism by which its toxins cause disease?",
+"options": ["A. Clostridium perfringens; alpha toxin (lecithinase) causes myonecrosis", "B. Clostridioides difficile; toxins A and B damage enterocytes", "C. Vibrio cholerae; cholera toxin activates Gs leading to rice-water diarrhea", "D. Enterohemorrhagic E. coli; Shiga toxin causes hemolytic-uremic syndrome", "E. Bacillus cereus; preformed cereulide toxin causes emesis"],
+"answer": "B",
+"explanation": "The text states that Clostridioides difficile 'Produces toxins A and B, which damage enterocytes,' leading to 'watery diarrhea' and 'pseudomembranous colitis.' It also mentions that it is often secondary to antibiotic use. The other options describe different organisms with distinct pathogenic mechanisms."
+},
+{
+"question": "A patient develops a rapidly progressive, necrotic cutaneous lesion known as ecthyma gangrenosum. This condition is typically seen in immunocompromised individuals and is caused by bacteremia with a specific gram-negative rod. This organism is oxidase-positive, produces a green pigment, and is notorious for causing healthcare-associated infections. Which pathogen is responsible for this skin manifestation?",
+"options": ["A. Staphylococcus aureus", "B. Streptococcus pyogenes", "C. Proteus mirabilis", "D. Pseudomonas aeruginosa", "E. Serratia marcescens"],
+"answer": "D",
+"explanation": "The text specifically describes ecthyma gangrenosum as a 'rapidly progressive, necrotic cutaneous lesion caused by Pseudomonas bacteremia. Typically seen in immunocompromised patients.' It also lists the characteristics of Pseudomonas aeruginosa, including being an oxidase-positive, gram-negative rod that produces a green pigment."
+},
+{
+"question": "A patient who recently traveled to the southwestern United States and participated in an archaeological excavation presents with fever, arthralgias, and erythema nodosum. A lung biopsy reveals spherules filled with endospores, which are much larger than a red blood cell. Which dimorphic fungus is the most likely cause of this presentation, and what is its form in the environment at 20°C?",
+"options": ["A. Histoplasma capsulatum; mold", "B. Blastomyces; mold", "C. Coccidioides; mold", "D. Paracoccidioides; mold", "E. Candida albicans; yeast"],
+"answer": "C",
+"explanation": "The text identifies Coccidioidomycosis as being endemic to the 'Southwestern US, California' and associated with 'dust exposure in endemic areas (eg, archeological excavations, earthquakes).' The pathologic features are 'Spherule filled with endospores of Coccidioides (much larger than RBC),' and it can cause 'Erythema nodosum (desert bumps)' and 'Arthralgias (desert rheumatism).' All systemic mycoses listed are dimorphic and exist as mold in the cold (environment)."
+},
+{
+"question": "A patient with uncontrolled diabetes and ketoacidosis presents with headache, facial pain, and a black necrotic eschar on his nasal turbinates. A biopsy of the lesion reveals irregular, broad, nonseptate hyphae branching at wide angles. Which opportunistic fungal infection is most consistent with this clinical and histopathological picture?",
+"options": ["A. Invasive aspergillosis", "B. Cryptococcal meningitis", "C. Mucormycosis", "D. Disseminated candidiasis", "E. Sporotrichosis"],
+"answer": "C",
+"explanation": "The text describes Mucormycosis, caused by Mucor and Rhizopus spp., as occurring 'mostly in patients with DKA and/or neutropenia.' The classic presentation involves 'inhalation of spores...proliferate in blood vessel walls, penetrate cribriform plate, and enter brain,' leading to a 'black necrotic eschar on face.' The histology matches the description of 'Irregular, broad, nonseptate hyphae branching at wide angles.'"
+},
+{
+"question": "A hiker who drank unfiltered water from a stream develops bloating, flatulence, and foul-smelling, fatty diarrhea. A stool sample analysis reveals multinucleated trophozoites. Which protozoan is the causative agent, and what is the recommended treatment?",
+"options": ["A. Entamoeba histolytica; Metronidazole", "B. Cryptosporidium; Nitazoxanide", "C. Giardia lamblia; Tinidazole, nitazoxanide, or metronidazole", "D. Toxoplasma gondii; Sulfadiazine + pyrimethamine", "E. Trichomonas vaginalis; Metronidazole"],
+"answer": "C",
+"explanation": "The symptoms of 'bloating, flatulence, foul-smelling, nonbloody, fatty diarrhea' in a camper/hiker are classic for Giardiasis, caused by Giardia lamblia. The diagnosis is confirmed by 'Multinucleated trophozoites or cysts in stool.' The text lists the treatment as 'Tinidazole, nitazoxanide, or metronidazole.'"
+},
+{
+"question": "A patient from South America presents with dilated cardiomyopathy and megaesophagus. An examination of a blood smear reveals trypomastigotes. The patient reports having been bitten by a 'kissing bug' years ago. What is the causative organism of this condition, also known as Chagas disease?",
+"options": ["A. Trypanosoma brucei", "B. Leishmania spp.", "C. Plasmodium falciparum", "D. Trypanosoma cruzi", "E. Babesia"],
+"answer": "D",
+"explanation": "The text describes Chagas disease, caused by Trypanosoma cruzi, as leading to 'dilated cardiomyopathy with apical atrophy, megacolon, megaesophagus' and being prevalent in South America. Transmission is via the 'Triatomine insect (kissing bug),' and diagnosis involves finding 'Trypomastigote in blood smear.'"
+},
+{
+"question": "A child presents with severe anal pruritus, which is worse at night. The physician performs a 'tape test' and visualizes eggs under the microscope. Which nematode is responsible for this infection, and what is the route of transmission?",
+"options": ["A. Ascaris lumbricoides; Fecal-oral", "B. Enterobius vermicularis; Fecal-oral", "C. Strongyloides stercoralis; Cutaneous penetration", "D. Ancylostoma duodenale; Cutaneous penetration", "E. Trichinella spiralis; Ingestion of undercooked pork"],
+"answer": "B",
+"explanation": "The clinical presentation of 'anal pruritus, worse at night' and diagnosis via a 'tape test' is pathognomonic for Enterobius vermicularis (pinworm). The text confirms this and states the route of transmission is fecal-oral."
+},
+{
+"question": "A patient who consumed undercooked pork develops a fever, myositis, and significant periorbital edema. A muscle biopsy reveals encysted larvae within the striated muscle. Which nematode is the cause of this condition, known as trichinosis?",
+"options": ["A. Taenia solium", "B. Ascaris lumbricoides", "C. Trichuris trichiura", "D. Strongyloides stercoralis", "E. Trichinella spiralis"],
+"answer": "E",
+"explanation": "The text identifies Trichinella spiralis as the cause of trichinosis, which is transmitted by 'undercooked meat (especially pork).' The pathogenesis involves larvae entering the bloodstream and encysting in 'striated muscle → myositis,' and the clinical features include 'fever, vomiting, nausea, periorbital edema, myalgia.'"
+},
+{
+"question": "A farmer from a sheep-herding region presents with a large, calcified cyst in the liver, visible on an abdominal CT scan as an 'eggshell calcification.' The patient is at risk for anaphylaxis if the cyst ruptures. What is the causative cestode, and how is the infection typically acquired?",
+"options": ["A. Taenia solium; Ingestion of larvae in undercooked pork", "B. Diphyllobothrium latum; Ingestion of larvae in raw freshwater fish", "C. Echinococcus granulosus; Ingestion of eggs in food contaminated with dog feces", "D. Schistosoma mansoni; Skin penetration by cercariae in fresh water", "E. Clonorchis sinensis; Ingestion of undercooked fish"],
+"answer": "C",
+"explanation": "The formation of 'Hydatid cysts (“eggshell calcification”)' in the liver is characteristic of infection with Echinococcus granulosus. The text states that cyst rupture can cause anaphylaxis and that the transmission route is 'Ingestion of eggs in food contaminated with dog feces,' with sheep being an intermediate host."
+},
+{
+"question": "A 25-year-old male presents with fever, hepatosplenomegaly, pharyngitis, and posterior cervical lymphadenopathy. A peripheral blood smear shows atypical lymphocytes. The Monospot test is positive. This condition is associated with an increased risk of specific malignancies, including Burkitt lymphoma and nasopharyngeal carcinoma. Which virus is the etiological agent?",
+"options": ["A. Cytomegalovirus (HHV-5)", "B. Herpes Simplex Virus-1 (HSV-1)", "C. Epstein-Barr virus (HHV-4)", "D. Human Herpesvirus 6 (HHV-6)", "E. Varicella-zoster virus (HHV-3)"],
+"answer": "C",
+"explanation": "The clinical picture of mononucleosis ('fever, hepatosplenomegaly, pharyngitis, and lymphadenopathy') with a positive Monospot test and atypical lymphocytes points to Epstein-Barr virus (EBV). The text confirms these findings and explicitly links EBV to 'lymphomas (eg, endemic Burkitt lymphoma), nasopharyngeal carcinoma'."
+},
+{
+"question": "A researcher is developing a new antiviral drug that targets a specific step in the HIV replication cycle. The drug is designed to bind to the gp41 envelope glycoprotein, thereby preventing the viral envelope from fusing with the host cell membrane. Which class of existing antiretroviral drugs does this mechanism of action belong to?",
+"options": ["A. NRTIs", "B. NNRTIs", "C. Protease inhibitors", "D. Integrase inhibitors", "E. Entry inhibitors"],
+"answer": "E",
+"explanation": "The text describes the mechanism of the entry inhibitor enfuvirtide as 'Binds gp41, inhibiting viral entry.' This matches the mechanism of the new drug in the question. The mnemonic provided is 'Enfuvirtide inhibits fusion.'"
+},
+{
+"question": "A patient with a history of intravenous drug use develops jaundice. Serological testing reveals the presence of HBsAg and IgM anti-HBc. The patient's liver biopsy is expected to show hepatocyte swelling, monocyte infiltration, and a characteristic 'ground glass' appearance due to the accumulation of a specific viral component. What does the presence of HBeAg in this patient's serum indicate?",
+"options": ["A. Immunity due to vaccination", "B. Low transmissibility and resolving infection", "C. Active viral replication and high transmissibility", "D. Past, resolved infection", "E. Infection with a defective virus"],
+"answer": "C",
+"explanation": "The serological markers HBsAg and IgM anti-HBc indicate an acute hepatitis B infection. The text states that HBeAg is 'secreted by infected hepatocyte into circulation' and 'Indicates active viral replication and therefore high transmissibility and poorer prognosis.' The ground glass appearance is due to the accumulation of surface antigen (HBsAg)."
+},
+{
+"question": "A child presents with a high fever for several days, which is followed by the abrupt appearance of a diffuse macular rash that starts on the trunk and spreads to the extremities. The child's physician diagnoses roseola infantum. Which human herpesvirus is the most common cause of this condition, and what is a potential complication of the initial febrile phase?",
+"options": ["A. HHV-8; Kaposi sarcoma", "B. HHV-4 (EBV); Splenic rupture", "C. HHV-3 (VZV); Postherpetic neuralgia", "D. HHV-6; Seizures", "E. HHV-5 (CMV); Hearing loss"],
+"answer": "D",
+"explanation": "The text identifies Human herpesvirus 6 (and less commonly HHV-7) as the cause of roseola infantum (exanthem subitum), which is characterized by 'high fevers for several days that can cause seizures, followed by diffuse macular rash.' The mnemonic 'Roseola: fever first, Rosy (rash) later' helps to recall the sequence of symptoms."
+},
+{
+"question": "A patient presents with rapidly progressive dementia and startle myoclonus. An MRI shows no specific lesions, but an EEG reveals periodic sharp wave complexes. The condition is known to be caused by the conversion of a normal α-helical protein (PrPc) to an abnormal β-pleated sheet form (PrPsc), which accumulates and causes spongiform encephalopathy. This process is resistant to standard autoclaving. What is the most likely diagnosis?",
+"options": ["A. Alzheimer disease", "B. Progressive multifocal leukoencephalopathy (PML)", "C. Creutzfeldt-Jakob disease", "D. Subacute sclerosing panencephalitis (SSPE)", "E. Multiple sclerosis"],
+"answer": "C",
+"explanation": "The description of a rapidly progressive dementia with myoclonus, caused by the accumulation of an abnormal prion protein (PrPsc) leading to spongiform encephalopathy, is characteristic of Creutzfeldt-Jakob disease. The text specifies that PrPsc 'resists protease degradation' and 'is transmissible,' causing this condition."
+},
+{
+"question": "A patient with AIDS and a CD4+ count of 80 cells/mm³ develops multiple ring-enhancing lesions on a brain MRI. The patient's symptoms include headache, confusion, and focal neurological deficits. The condition is due to the reactivation of a latent infection with a protozoan parasite, which can be acquired from cysts in undercooked meat or oocysts from cat feces. What is the most likely causative organism?",
+"options": ["A. Cryptococcus neoformans", "B. JC virus", "C. Toxoplasma gondii", "D. EBV (causing CNS lymphoma)", "E. Mycobacterium tuberculosis"],
+"answer": "C",
+"explanation": "The table of 'Common diseases of HIV-positive adults' for a CD4+ count < 100/mm³ lists Toxoplasma gondii as causing 'Brain abscesses' which present as 'Multiple ring-enhancing lesions on MRI.' The text on CNS protozoa also confirms that reactivation of T. gondii in AIDS patients leads to 'brain abscesses usually seen as multiple ring-enhancing lesions on MRI'."
+},
+{
+"question": "A 22-year-old male develops painful genital ulcers with exudate and tender inguinal adenopathy. The physician suspects chancroid. Based on the provided table of sexually transmitted infections, which organism is the causative agent for this condition?",
+"options": ["A. Treponema pallidum", "B. Chlamydia trachomatis (L1-L3)", "C. Haemophilus ducreyi", "D. Klebsiella granulomatis", "E. Herpes Simplex Virus-2"],
+"answer": "C",
+"explanation": "The table on sexually transmitted infections explicitly lists Chancroid as being characterized by a 'Painful genital ulcer(s) with exudate, inguinal adenopathy' and caused by 'Haemophilus ducreyi'. The mnemonic provided is '(it’s so painful, you “do cry”).'"
+},
+{
+"question": "A patient undergoing chemotherapy with a platinum-based agent develops acute kidney injury. Urinalysis reveals evidence of proximal tubular dysfunction, including glucosuria, aminoaciduria, and phosphaturia, despite normal serum glucose levels. This constellation of findings is known as Fanconi syndrome. Which other drug class is mentioned in the text as a potential cause of this syndrome?",
+"options": ["A. Aminoglycosides", "B. Expired tetracyclines", "C. ACE inhibitors", "D. Loop diuretics", "E. NSAIDs"],
+"answer": "B",
+"explanation": "Under the 'Drug reactions—renal/genitourinary' section, Fanconi syndrome is listed with its causal agents. The text specifies 'Cisplatin, ifosfamide, expired tetracyclines, tenofovir' as causes. Therefore, expired tetracyclines are another listed cause of this specific type of renal tubular dysfunction."
+},
+{
+"question": "A patient on multiple medications for a complex medical condition develops a disulfiram-like reaction after consuming a small amount of alcohol. This reaction includes severe flushing, tachycardia, and hypotension. Which of the following antimicrobial agents is known to cause this type of reaction?",
+"options": ["A. Amoxicillin", "B. Doxycycline", "C. Ciprofloxacin", "D. Metronidazole", "E. Azithromycin"],
+"answer": "D",
+"explanation": "The text lists metronidazole under the 'Antiprotozoal therapy' section and in the 'Drug reactions—multiorgan' table. A key adverse effect mentioned for metronidazole is a 'Disulfiram-like reaction (severe flushing, tachycardia, hypotension) with alcohol.' The mnemonic 'Sorry pals, can’t go mingle' includes metronidazole as a cause."
+},
+{
+"question": "A patient with a history of myasthenia gravis is inadvertently treated with an aminoglycoside antibiotic for a severe gram-negative infection. The patient experiences a sudden worsening of muscle weakness, progressing to respiratory failure. This adverse effect is due to the antibiotic's action at the neuromuscular junction. Which specific adverse effect of aminoglycosides is being demonstrated?",
+"options": ["A. Ototoxicity", "B. Nephrotoxicity", "C. Teratogenicity", "D. Neuromuscular blockade", "E. Aplastic anemia"],
+"answer": "D",
+"explanation": "The text on aminoglycosides lists their adverse effects, including 'Nephrotoxicity, neuromuscular blockade (absolute contraindication with myasthenia gravis), ototoxicity...'. The worsening of myasthenia gravis symptoms to the point of respiratory failure is a classic presentation of neuromuscular blockade induced by this class of antibiotics."
+},
+{
+"question": "A patient is being treated for a multidrug-resistant gram-positive infection, specifically vancomycin-resistant Enterococcus (VRE). The physician chooses an antibiotic that works by inhibiting protein synthesis via binding to the 23S rRNA of the 50S ribosomal subunit, which prevents the formation of the initiation complex. A potential severe adverse effect of this drug is serotonin syndrome, due to its partial MAO inhibition. Which antibiotic is being used?",
+"options": ["A. Daptomycin", "B. Clindamycin", "C. Linezolid", "D. Tigecycline", "E. Quinupristin/Dalfopristin"],
+"answer": "C",
+"explanation": "The text describes linezolid as having a unique mechanism of inhibiting protein synthesis by 'binding to the 23S rRNA of the 50S ribosomal subunit and preventing formation of the initiation complex.' Its clinical use includes 'Gram-positive species including MRSA and VRE.' Importantly, it lists 'serotonin syndrome (due to partial MAO inhibition)' as an adverse effect."
+},
+{
+"question": "A patient being treated for tuberculosis develops peripheral neuropathy and sideroblastic anemia. The physician determines this is due to a deficiency in vitamin B6 (pyridoxine) induced by one of the antituberculous drugs. Which drug is responsible for this adverse effect by inhibiting the synthesis of mycolic acids and requires conversion to its active form by the bacterial catalase-peroxidase enzyme?",
+"options": ["A. Rifampin", "B. Pyrazinamide", "C. Ethambutol", "D. Streptomycin", "E. Isoniazid (INH)"],
+"answer": "E",
+"explanation": "The text on antituberculous drugs states that Isoniazid (INH) can cause 'Vitamin B6 deficiency (peripheral neuropathy, sideroblastic anemia).' It also describes INH's mechanism as inhibiting 'mycolic acid synthesis' and notes that it requires 'Bacterial catalase-peroxidase (encoded by katG)...to convert INH to active form.' The mnemonic 'INH Injures Neurons and Hepatocytes' highlights its neurotoxicity."
+},
+{
+"question": "A cancer patient is receiving a chemotherapeutic agent that is a platinum analog. This drug is known for causing significant nephrotoxicity and ototoxicity. Which of the following drugs fits this description?",
+"options": ["A. Doxorubicin", "B. Paclitaxel", "C. Cisplatin", "D. Etoposide", "E. Vincristine"],
+"answer": "C",
+"explanation": "Cisplatin is a platinum compound used in chemotherapy. The drug reactions table lists 'Cisplatin, aminoglycosides, amphotericin, vancomycin' as causes of nephrotoxicity. Cisplatin is also a well-known cause of ototoxicity, a feature shared with aminoglycosides."
+},
+{
+"question": "A researcher is studying two different drugs. Drug A has a low volume of distribution (Vd), while Drug B has a high Vd. Which of the following statements most accurately describes the properties of these drugs based on their Vd?",
+"options": ["A. Drug A is likely a small, lipophilic molecule that distributes to all tissues including fat.", "B. Drug B is likely a large, charged molecule that is highly bound to plasma proteins.", "C. Drug A is likely confined to the intravascular compartment, suggesting it is large and/or highly protein-bound.", "D. Drug B would be effectively cleared by hemodialysis.", "E. Drug A and Drug B would have the same half-life if their clearance is identical."],
+"answer": "C",
+"explanation": "The text explains that a low Vd is characteristic of drugs that are confined to the intravascular compartment, which applies to large, charged, or highly plasma protein-bound molecules. A high Vd is characteristic of small, lipophilic molecules that distribute widely into tissues like fat. Hemodialysis is most effective for drugs with a low Vd, not a high one. Half-life depends on both Vd and clearance (t1/2 = 0.7 x Vd / CL), so they would not have the same half-life if their Vd is different but clearance is identical."
+},
+{
+"question": "A patient overdoses on a weak acid drug with a pKa of 3.5, such as phenobarbital. To enhance the elimination of this drug through the kidneys, what intervention should be implemented and why?",
+"options": ["A. Administer ammonium chloride to acidify the urine, which traps the drug in its ionized form.", "B. Administer sodium bicarbonate to alkalinize the urine, which traps the drug in its ionized form.", "C. Administer a diuretic to increase urine flow, which is the primary mechanism for clearing weak acids.", "D. Administer flumazenil, which acts as a competitive antagonist at the drug's receptor.", "E. No intervention is needed as weak acids are not significantly reabsorbed."],
+"answer": "B",
+"explanation": "The text states that for weak acids, such as phenobarbital and aspirin, an overdose can be treated with 'sodium bicarbonate to alkalinize urine.' The principle is that ionized species are trapped in the urine and cleared quickly. In an alkaline environment (higher pH), a weak acid (RCOOH) will dissociate into its ionized form (RCOO-), which is less lipid-soluble and thus cannot be easily reabsorbed across the renal tubules."
+},
+{
+"question": "In a clinical trial for a new antihypertensive drug, Drug X is compared to a placebo. A noncompetitive antagonist is then added to the Drug X group. How would the addition of this noncompetitive antagonist affect the dose-response curve for Drug X in terms of its efficacy and potency?",
+"options": ["A. It would shift the curve to the right, decreasing potency but not affecting efficacy.", "B. It would shift the curve to the left, increasing potency but not affecting efficacy.", "C. It would lower the maximum height of the curve, decreasing efficacy but not affecting potency.", "D. It would raise the maximum height of the curve, increasing efficacy but not affecting potency.", "E. It would shift the curve to the right and lower the maximum height, decreasing both potency and efficacy."],
+"answer": "C",
+"explanation": "The table on receptor binding and the accompanying graphs show that a noncompetitive antagonist reduces the maximal effect (efficacy) of an agonist but does not change the EC50 (potency). Therefore, the dose-response curve would have a lower Emax (reduced efficacy) but the concentration needed to achieve 50% of this new, lower maximum effect would be unchanged (independent potency)."
+},
+{
+"question": "A clinical trial is evaluating a new screening test for a certain type of cancer. The researchers find that by lowering the cut-off value for a positive result, they are able to correctly identify more individuals who truly have the cancer. However, this change also results in more healthy individuals being incorrectly identified as having the disease. How does lowering the cut-off value affect the test's characteristics?",
+"options": ["A. It increases specificity and increases the positive predictive value (PPV).", "B. It decreases sensitivity and decreases the negative predictive value (NPV).", "C. It increases sensitivity and increases the negative predictive value (NPV).", "D. It decreases specificity and increases the positive predictive value (PPV).", "E. It increases both sensitivity and specificity."],
+"answer": "C",
+"explanation": "The diagram illustrating the effect of changing cut-off values shows that lowering the cut-off value (moving from B to A) leads to an increase in True Positives (TP) but also an increase in False Positives (FP). This results in an increased sensitivity (TP/[TP+FN]) and an increased Negative Predictive Value (NPV). Conversely, specificity (TN/[TN+FP]) and Positive Predictive Value (PPV) are decreased."
+},
+{
+"question": "In a study investigating the link between a new industrial chemical exposure and the development of bladder cancer, researchers find a strong association. However, they later realize that the workers exposed to the chemical were also far more likely to be heavy smokers than the unexposed control group. When the data is stratified by smoking status, the association between the chemical and bladder cancer disappears among both smokers and non-smokers. What type of bias does this scenario describe?",
+"options": ["A. Recall bias", "B. Lead-time bias", "C. Effect modification", "D. Confounding", "E. Hawthorne effect"],
+"answer": "D",
+"explanation": "This is a classic example of confounding. The text defines a confounding factor as one that is 'related to both exposure and outcome' and 'distorts the effect on the outcome.' Smoking is the confounder here, as it is associated with both the chemical exposure (the workers) and the outcome (bladder cancer). When the data is stratified by the confounder (smoking), the original, spurious association between the chemical and cancer disappears, revealing the true relationship."
+},
+{
+"question": "A patient with end-stage renal disease who is on long-term dialysis develops carpal tunnel syndrome and joint pain. A biopsy of the synovial tissue shows extracellular deposition of an amorphous pink material on H&E stain, which demonstrates apple-green birefringence with Congo red staining under polarized light. Which type of protein fibril is responsible for this form of systemic amyloidosis?",
+"options": ["A. AL (from Ig Light chains)", "B. AA (serum Amyloid A)", "C. Transthyretin", "D. β2-microglobulin", "E. β-amyloid protein"],
+"answer": "D",
+"explanation": "The table on amyloidosis types lists Dialysis-related amyloidosis as being caused by the deposition of β2-microglobulin fibrils. It is seen in patients with end-stage renal disease (ESRD) on long-term dialysis and can manifest with musculoskeletal symptoms like those described."
+},
+{
+"question": "During the inflammatory response, leukocytes must exit the bloodstream and migrate to the site of injury. This process involves a series of steps mediated by adhesion molecules. A patient with leukocyte adhesion deficiency type 1 has a defect in the CD18 integrin subunit. Which step of leukocyte extravasation would be most directly impaired in this patient?",
+"options": ["A. Margination", "B. Rolling", "C. Tight binding (adhesion)", "D. Diapedesis (transmigration)", "E. Migration"],
+"answer": "C",
+"explanation": "The text outlines the four steps of leukocyte extravasation. It explicitly states that Tight binding (adhesion) is mediated by the interaction of ICAM-1 on the endothelium with CD11/18 integrins (LFA-1, Mac-1) on the leukocyte. A defect in the CD18 subunit would impair this step, and the text specifically notes this is the defect in 'leukocyte adhesion deficiency type 1'."
+},
+{
+"question": "A patient suffers a myocardial infarction. The necrotic tissue in the heart undergoes a specific type of necrosis where the underlying cellular architecture is preserved for a period, but the nuclei disappear and the cytoplasm becomes intensely eosinophilic. Which type of necrosis is characteristic of an infarct in a solid organ like the heart?",
+"options": ["A. Liquefactive necrosis", "B. Coagulative necrosis", "C. Caseous necrosis", "D. Fat necrosis", "E. Fibrinoid necrosis"],
+"answer": "B",
+"explanation": "The table on necrosis types indicates that Coagulative necrosis is seen in 'Ischemia/infarcts in most tissues (except brain).' Its histologic features are 'Preserved cellular architecture (cell outlines seen), but nuclei disappear; ↑ cytoplasmic binding of eosin stain (→↑ eosinophilia; red/pink color),' which matches the description."
+},
+{
+"question": "A 40-year-old woman with a history of rheumatoid arthritis presents with nephrotic syndrome. A kidney biopsy reveals diffuse extracellular protein deposits in the glomeruli that stain positive with Congo red and show apple-green birefringence under polarized light. This condition is a known complication of chronic inflammatory states. What is the fibril protein responsible for this secondary amyloidosis?",
+"options": ["A. AL (from Ig Light chains)", "B. AA (serum Amyloid A)", "C. Transthyretin (TTR)", "D. β2-microglobulin", "E. Calcitonin"],
+"answer": "B",
+"explanation": "The provided text identifies Secondary amyloidosis as a complication 'seen in chronic inflammatory conditions, (eg, rheumatoid arthritis, IBD, familial Mediterranean fever, protracted infection).' The fibril protein involved in this type is AA, derived from serum Amyloid A, an acute-phase reactant produced by the liver during chronic inflammation."
+},
+{
+"question": "A researcher is studying the genetic basis of a type of B-cell lymphoma characterized by a t(14;18) translocation. This translocation leads to the overexpression of a specific protein that inhibits apoptosis by preventing the release of cytochrome c from the mitochondria, thereby promoting cell survival and contributing to tumorigenesis. Which oncogene is overexpressed as a result of this translocation?",
+"options": ["A. MYCC", "B. KRAS", "C. RET", "D. BCL-2", "E. EGFR"],
+"answer": "D",
+"explanation": "The text on oncogenes lists BCL-2 as an 'Antiapoptotic molecule (inhibits apoptosis)' and associates it with 'Follicular and diffuse large B-Cell Lymphomas.' The text on apoptosis further explains that Bcl-2 is an antiapoptotic protein that 'keeps the mitochondrial membrane impermeable, thereby preventing cytochrome C release,' and mentions its overexpression in follicular lymphoma t(14;18)."
+},
+{
+"question": "A patient with Li-Fraumeni syndrome develops multiple malignancies at an early age, including a sarcoma and breast cancer. This autosomal dominant disorder is caused by a germline mutation in a crucial tumor suppressor gene that functions as a transcription factor, blocking the cell cycle at the G1/S phase by activating p21 and inducing apoptosis in response to DNA damage. Which tumor suppressor gene is mutated in this syndrome?",
+"options": ["A. RB1", "B. APC", "C. BRCA1", "D. NF1", "E. TP53"],
+"answer": "E",
+"explanation": "The text explicitly links the TP53 gene to Li-Fraumeni syndrome. It describes the function of its product, p53, as activating 'p21, blocks G1 → S phase.' The mnemonic for Li-Fraumeni syndrome (SBLA: Sarcoma, Breast/Brain, Lung/Leukemia, Adrenal gland) also points to the types of cancers seen in these patients."
+},
+{
+"question": "A vineyard worker with long-term exposure to herbicides containing arsenic presents with multiple skin lesions and signs of liver damage. Which triad of malignancies is this patient at an increased risk of developing due to chronic arsenic exposure?",
+"options": ["A. Hepatocellular carcinoma, mesothelioma, and gastric cancer", "B. Hepatic angiosarcoma, lung cancer, and squamous cell carcinoma of the skin", "C. Transitional cell carcinoma of the bladder, leukemia, and papillary thyroid carcinoma", "D. Gastric adenocarcinoma, cholangiocarcinoma, and Kaposi sarcoma", "E. Colorectal cancer, pancreatic cancer, and melanoma"],
+"answer": "B",
+"explanation": "The table of carcinogens clearly states that arsenic exposure, such as from herbicides used by vineyard workers, is associated with 'Hepatic angiosarcoma,' 'Lung cancer,' and 'Squamous cell carcinoma' of the skin."
+},
+{
+"question": "A patient with non-Hodgkin lymphoma is found to have a mutation in the BRAF gene. This gene encodes a serine/threonine kinase involved in cell signaling pathways. According to the provided text, which other malignancy is commonly associated with a BRAF mutation?",
+"options": ["A. Neuroblastoma", "B. Burkitt lymphoma", "C. Chronic myeloid leukemia (CML)", "D. Gastrointestinal stromal tumor (GIST)", "E. Melanoma"],
+"answer": "E",
+"explanation": "The table of oncogenes lists BRAF as a serine/threonine kinase. The associated neoplasms are 'Melanoma, non-Hodgkin lymphoma, colorectal carcinoma, papillary thyroid carcinoma, hairy cell leukemia.' Of the choices provided, melanoma is a prominent example."
+},
+{
+"question": "A patient presents with symptoms of small cell lung cancer. In addition to the pulmonary findings, the patient exhibits signs of Cushing syndrome, including central obesity, purple striae, and hypertension. Laboratory tests confirm elevated levels of ACTH. This presentation is an example of a paraneoplastic syndrome. What is the mechanism behind this endocrine manifestation?",
+"options": ["A. Ectopic production of PTHrP", "B. Ectopic production of ACTH", "C. Ectopic production of ADH", "D. Ectopic production of Erythropoietin", "E. Autoantibodies against voltage-gated calcium channels"],
+"answer": "B",
+"explanation": "The table of paraneoplastic syndromes lists 'Cushing syndrome' as a manifestation caused by '↑ ACTH.' It specifies that this is most commonly associated with 'Small cell lung cancer.' This is an example of ectopic hormone production by a tumor."
+},
+{
+"question": "An elderly patient's autopsy reveals yellow-brown pigment deposits within the cardiac myocytes. This pigment is described as a 'wear and tear' pigment and is known to accumulate with normal aging. It is composed of polymers of lipids and phospholipids complexed with protein, likely derived from lipid peroxidation. What is the name of this pigment?",
+"options": ["A. Melanin", "B. Hemosiderin", "C. Bilirubin", "D. Lipofuscin", "E. Amyloid"],
+"answer": "D",
+"explanation": "The text describes lipofuscin as a 'yellow-brown, “wear and tear” pigment associated with normal aging.' It details its composition ('polymers of lipids and phospholipids complexed with protein') and mentions that it is found in the heart, liver, and other organs of older adults."
+},
+{
+"question": "A patient with suspected cocaine intoxication is brought to the emergency department. The physician is considering administering a β-blocker to control the patient's tachycardia and hypertension. Why is the use of a β-blocker in this situation potentially dangerous?",
+"options": ["A. It can lead to severe bradycardia and heart block.", "B. It can cause a disulfiram-like reaction with cocaine.", "C. It can lead to unopposed α1-adrenergic stimulation, causing severe hypertension and coronary vasospasm.", "D. It can precipitate a hypertensive crisis by acting as an α2-antagonist.", "E. It is ineffective because cocaine's effects are not mediated by adrenergic receptors."],
+"answer": "C",
+"explanation": "The text under the 'Indirect sympathomimetics' section for Cocaine warns: 'Caution when giving β-blockers if cocaine intoxication is suspected (unopposed α1 activation →↑↑↑ BP, coronary vasospasm).' Cocaine blocks the reuptake of catecholamines, increasing their synaptic concentration. Blocking β-receptors leaves α1-receptors unopposed, leading to paradoxical and dangerous vasoconstriction."
+},
+{
+"question": "A patient is prescribed a muscarinic antagonist for overactive bladder. The drug works by relaxing the detrusor smooth muscle. Which of the following drugs is a muscarinic antagonist used for this specific genitourinary application?",
+"options": ["A. Bethanechol", "B. Pilocarpine", "C. Tamsulosin", "D. Oxybutynin", "E. Neostigmine"],
+"answer": "D",
+"explanation": "The table on 'Micturition control' indicates that muscarinic antagonists like oxybutynin work by blocking the M3 receptor, leading to 'relaxation of detrusor smooth muscle' to treat 'Urgency incontinence.' The table on 'Muscarinic antagonists' also lists Oxybutynin under the 'Genitourinary' section for reducing 'bladder spasms and urge urinary incontinence.'"
+},
+{
+"question": "A patient with pheochromocytoma is scheduled for surgical removal of the tumor. To prevent a catecholamine-induced hypertensive crisis during the operation, the patient is pretreated with an α-blocker. Which of the following drugs is an irreversible, nonselective α-blocker used specifically for this purpose?",
+"options": ["A. Phentolamine", "B. Prazosin", "C. Tamsulosin", "D. Mirtazapine", "E. Phenoxybenzamine"],
+"answer": "E",
+"explanation": "The text lists Phenoxybenzamine as a 'nonselective' and 'irreversible' α-blocker. Its specific application is for 'Pheochromocytoma (used preoperatively) to prevent catecholamine (hypertensive) crisis.'"
+},
+{
+"question": "A patient with heart failure is prescribed a β-blocker to improve long-term mortality. The physician chooses a drug that is known to block both α- and β-adrenergic receptors. Which of the following β-blockers fits this description?",
+"options": ["A. Metoprolol", "B. Propranolol", "C. Atenolol", "D. Carvedilol", "E. Esmolol"],
+"answer": "D",
+"explanation": "The text on β-blockers categorizes them by selectivity. It lists carvedilol and labetalol as 'Nonselective α- and β-antagonists.' The text also notes that bisoprolol, carvedilol, and metoprolol are the β-blockers proven to curb mortality in heart failure. Of the options, only carvedilol is a nonselective α- and β-antagonist."
+},
+{
+"question": "A male patient is prescribed a medication for erectile dysfunction that works by inhibiting PDE-5, leading to increased cGMP and smooth muscle relaxation in the corpus cavernosum. A known, though rare, side effect of this particular drug is cyanopia (blue-tinted vision). Which drug is most associated with this visual side effect?",
+"options": ["A. Tadalafil", "B. Vardenafil", "C. Avanafil", "D. Sildenafil", "E. Roflumilast"],
+"answer": "D",
+"explanation": "The table on phosphodiesterase inhibitors lists sildenafil, vardenafil, tadalafil, and avanafil as PDE-5 inhibitors used for erectile dysfunction. Under adverse effects, it specifically notes for sildenafil: 'cyanopia (blue-tinted vision) via inhibition of PDE-6 (six) in retina.'"
+},
+{
+"question": "A patient presents with an overdose of an unknown substance and exhibits symptoms of bradycardia, hypotension, and hypoglycemia. The physician suspects a β-blocker overdose. In addition to atropine and saline, what other agent can be administered that works by bypassing the β-receptor to increase intracellular cAMP, thereby increasing heart rate and contractility?",
+"options": ["A. Flumazenil", "B. N-acetylcysteine", "C. Glucagon", "D. Phentolamine", "E. Sodium bicarbonate"],
+"answer": "C",
+"explanation": "The table of 'Specific toxicity treatments' lists 'Atropine, glucagon, saline' as the treatment for a β-blocker overdose. Glucagon activates its own G-protein coupled receptor on cardiac cells, which stimulates adenylate cyclase and increases cAMP, producing inotropic and chronotropic effects that are independent of β-adrenergic receptors."
+},
+{
+"question": "A patient taking an anthracycline chemotherapeutic agent such as doxorubicin for cancer treatment is at risk of developing a serious cardiovascular complication. To mitigate this risk, another medication can be co-administered. What is this cardiovascular toxicity, and which agent can be used for its prevention?",
+"options": ["A. Coronary vasospasm; prevented with nitroglycerin", "B. Torsades de pointes; prevented with magnesium sulfate", "C. Dilated cardiomyopathy; prevented with dexrazoxane", "D. Peripheral edema; prevented with a diuretic", "E. Cutaneous flushing; prevented with aspirin"],
+"answer": "C",
+"explanation": "The 'Drug reactions—cardiovascular' table lists 'Dilated cardiomyopathy' as a potential adverse effect of 'anthracycline (eg, doxorubicin, daunorubicin).' It specifically mentions that this can be prevented with 'dexrazoxane.'"
+},
+{
+"question": "A patient who has been on long-term glucocorticoid therapy for an autoimmune condition abruptly stops taking the medication. The patient develops symptoms of hypotension, fatigue, and hyponatremia. This clinical picture is consistent with an adrenal crisis. What is the underlying endocrine mechanism for this reaction?",
+"options": ["A. Drug-induced diabetes insipidus", "B. HPA axis suppression secondary to chronic exogenous glucocorticoid use", "C. Development of SIADH", "D. Primary adrenal tumor formation", "E. Drug-induced hyperthyroidism"],
+"answer": "B",
+"explanation": "The 'Drug reactions—endocrine/reproductive' table lists 'Adrenocortical insufficiency' as a reaction caused by 'HPA suppression secondary to chronic exogenous glucocorticoid use.' It further explains that 'Abrupt withdrawal...leads to adrenal crisis' because the suppressed hypothalamic-pituitary-adrenal axis cannot produce enough endogenous cortisol to meet the body's needs."
+},
+{
+"question": "A patient with a history of seizures is started on a new anti-epileptic drug. Several weeks later, the patient develops a severe, widespread rash with blistering of the skin and mucous membranes, consistent with Stevens-Johnson syndrome (SJS). Which anti-epileptic drug is particularly known for carrying a high risk of causing SJS?",
+"options": ["A. Valproate", "B. Gabapentin", "C. Lamotrigine", "D. Levetiracetam", "E. Topiramate"],
+"answer": "C",
+"explanation": "The 'Drug reactions—musculoskeletal/skin/connective tissue' table lists Stevens-Johnson syndrome and its causal agents. It specifically mentions 'Anti-epileptic drugs (especially lamotrigine)' as a primary cause. The mnemonic 'Steven Johnson has epileptic allergy to sulfa drugs and penicillin' also helps recall associated drug classes."
+},
+{
+"question": "A researcher is designing a prospective cohort study to investigate the association between daily consumption of a new energy drink and the incidence of cardiac arrhythmias over five years. Which measure of association will this study design allow the researcher to calculate directly?",
+"options": ["A. Odds Ratio (OR)", "B. Relative Risk (RR)", "C. Prevalence", "D. Case Fatality Rate", "E. Likelihood Ratio"],
+"answer": "B",
+"explanation": "The text on study types states that a cohort study 'compares a group with a given exposure...to a group without such exposure' and 'Looks to see if exposure...is associated with later development of disease.' It explicitly says this design is used to calculate 'Disease incidence' and 'Relative risk (RR).' The mnemonic given is 'Cohort = relative risk.'"
+},
+{
+"question": "In a phase 3 clinical trial for a new drug, the researchers decide to analyze all subjects according to the treatment group they were originally assigned to, regardless of whether they completed the treatment, dropped out, or crossed over to the other group. This method attempts to avoid bias from attrition and noncompliance but may dilute the true effect of the intervention. What is this type of analysis called?",
+"options": ["A. Per-protocol analysis", "B. As-treated analysis", "C. Subgroup analysis", "D. Intention-to-treat analysis", "E. Crossover analysis"],
+"answer": "D",
+"explanation": "The text defines Intention-to-treat analysis as a method where 'all subjects are analyzed according to their original, randomly assigned treatment. No one is excluded, ie, once randomized, always analyzed.' This matches the description in the question perfectly."
+},
+{
+"question": "A 16-year-old female who is not sexually active presents for a routine check-up. The physician recommends the HPV vaccine as a primary prevention measure. How does this intervention align with the levels of disease prevention?",
+"options": ["A. It is secondary prevention because it detects an early, subclinical infection.", "B. It is tertiary prevention because it prevents the progression of an existing infection to cancer.", "C. It is primary prevention because it aims to prevent the onset of disease by increasing immunity.", "D. It is quaternary prevention because it avoids the unnecessary treatment of a self-limiting infection.", "E. It is both primary and secondary prevention."],
+"answer": "C",
+"explanation": "The 'Disease prevention' diagram defines primary prevention as an intervention that aims to 'Prevent disease onset by reducing risks or increasing immunity' and targets the 'Susceptible/general population.' Administering a vaccine to a healthy individual to prevent a future infection (like HPV) and its sequelae (like cervical cancer) is a classic example of primary prevention."
+},
+{
+"question": "A 7-year-old boy presents to the pediatrician with his parents. His sister recently died of leukemia, and the parents are concerned because the boy has expressed feelings that he was somehow responsible for her death. According to the developmental understanding of death, what is the most appropriate initial response from the physician to the boy?",
+"options": ["A. Tell him his sister is in a better place and is watching over him.", "B. Explain the complex pathophysiology of leukemia to him to show it wasn't his fault.", "C. Reassure the boy in simple, direct terms that he is not responsible and that his feelings are normal.", "D. Suggest he will feel better if he stops talking about it.", "E. Advise the parents to seek immediate psychiatric hospitalization for the boy."],
+"answer": "C",
+"explanation": "The table on 'Challenging patient and ethical scenarios' addresses this exact situation. It advises that for a child aged 5-7, the physician should 'Provide a direct, concrete description of his sister’s death,' 'Avoid clichés and euphemisms,' and 'Reassure the boy that he is not responsible. Identify and normalize fears and feelings.' This approach is developmentally appropriate and addresses the child's magical thinking and guilt."
+},
+{
+"question": "A physician is treating a patient with limited English proficiency. An in-person professional interpreter is not available. Which of the following is the next best option to ensure effective and confidential communication?",
+"options": ["A. Use the patient's young child who is fluent in English.", "B. Use a web-based translation application on a tablet.", "C. Use a telephone or video call interpretation service.", "D. Attempt to communicate using gestures and simple English.", "E. Postpone the visit until an in-person interpreter can be found."],
+"answer": "C",
+"explanation": "The text on the 'Use of interpreters' states that visits should 'utilize a professionally trained medical interpreter.' It specifies that 'If an interpreter is unavailable in person, interpretation services may be provided by telephone or video call.' Using untrained family members, especially minors, is inappropriate due to issues of confidentiality, accuracy, and emotional burden. Automated translation apps are not reliable for complex medical conversations."
+},
+{
+"question": "A patient with end-stage renal disease is determined to have no decision-making capacity. The patient has no living will or medical power of attorney. The clinical team needs to make a decision about initiating long-term dialysis. According to the typical hierarchy for surrogate decision-makers, who should be consulted first?",
+"options": ["A. The patient's adult sibling", "B. The patient's parent", "C. The patient's adult child", "D. The patient's spouse", "E. The hospital ethics committee"],
+"answer": "D",
+"explanation": "The section on 'Surrogate decision-maker' provides a clear priority list for who should make decisions when a patient lacks capacity and has no advance directive. The mnemonic 'the spouse chips in' helps recall the order: 'spouse → adult children → parents → adult siblings → other relatives.'"
+},
+{
+"question": "A patient with a known allergy to sulfa drugs requires treatment for a urinary tract infection. Which of the following medications should be avoided in this patient due to its classification as a sulfa drug?",
+"options": ["A. Ciprofloxacin", "B. Nitrofurantoin", "C. Trimethoprim-sulfamethoxazole (TMP-SMX)", "D. Amoxicillin", "E. Doxycycline"],
+"answer": "C",
+"explanation": "The text on 'Sulfa drugs' lists various medications containing a sulfonamide moiety. Trimethoprim-sulfamethoxazole is a combination drug where sulfamethoxazole is a sulfonamide antibiotic. The mnemonic 'Scary Sulfa Pharm FACTS' includes sulfonamide antibiotics, and TMP-SMX is the most common one used for UTIs, making it the correct answer to avoid in a patient with a sulfa allergy."
+},
+{
+"question": "A new mother is diagnosed with postpartum depression and is prescribed an SSRI. She is concerned about the medication affecting her newborn through breastfeeding. The physician explains that all SSRIs are excreted in breast milk to some extent, but some have lower levels and shorter half-lives, making them generally preferred. Which of the following is an example of a selective serotonin reuptake inhibitor (SSRI)?",
+"options": ["A. Amitriptyline", "B. Venlafaxine", "C. Sertraline", "D. Bupropion", "E. Phenelzine"],
+"answer": "C",
+"explanation": "Sertraline is a commonly prescribed Selective Serotonin Reuptake Inhibitor (SSRI). The other options belong to different classes: Amitriptyline is a TCA, Venlafaxine is an SNRI, Bupropion is an atypical antidepressant (NDRI), and Phenelzine is an MAOI. While not explicitly stated in the provided text, this is a fundamental pharmacology classification relevant to USMLE."
+},
+{
+"question": "A patient is admitted for acute decompensated heart failure with signs of cardiogenic shock. The physician decides to use an inotropic agent that is a phosphodiesterase-3 inhibitor. This drug increases intracellular cAMP in cardiomyocytes, leading to increased contractility, and also causes vasodilation in vascular smooth muscle, which reduces both preload and afterload. Which drug fits this description?",
+"options": ["A. Dobutamine", "B. Dopamine", "C. Theophylline", "D. Sildenafil", "E. Milrinone"],
+"answer": "E",
+"explanation": "The table on 'Phosphodiesterase inhibitors' clearly identifies Milrinone as a PDE-3 inhibitor. Its mechanism is described as increasing cAMP in cardiomyocytes (increasing inotropy) and vascular smooth muscle (causing vasodilation), reducing preload and afterload. Its clinical use is for 'Acute decompensated HF with cardiogenic shock (inotrope).'"
+},
+{
+"question": "A patient is prescribed an antifungal medication for a systemic infection. The drug works by binding to ergosterol in the fungal cell membrane, forming pores that allow for the leakage of electrolytes, ultimately leading to cell death. However, this medication is known for causing significant nephrotoxicity, fever and chills ('shake and bake'), and electrolyte abnormalities. Which antifungal agent is this?",
+"options": ["A. Fluconazole", "B. Terbinafine", "C. Amphotericin B", "D. Griseofulvin", "E. Caspofungin"],
+"answer": "C",
+"explanation": "The text describes the mechanism of Amphotericin B as 'Binds ergosterol...forms membrane pores that allow leakage of electrolytes.' It is used for 'Serious, systemic mycoses.' The adverse effects listed are 'Fever/chills (“shake and bake”), hypotension, nephrotoxicity, arrhythmias...' which perfectly match the description. The mnemonic 'amphoterrible' highlights its toxicity."
+},
+{
+"question": "A researcher is developing a new chemotherapeutic agent that targets the enzyme topoisomerase I. By inhibiting this enzyme, the drug prevents the relaxation of supercoiled DNA, which ultimately leads to DNA strand breaks and cell death. Which existing class of anticancer drugs shares this mechanism of action?",
+"options": ["A. Platinum compounds (eg., cisplatin)", "B. Taxanes (eg., paclitaxel)", "C. Anthracyclines (eg., doxorubicin)", "D. Topoisomerase I inhibitors (eg., irinotecan)", "E. Topoisomerase II inhibitors (eg., etoposide)"],
+"answer": "D",
+"explanation": "The 'Drug names' table under the 'Antineoplastic' category lists '-tecan' as the ending for Topoisomerase I inhibitors, with Irinotecan as the example. This class of drugs works by inhibiting topoisomerase I, matching the mechanism described in the question."
+},
+{
+"question": "A 45-year-old woman is being treated for breast cancer with a monoclonal antibody that targets the HER2 receptor tyrosine kinase. This type of therapy is an example of a targeted biologic agent. Based on the drug nomenclature provided, which of the following endings would be expected for a humanized monoclonal antibody?",
+"options": ["A. -ib", "B. -mab", "C. -zumab", "D. -ximab", "E. -umab"],
+"answer": "C",
+"explanation": "The 'Biologic agents' table explains the nomenclature for monoclonal antibodies (-mab). Specifically, the ending '-zumab' indicates a 'Humanized monoclonal antibody.' An example of a drug targeting HER2 is trastuzumab."
+},
+{
+"question": "A patient with a diagnosis of CML (Chronic Myeloid Leukemia) is treated with a tyrosine kinase inhibitor that specifically targets the BCR-ABL fusion protein. Which of the following small molecule inhibitors fits this description?",
+"options": ["A. Vemurafenib", "B. Imatinib", "C. Palbociclib", "D. Olaparib", "E. Bortezomib"],
+"answer": "B",
+"explanation": "The text on oncogenes identifies the BCR-ABL non-receptor tyrosine kinase as the cause of CML. The table on biologic agents lists '-tinib' as the ending for tyrosine kinase inhibitors, with Imatinib as the prime example. Imatinib was the first drug developed to specifically target the BCR-ABL protein in CML."
+},
+{
+"question": "A 60-year-old patient with atrial fibrillation is started on warfarin for stroke prevention. The patient is also taking a medication for a fungal infection that is a known inhibitor of the cytochrome P-450 system. Which of the following antifungals would increase the patient's risk of bleeding by inhibiting warfarin metabolism?",
+"options": ["A. Griseofulvin", "B. Amphotericin B", "C. Nystatin", "D. Fluconazole", "E. Terbinafine"],
+"answer": "D",
+"explanation": "The table on 'Cytochrome P-450 interactions' lists inhibitors using the mnemonic 'SICK FACES...'. Fluconazole is one of the listed inhibitors. By inhibiting the P-450 enzymes that metabolize warfarin, fluconazole will increase warfarin's plasma concentration and its anticoagulant effect, thus increasing the risk of bleeding (elevated INR)."
+},
+{
+"question": "A patient with a gram-negative rod infection is treated with a β-lactam antibiotic that is only effective against gram-negative rods and has no activity against gram-positive organisms or anaerobes. This antibiotic is particularly useful for penicillin-allergic patients because it has no cross-allergenicity. Which of the following drugs fits this unique spectrum and property?",
+"options": ["A. Imipenem", "B. Piperacillin", "C. Ceftriaxone", "D. Aztreonam", "E. Vancomycin"],
+"answer": "D",
+"explanation": "The text describes aztreonam as a monobactam that has a clinical use for 'Gram-negative rods only—no activity against gram-positive rods or anaerobes.' It also specifically mentions its utility 'For penicillin-allergic patients' due to 'No cross-allergenicity with penicillins.'"
+},
+{
+"question": "A 30-year-old male with a history of intravenous drug use is diagnosed with infective endocarditis caused by Staphylococcus aureus. He is started on a lipopeptide antibiotic that disrupts the bacterial cell membrane of gram-positive cocci. However, this drug is noted to be ineffective for treating pneumonia. Which antibiotic is being used, and why is it inactivated in the lungs?",
+"options": ["A. Vancomycin; due to poor penetration into lung tissue", "B. Linezolid; due to resistance from lung pathogens", "C. Daptomycin; due to binding and inactivation by pulmonary surfactant", "D. Clindamycin; due to its bacteriostatic nature in the lung environment", "E. Penicillin G; due to β-lactamase production by lung pathogens"],
+"answer": "C",
+"explanation": "The text describes daptomycin as a 'lipopeptide that disrupts cell membranes of gram-positive cocci' and is used for 'S aureus skin infections...bacteremia, infective endocarditis.' It explicitly states it is 'Not used for pneumonia (avidly binds to and is inactivated by surfactant).' The mnemonic 'Dapto-myo-skin' highlights its use for skin infections and its potential for myopathy."
+},
+{
+"question": "A medical student is analyzing data from a study with a sample size of 25. The study compares the proportion of male and female students who passed a specific exam. Since the sample size is small, which statistical test would be most appropriate to check for a significant difference between these two proportions?",
+"options": ["A. t-test", "B. ANOVA", "C. Chi-square (χ²)", "D. Pearson correlation", "E. Fisher's exact test"],
+"answer": "E",
+"explanation": "The 'Common statistical tests' chart shows that to compare percentages or proportions of categorical outcomes, one uses either a Chi-square test or Fisher's exact test. The text specifies to use 'Fisher’s exact test instead of chi-square test with small samples.' Since the study involves categorical outcomes (pass/fail) and has a small sample size (n<30 often used as a rule of thumb), Fisher's exact test is the most appropriate choice."
+},
+{
+"question": "A public health official is investigating an outbreak of food poisoning at a picnic. Of the 100 people who ate potato salad, 40 became ill. Of the 50 people who did not eat the potato salad, 5 became ill. What is the Relative Risk (RR) of getting sick associated with eating the potato salad?",
+"options": ["A. 0.25", "B. 4.0", "C. 5.7", "D. 8.0", "E. 0.1"],
+"answer": "B",
+"explanation": "Relative Risk (RR) is calculated as the incidence in the exposed group divided by the incidence in the unexposed group. Exposed group (ate salad): a = 40, b = 60. Unexposed group (did not eat salad): c = 5, d = 45. The risk in the exposed group is a / (a+b) = 40 / (40+60) = 40/100 = 0.4. The risk in the unexposed group is c / (c+d) = 5 / (5+45) = 5/50 = 0.1. The Relative Risk is (0.4) / (0.1) = 4.0."
+},
+{
+"question": "A new diagnostic test for a disease has a sensitivity of 90% and a specificity of 80%. If this test is used in a population where the prevalence of the disease is 10%, what is the Positive Predictive Value (PPV) of the test?",
+"options": ["A. 90%", "B. 80%", "C. 32%", "D. 97%", "E. 18%"],
+"answer": "C",
+"explanation": "To calculate PPV, we can use a 2x2 table for a population of 1000 people. Prevalence = 10%, so 100 people have the disease and 900 do not. Sensitivity = 90%, so True Positives (TP) = 0.90 * 100 = 90. False Negatives (FN) = 100 - 90 = 10. Specificity = 80%, so True Negatives (TN) = 0.80 * 900 = 720. False Positives (FP) = 900 - 720 = 180. PPV = TP / (TP + FP) = 90 / (90 + 180) = 90 / 270 = 1/3 ≈ 33.3%."
+},
+{
+"question": "A patient with a history of bipolar disorder being treated with lithium presents with polyuria and polydipsia. Lab tests show hypernatremia and a high serum osmolality, with a low urine osmolality that does not increase after administration of desmopressin (an ADH analog). This clinical picture is consistent with nephrogenic diabetes insipidus. Which other drug is mentioned in the text as a cause of this condition?",
+"options": ["A. Carbamazepine", "B. Demeclocycline", "C. Hydrochlorothiazide", "D. Furosemide", "E. Metformin"],
+"answer": "B",
+"explanation": "The 'Drug reactions—endocrine/reproductive' table lists 'Diabetes insipidus' as a potential adverse effect. The causal agents listed are 'Lithium, demeclocycline.' Demeclocycline is a tetracycline antibiotic known to induce nephrogenic DI by interfering with the action of ADH on the collecting ducts."
+},
+{
+"question": "An infant born to a mother who was not immunized presents with a poor suck, constipation, and descending flaccid paralysis ('floppy baby syndrome'). The parents admit to feeding the infant raw honey. This condition is caused by a neurotoxin that cleaves SNARE proteins, preventing the release of acetylcholine at the neuromuscular junction. Which organism produces this toxin?",
+"options": ["A. Clostridium tetani", "B. Corynebacterium diphtheriae", "C. Clostridium botulinum", "D. Bacillus anthracis", "E. Shigella spp."],
+"answer": "C",
+"explanation": "The text describes infant botulism as being caused by the 'ingestion of spores (eg, from soil, raw honey)' with the toxin produced in vivo. The botulinum toxin works by cleaving SNARE proteins, preventing acetylcholine release and causing a descending flaccid paralysis. The clinical presentation of 'floppy baby syndrome' is characteristic of infant botulism from Clostridium botulinum."
+},
+{
+"question": "A patient is diagnosed with typhoid fever, characterized by a salmon-colored truncal rash, fever with pulse-temperature dissociation, and abdominal pain. The causative organism is a gram-negative rod that is motile, produces H2S, and has an exclusively human reservoir. Which virulence factor is specific to this serotype and contributes to its pathogenicity, and is also used in an intramuscular vaccine?",
+"options": ["A. Endotoxin", "B. Shiga toxin", "C. Vi capsule", "D. Flagella", "E. Type III secretion system"],
+"answer": "C",
+"explanation": "The table comparing Salmonella and Shigella identifies Salmonella typhi as the cause of typhoid fever. It lists the 'Vi capsule' as a unique virulence factor for this serotype. The table also notes that the 'IM vaccine contains Vi capsular polysaccharide,' confirming its role as a key antigen and virulence factor."
+},
+{
+"question": "A patient with a history of alcohol abuse is brought to the ER with hematemesis. Endoscopy reveals bleeding esophageal varices. As a prophylactic measure to reduce portal hypertension and prevent re-bleeding, a nonselective β-blocker is prescribed. Which of the following β-blockers is commonly used for this specific indication to decrease the hepatic venous pressure gradient?",
+"options": ["A. Atenolol", "B. Metoprolol", "C. Esmolol", "D. Nadolol", "E. Bisoprolol"],
+"answer": "D",
+"explanation": "The β-blocker table lists 'Variceal bleeding' as an application. The mechanism is to 'decrease hepatic venous pressure gradient and portal hypertension.' The specific examples of nonselective β-blockers used for this purpose are 'Nadolol, propranolol, carvedilol.'"
+},
+{
+"question": "A 2-year-old child presents with a 'seal-like' barking cough and inspiratory stridor, consistent with croup (laryngotracheobronchitis). A neck x-ray shows a 'steeple sign,' indicating subglottic narrowing. Which virus is the most common cause of this condition?",
+"options": ["A. Respiratory Syncytial Virus (RSV)", "B. Measles (rubeola) virus", "C. Influenza virus", "D. Parainfluenza viruses", "E. Adenovirus"],
+"answer": "D",
+"explanation": "The text describes acute laryngotracheobronchitis (croup) as being caused by 'parainfluenza viruses.' The clinical features mentioned, including the '“seal-like” barking cough,' 'inspiratory stridor,' and the characteristic 'steeple sign on x-ray,' are all hallmarks of this infection."
+},
+{
+"question": "A patient who has recently traveled through a tropical region in Africa presents with recurring high fevers, a painful bite site, enlarged lymph nodes, and increasing somnolence. A blood smear reveals trypomastigotes. This disease, known as African sleeping sickness, is transmitted by the tsetse fly. What is the causative agent?",
+"options": ["A. Trypanosoma cruzi", "B. Plasmodium vivax", "C. Leishmania donovani", "D. Trypanosoma brucei", "E. Wuchereria bancrofti"],
+"answer": "D",
+"explanation": "The table on CNS protozoa lists 'African sleeping sickness' as being caused by 'Trypanosoma brucei.' The clinical features described ('enlarged lymph nodes, recurring fever...somnolence, coma') and the mode of transmission ('Tsetse fly, a painful bite') are all consistent with this diagnosis."
+},
+{
+"question": "A patient is started on an antipsychotic medication and develops cogwheel rigidity, a resting tremor, and bradykinesia. These symptoms are characteristic of a Parkinson-like syndrome, which is a known side effect of certain drugs that block dopamine D2 receptors. Which of the following drugs is an antiemetic that is also known to cause this adverse effect?",
+"options": ["A. Ondansetron", "B. Loperamide", "C. Promethazine", "D. Metoclopramide", "E. Diphenhydramine"],
+"answer": "D",
+"explanation": "The 'Drug reactions—neurologic' table lists 'Parkinson-like syndrome' as a side effect of 'Antipsychotics, metoclopramide.' Metoclopramide is a D2 receptor antagonist used for its prokinetic and antiemetic effects, but its dopamine blockade in the nigrostriatal pathway can lead to extrapyramidal symptoms resembling Parkinson's disease."
+}
+]
