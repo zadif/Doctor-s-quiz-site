@@ -929,8 +929,15 @@ app.get(
     origin: "https://mediqueststats.vercel.app", // only this origin
     methods: ["GET"], // only GET requests allowed
   }),
-  async (req, res) => {
+  async (req, res, next) => {
     try {
+      const allowedOrigin = "https://mediqueststats.vercel.app";
+      const origin = req.headers.origin;
+
+      if (origin !== allowedOrigin) {
+        return next();
+      }
+
       let collection = await getInstances();
       let result = await manager(collection);
       res.json(result);
