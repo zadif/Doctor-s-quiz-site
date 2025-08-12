@@ -618,6 +618,15 @@ export async function initializeDatabase() {
     return false;
   }
 }
+async function getInstances(filter = {}) {
+  try {
+    const collection = await getCollection();
+    return await collection.find(filter).toArray();
+  } catch (error) {
+    console.error("Error fetching instances from mongodb:", error);
+    throw error;
+  }
+}
 
 // Close database connection
 export async function closeConnection() {
@@ -629,4 +638,4 @@ export async function closeConnection() {
   }
 }
 
-export { testConnection, ObjectId };
+export { testConnection, ObjectId, getInstances, closeConnection };

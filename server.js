@@ -23,7 +23,14 @@ import {
   checkQuizAccess,
   checkAIAccess,
 } from "./middleware/subscription.js";
-import { initializeDatabase, testConnection, userOperations } from "./mongo.js";
+import {
+  initializeDatabase,
+  testConnection,
+  userOperations,
+  getInstances,
+  closeConnection,
+} from "./mongo.js";
+import { manager } from "./manager.js";
 
 dotenv.config();
 
@@ -914,6 +921,23 @@ app.use((err, req, res, next) => {
     layout: false,
   });
 });
+
+app.get(
+  "/api/dashboard",
+  cors({
+    origin: "https://mediqueststats.vercel.app", // only this origin
+    methods: ["GET"], // only GET requests allowed
+  }),
+  async (req, res) => {
+    try {
+      let collection = await getInstances();
+      let result = await manager(collection);
+      res.json(result);
+    } catch (error) {
+      res.status(500).json({ error: error.message });
+    }
+  }
+);
 
 // 404 handler
 app.use((req, res) => {
