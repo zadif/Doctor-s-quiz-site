@@ -31,6 +31,7 @@ import {
   closeConnection,
 } from "./mongo.js";
 import { manager } from "./manager.js";
+import cors from "cors";
 
 dotenv.config();
 

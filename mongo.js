@@ -638,4 +638,4 @@ export async function closeConnection() {
   }
 }
 
-export { testConnection, ObjectId, getInstances, closeConnection };
+export { testConnection, ObjectId, getInstances };
